@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <GamesLibrary />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
+import GamesLibrary from './components/GamesLibrary.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
+    GamesLibrary,
   },
 };
 </script>
@@ -54,10 +54,6 @@ body {
 .column {
   flex: 1;
   padding: 10px;
-}
-
-.column--small {
-  flex: 0 1 25%;
 }
 
 .column--wrap {
@@ -163,7 +159,6 @@ body {
 
 .filter-toggle {
   height: 38px;
-  margin-right: 10px;
   vertical-align: bottom;
   border-radius: 2px;
   // border: 1px solid #F44336;

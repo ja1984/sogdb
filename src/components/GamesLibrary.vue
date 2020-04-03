@@ -1,52 +1,63 @@
 <template>
   <div class="hello">
     <div class="container">
-      <div class="row row--center-v">
-        <div class="column">
-          <div class="logo row row--center-v row--small-gutter">
-            <div class="column column--wrap column--small-gutter">
-              <img src="@/assets/google-stadia-logo.png" class="logo__image">
-            </div>
-            <div class="column column--wrap column--small-gutter">
-              <span class="logo__text">GAMES</span>
-            </div>
-          </div>
-        </div>
-        <div class="column column--wrap">
-          <button @click="showFilter = !showFilter" class="filter-toggle">Sorting</button>
-          <button @click="showFilter = !showFilter" class="filter-toggle">Filter</button>
-          <input type="search" v-model="filter" class="filter form-input" placeholder="Type to filter">
-        </div>
-      </div>
-      <VueSlideToggle :open="showFilter">
-        <div class="filter-options">
-          <div class="genres">
-            <strong>Genres</strong>
-            <div class="row row--small-gutter">
-              <div class="column filter-genre" v-for="genre in genres" :key="genre">
-                <label class="checkbox">
-                  <input v-model="selectedGenres" :value="genre" type="checkbox" class="form-input">
-                  <div class="checkbox-box" /> <span class="checkbox__label">{{ genre }}</span>
-                </label>
+      <header class="header">
+        <div class="row row--center-v">
+          <div class="column column--wrap">
+            <div class="logo row row--center-v row--small-gutter">
+              <div class="column column--wrap column--small-gutter">
+                <img src="@/assets/google-stadia-logo.png" class="logo__image">
+              </div>
+              <div class="column column--wrap column--small-gutter">
+                <span class="logo__text">OSGDb</span>
               </div>
             </div>
           </div>
-          <div class="players">
-            <strong>Players</strong>
-            <div class="row row--small-gutter">
-              <div class="column filter-player" v-for="player in players" :key="player">
-                <label class="checkbox">
-                  <input v-model="selectedPlayers" :value="player" type="checkbox" class="form-input">
-                  <div class="checkbox-box" /> <span class="checkbox__label">{{ player }}</span>
-                </label>
+          <div class="column"></div>
+          <div class="column column--wrap">
+            <div class="row row--center-v row--small-gutter">
+              <div class="column column--wrap column--small-gutter">
+                <button @click="showFilter = !showFilter" class="filter-toggle">Sorting</button>
+              </div>
+              <div class="column column--wrap column--small-gutter">
+                <button @click="showFilter = !showFilter" class="filter-toggle">Filter</button>
+              </div>
+              <div class="column column--wrap column--small-gutter">
+                <input type="search" v-model="filter" class="filter form-input" placeholder="Type to filter">
               </div>
             </div>
           </div>
         </div>
-      </VueSlideToggle>
+        <VueSlideToggle :open="showFilter">
+          <div class="filter-options">
+            <div class="genres">
+              <strong class="filter-options__title">Genres</strong>
+              <div class="row row--small-gutter">
+                <div class="column filter-genre" v-for="genre in genres" :key="genre">
+                  <label class="checkbox">
+                    <input v-model="selectedGenres" :value="genre" type="checkbox" class="form-input">
+                    <div class="checkbox-box" /> <span class="checkbox__label">{{ genre }}</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="players">
+              <strong class="filter-options__title">Players</strong>
+              <div class="row row--small-gutter">
+                <div class="column filter-player" v-for="player in players" :key="player">
+                  <label class="checkbox">
+                    <input v-model="selectedPlayers" :value="player" type="checkbox" class="form-input">
+                    <div class="checkbox-box" /> <span class="checkbox__label">{{ player }}</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+        </VueSlideToggle>
+      </header>
       <div class="games-wrapper">
-        <transition-group name="fade" tag="div">
-          <div class="column column--small" v-for="game in orderedGames" :key="game.name">
+        <div class="row">
+          <div class="column column--small game" v-for="game in orderedGames" :key="game.name">
             <div class="card">
               <header class="card__header">
                 <div class="game-image">
@@ -74,7 +85,7 @@
               </footer>
             </div>
           </div>
-        </transition-group>
+        </div>
       </div>
     </div>
   </div>
@@ -87,7 +98,7 @@ import { VueSlideToggle } from 'vue-slide-toggle';
 
 
 export default {
-  name: 'HelloWorld',
+  name: 'GamesLibrary',
   props: {
     msg: String,
   },
@@ -135,15 +146,20 @@ export default {
         this.games.push({
           name: game[1],
           image: `//stadiagamedb.com/${image}`,
-          link: storeLink,
+          store_link: storeLink,
           genres: gameGenres,
           released: parse(game[3], 'MMMM dd, yyyy', new Date()),
-          formatRelease: game[3],
           resolution: game[4],
           players: gamePlayers,
           rating: game[6],
+          description: '',
+          languages: [],
+          countries: [],
+          add_ons: [],
         });
       });
+
+      console.log(JSON.stringify(this.games));
     });
   },
   computed: {
@@ -174,7 +190,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<style scoped lang="less">
 
 .container {
   width: 90%;
@@ -243,13 +259,16 @@ a {
 
 
 .filter {
-  padding: 10px;
-  outline: none;
-  width: 400px;
+  width: 100%;
+
+  @media(min-width: 1200px) {
+    width: 400px;
+  }
 }
 
 .game__name {
   font-weight: 600;
+  font-size: 17px;
 }
 
 .filter-genre, .filter-player {
@@ -257,20 +276,26 @@ a {
   padding: 5px;
 }
 
+
 .logo__image {
-  height: 100px;
-  display: inline-block
+  height: 50px;
+  display: inline-block;
+
+  @media(min-width: 1025px) {
+    height: 100px;
+  }
 }
 
 .logo__text {
   color: #2c3e50;
   font-family: "Montserrat Alternates", sans-serif;
-  font-size: 60px;
+  font-size: 40px;
+
+  @media(min-width: 1025px) {
+    font-size: 60px;
+  }
 }
 
-.filter-options {
-  padding: 25px 0;
-}
 
 .release-date {
   color: #aaa;
@@ -281,5 +306,34 @@ a {
 }
 .fade-enter /* .fade-leave-active below version 2.1.8 */ {
   opacity: 0;
+}
+
+.filter-options__title {
+  display: block;
+  margin: 10px 0;
+}
+
+.game {
+  flex: 0 1 100%;
+
+  @media(min-width: 768px) {
+    flex: 0 1 50%;
+  }
+
+  @media(min-width: 1200px) {
+    flex: 0 1 100%/3;
+  }
+}
+
+.header .row {
+  display: block;
+
+  @media(min-width: 1024px) {
+    display: flex;
+  }
+}
+
+.header .logo {
+  display: flex;
 }
 </style>
