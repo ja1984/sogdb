@@ -9,7 +9,7 @@
         "adventure",
         "shooter"
       ],
-      "image": "//stadiagamedb.com/images/posters/destiny2.png",
+      "image_slug": "destiny2",
       "languages": [],
       "name": "Destiny 2",
       "players": [
@@ -31,7 +31,7 @@
         "action",
         "shooter"
       ],
-      "image": "//stadiagamedb.com/images/posters/rage_2.png",
+      "image_slug": "rage_2",
       "languages": [],
       "name": "Rage 2",
       "players": [
@@ -52,7 +52,7 @@
         "role-playing game",
         "arcade"
       ],
-      "image": "//stadiagamedb.com/images/posters/darksiders_genesis.png",
+      "image_slug": "darksiders_genesis",
       "languages": [],
       "name": "Darksiders: Genesis",
       "players": [
@@ -76,7 +76,7 @@
         "shooter",
         "action"
       ],
-      "image": "//stadiagamedb.com/images/posters/metro_exodus.png",
+      "image_slug": "metro_exodus",
       "languages": [],
       "name": "Metro Exodus",
       "players": [
@@ -94,7 +94,7 @@
       "genres": [
         "action"
       ],
-      "image": "//stadiagamedb.com/images/posters/aot2-final_battle.png",
+      "image_slug": "aot2-final_battle",
       "languages": [],
       "name": "Attack on Titan 2: Final Battle",
       "players": [
@@ -116,7 +116,7 @@
         "action",
         "adventure"
       ],
-      "image": "//stadiagamedb.com/images/posters/aco.png",
+      "image_slug": "aco",
       "languages": [],
       "name": "Assassin's Creed: Odyssey",
       "players": [
@@ -135,7 +135,7 @@
         "action",
         "adventure"
       ],
-      "image": "//stadiagamedb.com/images/posters/sottr.png",
+      "image_slug": "sottr",
       "languages": [],
       "name": "Shadow of the Tomb Raider",
       "players": [
@@ -156,7 +156,7 @@
         "role-playing game",
         "action"
       ],
-      "image": "//stadiagamedb.com/images/posters/borderlands3.png",
+      "image_slug": "borderlands3",
       "languages": [],
       "name": "Borderlands 3",
       "players": [
@@ -178,7 +178,7 @@
         "action",
         "shooter"
       ],
-      "image": "//stadiagamedb.com/images/posters/ghost_recon_breakpoint.png",
+      "image_slug": "ghost_recon_breakpoint",
       "languages": [],
       "name": "Ghost Recon: Breakpoint",
       "players": [
@@ -200,7 +200,7 @@
         "action",
         "adventure"
       ],
-      "image": "//stadiagamedb.com/images/posters/rottr_20_year.png",
+      "image_slug": "rottr_20_year",
       "languages": [],
       "name": "Rise of the Tomb Raider: 20 Year Celebration",
       "players": [
@@ -219,7 +219,7 @@
       "genres": [
         "puzzle"
       ],
-      "image": "//stadiagamedb.com/images/posters/kine.png",
+      "image_slug": "kine",
       "languages": [],
       "name": "Kine",
       "players": [
@@ -238,7 +238,7 @@
         "kids & family",
         "party"
       ],
-      "image": "//stadiagamedb.com/images/posters/just_dance_2020.png",
+      "image_slug": "just_dance_2020",
       "languages": [],
       "name": "Just Dance 2020",
       "players": [
@@ -263,7 +263,7 @@
         "arcade",
         "fighting"
       ],
-      "image": "//stadiagamedb.com/images/posters/samurai_shodown.png",
+      "image_slug": "samurai_shodown",
       "languages": [],
       "name": "Samurai Shodown",
       "players": [
@@ -283,7 +283,7 @@
       "genres": [
         "racing"
       ],
-      "image": "//stadiagamedb.com/images/posters/trials_rising.png",
+      "image_slug": "trials_rising",
       "languages": [],
       "name": "Trials Rising",
       "players": [
@@ -304,7 +304,7 @@
       "genres": [
         "racing"
       ],
-      "image": "//stadiagamedb.com/images/posters/grid.png",
+      "image_slug": "grid",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "GRID",
       "players": [
@@ -325,7 +325,7 @@
         "arcade",
         "music or rhythm"
       ],
-      "image": "//stadiagamedb.com/images/posters/thumper.png",
+      "image_slug": "thumper",
       "languages": [],
       "name": "Thumper",
       "players": [
@@ -344,7 +344,7 @@
         "fighting",
         "action"
       ],
-      "image": "//stadiagamedb.com/images/posters/mortal_kombat_11.png",
+      "image_slug": "mortal_kombat_11",
       "languages": [],
       "name": "Mortal Kombat 11",
       "players": [
@@ -367,7 +367,7 @@
         "action",
         "shooter"
       ],
-      "image": "//stadiagamedb.com/images/posters/wolfenstein_youngblood.png",
+      "image_slug": "wolfenstein_youngblood",
       "languages": [],
       "name": "Wolfenstein: Youngblood",
       "players": [
@@ -387,7 +387,7 @@
       "genres": [
         "role-playing game"
       ],
-      "image": "//stadiagamedb.com/images/posters/final_fantasy_xv.png",
+      "image_slug": "final_fantasy_xv",
       "languages": [],
       "name": "Final Fantasy XV",
       "players": [
@@ -408,7 +408,7 @@
         "action",
         "fighting"
       ],
-      "image": "//stadiagamedb.com/images/posters/dragonball_xenoverse.png",
+      "image_slug": "dragonball_xenoverse",
       "languages": [],
       "name": "Dragon Ball Xenoverse 2",
       "players": [
@@ -431,7 +431,7 @@
         "action",
         "adventure"
       ],
-      "image": "//stadiagamedb.com/images/posters/tombraider.png",
+      "image_slug": "tombraider",
       "languages": [],
       "name": "Tomb Raider: Definitive Edition",
       "players": [
@@ -452,7 +452,7 @@
         "action",
         "adventure"
       ],
-      "image": "//stadiagamedb.com/images/posters/rdr2.png",
+      "image_slug": "rdr2",
       "languages": [],
       "name": "Red Dead Redemption 2",
       "players": [
@@ -472,7 +472,7 @@
         "simulation",
         "simulator"
       ],
-      "image": "//stadiagamedb.com/images/posters/farming_simulator19.png",
+      "image_slug": "farming_simulator19",
       "languages": [],
       "name": "Farming Simulator 2019",
       "players": [
@@ -493,7 +493,7 @@
         "action",
         "adventure"
       ],
-      "image": "//stadiagamedb.com/images/posters/gylt.png",
+      "image_slug": "gylt",
       "languages": [],
       "name": "Gylt",
       "players": [
@@ -511,7 +511,7 @@
       "genres": [
         "sports"
       ],
-      "image": "//stadiagamedb.com/images/posters/nba_2k20.png",
+      "image_slug": "nba_2k20",
       "languages": [],
       "name": "NBA 2K20",
       "players": [
@@ -536,7 +536,7 @@
         "simulation",
         "strategy"
       ],
-      "image": "//stadiagamedb.com/images/posters/football_manager_2020.png",
+      "image_slug": "football_manager_2020",
       "languages": [],
       "name": "Football Manager 2020",
       "players": [
@@ -557,7 +557,7 @@
         "racing",
         "simulation"
       ],
-      "image": "//stadiagamedb.com/images/posters/monster_energy_supercross.png",
+      "image_slug": "monster_energy_supercross",
       "languages": [],
       "name": "Monster Energy Supercross",
       "players": [
@@ -577,7 +577,7 @@
       "genres": [
         "action"
       ],
-      "image": "//stadiagamedb.com/images/posters/spitlings.png",
+      "image_slug": "spitlings",
       "languages": [],
       "name": "Spitlings",
       "players": [
@@ -601,7 +601,7 @@
         "adventure",
         "indie"
       ],
-      "image": "//stadiagamedb.com/images/posters/steamworld_dig_2.png",
+      "image_slug": "steamworld_dig_2",
       "languages": [],
       "name": "SteamWorld Dig 2",
       "players": [
@@ -621,7 +621,7 @@
         "adventure",
         "role-playing game"
       ],
-      "image": "//stadiagamedb.com/images/posters/steamworld_quest.png",
+      "image_slug": "steamworld_quest",
       "languages": [],
       "name": "SteamWorld Quest: Hand of Gilgamech",
       "players": [
@@ -640,7 +640,7 @@
         "shooter",
         "action"
       ],
-      "image": "//stadiagamedb.com/images/posters/serious_sam.png",
+      "image_slug": "serious_sam",
       "languages": [],
       "name": "Serious Sam Collection",
       "players": [
@@ -663,7 +663,7 @@
         "adventure",
         "indie"
       ],
-      "image": "//stadiagamedb.com/images/posters/steamworld_dig.png",
+      "image_slug": "steamworld_dig",
       "languages": [],
       "name": "Steamworld Dig",
       "players": [
@@ -683,7 +683,7 @@
         "action",
         "adventure"
       ],
-      "image": "//stadiagamedb.com/images/posters/steamworld_heist.png",
+      "image_slug": "steamworld_heist",
       "languages": [],
       "name": "Steamworld Heist",
       "players": [
@@ -701,7 +701,7 @@
       "genres": [
         "action"
       ],
-      "image": "//stadiagamedb.com/images/posters/tom_clancys_the_division_2.png",
+      "image_slug": "tom_clancys_the_division_2",
       "languages": [],
       "name": "Tom Clancy's The Division 2",
       "players": [
@@ -724,7 +724,7 @@
         "action",
         "shooter"
       ],
-      "image": "//stadiagamedb.com/images/posters/doom_eternal.png",
+      "image_slug": "doom_eternal",
       "languages": [],
       "name": "DOOM Eternal",
       "players": [
@@ -744,7 +744,7 @@
       "genres": [
         "racing"
       ],
-      "image": "//stadiagamedb.com/images/posters/the_crew_2.png",
+      "image_slug": "the_crew_2",
       "languages": [],
       "name": "The Crew 2",
       "players": [
@@ -765,7 +765,7 @@
       "genres": [
         "adventure"
       ],
-      "image": "//stadiagamedb.com/images/posters/lost_words.png",
+      "image_slug": "lost_words",
       "languages": [],
       "name": "Lost Words: Beyond the Page",
       "players": [
@@ -785,7 +785,7 @@
         "arcade",
         "kids & family"
       ],
-      "image": "//stadiagamedb.com/images/posters/stacks_on_stacks.png",
+      "image_slug": "stacks_on_stacks",
       "languages": [],
       "name": "Stacks On Stacks (On Stacks)",
       "players": [

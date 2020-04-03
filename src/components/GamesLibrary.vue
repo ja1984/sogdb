@@ -79,7 +79,7 @@
                     <span class="release-date">{{ game.formatRelease }}</span>
                   </div>
                   <div class="column column--wrap">
-                    <a :href="game.link" target="_blank"><img src="@/assets/shopping-bag.svg"></a>
+                    <a :href="game.store_link" target="_blank"><img src="@/assets/shopping-bag.svg"></a>
                   </div>
                 </div>
               </footer>
@@ -93,7 +93,6 @@
 
 <script>
 import axios from 'axios';
-import { parse } from 'date-fns';
 import { VueSlideToggle } from 'vue-slide-toggle';
 
 
@@ -117,49 +116,10 @@ export default {
     };
   },
   mounted() {
-    axios.get('https://raw.githubusercontent.com/nilicule/StadiaGameDB/master/data/gamedb.json').then((response) => {
-      response.data.data.forEach((game) => {
-        // 5: "Single player, online multiplayer, competitive, online co-op"
-        const gameGenres = [];
-        const genres = game[2].split(',');
-        genres.forEach((genre) => {
-          const fixedGenre = genre.trim().toLowerCase();
-          gameGenres.push(fixedGenre);
-          if (!this.genres.includes(fixedGenre)) {
-            this.genres.push(fixedGenre);
-          }
-        });
-
-        const gamePlayers = [];
-        const players = game[5].split(',');
-        players.forEach((player) => {
-          const fixedPlayer = player.trim().toLowerCase();
-          gamePlayers.push(fixedPlayer);
-          if (!this.players.includes(fixedPlayer)) {
-            this.players.push(fixedPlayer);
-          }
-        });
-
-        const storeLink = game[0].match(/href=("|')(.*?)("|')/)[2];
-        const image = game[0].match(/src=("|')(.*?)("|')/)[2];
-
-        this.games.push({
-          name: game[1],
-          image: `//stadiagamedb.com/${image}`,
-          store_link: storeLink,
-          genres: gameGenres,
-          released: parse(game[3], 'MMMM dd, yyyy', new Date()),
-          resolution: game[4],
-          players: gamePlayers,
-          rating: game[6],
-          description: '',
-          languages: [],
-          countries: [],
-          add_ons: [],
-        });
+    axios.get('https://raw.githubusercontent.com/ja1984/osgdb/master/data/games.json').then((response) => {
+      response.data.games.forEach((game) => {
+        this.games.push(game);
       });
-
-      console.log(JSON.stringify(this.games));
     });
   },
   computed: {
