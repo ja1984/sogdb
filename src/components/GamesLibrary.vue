@@ -61,7 +61,7 @@
             <div class="card">
               <header class="card__header">
                 <div class="game-image">
-                  <img :src="game.image" class="game-image__image">
+                  <img :src="`https://raw.githubusercontent.com/nilicule/StadiaGameDB/master/images/posters/webp/${game.image_slug}.webp`" class="game-image__image">
                   <div class="rating" v-if="game.rating && !isNaN(game.rating)" alt="Rating" title="Rating">
                     <img src="@/assets/smile.svg" class="rating__icon">
                     <span class="rating__text">
