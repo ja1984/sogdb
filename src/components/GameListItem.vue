@@ -14,16 +14,21 @@
     </header>
     <section class="card__body">
       <span class="game__name">{{ game.name }}</span>
-      <p>{{ game.description }}</p>
+      <div class="game__description">
+        <p>{{ game.description }}</p>
+      </div>
     </section>
     <footer class="card__footer">
       <div class="row row--center-v">
         <div class="column">
-          <span class="release-date">{{ game.formatRelease }}</span>
+          <span class="release-date">{{ releaseDate }}</span>
         </div>
         <div class="column column--wrap">
           <a :href="game.store_link" target="_blank">
-            <img src="@/assets/shopping-bag.svg" />
+            <div class="store-icon">
+              <img src="@/assets/shopping-bag.svg" />
+              <span class="store-icon__badge" v-if="game.expansions.length > 0">{{ game.expansions.length}}</span>
+            </div>
           </a>
         </div>
       </div>
@@ -32,12 +37,19 @@
 </template>
 
 <script>
+import { format } from 'date-fns';
+
 export default {
   name: 'GameListItem',
   props: {
     game: {
       type: Object,
       default: () => { },
+    },
+  },
+  computed: {
+    releaseDate() {
+      return format(this.game.released, 'MMMM dd, yyyy');
     },
   },
 };
@@ -51,6 +63,7 @@ export default {
 
 .card__body {
   flex: 1;
+  padding-bottom: 0;
 }
 
 .game__name {
@@ -59,11 +72,27 @@ export default {
 }
 
 .release-date {
-  color: #aaa;
+  color: #777;
 }
 
 .game-image {
   position: relative;
+}
+
+.game__description {
+  height: 90px;
+  overflow: hidden;
+  position: relative;
+
+  &:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, .1) 100%);
+    height: 35px;
+  }
 }
 
 .rating {
@@ -94,6 +123,28 @@ export default {
 .game-image__image {
   display: block;
   width: 100%;
+}
+
+
+.store-icon {
+  display: inline-block;
+  position: relative;
+}
+
+.store-icon__badge {
+  position: absolute;
+  height: 18px;
+  width: 18px;
+  font-size: 10px;
+  background: red;
+  color: #fff;
+  top: -5px;
+  right: -5px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #fff;
 }
 
 </style>

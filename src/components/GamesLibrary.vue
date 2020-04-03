@@ -6,10 +6,7 @@
           <div class="column column--wrap">
             <div class="logo row row--center-v row--small-gutter">
               <div class="column column--wrap column--small-gutter">
-                <img src="@/assets/google-stadia-logo.png" class="logo__image">
-              </div>
-              <div class="column column--wrap column--small-gutter">
-                <span class="logo__text">OSGDb</span>
+                <span class="logo__text">O<img src="@/assets/google-stadia-logo.png" class="logo__image">GDb</span>
               </div>
             </div>
           </div>
@@ -69,7 +66,7 @@
 <script>
 import axios from 'axios';
 import { VueSlideToggle } from 'vue-slide-toggle';
-
+import { parseISO } from 'date-fns';
 import GameListItem from '@/components/GameListItem.vue';
 
 
@@ -107,6 +104,8 @@ export default {
             this.game_modes.push(mode);
           }
         });
+
+        game.released = parseISO(game.released); //eslint-disable-line
 
         this.games.push(game);
       });
@@ -167,6 +166,7 @@ a {
 
 .filter {
   width: 100%;
+  padding: 10px 8px;
 
   @media(min-width: 1200px) {
     width: 400px;
@@ -181,11 +181,11 @@ a {
 
 
 .logo__image {
-  height: 50px;
+  height: 30px;
   display: inline-block;
 
   @media(min-width: 1025px) {
-    height: 100px;
+    height: 45px;
   }
 }
 

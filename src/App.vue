@@ -161,11 +161,10 @@ body {
   height: 38px;
   vertical-align: bottom;
   border-radius: 2px;
-  // border: 1px solid #F44336;
-  background: #2c3e50;
+  border: 2px solid #2c3e50;
+  background: transparent;
   cursor: pointer;
-  border: none;
-  color: #fff;
+  color: #2c3e50;
   transition: all ease .3s;
   outline: none;
   width: 125px;
@@ -176,7 +175,7 @@ body {
   Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
 
   &:hover {
-    background: lighten(#2c3e50, 5%);
+    border-color: lighten(#2c3e50, 15%);
   }
 }
 
