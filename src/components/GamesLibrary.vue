@@ -42,12 +42,12 @@
               </div>
             </div>
             <div class="players">
-              <strong class="filter-options__title">Players</strong>
+              <strong class="filter-options__title">Game modes</strong>
               <div class="row row--small-gutter">
-                <div class="column filter-player" v-for="player in players" :key="player">
+                <div class="column filter-player" v-for="mode in game_modes" :key="mode">
                   <label class="checkbox">
-                    <input v-model="selectedPlayers" :value="player" type="checkbox" class="form-input">
-                    <div class="checkbox-box" /> <span class="checkbox__label">{{ player }}</span>
+                    <input v-model="selectedGameModes" :value="mode" type="checkbox" class="form-input">
+                    <div class="checkbox-box" /> <span class="checkbox__label">{{ mode }}</span>
                   </label>
                 </div>
               </div>
@@ -111,7 +111,7 @@ export default {
       genres: [],
       game_modes: [],
       selectedGenres: [],
-      selectedPlayers: [],
+      selectedGameModes: [],
       filter: '',
       showFilter: false,
     };
@@ -125,9 +125,9 @@ export default {
           }
         });
 
-        game.players.forEach((player) => {
-          if (!this.players.includes(player)) {
-            this.players.push(player);
+        game.game_modes.forEach((mode) => {
+          if (!this.game_modes.includes(mode)) {
+            this.game_modes.push(mode);
           }
         });
 
@@ -146,9 +146,9 @@ export default {
           .filter((x) => this.selectedGenres.some((z) => x.genres.includes(z)));
       }
 
-      if (this.selectedPlayers.length > 0) {
+      if (this.selectedGameModes.length > 0) {
         games = games
-          .filter((x) => this.selectedPlayers.some((z) => x.players.includes(z)));
+          .filter((x) => this.selectedGameModes.some((z) => x.game_modes.includes(z)));
       }
 
       return games;
