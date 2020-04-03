@@ -743,7 +743,16 @@
       "store_link": "https://stadia.google.com/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/17affc92b9ca47a7b64e748609ed25af"
     },
     {
-      "expansions": [],
+      "expansions": [
+        {
+          "name": "The Crew 2 - Gold Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/1e4107605f83447fa8e04e0abdc578b3"
+        },
+        {
+          "name": "The Crew 2 - Deluxe Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/ec30180d14de41fcaec12d442b81e248"
+        }
+      ],
       "countries": [],
       "description": "In The Crew 2, take on the American motorsports scene as you explore and dominate the land, air, and sea of the United States in one of the most exhilarating open worlds ever created.  With a wide variety of exotic cars, bikes, boats, and planes to choose from, experience the unbridled thrill and adrenaline-pumping excitement of competing across the entire USA as you test your skills in a wide range of driving disciplines. Record every heart-pounding, white-knuckle, moment and share them with the simple push of a button - fame is yours to take! Play with up to 7 friends online.",
       "genres": [
