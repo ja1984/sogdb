@@ -72,6 +72,7 @@
               </header>
               <section class="card__body">
                 <span class="game__name">{{ game.name }}</span>
+                <p>{{ game.description }}</p>
               </section>
               <footer class="card__footer">
                 <div class="row row--center-v">
@@ -108,7 +109,7 @@ export default {
     return {
       games: [],
       genres: [],
-      players: [],
+      game_modes: [],
       selectedGenres: [],
       selectedPlayers: [],
       filter: '',
@@ -118,6 +119,18 @@ export default {
   mounted() {
     axios.get('https://raw.githubusercontent.com/ja1984/osgdb/master/data/games.json').then((response) => {
       response.data.games.forEach((game) => {
+        game.genres.forEach((genre) => {
+          if (!this.genres.includes(genre)) {
+            this.genres.push(genre);
+          }
+        });
+
+        game.players.forEach((player) => {
+          if (!this.players.includes(player)) {
+            this.players.push(player);
+          }
+        });
+
         this.games.push(game);
       });
     });

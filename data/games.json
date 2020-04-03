@@ -12,7 +12,7 @@
       "image_slug": "destiny2",
       "languages": [],
       "name": "Destiny 2",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "competitive",
@@ -34,7 +34,7 @@
       "image_slug": "rage_2",
       "languages": [],
       "name": "Rage 2",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "67",
@@ -55,7 +55,7 @@
       "image_slug": "darksiders_genesis",
       "languages": [],
       "name": "Darksiders: Genesis",
-      "players": [
+      "game_modes": [
         "single player",
         "local multiplayer",
         "online multiplayer",
@@ -79,7 +79,7 @@
       "image_slug": "metro_exodus",
       "languages": [],
       "name": "Metro Exodus",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "81",
@@ -97,7 +97,7 @@
       "image_slug": "aot2-final_battle",
       "languages": [],
       "name": "Attack on Titan 2: Final Battle",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "online co-op",
@@ -119,7 +119,7 @@
       "image_slug": "aco",
       "languages": [],
       "name": "Assassin's Creed: Odyssey",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "85",
@@ -138,7 +138,7 @@
       "image_slug": "sottr",
       "languages": [],
       "name": "Shadow of the Tomb Raider",
-      "players": [
+      "game_modes": [
         "single player",
         "online co-op"
       ],
@@ -159,7 +159,7 @@
       "image_slug": "borderlands3",
       "languages": [],
       "name": "Borderlands 3",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "online co-op",
@@ -181,7 +181,7 @@
       "image_slug": "ghost_recon_breakpoint",
       "languages": [],
       "name": "Ghost Recon: Breakpoint",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "online co-op",
@@ -203,7 +203,7 @@
       "image_slug": "rottr_20_year",
       "languages": [],
       "name": "Rise of the Tomb Raider: 20 Year Celebration",
-      "players": [
+      "game_modes": [
         "single player",
         "online co-op"
       ],
@@ -222,7 +222,7 @@
       "image_slug": "kine",
       "languages": [],
       "name": "Kine",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "",
@@ -241,7 +241,7 @@
       "image_slug": "just_dance_2020",
       "languages": [],
       "name": "Just Dance 2020",
-      "players": [
+      "game_modes": [
         "single player",
         "local multiplayer",
         "online multiplayer",
@@ -266,7 +266,7 @@
       "image_slug": "samurai_shodown",
       "languages": [],
       "name": "Samurai Shodown",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "local multiplayer"
@@ -286,7 +286,7 @@
       "image_slug": "trials_rising",
       "languages": [],
       "name": "Trials Rising",
-      "players": [
+      "game_modes": [
         "single player",
         "local multiplayer",
         "online multiplayer",
@@ -307,7 +307,7 @@
       "image_slug": "grid",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "GRID",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer"
       ],
@@ -328,7 +328,7 @@
       "image_slug": "thumper",
       "languages": [],
       "name": "Thumper",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "85",
@@ -347,7 +347,7 @@
       "image_slug": "mortal_kombat_11",
       "languages": [],
       "name": "Mortal Kombat 11",
-      "players": [
+      "game_modes": [
         "single player",
         "local multiplayer",
         "online multiplayer",
@@ -370,7 +370,7 @@
       "image_slug": "wolfenstein_youngblood",
       "languages": [],
       "name": "Wolfenstein: Youngblood",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "online co-op"
@@ -390,7 +390,7 @@
       "image_slug": "final_fantasy_xv",
       "languages": [],
       "name": "Final Fantasy XV",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "online co-op"
@@ -411,7 +411,7 @@
       "image_slug": "dragonball_xenoverse",
       "languages": [],
       "name": "Dragon Ball Xenoverse 2",
-      "players": [
+      "game_modes": [
         "single player",
         "local multiplayer",
         "online multiplayer",
@@ -434,7 +434,7 @@
       "image_slug": "tombraider",
       "languages": [],
       "name": "Tomb Raider: Definitive Edition",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "competitive"
@@ -455,7 +455,7 @@
       "image_slug": "rdr2",
       "languages": [],
       "name": "Red Dead Redemption 2",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer"
       ],
@@ -475,7 +475,7 @@
       "image_slug": "farming_simulator19",
       "languages": [],
       "name": "Farming Simulator 2019",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "cross platform multiplayer"
@@ -496,7 +496,7 @@
       "image_slug": "gylt",
       "languages": [],
       "name": "Gylt",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "68",
@@ -514,7 +514,7 @@
       "image_slug": "nba_2k20",
       "languages": [],
       "name": "NBA 2K20",
-      "players": [
+      "game_modes": [
         "single player",
         "local multiplayer",
         "online multiplayer",
@@ -539,7 +539,7 @@
       "image_slug": "football_manager_2020",
       "languages": [],
       "name": "Football Manager 2020",
-      "players": [
+      "game_modes": [
         "single player",
         "local multiplayer",
         "online multiplayer"
@@ -560,7 +560,7 @@
       "image_slug": "monster_energy_supercross",
       "languages": [],
       "name": "Monster Energy Supercross",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "competitive"
@@ -580,7 +580,7 @@
       "image_slug": "spitlings",
       "languages": [],
       "name": "Spitlings",
-      "players": [
+      "game_modes": [
         "single player",
         "local multiplayer",
         "online multiplayer",
@@ -604,7 +604,7 @@
       "image_slug": "steamworld_dig_2",
       "languages": [],
       "name": "SteamWorld Dig 2",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "85",
@@ -624,7 +624,7 @@
       "image_slug": "steamworld_quest",
       "languages": [],
       "name": "SteamWorld Quest: Hand of Gilgamech",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "81",
@@ -643,7 +643,7 @@
       "image_slug": "serious_sam",
       "languages": [],
       "name": "Serious Sam Collection",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "online co-op",
@@ -666,7 +666,7 @@
       "image_slug": "steamworld_dig",
       "languages": [],
       "name": "Steamworld Dig",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "82",
@@ -686,7 +686,7 @@
       "image_slug": "steamworld_heist",
       "languages": [],
       "name": "Steamworld Heist",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "82",
@@ -704,7 +704,7 @@
       "image_slug": "tom_clancys_the_division_2",
       "languages": [],
       "name": "Tom Clancy's The Division 2",
-      "players": [
+      "game_modes": [
         "cross platform multiplayer",
         "online multiplayer",
         "online co-op",
@@ -727,7 +727,7 @@
       "image_slug": "doom_eternal",
       "languages": [],
       "name": "DOOM Eternal",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "competitive"
@@ -747,7 +747,7 @@
       "image_slug": "the_crew_2",
       "languages": [],
       "name": "The Crew 2",
-      "players": [
+      "game_modes": [
         "single player",
         "online multiplayer",
         "online co-op",
@@ -768,7 +768,7 @@
       "image_slug": "lost_words",
       "languages": [],
       "name": "Lost Words: Beyond the Page",
-      "players": [
+      "game_modes": [
         "single player"
       ],
       "rating": "",
@@ -788,7 +788,7 @@
       "image_slug": "stacks_on_stacks",
       "languages": [],
       "name": "Stacks On Stacks (On Stacks)",
-      "players": [
+      "game_modes": [
         "single player",
         "local multiplayer",
         "local co-op",
