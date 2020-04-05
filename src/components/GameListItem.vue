@@ -1,5 +1,5 @@
 <template>
-  <div class="card">
+  <div class="card" @click="$emit('select', game)">
     <header class="card__header">
       <div class="game-image">
         <img
@@ -145,6 +145,7 @@ export default {
   justify-content: center;
   align-items: center;
   border: 2px solid #fff;
+  font-weight: 800;
 }
 
 </style>

@@ -49,17 +49,40 @@
                 </div>
               </div>
             </div>
+            <div class="players">
+              <strong class="filter-options__title">Available in</strong>
+              <div class="row row--small-gutter">
+                <div class="column filter-player" v-for="country in countries" :key="country">
+                  <label class="checkbox">
+                    <input v-model="selectedCountries" :value="country" type="checkbox" class="form-input">
+                    <div class="checkbox-box" /> <span class="checkbox__label">{{ country }}</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="players">
+              <strong class="filter-options__title">Game languages</strong>
+              <div class="row row--small-gutter">
+                <div class="column filter-player" v-for="language in languages" :key="language">
+                  <label class="checkbox">
+                    <input v-model="selectedLanguages" :value="language" type="checkbox" class="form-input">
+                    <div class="checkbox-box" /> <span class="checkbox__label">{{ language }}</span>
+                  </label>
+                </div>
+              </div>
+            </div>
           </div>
         </VueSlideToggle>
       </header>
       <div class="games-wrapper">
-        <div class="row">
-          <div class="column column--small game" v-for="game in orderedGames" :key="game.name">
-            <game-list-item :game="game"></game-list-item>
-          </div>
+        <transition-group name="fade" tag="div">
+        <div class="column column--small game" v-for="game in orderedGames" :key="game.name">
+          <game-list-item :game="game" @select="selectGame"></game-list-item>
         </div>
+      </transition-group>
       </div>
     </div>
+        <game-details v-if="selectedGame" :game="selectedGame" @close="selectedGame = null"></game-details>
   </div>
 </template>
 
@@ -68,6 +91,7 @@ import axios from 'axios';
 import { VueSlideToggle } from 'vue-slide-toggle';
 import { parseISO } from 'date-fns';
 import GameListItem from '@/components/GameListItem.vue';
+import GameDetails from '@/components/GameDetails.vue';
 
 
 export default {
@@ -78,16 +102,22 @@ export default {
   components: {
     VueSlideToggle,
     GameListItem,
+    GameDetails,
   },
   data() {
     return {
       games: [],
       genres: [],
       game_modes: [],
+      countries: [],
+      languages: [],
       selectedGenres: [],
       selectedGameModes: [],
+      selectedCountries: [],
+      selectedLanguages: [],
       filter: '',
       showFilter: false,
+      selectedGame: null,
     };
   },
   mounted() {
@@ -102,6 +132,18 @@ export default {
         game.game_modes.forEach((mode) => {
           if (!this.game_modes.includes(mode)) {
             this.game_modes.push(mode);
+          }
+        });
+
+        game.countries.forEach((country) => {
+          if (!this.countries.includes(country)) {
+            this.countries.push(country);
+          }
+        });
+
+        game.languages.forEach((language) => {
+          if (!this.languages.includes(language)) {
+            this.languages.push(language);
           }
         });
 
@@ -133,6 +175,11 @@ export default {
       const games = this.filteredGames.concat();
       games.sort((a, b) => b.released - a.released);
       return games;
+    },
+  },
+  methods: {
+    selectGame(game) {
+      this.selectedGame = game;
     },
   },
 };
@@ -234,5 +281,10 @@ a {
   @media (min-width: 1200px) {
     flex: 0 1 100%/3;
   }
+}
+
+.games-wrapper > div {
+  display: flex;
+  flex-wrap: wrap;
 }
 </style>
