@@ -27,7 +27,7 @@
         "competitive",
         "online co-op"
       ],
-      "rating": "85",
+      "rating": 85,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1080p60",
       "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/4950959380034dcda0aecf98f675e11f"
@@ -53,7 +53,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "67",
+      "rating": 67,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1080p60",
       "store_link": "https://stadia.google.com/store/details/8615c857d7d54efebd94fe17e3f2896crcp1/sku/78ea22fb5c054167bb722322b469f33f"
@@ -81,7 +81,7 @@
         "online co-op",
         "split screen"
       ],
-      "rating": "78",
+      "rating": 78,
       "released": "2019-12-04T23:00:00.000Z",
       "resolution": "1080p60",
       "store_link": "https://stadia.google.com/store/details/f39390395ed5444d8e9b23460c8f9152rcp1/sku/6c8ae46efebc4bd1a7de725bc630ce65"
@@ -109,7 +109,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "81",
+      "rating": 81,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/879d82512f5441829250ead1aa678a70rcp1/sku/8ca5e97f091e4f7fbfcf8069ba850b1f"
@@ -130,7 +130,7 @@
         "online co-op",
         "competitive"
       ],
-      "rating": "76",
+      "rating": 76,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/a38d988fb142400c947bf0a7b37fd404rcp1/sku/f879d932d28c4104958c7976f201ba38"
@@ -149,7 +149,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "85",
+      "rating": 85,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/8b7e7f7036e5483eaa8745d46248536crcp1/sku/6760aad6e75b4edc9686c48e8dd38936"
@@ -169,7 +169,7 @@
         "single player",
         "online co-op"
       ],
-      "rating": "78",
+      "rating": 78,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/efa3b6108d3e41689b2223ba9d48f5c8rcp1/sku/bb9bcb490fd145d9997c8b3ff3f1039f"
@@ -192,7 +192,7 @@
         "online co-op",
         "competitive"
       ],
-      "rating": "80",
+      "rating": 80,
       "released": "2019-12-16T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/be080ad40b434ca289166031d3e88623rcp1/sku/958f4c0900c64e7e83b9218ab479304e"
@@ -214,7 +214,7 @@
         "online co-op",
         "competitive"
       ],
-      "rating": "58",
+      "rating": 58,
       "released": "2019-12-17T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/11c9ece5b3a045908d77cf2b66adb010rcp1/sku/06e101d56a03472bb6c204aee96187d7"
@@ -234,7 +234,7 @@
         "single player",
         "online co-op"
       ],
-      "rating": "88",
+      "rating": 88,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/e5c6ec7bf437491ea4ac0917df8f9640rcp1/sku/f5562aaf93cb46e081d317263bde3013"
@@ -252,7 +252,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "",
+      "rating": 78,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/da94f3aa88b24eb6ae6fdff798f73355rcp1/sku/8d3124a81f6444219acd3d99c90a5658"
@@ -276,7 +276,7 @@
         "competitive",
         "cross platform multiplayer"
       ],
-      "rating": "77",
+      "rating": 77,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/4b7f307c37364d659118bf7d435733c7rcp1/sku/3feef74cbacf4ba39b5d9087e0dfb9e4"
@@ -298,7 +298,7 @@
         "online multiplayer",
         "local multiplayer"
       ],
-      "rating": "",
+      "rating": -1,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/120348c2707740b99b509fad49a2f45drcp1/sku/888a817c35b5439bb6a03a78ab09e138"
@@ -319,7 +319,7 @@
         "online multiplayer",
         "competitive"
       ],
-      "rating": "82",
+      "rating": 82,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/01e95e73256c465fb5620fc574446413"
@@ -338,7 +338,7 @@
         "single player",
         "online multiplayer"
       ],
-      "rating": "73",
+      "rating": 73,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/ca805d3d37404654a91d2ea62fad7bd4rcp1/sku/75be643ff0fb40d7873fa41edb10d98a"
@@ -358,7 +358,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "85",
+      "rating": 85,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/c121d8b3fa744b52b71bf3599cb3da7frcp1/sku/6e98f34bbcae444a99816b8f2613452b"
@@ -381,7 +381,7 @@
         "online co-op",
         "competitive"
       ],
-      "rating": "84",
+      "rating": 84,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/f3f250e8a4d54f60ba730fbc04268052"
@@ -402,7 +402,7 @@
         "online multiplayer",
         "online co-op"
       ],
-      "rating": "67",
+      "rating": 67,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/4884bd9bd7864cf28deef05ef4b69e70rcp1/sku/31047b9e82bb4a30ba66b24bef71cdf2"
@@ -422,7 +422,7 @@
         "online multiplayer",
         "online co-op"
       ],
-      "rating": "82",
+      "rating": 82,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1080p30",
       "store_link": "https://stadia.google.com/store/details/a447622dbe084c3e9ace4f913a939afarcp1/sku/1611bf48ac784869bcbd1ce85bc71add"
@@ -445,7 +445,7 @@
         "online co-op",
         "competitive"
       ],
-      "rating": "75",
+      "rating": 75,
       "released": "2019-12-16T23:00:00.000Z",
       "resolution": "1080p30",
       "store_link": "https://stadia.google.com/store/details/80a70c13987841b3a2aedbcac54784abrcp1/sku/66f1b5a13ee54b7aa70aebfddd18c085"
@@ -466,7 +466,7 @@
         "online multiplayer",
         "competitive"
       ],
-      "rating": "86",
+      "rating": 86,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1512p60",
       "store_link": "https://stadia.google.com/store/details/42503ac2cfcf40018c15c86b86a5508drcp1/sku/c86bd12f279741a8b8c9c522845c7fa9"
@@ -486,7 +486,7 @@
         "single player",
         "online multiplayer"
       ],
-      "rating": "96",
+      "rating": 96,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1440p30",
       "store_link": "https://stadia.google.com/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/f790e37b6161477188923408085528a1"
@@ -507,7 +507,7 @@
         "online multiplayer",
         "cross platform multiplayer"
       ],
-      "rating": "71",
+      "rating": 71,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "3.5k60",
       "store_link": "https://stadia.google.com/store/details/ebf235012b054269af70eee901bc85cfrcp1/sku/c50094b71d054fc28f3116245d9dbc9a"
@@ -526,7 +526,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "68",
+      "rating": 68,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1080p60",
       "store_link": "https://stadia.google.com/store/details/18a3cc2bb111419c8ac873086d04dfaarcp1/sku/9ac5597c3f4a4e648c9ae56bac3d1b32"
@@ -549,7 +549,7 @@
         "online co-op",
         "competitive"
       ],
-      "rating": "77",
+      "rating": 77,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/b6d1b295ed0d4f1080576ac5d51df6d0"
@@ -571,7 +571,7 @@
         "local multiplayer",
         "online multiplayer"
       ],
-      "rating": "84",
+      "rating": 84,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/8a3cc52ad2334b1e91ded77bc43644e0rcp1/sku/32a0791a88474f08ad7a687846b786f2"
@@ -592,7 +592,7 @@
         "online multiplayer",
         "competitive"
       ],
-      "rating": "71",
+      "rating": 71,
       "released": "2020-02-03T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/d50e1c1b61224bceb65da9406f3f4e8frcp1/sku/3ac3e537019c49028d7bb98e8cd92482"
@@ -614,7 +614,7 @@
         "local co-op",
         "online co-op"
       ],
-      "rating": "n/a",
+      "rating": -1,
       "released": "2020-02-24T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/921e9afe46aa478fb4aa929a7b1a6bd5rcp1/sku/f16b28e2fd224acaafeee4c19134adb4"
@@ -634,7 +634,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "85",
+      "rating": 85,
       "released": "2020-02-29T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/b832835182124d4d83cb76a74a76a33frcp1/sku/90f5bd9270024986b26ee8221c1fa2e4"
@@ -654,7 +654,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "81",
+      "rating": 81,
       "released": "2020-02-29T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/b845605f8eb447008f3f0d2295265ffdrcp1/sku/a1afa4eca7b24713a9bcf3421dd85a13"
@@ -676,7 +676,7 @@
         "online co-op",
         "split screen"
       ],
-      "rating": "n/a",
+      "rating": -1,
       "released": "2020-03-02T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/cabec52b78264dafac69011aeacd5753rcp1/sku/45918155e78145af937b5df1a574afd2"
@@ -696,7 +696,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "82",
+      "rating": 82,
       "released": "2020-03-09T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/c4898519ff254b969ede8bafdff927e8rcp1/sku/f6658df6c8874c828532d5d24c66d58f"
@@ -716,7 +716,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "82",
+      "rating": 82,
       "released": "2020-03-09T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/819cdf4b7ff94947941106571ccf41e5rcp1/sku/f47a1e1e9f0b43078e0a80c57068b085"
@@ -743,7 +743,7 @@
         "competitive",
         "cross platform multiplayer"
       ],
-      "rating": "83",
+      "rating": 83,
       "released": "2020-03-16T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/bed63eac149542078fa5b9d6f20f5f2f"
@@ -764,7 +764,7 @@
         "online multiplayer",
         "competitive"
       ],
-      "rating": "89",
+      "rating": 89,
       "released": "2020-03-19T23:00:00.000Z",
       "resolution": "1800p60",
       "store_link": "https://stadia.google.com/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/17affc92b9ca47a7b64e748609ed25af"
@@ -794,7 +794,7 @@
         "online co-op",
         "competitive"
       ],
-      "rating": "66",
+      "rating": 66,
       "released": "2020-03-24T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/94db678cbb6342c3bc0e58f71130b3fb"
@@ -812,7 +812,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": "",
+      "rating": -1,
       "released": "2020-03-26T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/d334bea27ee64ef5a3a9bb14b1d6a88ercp1/sku/ab6a5a0d448d4c7aaed8dfa91ad6f4b9"
@@ -836,7 +836,7 @@
         "competitive",
         "split screen"
       ],
-      "rating": "",
+      "rating": -1,
       "released": "2020-03-31T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/15a067411b8d4429b0954434d8f05d48rcp1/sku/7ed521aacf2a44168fb99cd1e13472ad"

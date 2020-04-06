@@ -15,7 +15,7 @@
           <div class="column column--wrap">
             <div class="row row--center-v row--small-gutter">
               <div class="column column--wrap column--small-gutter">
-                <button @click="showFilter = !showFilter" class="filter-toggle">Sorting</button>
+                <button @click="showSort = !showSort" class="filter-toggle">Sorting</button>
               </div>
               <div class="column column--wrap column--small-gutter">
                 <button @click="showFilter = !showFilter" class="filter-toggle">Filter</button>
@@ -28,6 +28,12 @@
         </div>
         <VueSlideToggle :open="showFilter">
           <div class="filter-options">
+            <div class="rating genres">
+              <strong class="filter-options__title">Rating {{ (rating === 0 || rating === '0') ? '' : `> ${rating}` }}</strong>
+              <div class="row row--small-gutter">
+                  <input type="range" min="0" max="100" step="5" v-model="rating" class="form-input form-input--fill">
+              </div>
+            </div>
             <div class="genres">
               <strong class="filter-options__title">Genres</strong>
               <div class="row row--small-gutter">
@@ -39,7 +45,7 @@
                 </div>
               </div>
             </div>
-            <div class="players">
+            <div class="players genres">
               <strong class="filter-options__title">Game modes</strong>
               <div class="row row--small-gutter">
                 <div class="column filter-player" v-for="mode in game_modes" :key="mode">
@@ -50,7 +56,7 @@
                 </div>
               </div>
             </div>
-            <div class="players">
+            <div class="players genres">
               <strong class="filter-options__title">Available in</strong>
               <div class="row row--small-gutter">
                 <div class="column filter-player" v-for="country in countries" :key="country">
@@ -61,13 +67,36 @@
                 </div>
               </div>
             </div>
-            <div class="players">
+            <div class="players genres">
               <strong class="filter-options__title">Game languages</strong>
               <div class="row row--small-gutter">
                 <div class="column filter-player" v-for="language in languages" :key="language">
                   <label class="checkbox">
                     <input v-model="selectedLanguages" :value="language" type="checkbox" class="form-input">
                     <div class="checkbox-box" /> <span class="checkbox__label">{{ language }}</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+        </VueSlideToggle>
+        <VueSlideToggle :open="showSort">
+          <div class="filter-options">
+            <div class="genres">
+              <strong class="filter-options__title">Genres</strong>
+              <div class="row row--small-gutter">
+                <div class="column filter-genre" v-for="option in sortOptions" :key="option">
+                  <label class="radio">
+                    <input v-model="selectedSortOption" name="sortoption" :value="option" type="radio" >
+                    <div class="radio-box" /> <span class="radio__label">{{ option }}</span>
+                  </label>
+                </div>
+              </div>
+              <div class="row row--small-gutter">
+                <div class="column filter-genre" v-for="option in sortOrderOptions" :key="option">
+                  <label class="radio">
+                    <input v-model="selectedSortOrder" name="sortorderoption" :value="option" type="radio" class="form-input">
+                    <div class="radio-box" /> <span class="radio__label">{{ option }}</span>
                   </label>
                 </div>
               </div>
@@ -116,9 +145,15 @@ export default {
       selectedGameModes: [],
       selectedCountries: [],
       selectedLanguages: [],
+      rating: 0,
       filter: '',
       showFilter: false,
+      showSort: false,
       selectedGame: null,
+      selectedSortOrder: 'asc',
+      sortOrderOptions: ['asc', 'desc'],
+      sortOptions: ['release', 'name', 'rating'],
+      selectedSortOption: 'release',
     };
   },
   mounted() {
@@ -160,6 +195,11 @@ export default {
       games = games
         .filter((x) => x.name.toLowerCase().includes(this.filter.toLowerCase()));
 
+      if (this.rating > 0) {
+        games = games
+          .filter((x) => (x.rating || 0) >= this.rating);
+      }
+
       if (this.selectedGenres.length > 0) {
         games = games
           .filter((x) => this.selectedGenres.some((z) => x.genres.includes(z)));
@@ -174,7 +214,20 @@ export default {
     },
     orderedGames() {
       const games = this.filteredGames.concat();
-      games.sort((a, b) => b.released - a.released);
+      games.sort((a, b) => {
+        const valA = this.selectedSortOrder === 'asc' ? a : b;
+        const valB = this.selectedSortOrder === 'asc' ? b : a;
+
+        if (this.selectedSortOption === 'name') {
+          return valA.name.localeCompare(valB.name);
+        }
+
+        if (this.selectedSortOption === 'rating') {
+          return valA.name.localeCompare(valB.name);
+        }
+
+        return valA.released - valB.released;
+      });
       return games;
     },
   },

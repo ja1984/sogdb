@@ -24,7 +24,7 @@
       </div>
       <div class="game__information__row">
         <strong>Countries</strong>
-        <div>{{ game.languages.join(', ') }}</div>
+        <div>{{ game.countries.join(', ') }}</div>
       </div>
       <div class="game__information__row">
         <strong class="strong strong--larger">Expansions</strong>

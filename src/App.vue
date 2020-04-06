@@ -88,6 +88,39 @@ body {
   padding: 0 10px;
 }
 
+.radio {
+  display: inline-block;
+  position: relative;
+  height: 25px;
+  cursor: pointer;
+
+  &:hover {
+    .checkbox-box {
+      border-color: #ccc;
+    }
+  }
+}
+
+.radio-box {
+    position: absolute;
+  left: 0;
+  top: 0;
+  width: 25px;
+  height: 25px;
+  border: 1px solid #efefef;
+  background: #fff;
+  transition: all ease .3s;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50%;
+}
+
+  input[type=radio]:checked ~ .radio-box {
+    background-image: url('~@/assets/check.svg');
+    background-position: center;
+    background-size: 16px;
+  }
+
 .checkbox {
   display: inline-block;
   position: relative;
@@ -111,7 +144,6 @@ body {
   transition: all ease .3s;
   background-repeat: no-repeat;
   background-position: center;
-
 }
 
   input[type=checkbox]:checked ~ .checkbox-box {
@@ -128,6 +160,19 @@ body {
   }
 
   .checkbox__label {
+    line-height: 25px;
+    padding-left: 12px;
+    text-transform: capitalize;
+  }
+
+    .radio--disabled {
+    .radio-box {
+      opacity: .3;
+      cursor: default;
+    }
+  }
+
+  .radio__label {
     line-height: 25px;
     padding-left: 12px;
     text-transform: capitalize;
@@ -158,6 +203,10 @@ body {
   &:focus {
     border-color: #777;
   }
+}
+
+.form-input--fill {
+  width: 100%;
 }
 
 .games-wrapper > div {
