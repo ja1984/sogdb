@@ -51,6 +51,10 @@ body {
   align-items: center;
 }
 
+.row--center-h {
+  justify-content: center;
+}
+
 .column {
   flex: 1;
   padding: 10px;

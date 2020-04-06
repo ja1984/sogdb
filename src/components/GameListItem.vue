@@ -8,7 +8,7 @@
         />
         <div class="rating" v-if="game.rating && !isNaN(game.rating)" alt="Rating" title="Rating">
           <img src="@/assets/smile.svg" class="rating__icon" />
-          <span class="rating__text">{{ game.rating || 'n/a' }}</span>
+          <span class="rating__text">{{ game.rating === -1 ? 'n/a' : game.rating }}</span>
         </div>
       </div>
     </header>
@@ -18,7 +18,7 @@
         <p>{{ game.description }}</p>
       </div> -->
       <div class="game-modes">
-        <div class="row row--small-gutter" v-for="mode in gameModes" :key="mode" :class="{'game-modes__disabled': !game.game_modes.includes(mode)}">
+        <div class="row row--small-gutter" v-for="mode in gameModes" :key="mode" :class="{'game-modes--unavailable': !game.game_modes.includes(mode)}">
           <div class="column">
             <span class="game-modes__name">{{ mode }}</span>
           </div>
@@ -179,8 +179,8 @@ export default {
   }
 }
 
-.game-modes__disabled {
-  opacity: .5;
+.game-modes--unavailable {
+  opacity: .2;
 }
 .game-modes__name {
   text-transform: capitalize;

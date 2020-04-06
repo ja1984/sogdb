@@ -11,15 +11,18 @@
               </div>
             </div>
           </div>
-          <div class="column"></div>
-          <div class="column column--wrap">
-            <div class="row row--center-v row--small-gutter">
+          <div class="column">
+            <div class="row row--center-v row--small-gutter row--center-h">
               <div class="column column--wrap column--small-gutter">
                 <button @click="showSort = !showSort" class="filter-toggle">Sorting</button>
               </div>
               <div class="column column--wrap column--small-gutter">
                 <button @click="showFilter = !showFilter" class="filter-toggle">Filter</button>
               </div>
+            </div>
+          </div>
+          <div class="column column--wrap">
+            <div class="row row--center-v row--small-gutter">
               <div class="column column--wrap column--small-gutter">
                 <input type="search" v-model="filter" class="filter form-input" placeholder="Type to filter">
               </div>
@@ -37,7 +40,7 @@
             <div class="genres">
               <strong class="filter-options__title">Genres</strong>
               <div class="row row--small-gutter">
-                <div class="column filter-genre" v-for="genre in genres" :key="genre">
+                <div class="column filter-genre" v-for="genre in sortedGenres" :key="genre">
                   <label class="checkbox">
                     <input v-model="selectedGenres" :value="genre" type="checkbox" class="form-input">
                     <div class="checkbox-box" /> <span class="checkbox__label">{{ genre }}</span>
@@ -48,7 +51,7 @@
             <div class="players genres">
               <strong class="filter-options__title">Game modes</strong>
               <div class="row row--small-gutter">
-                <div class="column filter-player" v-for="mode in game_modes" :key="mode">
+                <div class="column filter-player" v-for="mode in sortedGameModes" :key="mode">
                   <label class="checkbox">
                     <input v-model="selectedGameModes" :value="mode" type="checkbox" class="form-input">
                     <div class="checkbox-box" /> <span class="checkbox__label">{{ mode }}</span>
@@ -59,7 +62,7 @@
             <div class="players genres">
               <strong class="filter-options__title">Available in</strong>
               <div class="row row--small-gutter">
-                <div class="column filter-player" v-for="country in countries" :key="country">
+                <div class="column filter-player" v-for="country in sortedCountries" :key="country">
                   <label class="checkbox">
                     <input v-model="selectedCountries" :value="country" type="checkbox" class="form-input">
                     <div class="checkbox-box" /> <span class="checkbox__label">{{ country }}</span>
@@ -70,7 +73,7 @@
             <div class="players genres">
               <strong class="filter-options__title">Game languages</strong>
               <div class="row row--small-gutter">
-                <div class="column filter-player" v-for="language in languages" :key="language">
+                <div class="column filter-player" v-for="language in sortedLanguages" :key="language">
                   <label class="checkbox">
                     <input v-model="selectedLanguages" :value="language" type="checkbox" class="form-input">
                     <div class="checkbox-box" /> <span class="checkbox__label">{{ language }}</span>
@@ -107,7 +110,7 @@
       <div class="games-wrapper">
         <transition-group name="fade" tag="div">
         <div class="column column--small game" v-for="game in orderedGames" :key="game.name">
-          <game-list-item :game="game" @select="selectGame" :game-modes="game_modes"></game-list-item>
+          <game-list-item :game="game" @select="selectGame" :game-modes="sortedGameModes"></game-list-item>
         </div>
       </transition-group>
       </div>
@@ -150,7 +153,7 @@ export default {
       showFilter: false,
       showSort: false,
       selectedGame: null,
-      selectedSortOrder: 'asc',
+      selectedSortOrder: 'desc',
       sortOrderOptions: ['asc', 'desc'],
       sortOptions: ['release', 'name', 'rating'],
       selectedSortOption: 'release',
@@ -223,12 +226,28 @@ export default {
         }
 
         if (this.selectedSortOption === 'rating') {
-          return valA.name.localeCompare(valB.name);
+          return valA.rating - valB.rating;
         }
 
         return valA.released - valB.released;
       });
       return games;
+    },
+    sortedLanguages() {
+      return this.languages.concat()
+        .sort((a, b) => a.localeCompare(b));
+    },
+    sortedCountries() {
+      return this.countries.concat()
+        .sort((a, b) => a.localeCompare(b));
+    },
+    sortedGameModes() {
+      return this.game_modes.concat()
+        .sort((a, b) => a.localeCompare(b));
+    },
+    sortedGenres() {
+      return this.genres.concat()
+        .sort((a, b) => a.localeCompare(b));
     },
   },
   methods: {
