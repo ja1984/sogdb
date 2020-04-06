@@ -12,7 +12,7 @@
             </div>
           </div>
           <div class="column">
-            <div class="row row--center-v row--small-gutter row--center-h">
+            <div class="row row--center-v row--small-gutter row--center-h always-flex">
               <div class="column column--wrap column--small-gutter">
                 <button @click="showSort = !showSort" class="filter-toggle">Sorting</button>
               </div>
@@ -34,7 +34,7 @@
             <div class="rating genres">
               <strong class="filter-options__title">Rating {{ (rating === 0 || rating === '0') ? '' : `> ${rating}` }}</strong>
               <div class="row row--small-gutter">
-                  <input type="range" min="0" max="100" step="5" v-model="rating" class="form-input form-input--fill">
+                  <input type="range" min="0" max="100" v-model="rating" class="form-input form-input--fill">
               </div>
             </div>
             <div class="genres">
@@ -71,7 +71,7 @@
               </div>
             </div>
             <div class="players genres">
-              <strong class="filter-options__title">Game languages</strong>
+              <strong class="filter-options__title">Game language</strong>
               <div class="row row--small-gutter">
                 <div class="column filter-player" v-for="language in sortedLanguages" :key="language">
                   <label class="checkbox">
@@ -86,7 +86,7 @@
         <VueSlideToggle :open="showSort">
           <div class="filter-options">
             <div class="genres">
-              <strong class="filter-options__title">Genres</strong>
+              <strong class="filter-options__title">Sort on</strong>
               <div class="row row--small-gutter">
                 <div class="column filter-genre" v-for="option in sortOptions" :key="option">
                   <label class="radio">
@@ -95,6 +95,9 @@
                   </label>
                 </div>
               </div>
+            </div>
+            <div class="genres">
+                            <strong class="filter-options__title">Sort order</strong>
               <div class="row row--small-gutter">
                 <div class="column filter-genre" v-for="option in sortOrderOptions" :key="option">
                   <label class="radio">
@@ -201,6 +204,16 @@ export default {
       if (this.rating > 0) {
         games = games
           .filter((x) => (x.rating || 0) >= this.rating);
+      }
+
+      if (this.selectedLanguages.length > 0) {
+        games = games
+          .filter((x) => this.selectedLanguages.some((z) => x.languages.includes(z)));
+      }
+
+      if (this.selectedCountries.length > 0) {
+        games = games
+          .filter((x) => this.selectedCountries.some((z) => x.countries.includes(z)));
       }
 
       if (this.selectedGenres.length > 0) {
@@ -375,5 +388,9 @@ a {
 .games-wrapper > div {
   display: flex;
   flex-wrap: wrap;
+}
+
+.header .row.always-flex {
+  display: flex;
 }
 </style>
