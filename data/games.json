@@ -87,15 +87,24 @@
       "store_link": "https://stadia.google.com/store/details/f39390395ed5444d8e9b23460c8f9152rcp1/sku/6c8ae46efebc4bd1a7de725bc630ce65"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name": "Metro Exodus - Gold Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/879d82512f5441829250ead1aa678a70rcp1/sku/b1ef708943904e7eaa699d2113805814"
+        }
+      ],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created. Flee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet. Explore the Russian wilderness in vast, non-linear levels and follow a thrilling story-line inspired by the novels of Dmitry Glukhovsky that spans an entire year through spring, summer and autumn to the depths of nuclear winter.",
       "genres": [
         "shooter",
         "action"
       ],
       "image_slug": "metro_exodus",
-      "languages": [],
+      "languages": [
+        "czech", "german", "english", "spanish (Spain)", "spanish (Mexico)", "french", "italian", "japanese", "korean", "polish", "portuguese", "russian", "ukrainian", "chinese (China)", "chinese (Taiwan)"
+      ],
       "name": "Metro Exodus",
       "game_modes": [
         "single player"
