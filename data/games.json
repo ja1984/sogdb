@@ -1,8 +1,17 @@
 {
   "games": [
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name": "Destiny 2: Shadowkeep",
+          "store_link": "https://stadia.google.com/u/1/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/7c7818dfa9774281bdc6375402dc6e0a"
+        },
+        {
+          "name": "Destiny 2: Forsaken",
+          "store_link": "https://stadia.google.com/u/1/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/6ae17ecb8ef044329109f23df572c0ef"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "ireland", "france", "germany", "italy", "spain", "belgium", "denmark", "sweden", "netherlands", "norway", "finland"],
       "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. See below for loot box odds.",
       "genres": [
         "action",
@@ -10,7 +19,7 @@
         "shooter"
       ],
       "image_slug": "destiny2",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish", "spanish (Latin America)", "portuguese (Brazil)", "polish", "russian", "japanese", "korean", "chinese (Simplified)", "chinese (Traditional)"],
       "name": "Destiny 2",
       "game_modes": [
         "single player",

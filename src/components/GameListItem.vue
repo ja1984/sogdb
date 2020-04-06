@@ -1,5 +1,5 @@
 <template>
-  <div class="card" @click="$emit('select', game)">
+  <div class="card card--clickable" @click="$emit('select', game)">
     <header class="card__header">
       <div class="game-image">
         <img
@@ -14,8 +14,19 @@
     </header>
     <section class="card__body">
       <span class="game__name">{{ game.name }}</span>
-      <div class="game__description">
+      <!-- <div class="game__description">
         <p>{{ game.description }}</p>
+      </div> -->
+      <div class="game-modes">
+        <div class="row row--small-gutter" v-for="mode in gameModes" :key="mode" :class="{'game-modes__disabled': !game.game_modes.includes(mode)}">
+          <div class="column">
+            <span class="game-modes__name">{{ mode }}</span>
+          </div>
+          <div class="column column--wrap">
+            <img v-if="game.game_modes.includes(mode)" src="@/assets/check.svg" class="game-modes__icon">
+            <img v-else src="@/assets/x.svg" class="game-modes__icon">
+          </div>
+        </div>
       </div>
     </section>
     <footer class="card__footer">
@@ -24,7 +35,7 @@
           <span class="release-date">{{ releaseDate }}</span>
         </div>
         <div class="column column--wrap">
-          <a :href="game.store_link" target="_blank">
+          <a :href="game.store_link" @click.stop target="_blank">
             <div class="store-icon">
               <img src="@/assets/shopping-bag.svg" />
               <span class="store-icon__badge" v-if="game.expansions.length > 0">{{ game.expansions.length}}</span>
@@ -45,6 +56,10 @@ export default {
     game: {
       type: Object,
       default: () => { },
+    },
+    gameModes: {
+      type: Array,
+      default: () => [],
     },
   },
   computed: {
@@ -148,4 +163,26 @@ export default {
   font-weight: 800;
 }
 
+.game-modes__icon {
+  display: block;
+  height: 18px;
+}
+
+.game-modes {
+  padding: 10px 0;
+}
+
+.row--small-gutter {
+  // border-bottom: 1px solid #efefef;
+  .column {
+    padding: 5px;
+  }
+}
+
+.game-modes__disabled {
+  opacity: .5;
+}
+.game-modes__name {
+  text-transform: capitalize;
+}
 </style>

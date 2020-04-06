@@ -14,7 +14,34 @@
         </div>
     </header>
     <section class="game-details__body">
-      {{ game.description }}
+      <div class="game-details__body__inner">
+      <div class="game__information__row">
+      <div class="game__description">{{ game.description }}</div>
+      </div>
+      <div class="game__information__row">
+        <strong>Languages</strong>
+        <div>{{ game.languages.join(', ') }}</div>
+      </div>
+      <div class="game__information__row">
+        <strong>Countries</strong>
+        <div>{{ game.languages.join(', ') }}</div>
+      </div>
+      <div class="game__information__row">
+        <strong class="strong strong--larger">Expansions</strong>
+        <div v-for="expansion in game.expansions" :key="expansion.name">
+          <div class="row row--center-v">
+            <div class="column">
+              {{ expansion.name }}
+            </div>
+            <div class="column column--wrap">
+              <a :href="expansion.store_link" target="_blank">
+                <img src="@/assets/shopping-bag.svg" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
     </section>
   </div>
   </div>
@@ -52,10 +79,25 @@ export default {
   box-shadow: 0 5px 10px -7px rgba(0,0,0,.3);
   width: 90%;
   max-width: 650px;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+
+  @media(min-height: 1200px) {
+    max-height: 90%;
+  }
 }
 
 .game-details__body {
   padding: 15px;
+  line-height: 1.4;
+  flex: 1;
+  min-height: 1px;
+}
+
+.game-details__body__inner {
+  height: 100%;
+  overflow: auto;
 }
 
 .image {
@@ -107,5 +149,19 @@ export default {
   padding-top: 175px;
   background: rgba(0,0,0,.3);
   background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.game__description {
+  line-height: 1.4;
+}
+
+.game__information__row {
+  margin-bottom: 10px;
+}
+
+.strong--larger {
+  font-size: 22px;
+  margin-top: 20px;
+  display: block;
 }
 </style>

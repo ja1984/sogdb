@@ -71,6 +71,15 @@ body {
   box-shadow: 0 5px 10px -7px rgba(0,0,0,.3)
 }
 
+.card--clickable {
+  cursor: pointer;
+  transition: all ease .3s;
+
+  &:hover {
+    box-shadow: 0 5px 10px -3px rgba(0,0,0,.3)
+  }
+}
+
 .card__body {
   padding: 10px;
 }
@@ -399,4 +408,9 @@ button[aria-label][data-balloon-pos] {
   [aria-label][data-balloon-pos][data-balloon-length="fit"]:after {
     white-space: normal;
     width: 100%; }
+
+
+    body.no-scroll {
+      overflow: hidden;
+    }
 </style>

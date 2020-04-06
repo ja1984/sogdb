@@ -6,7 +6,8 @@
           <div class="column column--wrap">
             <div class="logo row row--center-v row--small-gutter">
               <div class="column column--wrap column--small-gutter">
-                <span class="logo__text">O<img src="@/assets/google-stadia-logo.png" class="logo__image">GDb</span>
+                <span class="logo__text"><img src="@/assets/google-stadia-logo.png" class="logo__image">OGDb</span>
+                <div class="logo__sub-title">Stadia Open Games Database</div>
               </div>
             </div>
           </div>
@@ -77,7 +78,7 @@
       <div class="games-wrapper">
         <transition-group name="fade" tag="div">
         <div class="column column--small game" v-for="game in orderedGames" :key="game.name">
-          <game-list-item :game="game" @select="selectGame"></game-list-item>
+          <game-list-item :game="game" @select="selectGame" :game-modes="game_modes"></game-list-item>
         </div>
       </transition-group>
       </div>
@@ -182,6 +183,15 @@ export default {
       this.selectedGame = game;
     },
   },
+  watch: {
+    selectedGame(game) {
+      if (game) {
+        document.body.classList.add('no-scroll');
+      } else {
+        document.body.classList.remove('no-scroll');
+      }
+    },
+  },
 };
 </script>
 
@@ -244,6 +254,13 @@ a {
   @media(min-width: 1025px) {
     font-size: 60px;
   }
+}
+
+.logo__sub-title {
+  font-size: 13px;
+  margin-top: -10px;
+  font-weight: 800;
+  text-align: center;
 }
 
 
