@@ -118,8 +118,7 @@
       </transition-group>
       </div>
     </div>
-    {{ proGames }}
-        <game-details v-if="selectedGame" :game="selectedGame" @close="selectedGame = null"></game-details>
+    <game-details v-if="selectedGame" :game="selectedGame" @close="selectedGame = null"></game-details>
   </div>
 </template>
 
