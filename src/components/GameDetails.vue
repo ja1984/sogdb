@@ -1,5 +1,5 @@
 <template>
-<div class="modal">
+<div class="modal" @click="backdropClick">
   <div class="game-details">
     <header class="game-details__header">
       <div class="game-image">
@@ -54,6 +54,13 @@ export default {
     game: {
       type: Object,
       default: () => {},
+    },
+  },
+  methods: {
+    backdropClick(event) {
+      if (event.target.className === 'modal') {
+        this.$emit('close');
+      }
     },
   },
 };

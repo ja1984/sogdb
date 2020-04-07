@@ -116,13 +116,15 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "A.O.T. 2: Final Battle contains the latest content for the tactical hunting action series based on the hit anime series \"Attack on Titan\". More than 40 playable characters join the battle! Through \"Story Mode\" experience the drama of seasons 1 and 2 of the anime firsthand, playing as the game-original protagonist! Via \"Another Mode\" play as other characters, too, and enjoy versus and cooperative battles online with other players as well! In \"Character Episode Mode\" experience season 3 through the eyes of the characters of the original anime! \"Territory Recovery Mode\" lets you create your own regiment and gather comrades to try and recapture territory outside the Walls!",
       "genres": [
         "action"
       ],
       "image_slug": "aot2-final_battle",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish (Mexico)", "spanish (Spain)", "japanese", "korean", "chinese"],
       "name": "Attack on Titan 2: Final Battle",
       "game_modes": [
         "single player",
@@ -136,15 +138,24 @@
       "store_link": "https://stadia.google.com/store/details/a38d988fb142400c947bf0a7b37fd404rcp1/sku/f879d932d28c4104958c7976f201ba38"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name": "Assassin's Creed Odyssey - Stadia Season Pass",
+          "store_link": "https://stadia.google.com/u/1/store/details/8b7e7f7036e5483eaa8745d46248536crcp1/sku/6f6a85eb8e6f4042a95cc5a51ee26984"
+        }
+      ],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "Choose your fate in Assassin's Creed Odyssey. From outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate of Ancient Greece.",
       "genres": [
         "action",
         "adventure"
       ],
       "image_slug": "aco",
-      "languages": [],
+      "languages": [ 
+        "english", "french", "italian", "german", "spanish", "japanese", "korean", "dutch", "polish", "portuguese", "russian", "chinese (Simplified)", "chinese (Traditional)"
+      ],
       "name": "Assassin's Creed: Odyssey",
       "game_modes": [
         "single player"
@@ -156,14 +167,18 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "In Shadow of the Tomb Raider Definitive Edition experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be. Combining the base game, all seven DLC challenge tombs, as well as all downloadable weapons, outfits, and skills, Shadow of the Tomb Raider Definitive Edition is the ultimate way to experience Lara’s defining moment.",
       "genres": [
         "action",
         "adventure"
       ],
       "image_slug": "sottr",
-      "languages": [],
+      "languages": [
+        "english", "french", "italian", "german", "spanish"
+      ],
       "name": "Shadow of the Tomb Raider",
       "game_modes": [
         "single player",
@@ -175,8 +190,15 @@
       "store_link": "https://stadia.google.com/store/details/efa3b6108d3e41689b2223ba9d48f5c8rcp1/sku/bb9bcb490fd145d9997c8b3ff3f1039f"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name": "Borderlands®3 Season Pass",
+          "store_link": "https://stadia.google.com/u/1/store/details/be080ad40b434ca289166031d3e88623rcp1/sku/1e6b50c7fd7640f4a7b5160e74708043"
+        }
+      ],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
       "genres": [
         "shooter",
@@ -184,7 +206,9 @@
         "action"
       ],
       "image_slug": "borderlands3",
-      "languages": [],
+      "languages": [
+        "czech (Czechia)", "german (Germany)", "english (United States)", "spanish (Spain)", "spanish (Mexico)", "french (France)", "italian (Italy)", "japanese (Japan)", "korean (South Korea)", "polish (Poland)", "portuguese (Brazil)", "russian (Russia)", "ukrainian (Ukraine)", "chinese (China)", "chinese (Taiwan)"
+      ],
       "name": "Borderlands 3",
       "game_modes": [
         "single player",
