@@ -151,6 +151,7 @@ export default {
       selectedGameModes: [],
       selectedCountries: [],
       selectedLanguages: [],
+      pro_games: [],
       rating: 0,
       filter: '',
       showFilter: false,
@@ -193,6 +194,7 @@ export default {
 
         this.games.push(game);
       });
+      this.pro_games = response.data.pro_games;
     });
   },
   computed: {
