@@ -194,22 +194,19 @@ export default {
 }
 
 .deal {
-    position: absolute;
-    top: -40px;
-    left: -40px;
-    width: 80px;
-    height: 80px;
-    background: rgba(0, 0, 0, 0.7);
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    transform: rotate(-45deg);
-    padding: 5px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 5px;
+  border-radius: 8px;
 }
 
 .deal__icon {
   display: block;
-  transform: rotate(45deg);
-  width: 20px;
+  width: 18px;
 }
 </style>
