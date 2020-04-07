@@ -113,7 +113,7 @@
       <div class="games-wrapper">
         <transition-group name="fade" tag="div">
         <div class="column column--small game" v-for="game in orderedGames" :key="game.name">
-          <game-list-item :game="game" @select="selectGame" :game-modes="sortedGameModes"></game-list-item>
+          <game-list-item :game="game" @select="selectGame" :game-modes="sortedGameModes" :is-pro-deal="proGames.includes(game.slug)"></game-list-item>
         </div>
       </transition-group>
       </div>

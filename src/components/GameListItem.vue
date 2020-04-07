@@ -10,6 +10,9 @@
           <img src="@/assets/smile.svg" class="rating__icon" />
           <span class="rating__text">{{ game.rating === -1 ? 'n/a' : game.rating }}</span>
         </div>
+        <div v-if="isProDeal" class="deal" alt="This months pro deal" title="This months pro deal">
+          <img src="@/assets/award.svg" class="deal__icon">
+        </div>
       </div>
     </header>
     <section class="card__body">
@@ -60,6 +63,10 @@ export default {
     gameModes: {
       type: Array,
       default: () => [],
+    },
+    isProDeal: {
+      type: Boolean,
+      default: false,
     },
   },
   computed: {
@@ -184,5 +191,25 @@ export default {
 }
 .game-modes__name {
   text-transform: capitalize;
+}
+
+.deal {
+    position: absolute;
+    top: -40px;
+    left: -40px;
+    width: 80px;
+    height: 80px;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    transform: rotate(-45deg);
+    padding: 5px;
+}
+
+.deal__icon {
+  display: block;
+  transform: rotate(45deg);
+  width: 20px;
 }
 </style>
