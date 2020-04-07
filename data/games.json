@@ -704,7 +704,7 @@
         "indie"
       ],
       "image_slug": "steamworld_dig_2",
-      "image_slug": "steamworld-dig-2",
+      "slug": "steamworld-dig-2",
       "languages": [],
       "name": "SteamWorld Dig 2",
       "game_modes": [
