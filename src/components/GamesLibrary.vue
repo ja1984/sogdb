@@ -118,6 +118,7 @@
       </transition-group>
       </div>
     </div>
+    {{ proGames }}
         <game-details v-if="selectedGame" :game="selectedGame" @close="selectedGame = null"></game-details>
   </div>
 </template>
@@ -125,7 +126,7 @@
 <script>
 import axios from 'axios';
 import { VueSlideToggle } from 'vue-slide-toggle';
-import { parseISO } from 'date-fns';
+import { parseISO, format } from 'date-fns';
 import GameListItem from '@/components/GameListItem.vue';
 import GameDetails from '@/components/GameDetails.vue';
 
@@ -194,10 +195,18 @@ export default {
 
         this.games.push(game);
       });
+      console.log(response.data.pro_games);
       this.pro_games = response.data.pro_games;
     });
   },
   computed: {
+    proGames() {
+      const month = format(new Date(), 'MM-yyyy');
+      console.log(month, this.pro_games);
+      const proPeriod = this.pro_games.find((x) => x.month === month);
+      if (!proPeriod) return [];
+      return proPeriod.games;
+    },
     filteredGames() {
       let games = this.games.concat();
       games = games

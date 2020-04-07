@@ -927,9 +927,11 @@
       "store_link": "https://stadia.google.com/store/details/15a067411b8d4429b0954434d8f05d48rcp1/sku/7ed521aacf2a44168fb99cd1e13472ad"
     }
   ],
-  "pro_games": {
-    "month": "04-2020",
-    "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"] 
-  },
+  "pro_games": [
+    {
+      "month": "04-2020",
+      "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
+    }
+  ],
   "updated": "2020-04-07T07:42:58.833Z"
 }
