@@ -19,6 +19,7 @@
         "shooter"
       ],
       "image_slug": "destiny2",
+      "slug": "destiny-2",
       "languages": ["english", "french", "italian", "german", "spanish", "spanish (Latin America)", "portuguese (Brazil)", "polish", "russian", "japanese", "korean", "chinese (Simplified)", "chinese (Traditional)"],
       "name": "Destiny 2",
       "game_modes": [
@@ -48,6 +49,7 @@
         "shooter"
       ],
       "image_slug": "rage_2",
+      "slug": "rage-2",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Rage 2",
       "game_modes": [
@@ -102,6 +104,7 @@
         "action"
       ],
       "image_slug": "metro_exodus",
+      "slug": "metro-exodus",
       "languages": [
         "czech", "german", "english", "spanish (Spain)", "spanish (Mexico)", "french", "italian", "japanese", "korean", "polish", "portuguese", "russian", "ukrainian", "chinese (China)", "chinese (Taiwan)"
       ],
@@ -153,6 +156,7 @@
         "adventure"
       ],
       "image_slug": "aco",
+      "slug": "assassins-creed-odyssey"
       "languages": [ 
         "english", "french", "italian", "german", "spanish", "japanese", "korean", "dutch", "polish", "portuguese", "russian", "chinese (Simplified)", "chinese (Traditional)"
       ],
@@ -176,6 +180,7 @@
         "adventure"
       ],
       "image_slug": "sottr",
+      "slug": "shadow-of-the-tomb-raider",
       "languages": [
         "english", "french", "italian", "german", "spanish"
       ],
@@ -206,8 +211,9 @@
         "action"
       ],
       "image_slug": "borderlands3",
+      "slug": "borderlands-3",
       "languages": [
-        "czech (Czechia)", "german (Germany)", "english (United States)", "spanish (Spain)", "spanish (Mexico)", "french (France)", "italian (Italy)", "japanese (Japan)", "korean (South Korea)", "polish (Poland)", "portuguese (Brazil)", "russian (Russia)", "ukrainian (Ukraine)", "chinese (China)", "chinese (Taiwan)"
+        "english", "french", "italian", "german", "spanish"
       ],
       "name": "Borderlands 3",
       "game_modes": [
@@ -222,15 +228,29 @@
       "store_link": "https://stadia.google.com/store/details/be080ad40b434ca289166031d3e88623rcp1/sku/958f4c0900c64e7e83b9218ab479304e"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name": "Tom Clancy's Ghost Recon Breakpoint - Gold Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/11c9ece5b3a045908d77cf2b66adb010rcp1/sku/10621ce0fe784ccca7a9d95ec0f24f37"
+        },
+        {
+          "name": "Tom Clancy's Ghost Recon Breakpoint - Ultimate Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/11c9ece5b3a045908d77cf2b66adb010rcp1/sku/0339b1c963e64e28a64b5778da93478c"
+        }
+      ],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "Enjoy the complete experience with the Ultimate Edition, including: Year 1 Pass, the Survivor Pack, the Off-Road Pack, the Sacred Land Pack. The Year 1 Pass includes: The Siren's call Day 1 mission, two adventures continuing the main story, early unlock for 3 new classes, the Special Operations Forces Pack. Enjoy a totally new social experience with Stream Connect, providing a real time view into another player’s game as it’s happening, so you can not only watch but interact with them instantly.",
       "genres": [
         "action",
         "shooter"
       ],
       "image_slug": "ghost_recon_breakpoint",
-      "languages": [],
+      "slug": "ghost-recon-breakpoint",
+      "languages": [
+        "english", "french", "italian", "german", "spanish", "dutch", "arabic", "korean", "japanese", "portuguese", "czech", "polish", "russian", "thai", "chinese (Simplified)", "chinese (Traditional)"
+      ],
       "name": "Ghost Recon: Breakpoint",
       "game_modes": [
         "single player",
@@ -245,14 +265,19 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "Rise of the Tomb Raider: 20 Year Celebration includes the base game and Season Pass featuring all-new content. Explore Croft Manor in the new \"Blood Ties\" story, then defend it against a zombie invasion in \"Lara’s Nightmare\". Survive extreme conditions with a friend in the new online Co-Op Endurance mode, and brave the new \"Extreme Survivor\" difficulty. Also features an outfit and weapon inspired by Tomb Raider III, and 5 classic Lara skins.",
       "genres": [
         "action",
         "adventure"
       ],
       "image_slug": "rottr_20_year",
-      "languages": [],
+      "slug": "rise-of-the-tomb-raider-20-year-celebration",
+      "languages": [
+        "english", "french", "italian", "german", "spanish"
+      ],
       "name": "Rise of the Tomb Raider: 20 Year Celebration",
       "game_modes": [
         "single player",
@@ -265,13 +290,18 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": [
+        "united states", "canada", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland", "united kingdom", "switzerland"
+      ],
       "description": "Kine is a 3D narrative puzzle game about three daring machines that aspire to be musicians. Embark across a theatrical dreamscape by solving a wide variety of increasingly difficult 3D puzzles. Guide Euler, Quat, and Roo as they struggle to form a band, build bonds, and find their big break!",
       "genres": [
         "puzzle"
       ],
       "image_slug": "kine",
-      "languages": [],
+      "slug": "kine",
+      "languages": [
+        "english", "french", "italian", "german", "spanish"
+      ],
       "name": "Kine",
       "game_modes": [
         "single player"
@@ -283,14 +313,19 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "Wherever life takes you, Just Dance 2020 will keep you dancing for hours with an insane amount of content for the whole family to enjoy! Just Dance 2020 comes with over 40 new and fun songs, and access to more than 400 songs available with Just Dance Unlimited.",
       "genres": [
         "kids & family",
         "party"
       ],
       "image_slug": "just_dance_2020",
-      "languages": [],
+      "slug": "just-dance-2020",
+      "languages": [
+        "english", "french", "italian", "german", "spanish", "danish", "finnish", "korean", "norwegian", "dutch", "portuguese", "russian", "swedish", "chinese"
+      ],
       "name": "Just Dance 2020",
       "game_modes": [
         "single player",
@@ -315,6 +350,7 @@
         "fighting"
       ],
       "image_slug": "samurai_shodown",
+      "slug": "samurai-shodown",
       "languages": [],
       "name": "Samurai Shodown",
       "game_modes": [
@@ -335,6 +371,7 @@
         "racing"
       ],
       "image_slug": "trials_rising",
+      "slug": "trials-rising",
       "languages": [],
       "name": "Trials Rising",
       "game_modes": [
@@ -356,6 +393,7 @@
         "racing"
       ],
       "image_slug": "grid",
+      "slug": "grid",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "GRID",
       "game_modes": [
@@ -377,6 +415,7 @@
         "music or rhythm"
       ],
       "image_slug": "thumper",
+      "slug": "thumper",
       "languages": [],
       "name": "Thumper",
       "game_modes": [
@@ -396,6 +435,7 @@
         "action"
       ],
       "image_slug": "mortal_kombat_11",
+      "slug": "mortal-kombat-11",
       "languages": [],
       "name": "Mortal Kombat 11",
       "game_modes": [
@@ -419,6 +459,7 @@
         "shooter"
       ],
       "image_slug": "wolfenstein_youngblood",
+      "slug": "wolfenstein-youngblood",
       "languages": [],
       "name": "Wolfenstein: Youngblood",
       "game_modes": [
@@ -439,6 +480,7 @@
         "role-playing game"
       ],
       "image_slug": "final_fantasy_xv",
+      "slug": "final-fantasy-xv",
       "languages": [],
       "name": "Final Fantasy XV",
       "game_modes": [
@@ -460,6 +502,7 @@
         "fighting"
       ],
       "image_slug": "dragonball_xenoverse",
+      "slug": "dragonball-xenoverse-2",
       "languages": [],
       "name": "Dragon Ball Xenoverse 2",
       "game_modes": [
@@ -483,6 +526,7 @@
         "adventure"
       ],
       "image_slug": "tombraider",
+      "slug": "tomb-raider-definitive-edition",
       "languages": [],
       "name": "Tomb Raider: Definitive Edition",
       "game_modes": [
@@ -504,6 +548,7 @@
         "adventure"
       ],
       "image_slug": "rdr2",
+      "slug": "red-dead-redemption-2",
       "languages": [],
       "name": "Red Dead Redemption 2",
       "game_modes": [
@@ -524,6 +569,7 @@
         "simulator"
       ],
       "image_slug": "farming_simulator19",
+      "slug": "farming-simulator-2019",
       "languages": [],
       "name": "Farming Simulator 2019",
       "game_modes": [
@@ -545,6 +591,7 @@
         "adventure"
       ],
       "image_slug": "gylt",
+      "slug": "gylt",
       "languages": [],
       "name": "Gylt",
       "game_modes": [
@@ -563,6 +610,7 @@
         "sports"
       ],
       "image_slug": "nba_2k20",
+      "slug": "nba-2k20",
       "languages": [],
       "name": "NBA 2K20",
       "game_modes": [
@@ -588,6 +636,7 @@
         "strategy"
       ],
       "image_slug": "football_manager_2020",
+      "slug": "football-manager-2020",
       "languages": [],
       "name": "Football Manager 2020",
       "game_modes": [
@@ -609,6 +658,7 @@
         "simulation"
       ],
       "image_slug": "monster_energy_supercross",
+      "slug": "monster-energy-supercross",
       "languages": [],
       "name": "Monster Energy Supercross",
       "game_modes": [
@@ -629,6 +679,7 @@
         "action"
       ],
       "image_slug": "spitlings",
+      "slug": "spitlings",
       "languages": [],
       "name": "Spitlings",
       "game_modes": [
@@ -653,6 +704,7 @@
         "indie"
       ],
       "image_slug": "steamworld_dig_2",
+      "image_slug": "steamworld-dig-2",
       "languages": [],
       "name": "SteamWorld Dig 2",
       "game_modes": [
@@ -673,6 +725,7 @@
         "role-playing game"
       ],
       "image_slug": "steamworld_quest",
+      "slug": "steamworld-quest-hand-of-gilgamech",
       "languages": [],
       "name": "SteamWorld Quest: Hand of Gilgamech",
       "game_modes": [
@@ -692,6 +745,7 @@
         "action"
       ],
       "image_slug": "serious_sam",
+      "slug": "serious-sam-collection",
       "languages": [],
       "name": "Serious Sam Collection",
       "game_modes": [
@@ -715,6 +769,7 @@
         "indie"
       ],
       "image_slug": "steamworld_dig",
+      "slug": "steamworld-dig",
       "languages": [],
       "name": "Steamworld Dig",
       "game_modes": [
@@ -735,6 +790,7 @@
         "adventure"
       ],
       "image_slug": "steamworld_heist",
+      "slug": "steamworld-heist",
       "languages": [],
       "name": "Steamworld Heist",
       "game_modes": [
@@ -758,6 +814,7 @@
         "action"
       ],
       "image_slug": "tom_clancys_the_division_2",
+      "slug": "tom-clancys-the-division-2",
       "languages": [],
       "name": "Tom Clancy's The Division 2",
       "game_modes": [
@@ -781,6 +838,7 @@
         "shooter"
       ],
       "image_slug": "doom_eternal",
+      "slug": "doom-eternal",
       "languages": [],
       "name": "DOOM Eternal",
       "game_modes": [
@@ -810,6 +868,7 @@
         "racing"
       ],
       "image_slug": "the_crew_2",
+      "slug": "the-crew-2",
       "languages": ["english", "french", "italian", "german", "spanish", "breton", "russian", "japanese", "arabic", "polish", "dutch", "kanuri", "chinese"],
       "name": "The Crew 2",
       "game_modes": [
@@ -831,6 +890,7 @@
         "adventure"
       ],
       "image_slug": "lost_words",
+      "slug": "lost-words-beyond-the-page",
       "languages": [],
       "name": "Lost Words: Beyond the Page",
       "game_modes": [
@@ -851,6 +911,7 @@
         "kids & family"
       ],
       "image_slug": "stacks_on_stacks",
+      "slug": "stacks-on-stacks-on-stacks",
       "languages": [],
       "name": "Stacks On Stacks (On Stacks)",
       "game_modes": [
@@ -866,5 +927,9 @@
       "store_link": "https://stadia.google.com/store/details/15a067411b8d4429b0954434d8f05d48rcp1/sku/7ed521aacf2a44168fb99cd1e13472ad"
     }
   ],
-  "updated": "2020-04-03T07:21:46.244Z"
+  pro_games: {
+    "month": "04-2020",
+    "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"] 
+  },
+  "updated": "2020-04-07T07:42:58.833Z"
 }
