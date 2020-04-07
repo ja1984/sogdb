@@ -26,8 +26,14 @@
             <span class="game-modes__name">{{ mode }}</span>
           </div>
           <div class="column column--wrap">
-            <img v-if="game.game_modes.includes(mode)" src="@/assets/check.svg" class="game-modes__icon">
-            <img v-else src="@/assets/x.svg" class="game-modes__icon">
+            <template v-if="game.game_modes.includes(mode)">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check game-modes__icon"><polyline points="20 6 9 17 4 12"></polyline></svg>
+            </template>
+            <template v-else>
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x game-modes__icon"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </template>
+            <!-- <img src="@/assets/check.svg" class="game-modes__icon">
+            <img v-else src="@/assets/x.svg" class="game-modes__icon"> -->
           </div>
         </div>
       </div>
@@ -40,7 +46,7 @@
         <div class="column column--wrap">
           <a :href="game.store_link" @click.stop target="_blank">
             <div class="store-icon">
-              <img src="@/assets/shopping-bag.svg" />
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shopping-bag"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg>
               <span class="store-icon__badge" v-if="game.expansions.length > 0">{{ game.expansions.length}}</span>
             </div>
           </a>
@@ -171,7 +177,6 @@ export default {
 }
 
 .game-modes__icon {
-  display: block;
   height: 18px;
 }
 

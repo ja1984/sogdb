@@ -16,6 +16,9 @@ export default {
 </script>
 
 <style lang="less">
+* {
+  box-sizing: border-box;
+}
 
 html, body {
   margin: 0;
@@ -25,16 +28,22 @@ html, body {
 body {
   background-color: #f5f5f5;
   color: #333;
-  padding-bottom: 50px;
   overflow-y: scroll;
-}
-#app {
   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,
   Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
 }
 
-* {
-  box-sizing: border-box;
+a {
+  color: #333;
+}
+
+body.dark-theme {
+  background-color: #282d3a;
+  color: #eee;
+
+  a {
+    color: #eee;
+  }
 }
 
 .row {
@@ -73,6 +82,12 @@ body {
   border-radius: 5px;
   overflow: hidden;
   box-shadow: 0 5px 10px -7px rgba(0,0,0,.3)
+}
+
+body.dark-theme {
+  .card {
+    background: rgba(255, 255, 255, .1);
+  }
 }
 
 .card--clickable {

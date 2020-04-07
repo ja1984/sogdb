@@ -351,6 +351,12 @@ a {
   }
 }
 
+body.dark-theme {
+  .logo__text {
+    color: #eee;
+  }
+}
+
 .logo__sub-title {
   font-size: 13px;
   margin-top: -10px;
