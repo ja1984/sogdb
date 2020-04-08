@@ -1,16 +1,19 @@
 <template>
   <div id="app">
     <GamesLibrary />
+    <FooterComponent />
   </div>
 </template>
 
 <script>
 import GamesLibrary from './components/GamesLibrary.vue';
+import FooterComponent from './components/FooterComponent.vue';
 
 export default {
   name: 'App',
   components: {
     GamesLibrary,
+    FooterComponent,
   },
 };
 </script>
@@ -44,6 +47,12 @@ body.dark-theme {
   a {
     color: #eee;
   }
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .row {
@@ -86,7 +95,7 @@ body.dark-theme {
 
 body.dark-theme {
   .card {
-    background: rgba(255, 255, 255, .1);
+    background: rgb(62, 66, 78);
   }
 }
 
@@ -253,6 +262,13 @@ body.dark-theme {
 
   &:hover {
     border-color: lighten(#2c3e50, 15%);
+  }
+}
+
+body.dark-theme {
+  .filter-toggle {
+    border-color: #fff;
+    color: #fff;
   }
 }
 
@@ -481,4 +497,29 @@ button[aria-label][data-balloon-pos] {
     body.no-scroll {
       overflow: hidden;
     }
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.footer {
+  padding: 50px 0;
+  margin-top: 50px;
+  background: #2c3e50;
+  color: #fff;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0,0,0, .8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 </style>
