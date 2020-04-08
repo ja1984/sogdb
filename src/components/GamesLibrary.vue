@@ -202,14 +202,12 @@ export default {
 
         this.games.push(game);
       });
-      console.log(response.data.pro_games);
       this.pro_games = response.data.pro_games;
     });
   },
   computed: {
     proGames() {
       const month = format(new Date(), 'MM-yyyy');
-      console.log(month, this.pro_games);
       const proPeriod = this.pro_games.find((x) => x.month === month);
       if (!proPeriod) return [];
       return proPeriod.games;
@@ -417,15 +415,21 @@ body.dark-theme {
 .header .row.always-flex {
   display: flex;
 }
- .select-theme {
-   cursor: pointer;
-   opacity: .5;
-   transition: all ease .3s;
+.select-theme {
+  cursor: pointer;
+  opacity: .5;
+  transition: all ease .3s;
 
-   &:hover {
-     opacity: 1;
-   }
- }
+  &:hover {
+    opacity: 1;
+  }
+
+  @media(max-width: 1023px) {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+  }
+}
 .select-theme__icon {
   display: block;
 }

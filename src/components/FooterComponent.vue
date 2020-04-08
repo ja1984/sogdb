@@ -1,7 +1,7 @@
 <template>
     <footer class="footer">
       <div class="container">
-        <div class="row">
+        <div class="row row--block-mobile">
           <div class="column">
             <div class="small-section">
             <div class="logo row row--center-v row--small-gutter">
@@ -40,12 +40,12 @@
       <div class="modal" v-show="showModal">
         <div class="modal__inner">
             <div class="modal__inner__close" @click="showModal = false">
-              <img src="@/assets/x.svg" class="game-details__header__close__icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x game-details__header__close__icon"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
             </div>
           <div class="dev-information">
             <header class="dev-information__header">
               <strong class="current-color">JSON URL</strong>
-              <input readonly type="text" class="form-input form-input--fill" value="https://github.com/ja1984/sogdb/blob/master/data/games.json">
+              <input readonly type="text" class="form-input form-input--fill" value="https://raw.githubusercontent.com/ja1984/sogdb/master/data/games.json">
               <strong class="current-color margin-top">Response</strong>
             </header>
             <section class="dev-information__body">
@@ -166,7 +166,9 @@ a {
 }
 
 .small-section {
-  padding-right: 125px;
+  @media(min-width: 1024px) {
+    padding-right: 125px;
+  }
 }
 
 h2 {
@@ -284,5 +286,19 @@ body.dark-theme {
   top:10px;
   right: 10px;
   cursor: pointer;
+  color: #333;
+}
+
+body.dark-theme {
+  .modal__inner__close {
+    color: #eee;
+  }
+}
+
+
+.row--block-mobile {
+  @media(max-width: 1023px) {
+    display: block;
+  }
 }
 </style>

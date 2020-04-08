@@ -233,6 +233,13 @@ body.dark-theme {
   }
 }
 
+body.dark-theme {
+  .form-input {
+    background: rgba(255, 255, 255, .1);
+    color: #fff;
+  }
+}
+
 .form-input--fill {
   width: 100%;
 }
