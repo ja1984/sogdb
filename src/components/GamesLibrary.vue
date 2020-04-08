@@ -41,19 +41,20 @@
         </div>
         <VueSlideToggle :open="showFilter">
           <div class="filter-options">
+            <h2 class="text-center">Showing {{ filteredGames.length }} games of {{ games.length }}</h2>
             <div class="rating genres">
               <strong class="filter-options__title">Rating {{ (rating === 0 || rating === '0') ? '' : `> ${rating}` }}</strong>
               <div class="row row--small-gutter">
                   <input type="range" min="0" max="100" v-model="rating" class="form-input form-input--fill">
               </div>
             </div>
-            <div class="genres">
-              <strong class="filter-options__title">Genres</strong>
+            <div class="resolutions genres">
+              <strong class="filter-options__title">Resolution</strong>
               <div class="row row--small-gutter">
-                <div class="column filter-genre" v-for="genre in sortedGenres" :key="genre">
+                <div class="column filter-genre" v-for="resolution in sortedResolutions" :key="resolution">
                   <label class="checkbox">
-                    <input v-model="selectedGenres" :value="genre" type="checkbox" class="form-input">
-                    <div class="checkbox-box" /> <span class="checkbox__label">{{ genre }}</span>
+                    <input v-model="selectedResolutions" :value="resolution" type="checkbox" class="form-input">
+                    <div class="checkbox-box" /> <span class="checkbox__label">{{ resolution }}</span>
                   </label>
                 </div>
               </div>
@@ -65,6 +66,17 @@
                   <label class="checkbox">
                     <input v-model="selectedGameModes" :value="mode" type="checkbox" class="form-input">
                     <div class="checkbox-box" /> <span class="checkbox__label">{{ mode }}</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="genres">
+              <strong class="filter-options__title">Genres</strong>
+              <div class="row row--small-gutter">
+                <div class="column filter-genre" v-for="genre in sortedGenres" :key="genre">
+                  <label class="checkbox">
+                    <input v-model="selectedGenres" :value="genre" type="checkbox" class="form-input">
+                    <div class="checkbox-box" /> <span class="checkbox__label">{{ genre }}</span>
                   </label>
                 </div>
               </div>
@@ -154,10 +166,12 @@ export default {
       game_modes: [],
       countries: [],
       languages: [],
+      resolutions: [],
       selectedGenres: [],
       selectedGameModes: [],
       selectedCountries: [],
       selectedLanguages: [],
+      selectedResolutions: [],
       pro_games: [],
       rating: 0,
       filter: '',
@@ -185,6 +199,10 @@ export default {
             this.game_modes.push(mode);
           }
         });
+
+        if (!this.resolutions.includes(game.resolution)) {
+          this.resolutions.push(game.resolution);
+        }
 
         game.countries.forEach((country) => {
           if (!this.countries.includes(country)) {
@@ -220,6 +238,11 @@ export default {
       if (this.rating > 0) {
         games = games
           .filter((x) => (x.rating || 0) >= this.rating);
+      }
+
+      if (this.selectedResolutions.length > 0) {
+        games = games
+          .filter((x) => this.selectedResolutions.includes(x.resolution));
       }
 
       if (this.selectedLanguages.length > 0) {
@@ -276,6 +299,10 @@ export default {
     },
     sortedGenres() {
       return this.genres.concat()
+        .sort((a, b) => a.localeCompare(b));
+    },
+    sortedResolutions() {
+      return this.resolutions.concat()
         .sort((a, b) => a.localeCompare(b));
     },
   },

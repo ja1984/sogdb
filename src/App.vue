@@ -529,4 +529,8 @@ button[aria-label][data-balloon-pos] {
   justify-content: center;
   align-items: center;
 }
+
+.text-center {
+  text-align: center;
+}
 </style>
