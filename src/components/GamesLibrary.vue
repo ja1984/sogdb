@@ -186,6 +186,9 @@ export default {
     };
   },
   mounted() {
+    if (document.body.classList.contains('dark-theme')) {
+      this.useDarkTheme = true;
+    }
     axios.get('https://raw.githubusercontent.com/ja1984/osgdb/master/data/games.json').then((response) => {
       response.data.games.forEach((game) => {
         game.genres.forEach((genre) => {
@@ -315,8 +318,10 @@ export default {
     useDarkTheme(useDarkTheme) {
       if (useDarkTheme) {
         document.body.classList.add('dark-theme');
+        localStorage.setItem('dark-theme', true);
       } else {
         document.body.classList.remove('dark-theme');
+        localStorage.removeItem('dark-theme');
       }
     },
     selectedGame(game) {
