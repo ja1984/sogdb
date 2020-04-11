@@ -631,7 +631,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "Face your fears in GYLT, a haunting tale about bullying and childhood nightmares, as you help Sally navigate a creepy world to rescue her missing cousin Emily",
       "genres": [
         "action",
@@ -639,7 +639,7 @@
       ],
       "image_slug": "gylt",
       "slug": "gylt",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Gylt",
       "game_modes": [
         "single player"
