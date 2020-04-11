@@ -399,8 +399,15 @@
       "store_link": "https://stadia.google.com/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/01e95e73256c465fb5620fc574446413"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name": "GRID Ultimate Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/ca805d3d37404654a91d2ea62fad7bd4rcp1/sku/4f1db1c66f6e427286cc21d116e7bbee"
+        }
+      ],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "GRID is a racing experience like no other. Offering unrivalled wheel-to-wheel racing for everyone, where every race is unpredictable as you create rivals and nemeses on your road to conquering the world of motorsport. Play now and get your heart racing.",
       "genres": [
         "racing"
