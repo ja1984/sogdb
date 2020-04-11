@@ -684,7 +684,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "Manage your football club, your way, in a living, breathing football universe which places you at its very heart. In this latest instalment of the best-selling series, every footballing decision is yours to make; from creating tactical styles and training schedules to assembling an elite backroom staff and working with your scouts to build the ultimate squad. The question is, at which of the world’s best clubs will your journey begin? There are over 100 leagues from 50 countries to choose from. FM20 is a world that rewards planning and knowledge but, unlike other games, there’s no script or pre-defined ending – just endless possibilities. How you get to the top is up to you; you own your decision, and their consequences.",
       "genres": [
         "sports",
@@ -693,7 +693,7 @@
       ],
       "image_slug": "football_manager_2020",
       "slug": "football-manager-2020",
-      "languages": [],
+      "languages": ["german", "english", "spanish", "french", "italian"],
       "name": "Football Manager 2020",
       "game_modes": [
         "single player",
