@@ -573,8 +573,17 @@
       "store_link": "https://stadia.google.com/store/details/42503ac2cfcf40018c15c86b86a5508drcp1/sku/c86bd12f279741a8b8c9c522845c7fa9"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name": "Red Dead Redemption 2: Ultimate Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/08bf286364164e14bac41b0040d6331f"
+        },
+        {
+          "name": "Red Dead Redemption 2: Special Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/63e94c60b10e4267add34ef768c30f8f"
+        }
+      ],
+      "countries": ["united states", "united kingdom", "sweden", "denmark", "italy", "norway", "finland", "france", "belgium", "canada", "netherlands", "spain", "ireland", "germany"],
       "description": "Red Dead Redemption 2, the critically acclaimed open world epic from Rockstar Games and the highest rated game of the console generation, now enhanced for Google Stadia with new Story Mode content, visual upgrades and more. America, 1899. The end of the wild west era has begun. After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.",
       "genres": [
         "action",
@@ -582,7 +591,7 @@
       ],
       "image_slug": "rdr2",
       "slug": "red-dead-redemption-2",
-      "languages": [],
+      "languages": ["english", "french", "german", "italian", "spanish"],
       "name": "Red Dead Redemption 2",
       "game_modes": [
         "single player",
