@@ -773,7 +773,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
       "description": "Triumph over evil with the hand you’re dealt! SteamWorld Quest is the roleplaying card game you’ve been waiting for! Lead a party of aspiring heroes through a beautifully hand-drawn world and intense battles using only your wits and a handful of cards. Take on whatever threat comes your way by crafting your own deck choosing from over 100 unique punch-cards! What awaits you is a luscious treasure chest filled with gold, dragons, vivid worlds, magic, knights in shining armor as well as XP, turn-based battles and all that good RPG stuff! The game’s humorous mix of traditional fantasy and steampunk robots makes for an unforgettable experience with lots of laughs.",
       "genres": [
         "action",
@@ -782,7 +782,7 @@
       ],
       "image_slug": "steamworld_quest",
       "slug": "steamworld-quest-hand-of-gilgamech",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish", "russian"],
       "name": "SteamWorld Quest: Hand of Gilgamech",
       "game_modes": [
         "single player"
@@ -959,7 +959,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "Stacks On Stacks (On Stacks) is a zany 3D tower builder. Play as the Master Stacker, Rockit, who must use her psychic helmet to stack the colorful bricks falling all over her madcap world. BUILD stable towers by executing architectural feats of balancing. INCORPORATE mixed-up materials into your towers: works of art, aquariums, magnets, and more. DEFEND your towers against invading ghosts, a fireball-breathing dragon, and other outlandish hazards. KNOCK your finished towers back down with a wrecking ball.",
       "genres": [
         "casual",
@@ -968,7 +968,7 @@
       ],
       "image_slug": "stacks_on_stacks",
       "slug": "stacks-on-stacks-on-stacks",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Stacks On Stacks (On Stacks)",
       "game_modes": [
         "single player",
