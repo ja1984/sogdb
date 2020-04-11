@@ -368,15 +368,24 @@
       "store_link": "https://stadia.google.com/store/details/120348c2707740b99b509fad49a2f45drcp1/sku/888a817c35b5439bb6a03a78ab09e138"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name": "Trials Rising - Digital Gold Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/cc66f2992d04402bba5cbc8abf6cc616"
+        }
+      ],
+      "countries": [
+        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+      ],
       "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest opus of the Trials franchise. All new features, more competitions and more tracks means new challenges. Ride challenging tracks around the world – from the Great Wall of China and New York City to the Eiffel Tower and everywhere in between. With the new hilarious Tandem Bike, get your friends and try to control one bike with two riders. From your local backyard to worldwide stadiums, defeat all your opponents online and rise to glory. Create and share unique levels in Track Central using over 10 000 items available. Possibilities are endless , and so is the fun.",
       "genres": [
         "racing"
       ],
       "image_slug": "trials_rising",
       "slug": "trials-rising",
-      "languages": [],
+      "languages": [
+        "english", "french", "italian", "german", "spanish", "dutch", "arabic", "chinese", "japanese", "russian", "portuguese (Brazil)"
+      ],
       "name": "Trials Rising",
       "game_modes": [
         "single player",
