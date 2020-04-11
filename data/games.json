@@ -427,7 +427,9 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": [
+        "united states", "belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom"
+      ],
       "description": "Thumper is rhythm violence: classic rhythm-action, blistering speed, and brutal physicality. You are a space beetle. Brave the hellish void and confront a maniacal giant head from the future.",
       "genres": [
         "action",
@@ -436,7 +438,9 @@
       ],
       "image_slug": "thumper",
       "slug": "thumper",
-      "languages": [],
+      "languages": [
+        "english (united states)", "french (france)", "french (canada)", "italian (italy)", "german (germany)", "spanish (spain)", "japanese (japan)", "korean (south korea)", "chinese (traditional)", "chinese (simplified)", "danish (denmark)", "finnish (finland)", "dutch (netherlands)", "norwegian (norway)", "polish (poland)", "portuguese (brazil)", "russian (russia)", "swedish (sweden)", "turkish (turkey)"
+      ],
       "name": "Thumper",
       "game_modes": [
         "single player"
