@@ -729,14 +729,14 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "You know what the problem with multiplayer games is, right? The other players! It’s always THEIR FAULT if you lose! We’ve got the perfect game to blame your friends for their incapability: Spitlings! This chaotic action arcade game for up to four players is a modern take on the hardcore classics. You’re in control of a Spitling, a charming rectangular creature with teeth it can spit or use to jump! Makes no sense? Who cares, it’s FUN! Spitlings is a cute but hardcore Arcade game that’s made for playing its hundreds of levels locally/online with friends. Keep playing to unlock new music tracks, unique characters to play with and intense visual themes for certain levels.",
       "genres": [
         "action"
       ],
       "image_slug": "spitlings",
       "slug": "spitlings",
-      "languages": [],
+      "languages": ["german", "english", "spanish", "french", "italian"],
       "name": "Spitlings",
       "game_modes": [
         "single player",
