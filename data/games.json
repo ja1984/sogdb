@@ -552,7 +552,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
       "genres": [
         "action",
@@ -560,7 +560,7 @@
       ],
       "image_slug": "tombraider",
       "slug": "tomb-raider-definitive-edition",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Tomb Raider: Definitive Edition",
       "game_modes": [
         "single player",
