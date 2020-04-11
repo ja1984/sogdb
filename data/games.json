@@ -528,7 +528,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "DRAGON BALL XENOVERSE 2 gives players the ultimate DRAGON BALL gaming experience! Develop your own warrior, create the perfect avatar, train to learn new skills & help fight new enemies to restore the original story of the DRAGON BALL series. Join 300 players from around the world in the new hub city of Conton & fight with or against them.",
       "genres": [
         "action",
@@ -536,7 +536,7 @@
       ],
       "image_slug": "dragonball_xenoverse",
       "slug": "dragonball-xenoverse-2",
-      "languages": [],
+      "languages": ["english (united states)", "spanish (spain)", "spanish (latin america)", "french (france)", "italian (italy)", "german (germany)", "portuguese (brazil)", "japanese (japan)"],
       "name": "Dragon Ball Xenoverse 2",
       "game_modes": [
         "single player",
