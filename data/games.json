@@ -864,14 +864,14 @@
           "store_link": "https://stadia.google.com/u/1/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/354ab39ab5e14aaba1a06ef86a0268fe"
         }
       ],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "HISTORY WILL REMEMBER. In The Division 2, the fate of the free world is on the line. Lead a team of elite agents into a post-pandemic Washington DC to restore order and prevent the collapse of the city. The Division 2 is an online, action shooter RPG experience, where exploration and player-progression are essential. Liberate Washington DC – Save a country on the brink of collapse as you explore an open, dynamic and hostile world. Stronger with your team – Specialize and fight together with your friends in online co-op or against others in competitive adversial PVP mode. Genre-defining endgame – Choose a unique class specialization to take on the toughest challenges with friends.",
       "genres": [
         "action"
       ],
       "image_slug": "tom_clancys_the_division_2",
       "slug": "tom-clancys-the-division-2",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Tom Clancy's The Division 2",
       "game_modes": [
         "cross platform multiplayer",
