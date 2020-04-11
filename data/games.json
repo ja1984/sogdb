@@ -603,8 +603,13 @@
       "store_link": "https://stadia.google.com/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/f790e37b6161477188923408085528a1"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name":"Farming Simulator 19 Platinum Edition",
+          "store_link":"https://stadia.google.com/u/1/store/details/ebf235012b054269af70eee901bc85cfrcp1/sku/0292121ae01e4247ace30184df5f6ac0"
+        }
+      ],
+      "countries": ["united states", "belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom"],
       "description": "Take on the role of a modern farmer in Farming Simulator 19 Platinum Edition! For the first time in the franchise history, discover CLAAS, one of the world's leading farming brands. Enjoy over 380 machines from John Deere, CASE IH, New Holland, Challenger, Fendt, Massey Ferguson, Valtra, Krone, Deutz-Fahr and many more. Including more than 35 new CLAAS vehicles and tools to grow your farm alone or with other players in two huge maps filled with exciting farming activities, crops to harvest and animals to tend to.",
       "genres": [
         "simulation",
@@ -612,7 +617,7 @@
       ],
       "image_slug": "farming_simulator19",
       "slug": "farming-simulator-2019",
-      "languages": [],
+      "languages": ["english", "german", "french", "spanish (spain)", "italian", "dutch"],
       "name": "Farming Simulator 2019",
       "game_modes": [
         "single player",
