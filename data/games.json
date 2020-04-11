@@ -650,15 +650,24 @@
       "store_link": "https://stadia.google.com/store/details/18a3cc2bb111419c8ac873086d04dfaarcp1/sku/9ac5597c3f4a4e648c9ae56bac3d1b32"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name":"NBA 2K20 Legend Edition",
+          "store_link":"https://stadia.google.com/u/1/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/0a763df666fc4569896ca44062308138"
+        },
+        {
+          "name":"NBA 2K20 Digital Deluxe",
+          "store_link":"https://stadia.google.com/u/1/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/183f245b98a141ae97214c9ee5ae8a56"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "NBA 2K has evolved into much more than a basketball simulation. 2K continues to redefine what’s possible in sports gaming with NBA 2K20, featuring best in class graphics & gameplay, ground breaking game modes, and unparalleled player control and customization. Plus, with its immersive open-world Neighborhood, NBA 2K20 is a platform for gamers and ballers to come together and create what’s next in basketball culture",
       "genres": [
         "sports"
       ],
       "image_slug": "nba_2k20",
       "slug": "nba-2k20",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish", "japanese", "korean", "chinese (simplified)", "chinese (traditional)"],
       "name": "NBA 2K20",
       "game_modes": [
         "single player",

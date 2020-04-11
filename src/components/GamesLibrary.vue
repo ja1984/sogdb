@@ -219,8 +219,9 @@ export default {
         });
 
         game.languages.forEach((language) => {
-          if (!this.languages.includes(language)) {
-            this.languages.push(language);
+          const gameLanguage = language.split(' (')[0];
+          if (!this.languages.includes(gameLanguage)) {
+            this.languages.push(gameLanguage);
           }
         });
 
