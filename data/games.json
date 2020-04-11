@@ -886,8 +886,13 @@
       "store_link": "https://stadia.google.com/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/bed63eac149542078fa5b9d6f20f5f2f"
     },
     {
-      "expansions": [],
-      "countries": [],
+      "expansions": [
+        {
+          "name":"DOOM Eternal Deluxe Edition",
+          "store_link":"https://stadia.google.com/u/1/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/e74abd04f4a34c7a82b6cf8cd9cf9ac0"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you. Experience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat. And enter BATTLEMODE, the new 2 versus 1 multiplayer experience where a fully-armed DOOM Slayer faces off against two player-controlled demons, fighting it out in a best-of-five round match of intense first-person combat.",
       "genres": [
         "action",
@@ -895,7 +900,7 @@
       ],
       "image_slug": "doom_eternal",
       "slug": "doom-eternal",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "DOOM Eternal",
       "game_modes": [
         "single player",
