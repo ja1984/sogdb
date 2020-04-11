@@ -838,7 +838,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
       "description": "In SteamWorld Heist, you command a steam-driven pirate crew in a series of epic tactical shootouts. It’s turn-based strategy with a twist: You manually aim the guns of your robots, allowing for insane skill shots and bullet-bouncing action! As the captain you will board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your recruits with unique abilities, weapons – and even stylish hats!",
       "genres": [
         "strategy",
@@ -847,7 +847,7 @@
       ],
       "image_slug": "steamworld_heist",
       "slug": "steamworld-heist",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish", "russian"],
       "name": "Steamworld Heist",
       "game_modes": [
         "single player"
