@@ -752,7 +752,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
       "description": "SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it’s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath.",
       "genres": [
         "action",
@@ -761,7 +761,7 @@
       ],
       "image_slug": "steamworld_dig_2",
       "slug": "steamworld-dig-2",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish", "russian"],
       "name": "SteamWorld Dig 2",
       "game_modes": [
         "single player"
