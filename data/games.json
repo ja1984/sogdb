@@ -507,14 +507,14 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "spain", "finland", "netherlands", "italy", "denmark", "united kingdom", "france", "germany", "canada", "norway", "ireland", "sweden", "belgium"],
       "description": "Take the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before.",
       "genres": [
         "role-playing game"
       ],
       "image_slug": "final_fantasy_xv",
       "slug": "final-fantasy-xv",
-      "languages": [],
+      "languages": ["english", "german", "spanish", "french", "italian"],
       "name": "Final Fantasy XV",
       "game_modes": [
         "single player",
