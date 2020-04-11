@@ -794,7 +794,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
       "description": "Step into the shoes of the legendary action hero Sam \"Serious\" Stone and experience one of the most explosive shooter game series of all time, as you save the world from a merciless alien invasion.",
       "genres": [
         "shooter",
@@ -802,7 +802,7 @@
       ],
       "image_slug": "serious_sam",
       "slug": "serious-sam-collection",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Serious Sam Collection",
       "game_modes": [
         "single player",
