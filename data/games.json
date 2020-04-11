@@ -707,7 +707,7 @@
     },
     {
       "expansions": [],
-      "countries": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
       "description": "The only Official Monster Energy AMA Supercross Championship videogame is back! Relive the 2019 Supercross season with 100 riders of both 450SX and 250SX categories, 15 official stadiums and tracks and for the first time in the series you'll be able to join the official teams in the career mode. Enjoy an amazing Co-op experience with your friends in the new compound! Have fun with an improved multiplayer experience thanks to the new dedicated servers and play as a Race Director! Create and share an infinite number of tracks with the track editor! Race as a female rider to become the next Supercross champion. New ground and in-air physics, new rider models and new animations will give you a more immersive experience to enjoy the Supercross world at its best!",
       "genres": [
         "racing",
@@ -715,7 +715,7 @@
       ],
       "image_slug": "monster_energy_supercross",
       "slug": "monster-energy-supercross",
-      "languages": [],
+      "languages": ["english", "french", "italian", "german", "spanish", "portuguese (brazil)", "spanish (latin america)"],
       "name": "Monster Energy Supercross",
       "game_modes": [
         "single player",
