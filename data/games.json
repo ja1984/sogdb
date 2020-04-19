@@ -816,7 +816,7 @@
       "store_link": "https://stadia.google.com/store/details/cabec52b78264dafac69011aeacd5753rcp1/sku/45918155e78145af937b5df1a574afd2"
     },
     {
-      "expansions": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "expansions": [],
       "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
       "description": "SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below...",
       "genres": [
