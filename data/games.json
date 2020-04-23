@@ -986,6 +986,28 @@
       "released": "2020-03-31T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/15a067411b8d4429b0954434d8f05d48rcp1/sku/7ed521aacf2a44168fb99cd1e13472ad"
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Experience all the thrills of the more-complete-than-ever Managerial Career mode and decide whether to join a 2020 season team or join a totally brand new team. Discover more realistic physics, improved graphics, new 3D models for the riders and face scans of official team managers, plus new animations. You will also have to learn how to manage the wear of tyres. Customize bikes and suits! Find the best combination of sponsor and livery, and choose colours and materials. Coordinate everything with your suit to win in style! Compete with legendary riders! New historic content and a new gaming mode await you to let you relive MotoGP™ history.",
+      "genres": [
+        "racing",
+        "simulation"
+      ],
+      "image_slug": "motogp20",
+      "slug": "motogp20",
+      "languages": ["english", "french", "italian", "german", "spanish", "portuguese"],
+      "name": "MotoGP™20",
+      "game_modes": [
+        "single player",
+        "online multiplayer",
+        "competitive"
+      ],
+      "rating": -1,
+      "released": "2020-04-22T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5"
     }
   ],
   "pro_games": [
