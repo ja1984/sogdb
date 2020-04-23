@@ -4,7 +4,7 @@
     <header class="game-details__header">
       <div class="game-image">
       <img
-          :src="`https://raw.githubusercontent.com/nilicule/StadiaGameDB/master/images/posters/webp/${game.image_slug}.webp`"
+          :src="`https://raw.githubusercontent.com/ja1984/sogdb/master/images/${game.image_slug}.webp`"
           class="image"
         />
         <div class="game-image__name">{{ game.name }}</div>
@@ -20,11 +20,11 @@
       </div>
       <div class="game__information__row">
         <strong>Languages</strong>
-        <div>{{ game.languages.join(', ') }}</div>
+        <div class="capitalize">{{ languages }}</div>
       </div>
       <div class="game__information__row">
         <strong>Countries</strong>
-        <div>{{ game.countries.join(', ') }}</div>
+        <div class="capitalize">{{ countries }}</div>
       </div>
       <div class="game__information__row">
         <strong class="strong strong--larger">Expansions</strong>
@@ -54,6 +54,14 @@ export default {
     game: {
       type: Object,
       default: () => {},
+    },
+  },
+  computed: {
+    languages() {
+      return this.game.languages.concat().sort((a, b) => a.localeCompare(b)).join(', ');
+    },
+    countries() {
+      return this.game.countries.concat().sort((a, b) => a.localeCompare(b)).join(', ');
     },
   },
   methods: {
@@ -166,5 +174,9 @@ body.dark-theme {
   font-size: 22px;
   margin-top: 20px;
   display: block;
+}
+
+.capitalize {
+  text-transform: capitalize;
 }
 </style>

@@ -3,7 +3,7 @@
     <header class="card__header">
       <div class="game-image">
         <img
-          :src="`https://raw.githubusercontent.com/nilicule/StadiaGameDB/master/images/posters/webp/${game.image_slug}.webp`"
+          :src="`https://raw.githubusercontent.com/ja1984/sogdb/master/images/${game.image_slug}.webp`"
           class="game-image__image"
         />
         <div class="rating" v-if="game.rating && !isNaN(game.rating)" alt="Rating" title="Rating">
