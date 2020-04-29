@@ -1058,6 +1058,31 @@
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/71e7c4fc5ca24f0f8301da6d042bf18e"
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Get Packed is a couch co-op removals game full of calamity and physics-based carnage for 1-4 players. When a greedy salt mining company takes over Ditchlington, Last Ditch Removals must handle the hostile eviction. With little time and even less caution, your ragtag removals team gets to work rapidly relocating the entire town… leaving a trail of destruction, explosions, and furniture fragments in your wake! Are you ready for some destructive fun with friends? Things you'll love: 1 - 4 player local and online co-op. Campaign and Destruction game modes. Co-op chaos and carnage across 12 locations. 4 Customizable/Playable characters",
+      "genres": [
+        "party",
+        "action"
+      ],
+      "image_slug": "get_packed",
+      "slug": "get-packed",
+      "languages": ["german", "spanish", "english", "french", "italian"],
+      "name": "Get Packed",
+      "game_modes": [
+        "Single player",
+        "competitive",
+        "online co-op",
+        "local co-op",
+        "online multiplayer",
+        "local multiplayer"
+      ],
+      "rating": -1,
+      "released": "2020-04-27T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/73182869b2a644bdbef46984b96e1721rcp1/sku/a6ffc113bea9495b84581796893ebf50"
     }
   ],
   "pro_games": [
