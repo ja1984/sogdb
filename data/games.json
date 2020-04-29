@@ -69,7 +69,7 @@
       "genres": [
         "action",
         "adventure",
-        "role-playing game",
+        "role-playing",
         "arcade"
       ],
       "image_slug": "darksiders_genesis",
@@ -207,7 +207,7 @@
       "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
       "genres": [
         "shooter",
-        "role-playing game",
+        "role-playing",
         "action"
       ],
       "image_slug": "borderlands3",
@@ -510,7 +510,7 @@
       "countries": ["united states", "spain", "finland", "netherlands", "italy", "denmark", "united kingdom", "france", "germany", "canada", "norway", "ireland", "sweden", "belgium"],
       "description": "Take the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before.",
       "genres": [
-        "role-playing game"
+        "role-playing"
       ],
       "image_slug": "final_fantasy_xv",
       "slug": "final-fantasy-xv",
@@ -778,7 +778,7 @@
       "genres": [
         "action",
         "adventure",
-        "role-playing game"
+        "role-playing"
       ],
       "image_slug": "steamworld_quest",
       "slug": "steamworld-quest-hand-of-gilgamech",
@@ -1008,6 +1008,25 @@
       "released": "2020-04-22T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5"
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Eight travelers. Eight adventures. Eight roles to play. Embark on an epic journey across the vast and wondrous world of Orsterra and discover the captivating stories of each of the eight travelers.",
+      "genres": [
+        "role-playing"
+      ],
+      "image_slug": "octopath-traveler",
+      "slug": "octopath-traveler",
+      "languages": ["german", "spanish", "english", "french", "italian", "japanese", "chinese"],
+      "name": "OCTOPATH TRAVELER",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2020-04-27T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/48ead86182b14fe0afcc5f2927dbed51rcp1/sku/a6c13e6aa796439295774eb0e8cd3f8b"
     }
   ],
   "pro_games": [
