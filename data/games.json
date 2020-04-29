@@ -1019,14 +1019,45 @@
       "image_slug": "octopath-traveler",
       "slug": "octopath-traveler",
       "languages": ["german", "spanish", "english", "french", "italian", "japanese", "chinese"],
-      "name": "OCTOPATH TRAVELER",
+      "name": "Octopath Traveler",
       "game_modes": [
         "single player"
       ],
-      "rating": -1,
+      "rating": 80,
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/48ead86182b14fe0afcc5f2927dbed51rcp1/sku/a6c13e6aa796439295774eb0e8cd3f8b"
+    },
+    {
+      "expansions": [
+        {
+          "name": "PlayerUnknown's Battlegrounds - Pioneer Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/be9526126d394061b0eef9b16352357e"
+        },
+        {
+          "name": "PlayerUnknown's Battlegrounds - Chicken Dinner Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/9faa81e600704a828c243bf0b9c479bd"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "This is Battle Royale. Land, loot and outwit your opponents to become the last player left standing in a thrilling game experience full of unexpected, adrenaline-pumping moment",
+      "genres": [
+        "shooter",
+        "action"
+      ],
+      "image_slug": "pubg",
+      "slug": "playerunknowns-battlegrounds",
+      "languages": ["german", "spanish", "english", "french", "italian"],
+      "name": "PlayerUnknown's Battlegrounds",
+      "game_modes": [
+        "online multiplayer",
+        "competitive",
+        "cross platform multiplayer"
+      ],
+      "rating": 86,
+      "released": "2020-04-27T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/71e7c4fc5ca24f0f8301da6d042bf18e"
     }
   ],
   "pro_games": [
