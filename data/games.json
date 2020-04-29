@@ -1072,7 +1072,7 @@
       "languages": ["german", "spanish", "english", "french", "italian"],
       "name": "Get Packed",
       "game_modes": [
-        "Single player",
+        "single player",
         "competitive",
         "online co-op",
         "local co-op",
@@ -1083,6 +1083,29 @@
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/73182869b2a644bdbef46984b96e1721rcp1/sku/a6ffc113bea9495b84581796893ebf50"
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Grow your empire anywhere, anytime, with MONOPOLY for Stadia! Immerse yourself in a mix of the original family-favorite board game enriched with new ways to play: • Choose among three lively 3D boards • Play on-the-go, with up to 6 players • Not enough time for a full game? Enjoy new modes for faster sessions • Select your own rules and spice things up with the new Action Cards Trading your way to success has never been so fun!",
+      "genres": [
+        "board game",
+        "kids & family"
+      ],
+      "image_slug": "monopoly",
+      "slug": "monopoly",
+      "languages": ["german", "spanish", "english", "french", "italian"],
+      "name": "Monopoly",
+      "game_modes": [
+        "single player",
+        "local multiplayer",
+        "online multiplayer",
+        "competitive"        
+      ],
+      "rating": -1,
+      "released": "2020-04-27T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/10b8a9cc8ec746f29afc1fc3c3ded28brcp1/sku/256f320f886b4ee68b7980d6fc1bd1b1"
     }
   ],
   "pro_games": [
@@ -1091,5 +1114,5 @@
       "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
     }
   ],
-  "updated": "2020-04-23T19:17:52.439Z"
+  "updated": "2020-04-29T06:15:26.544Z"
 }
