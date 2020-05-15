@@ -1106,6 +1106,57 @@
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/10b8a9cc8ec746f29afc1fc3c3ded28brcp1/sku/256f320f886b4ee68b7980d6fc1bd1b1"
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Celebrate DOOM's 25th anniversary with the release of DOOM 64, originally released on the Nintendo 64 in 1997, and now available for the first time on Stadia. Fight against demons in your crusade to hunt down the Mother of Demons and stop Hell's invasion. As you battle through more than 30 action-packed levels, be on the lookout for enhanced weapons and secrets to help you put an end to the demonic threat.",
+      "genres": [
+        "action",
+        "shooter"
+      ],
+      "image_slug": "doom_64",
+      "slug": "doom-64",
+      "languages": ["german", "spanish", "english", "french", "italian"],
+      "name": "DOOM 64",
+      "game_modes": [
+        "single player"      
+      ],
+      "rating": 77,
+      "released": "2020-05-11T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/5a0e892c933c4f56b4d87976cb655ecfrcp1/sku/bcdca49dcac843f98ddb10e06ba83ee9"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Zombie Army 4: Dead War Deluxe Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/cba537cccfe3470b8784f88660ea5f09rcp1/sku/13f0229eab0a484382e9af78bad74ff7"
+        },
+        {
+          "name": "Zombie Army 4: Dead War Super Deluxe Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/cba537cccfe3470b8784f88660ea5f09rcp1/sku/5027183521d3454a8ff000edbfd478a9"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Hitler’s hordes are back for more in this spine-chilling shooter! Occult enemies, epic weapons and a new campaign for 1-4 players await, as you fight to save humankind from undead Armageddon!",
+      "genres": [
+        "arcade",
+        "action",
+        "adventure"
+      ],
+      "image_slug": "zombie_army_4_dead_war",
+      "slug": "zombie-army-4-dead-war",
+      "languages": ["german", "spanish", "english", "french", "italian"],
+      "name": "Zombie Army 4: Dead War",
+      "game_modes": [
+        "single player",
+        "online multiplayer"
+      ],
+      "rating": 72,
+      "released": "2020-04-30T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/cba537cccfe3470b8784f88660ea5f09rcp1/sku/a7b1581491ea4b7c9fcc89710561f5f7"
     }
   ],
   "pro_games": [
