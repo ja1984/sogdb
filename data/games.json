@@ -1157,6 +1157,26 @@
       "released": "2020-04-30T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/cba537cccfe3470b8784f88660ea5f09rcp1/sku/a7b1581491ea4b7c9fcc89710561f5f7"
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "The Turing Test is a challenging first-person puzzle game set on Jupiter’s moon, Europa. You are Ava Turing, an engineer for the International Space Agency (ISA) sent to discover the cause behind the disappearance of the ground crew stationed there. Upon arrival a series of puzzles awaits you – tests which, according to the station’s AI, Tom, can only be solved by a human. These puzzles have apparently been set by the missing ground crew – but why have they created them and what are they hiding from?",
+      "genres": [
+        "puzzle",
+        "adventure"
+      ],
+      "image_slug": "the_turing_test",
+      "slug": "the-turing-test",
+      "languages": ["english", "french", "italian", "german", "spanish", "korean", "japanese"],
+      "name": "The Turing Test",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 77,
+      "released": "2020-04-30T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/cfd2977e1b9f412387ca2f44848400acrcp1/sku/e8ed70244808408cbb7d3b2b1f06547f"
     }
   ],
   "pro_games": [
@@ -1165,5 +1185,5 @@
       "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
     }
   ],
-  "updated": "2020-04-29T06:15:26.544Z"
+  "updated": "2020-05-15T10:23:29.773Z"
 }
