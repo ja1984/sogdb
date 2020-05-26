@@ -1177,6 +1177,31 @@
       "released": "2020-04-30T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/cfd2977e1b9f412387ca2f44848400acrcp1/sku/e8ed70244808408cbb7d3b2b1f06547f"
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Join Embr, THE Emergency Services Revolution, and become an Embr Respondr™ today! Fight fires and save lives while climbing the ladder of success, all within the comfort of flexible working hours. Embr's mission is simple; bring über firefighting to everyone, everywhere. As an Embr Respondr™️ you'll answer clients' calls for help, and bring firefighting directly to their door! Break down doors, clear gas leaks and put out fires - no job is too much for an Embr Respondr™️.",
+      "genres": [
+        "indie", 
+        "simulation", 
+        "casual"
+      ],
+      "image_slug": "embr",
+      "slug": "embr",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "Embr",
+      "game_modes": [
+        "single player", 
+        "online multiplayer",
+        "online co-op",
+        "cross platform multiplayer"
+      ],
+      "rating": -1,
+      "released": "2020-05-20T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/d599576cddfc400f804b889460e84cb3rcp1/sku/2240fd0ec10f4229ab05fe5c7547b20a",
+      "early_access": true
     }
   ],
   "pro_games": [
@@ -1185,5 +1210,5 @@
       "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
     }
   ],
-  "updated": "2020-05-15T10:23:29.773Z"
+  "updated": "2020-05-26T07:03:46.640Z"
 }
