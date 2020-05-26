@@ -12,6 +12,9 @@
         <div class="game-details__header__close" @click="$emit('close')">
           <img src="@/assets/x.svg" class="game-details__header__close__icon">
         </div>
+                <div v-if="isEarlyAccess" class="early-access">
+          EARLY ACCESS
+        </div>
     </header>
     <section class="game-details__body">
       <div class="game-details__body__inner">
@@ -62,6 +65,9 @@ export default {
     },
     countries() {
       return this.game.countries.concat().sort((a, b) => a.localeCompare(b)).join(', ');
+    },
+    isEarlyAccess() {
+      return this.game.early_access;
     },
   },
   methods: {
@@ -178,5 +184,16 @@ body.dark-theme {
 
 .capitalize {
   text-transform: capitalize;
+}
+
+.early-access {
+  position: absolute;
+  bottom: 15px;
+  right: 0;
+  background: #FFC107;
+  color: #000;
+  font-size: 14px;
+  padding: 5px;
+  font-weight: bold;
 }
 </style>

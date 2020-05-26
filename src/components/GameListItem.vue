@@ -13,6 +13,9 @@
         <div v-if="isProDeal" class="deal" alt="This months pro deal" title="This months pro deal">
           <img src="@/assets/award.svg" class="deal__icon">
         </div>
+        <div v-if="isEarlyAccess" class="early-access">
+          EARLY ACCESS
+        </div>
       </div>
     </header>
     <section class="card__body">
@@ -78,6 +81,9 @@ export default {
   computed: {
     releaseDate() {
       return format(this.game.released, 'MMMM dd, yyyy');
+    },
+    isEarlyAccess() {
+      return this.game.early_access;
     },
   },
 };
@@ -213,5 +219,16 @@ export default {
 .deal__icon {
   display: block;
   width: 18px;
+}
+
+.early-access {
+  position: absolute;
+  bottom: 15px;
+  right: 0;
+  background: #FFC107;
+  color: #000;
+  font-size: 11px;
+  padding: 5px;
+  font-weight: bold;
 }
 </style>
