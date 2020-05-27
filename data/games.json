@@ -1202,6 +1202,49 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/d599576cddfc400f804b889460e84cb3rcp1/sku/2240fd0ec10f4229ab05fe5c7547b20a",
       "early_access": true
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Jotun is a hand-drawn action-exploration game set in Norse mythology. In Jotun, you play Thora, a Viking warrior who died an inglorious death and must prove herself to the Gods to enter Valhalla. Explore vast regions of Norse Purgatory to find runes to unleash the jotun, giant Norse elementals. Fight them using only your massive two-handed axe, the blessings of the Gods and your skills! Impress the Gods!",
+      "genres": [
+        "action", 
+        "adventure"
+      ],
+      "image_slug": "jotun_valhalla_edition",
+      "slug": "jotun-valhalla-edition",
+      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "russian", "portuguese", "polish", "chinese"],
+      "name": "Jotun: Valhalla Edition",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 74,
+      "released": "2020-05-25T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/c727a9083ce649e5b1cc6999c4fa2e5frcp1/sku/43fb9c029d0641e290fdbaedea1c3a40",
+      "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Sundered is a chaotic hand­-drawn metroidvania where you resist or embrace ancient eldritch powers. Confront hordes of terrifying enemies in an ever-changing world inspired by the works of H.P. Lovecraft. Sundered is a challenging and unique take on a classic genre from the creators of Jotun, now with local co-op! You play Eshe, a wanderer in a ruined world, trapped in ever-­changing caverns filled with hordes of terrifying enemies. Harness the power of corrupted relics to defeat gigantic bosses, at the cost of your humanity. Resist or embrace.",
+      "genres": [
+        "action", 
+        "adventure"
+      ],
+      "image_slug": "sundered_eldritch_edition",
+      "slug": "sundered-eldritch-edition",
+      "languages": ["german", "english", "spanish", "french", "italian", "dutch", "danish", "norwegian", "finnish", "swedish", "portuguese", "russian", "polish", "chinese", "japanese", "korean"],
+      "name": "Sundered: Eldritch Edition",
+      "game_modes": [
+        "single player",
+        "local co-op"
+      ],
+      "rating": 73,
+      "released": "2020-05-25T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/5ec4424b963f44d18d0016322c19c9f0rcp1/sku/788a1f7b00f74b26b12d7c6d62d50d96",
+      "early_access": false
     }
   ],
   "pro_games": [
@@ -1210,5 +1253,5 @@
       "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
     }
   ],
-  "updated": "2020-05-26T07:03:46.640Z"
+  "updated": "2020-05-27T08:17:01.581Z"
 }
