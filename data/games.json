@@ -1308,7 +1308,7 @@
       "genres": [
         "fighting"
       ],
-      "image_slug": "power_ranges",
+      "image_slug": "power_rangers",
       "slug": "power-ranges-battle-for-the-grid",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Power Rangers: Battle for the Grid",
@@ -1324,6 +1324,28 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/bbb1a143aa3449a5a1f236a05c305c9frcp1/sku/fe5459c281d9443ca8f0e420f59936fc",
       "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "A new, remade version of the Panzer Dragoon game - true to the original, with improved graphics and controls, that suit modern gaming standards! On a far, lone planet, you encounter two dragons awaken from the ancient times. Armed with a deadly gun from the past and the guidance of your armored blue dragon, you must fulfill your destiny and keep the Prototype Dragon from reaching the Tower or die trying. Features: - Pilot through seven unbelievably realistic levels ranging from tropical blue ocean cities to intricate subterranean ruins. - Attack approaching from all sides enemies quickly and without mercy, with improved 360-degree controls and lock-on targeting.",
+      "genres": [
+        "arcade",
+        "action",
+        "adventure"
+      ],
+      "image_slug": "panzer_dragoon_remake",
+      "slug": "panzer-dragoon-remake",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "Panzer Dragoon: Remake",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2020-05-31T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/ffda0b7e397243f8956f92f89b6902c4rcp1/sku/ac819b64342841eda35cebfd3a34c769",
+      "early_access": false
     }
   ],
   "pro_games": [
@@ -1332,5 +1354,5 @@
       "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
     }
   ],
-  "updated": "2020-05-27T08:17:01.581Z"
+  "updated": "2020-06-01T09:23:50.236Z"
 }
