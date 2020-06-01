@@ -1249,6 +1249,27 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/5ec4424b963f44d18d0016322c19c9f0rcp1/sku/788a1f7b00f74b26b12d7c6d62d50d96",
       "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Blurring the lines between cautious strategy and unbridled mayhem, SUPERHOT is the FPS in which time moves only when you move. No regenerating health bars. No conveniently placed ammo drops. It's just you, outnumbered and outgunned, grabbing the weapons of fallen enemies to shoot, slice, and maneuver through a hurricane of slow-motion bullets. With its unique, stylized graphics SUPERHOT finally adds something new and disruptive to the FPS genre. SUPERHOT’s polished, minimalist visual language helps you concentrate on the most important - on the fluidity of gameplay and cinematic beauty of the fight.",
+      "genres": [
+        "action", 
+        "shooter"
+      ],
+      "image_slug": "superhot",
+      "slug": "superhot",
+      "languages": ["english", "german", "spanish", "french", "italian", "polish", "czech", "hungarian", "japanese", "korean", "portuguese", "russian", "slovak", "chinese"],
+      "name": "SUPERHOT",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 82,
+      "released": "2020-05-31T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/f7afcff709e74227a5648aacadf03815rcp1/sku/ce8a411f4dc2470da828fc259c584aa5",
+      "early_access": false
     }
   ],
   "pro_games": [
