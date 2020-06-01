@@ -1285,7 +1285,7 @@
       ],
       "image_slug": "little_nightmares",
       "slug": "little-nightmares",
-      "languages": [["german", "english", "spanish", "french", "italian", "japanese", "korean", "portuguese", "russian", "chinese"]],
+      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "korean", "portuguese", "russian", "chinese"],
       "name": "Little Nightmares",
       "game_modes": [
         "single player"
@@ -1294,6 +1294,35 @@
       "released": "2020-05-31T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/3aed855f10b34f618e5f6c6f5467bcf9rcp1/sku/77ab8b1807a849e3991826d8d7a9e3e0",
+      "early_access": false
+    },
+    {
+      "expansions": [
+        {
+          "name":"Power Rangers: Battle for the Grid Collector's Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/bbb1a143aa3449a5a1f236a05c305c9frcp1/sku/dd3cc4400aba4b809fb9eafcf61cb344"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Generations of Power Rangers collide across the multiverse’s 25 year history. Experience authentic, but reimagined Power Rangers gameplay. This easy to learn, but hard to master fighting game is designed to welcome players of all skill levels.",
+      "genres": [
+        "fighting"
+      ],
+      "image_slug": "power_ranges",
+      "slug": "power-ranges-battle-for-the-grid",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "Power Rangers: Battle for the Grid",
+      "game_modes": [
+        "single player",
+        "local multiplayer",
+        "online multiplayer",
+        "competitive",
+        "cross platform multiplayer"
+      ],
+      "rating": -1,
+      "released": "2020-05-31T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/bbb1a143aa3449a5a1f236a05c305c9frcp1/sku/fe5459c281d9443ca8f0e420f59936fc",
       "early_access": false
     }
   ],
