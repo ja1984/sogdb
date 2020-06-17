@@ -1346,6 +1346,35 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/ffda0b7e397243f8956f92f89b6902c4rcp1/sku/ac819b64342841eda35cebfd3a34c769",
       "early_access": false
+    },
+    {
+      "expansions": [
+        {
+          "name":"The Elder Scrolls Online: Morrowind Upgrade",
+          "store_link": "https://stadia.google.com/store/details/b17f16d4a4f94c0a85e07f54dbdedbb6rcp1/sku/dc22a780578a43998109b3223e15dcbc"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Includes The Elder Scrolls Online Base game and the Morrowind Chapter. Join over 10 million players in the award-winning online multiplayer RPG and experience an ever-expanding story set across Tamriel. Explore a rich, living world with friends or embark on a solo adventure – the choice is yours to make in a persistent Elder Scrolls world.",
+      "genres": [
+        "role-playing game"
+      ],
+      "image_slug": "elder_scrolls_online",
+      "slug": "elder-scrolls-online",
+      "languages": ["english", "french", "german"],
+      "name": "The Elder Scrolls Online",
+      "game_modes": [
+        "single player",
+        "online multiplayer",
+        "online co-op",
+        "competitive",
+        "cross platform multiplayer"
+      ],
+      "rating": 83,
+      "released": "2020-06-15T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b17f16d4a4f94c0a85e07f54dbdedbb6rcp1/sku/dad1cc5c8c1e45c38a83d125e59ea4b9",
+      "early_access": false
     }
   ],
   "pro_games": [
@@ -1354,5 +1383,5 @@
       "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
     }
   ],
-  "updated": "2020-06-01T09:23:50.236Z"
+  "updated": "2020-06-17T08:13:27.990Z"
 }
