@@ -1375,6 +1375,31 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/b17f16d4a4f94c0a85e07f54dbdedbb6rcp1/sku/dad1cc5c8c1e45c38a83d125e59ea4b9",
       "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Wave Break is a classic arcade-style skate tricking game, with a splash of water, guns and explosions - set in an 80s crime-filled Miami Vice themed world. Score massive points with massive combos, play with friends online, or enjoy the single player campaign mode.",
+      "genres": [
+        "arcade",
+        "action",
+        "pports"
+      ],
+      "image_slug": "wave_break",
+      "slug": "vawe-break",
+      "languages": ["english", "french", "german", "italian", "spanish"],
+      "name": "Wave Break",
+      "game_modes": [
+        "single player",
+        "online multiplayer",
+        "online co-op",
+        "competitive"
+      ],
+      "rating": -1,
+      "released": "2020-06-22T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2",
+      "early_access": false
     }
   ],
   "pro_games": [
