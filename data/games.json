@@ -1400,6 +1400,32 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2",
       "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Just Shapes & Beats is a chaotic co-op musical bullet-hell based on three simple things: avoid Shapes, move to the rad Beats, and die, repeatedly. It’s a new spin on SHMUPs, adding a layer of coop that's at the core of the game: 'cause everything is better with friends.",
+      "genres": [
+        "music or rhythm",
+        "action",
+        "party"
+      ],
+      "image_slug": "just_shapes_beats",
+      "slug": "just-shapes-beats",
+      "languages": ["english", "french", "german", "japanese", "korean", "russian", "chinese", "italian", "spanish"],
+      "name": "Just Shapes & Beats",
+      "game_modes": [
+        "single player",
+        "local multiplayer",
+        "local co-op",
+        "online multiplayer",
+        "online co-op"
+      ],
+      "rating": 83,
+      "released": "2020-06-29T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/6b43cecd79734ba28cef5894985c65f1rcp1/sku/a8918900bd834426ab8f5a55fba998c7",
+      "early_access": false
     }
   ],
   "pro_games": [
