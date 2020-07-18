@@ -1544,6 +1544,29 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/60da786be741463fbbeb63ed5130bc11",
       "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Orcs Must Die! 3 ushers orc-slaying mayhem to a previously unimaginable scale. All new War Scenarios pit players and their friends against the largest orc armies ever assembled. War Machines give players the essential firepower to heave, stab, carbonize, and disarticulate the abominable intruders. Orcs Must Die! 3 is the long-awaited successor to the award-winning series.",
+      "genres": [
+        "action",
+        "strategy",
+        "indie"
+      ],
+      "image_slug": "orcs_must_die_3",
+      "slug": "orcs-must-die-3",
+      "languages": ["english", "french", "italian", "german", "spanish", "japanese", "korean", "finnish", "swedish", "norwegian", "danish", "russian", "portuguese"],
+      "name": "Orcs Must Die! 3",
+      "game_modes": [
+        "single player",
+        "online co-op"
+      ],
+      "rating": -1,
+      "released": "2020-07-13T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a",
+      "early_access": false
     }
   ],
   "pro_games": [
