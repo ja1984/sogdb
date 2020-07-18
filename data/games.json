@@ -1500,7 +1500,7 @@
       "languages": ["english", "french", "german", "italian", "spanish"],
       "name": "Crayta",
       "game_modes": [
-        "olnline multiplayer",
+        "online multiplayer",
         "competitive",
         "online co-op"
       ],
@@ -1508,6 +1508,41 @@
       "released": "2020-06-30T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/bf97db3ce0644a448815aef1a5c33e0a",
+      "early_access": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "F1® 2020 Deluxe Schumacher Edition",
+          "store_link": "https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/5cef6c44a9314c7595e267196aafa823"
+        },
+        {
+          "name": "F1® 2020 F1® Seventy Edition",
+          "store_link": "https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/deb9ce54875f4960bc0845f0294dd44c"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "F1® 2020 allows you to create your F1® team for the very first time and race alongside the official teams and drivers. Alternatively, challenge your friends in new split-screen with casual race options for more relaxed racing. Compete on 22 circuits, with current and classic content.",
+      "genres": [
+        "racing",
+        "sports",
+        "simulation"
+      ],
+      "image_slug": "f1_2020",
+      "slug": "f1-2020",
+      "languages": ["english", "french", "german", "italian", "spanish", "dutch"],
+      "name": "F1® 2020",
+      "game_modes": [
+        "single player",
+        "local multiplayer",
+        "online multiplayer",
+        "competitive",
+        "split screen"
+      ],
+      "rating": 88,
+      "released": "2020-07-06T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/60da786be741463fbbeb63ed5130bc11",
       "early_access": false
     }
   ],
