@@ -1475,6 +1475,40 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/0a60fff637b445a797623d0c69433a9crcp1/sku/772119af45f44182bca3ff8d39f62b0b",
       "early_access": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Crayta: Premium Edition",
+          "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/c43eb98aaf8e455fb6faece785893268"
+        },
+        {
+          "name": "Crayta: Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/f7aa7caf05e64d91af2063bf1803e947"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Crayta brings together players of all abilities and backgrounds to create and play multiplayer games with their families, friends, and the rest of the world. Create and collaborate in real-time, then share your games instantly with the Crayta community. Powerful, flexible, accessible, fun – game creation is now a game in itself!",
+      "genres": [
+        "arcade",
+        "adventure",
+        "party",
+        "action"
+      ],
+      "image_slug": "crayta",
+      "slug": "crayta",
+      "languages": ["english", "french", "german", "italian", "spanish"],
+      "name": "Crayta",
+      "game_modes": [
+        "olnline multiplayer",
+        "competitive",
+        "online co-op"
+      ],
+      "rating": -1,
+      "released": "2020-06-30T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/bf97db3ce0644a448815aef1a5c33e0a",
+      "early_access": false
     }
   ],
   "pro_games": [
