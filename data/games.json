@@ -1426,6 +1426,28 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/6b43cecd79734ba28cef5894985c65f1rcp1/sku/a8918900bd834426ab8f5a55fba998c7",
       "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Say howdy to West of Loathing -- a single-player slapstick comedy adventure role-playing game set in the wild west of the Kingdom of Loathing universe. Traverse snake-infested gulches, punch skeletons wearing cowboy hats, grapple with demon cows, and investigate a wide variety of disgusting spittoons. Talk your way out of trouble as a silver-tongued Snake Oiler, plumb the refried mysteries of the cosmos as a wise and subtle Beanslinger, or let your fists do the talking as a fierce Cow Puncher. Explore a vast open world and encounter a colorful cast of characters, some of whom are good, many of whom are bad, and a few of whom are ugly.",
+      "genres": [
+        "role-playing game",
+        "adventure",
+        "indie"
+      ],
+      "image_slug": "west_of_loathing",
+      "slug": "west-of-loathing",
+      "languages": ["english"],
+      "name": "West of Loathing",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 83,
+      "released": "2020-06-29T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/0a60fff637b445a797623d0c69433a9crcp1/sku/772119af45f44182bca3ff8d39f62b0b",
+      "early_access": false
     }
   ],
   "pro_games": [
