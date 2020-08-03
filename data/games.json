@@ -1041,6 +1041,10 @@
         {
           "name": "PlayerUnknown's Battlegrounds - Chicken Dinner Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/9faa81e600704a828c243bf0b9c479bd"
+        },
+        {
+          "name": "PlayerUnknown's Battlegrounds - Payback Edition",
+          "store_link": "https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/480a6d783c834b9faa5c995f69b49431"
         }
       ],
       "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
@@ -1613,6 +1617,55 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/6d0d865669774338b3ce888a84da6cdercp1/sku/163efc95783a4c39839c218b75e36127",
       "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+      "genres": [
+        "action",
+        "indie"
+      ],
+      "image_slug": "celeste",
+      "slug": "celeste",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "Celeste",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 92,
+      "released": "2020-07-27T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/c911998e4f8d4c6ea6712c5ad33e4a54rcp1/sku/68fb07a7c4ac41f1afb21d742c717538",
+      "early_access": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Strange Brigade Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/8e77c7a4368944589b4c9d8179d2eb4crcp1/sku/fd993b8d4b7a49b99caad668a0d7ab3d"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Egypt, 1930's. Erased from ancient history and buried in a nameless tomb for 4,000 years, Seteki the Witch Queen has risen once again. Only one troop of daring heroes can stand against the fearsome power of Seteki and her army of mummified monstrosities: The Strange Brigade! Explore remarkable ruins, solve perilous puzzles and uncover tantalising treasure while blasting your way through an array of undead enemies in thrilling third-person action that’s certain to bring out your inner adventurer!",
+      "genres": [
+        "arcade",
+        "action",
+        "adventure"
+      ],
+      "image_slug": "strange_brigade",
+      "slug": "strange-brigade",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "Strange Brigade",
+      "game_modes": [
+        "single player",
+        "online co-op"
+      ],
+      "rating": 68,
+      "released": "2020-07-31T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/c911998e4f8d4c6ea6712c5ad33e4a54rcp1/sku/68fb07a7c4ac41f1afb21d742c717538",
+      "early_access": false
     }
   ],
   "pro_games": [
@@ -1621,5 +1674,5 @@
       "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
     }
   ],
-  "updated": "2020-07-18T09:27:45.448Z"
+  "updated": "2020-07-31T09:27:45.448Z"
 }
