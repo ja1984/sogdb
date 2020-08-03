@@ -3,12 +3,24 @@
     {
       "expansions": [
         {
-          "name": "Destiny 2: Shadowkeep",
+          "name": "Shadowkeep",
           "store_link": "https://stadia.google.com/u/1/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/7c7818dfa9774281bdc6375402dc6e0a"
         },
         {
-          "name": "Destiny 2: Forsaken",
+          "name": "Forsaken",
           "store_link": "https://stadia.google.com/u/1/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/6ae17ecb8ef044329109f23df572c0ef"
+        },
+        {
+          "name": "Beyond Light + Season",
+          "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/8e894e5800a84b8aa6b8e277e5790a53"
+        },
+        {
+          "name": "Beyond Light",
+          "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/53ed0e18ae494c929dbec8262afcc915"
+        },
+        {
+          "name": "Beyond Light Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/3e5dab36f21e466499f3449f13c98329"
         }
       ],
       "countries": ["united states", "canada", "united kingdom", "ireland", "france", "germany", "italy", "spain", "belgium", "denmark", "sweden", "netherlands", "norway", "finland"],
@@ -36,7 +48,7 @@
     {
       "expansions": [
         {
-          "name": "RAGE 2: Deluxe Edition",
+          "name": "Deluxe Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/8615c857d7d54efebd94fe17e3f2896crcp1/sku/65e4b00af1094f1c99f5a8c7248b433f"
         }
       ],
@@ -91,7 +103,7 @@
     {
       "expansions": [
         {
-          "name": "Metro Exodus - Gold Edition",
+          "name": "Gold Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/879d82512f5441829250ead1aa678a70rcp1/sku/b1ef708943904e7eaa699d2113805814"
         }
       ],
@@ -143,7 +155,7 @@
     {
       "expansions": [
         {
-          "name": "Assassin's Creed Odyssey - Stadia Season Pass",
+          "name": "Stadia Season Pass",
           "store_link": "https://stadia.google.com/u/1/store/details/8b7e7f7036e5483eaa8745d46248536crcp1/sku/6f6a85eb8e6f4042a95cc5a51ee26984"
         }
       ],
@@ -197,7 +209,7 @@
     {
       "expansions": [
         {
-          "name": "Borderlands®3 Season Pass",
+          "name": "Season Pass",
           "store_link": "https://stadia.google.com/u/1/store/details/be080ad40b434ca289166031d3e88623rcp1/sku/1e6b50c7fd7640f4a7b5160e74708043"
         }
       ],
@@ -230,11 +242,11 @@
     {
       "expansions": [
         {
-          "name": "Tom Clancy's Ghost Recon Breakpoint - Gold Edition",
+          "name": "Gold Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/11c9ece5b3a045908d77cf2b66adb010rcp1/sku/10621ce0fe784ccca7a9d95ec0f24f37"
         },
         {
-          "name": "Tom Clancy's Ghost Recon Breakpoint - Ultimate Edition",
+          "name": "Ultimate Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/11c9ece5b3a045908d77cf2b66adb010rcp1/sku/0339b1c963e64e28a64b5778da93478c"
         }
       ],
@@ -370,7 +382,7 @@
     {
       "expansions": [
         {
-          "name": "Trials Rising - Digital Gold Edition",
+          "name": "Digital Gold Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/cc66f2992d04402bba5cbc8abf6cc616"
         }
       ],
@@ -401,7 +413,7 @@
     {
       "expansions": [
         {
-          "name": "GRID Ultimate Edition",
+          "name": "Ultimate Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/ca805d3d37404654a91d2ea62fad7bd4rcp1/sku/4f1db1c66f6e427286cc21d116e7bbee"
         }
       ],
@@ -453,11 +465,11 @@
     {
       "expansions": [
         {
-          "name":"Mortal Kombat 11 Kombat Pack",
+          "name":"Kombat Pack",
           "store_link":"https://stadia.google.com/u/1/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/1492d4fcf167420cb227a5579f447016"
         },
         {
-          "name": "Mortal Kombat 11: Aftermath Kollection",
+          "name": "Aftermath Kollection",
           "store_link": "https://stadia.google.com/u/1/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/ea65fc37d8504a518edad7534af3fc36"
         }
       ],
@@ -579,11 +591,11 @@
     {
       "expansions": [
         {
-          "name": "Red Dead Redemption 2: Ultimate Edition",
+          "name": "Ultimate Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/08bf286364164e14bac41b0040d6331f"
         },
         {
-          "name": "Red Dead Redemption 2: Special Edition",
+          "name": "Special Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/63e94c60b10e4267add34ef768c30f8f"
         }
       ],
@@ -609,7 +621,7 @@
     {
       "expansions": [
         {
-          "name":"Farming Simulator 19 Platinum Edition",
+          "name":"Platinum Edition",
           "store_link":"https://stadia.google.com/u/1/store/details/ebf235012b054269af70eee901bc85cfrcp1/sku/0292121ae01e4247ace30184df5f6ac0"
         }
       ],
@@ -656,11 +668,11 @@
     {
       "expansions": [
         {
-          "name":"NBA 2K20 Legend Edition",
+          "name":"Legend Edition",
           "store_link":"https://stadia.google.com/u/1/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/0a763df666fc4569896ca44062308138"
         },
         {
-          "name":"NBA 2K20 Digital Deluxe",
+          "name":"Digital Deluxe",
           "store_link":"https://stadia.google.com/u/1/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/183f245b98a141ae97214c9ee5ae8a56"
         }
       ],
@@ -864,7 +876,7 @@
     {
       "expansions": [
         {
-          "name": "Tom Clancy's The Division 2: Warlords of New York Expansion",
+          "name": "Warlords of New York Expansion",
           "store_link": "https://stadia.google.com/u/1/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/354ab39ab5e14aaba1a06ef86a0268fe"
         }
       ],
@@ -892,7 +904,7 @@
     {
       "expansions": [
         {
-          "name":"DOOM Eternal Deluxe Edition",
+          "name":"Deluxe Edition",
           "store_link":"https://stadia.google.com/u/1/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/e74abd04f4a34c7a82b6cf8cd9cf9ac0"
         }
       ],
@@ -919,11 +931,11 @@
     {
       "expansions": [
         {
-          "name": "The Crew 2 - Gold Edition",
+          "name": "Gold Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/1e4107605f83447fa8e04e0abdc578b3"
         },
         {
-          "name": "The Crew 2 - Deluxe Edition",
+          "name": "Deluxe Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/ec30180d14de41fcaec12d442b81e248"
         }
       ],
@@ -1035,15 +1047,15 @@
     {
       "expansions": [
         {
-          "name": "PlayerUnknown's Battlegrounds - Pioneer Edition",
+          "name": "Pioneer Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/be9526126d394061b0eef9b16352357e"
         },
         {
-          "name": "PlayerUnknown's Battlegrounds - Chicken Dinner Edition",
+          "name": "Chicken Dinner Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/9faa81e600704a828c243bf0b9c479bd"
         },
         {
-          "name": "PlayerUnknown's Battlegrounds - Payback Edition",
+          "name": "Payback Edition",
           "store_link": "https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/480a6d783c834b9faa5c995f69b49431"
         }
       ],
@@ -1138,11 +1150,11 @@
     {
       "expansions": [
         {
-          "name": "Zombie Army 4: Dead War Deluxe Edition",
+          "name": "Dead War Deluxe Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/cba537cccfe3470b8784f88660ea5f09rcp1/sku/13f0229eab0a484382e9af78bad74ff7"
         },
         {
-          "name": "Zombie Army 4: Dead War Super Deluxe Edition",
+          "name": "Dead War Super Deluxe Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/cba537cccfe3470b8784f88660ea5f09rcp1/sku/5027183521d3454a8ff000edbfd478a9"
         }
       ],
@@ -1278,7 +1290,7 @@
     {
       "expansions": [
         {
-          "name": "Little Nightmares Secrets of The Maw Expansion Pass",
+          "name": "Secrets of The Maw Expansion Pass",
           "store_link": "https://stadia.google.com/u/1/store/details/3aed855f10b34f618e5f6c6f5467bcf9rcp1/sku/ba538bceb5494eb3a3b53dafec0a0bf3"
         }
       ],
@@ -1303,7 +1315,7 @@
     {
       "expansions": [
         {
-          "name":"Power Rangers: Battle for the Grid Collector's Edition",
+          "name":"Battle for the Grid Collector's Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/bbb1a143aa3449a5a1f236a05c305c9frcp1/sku/dd3cc4400aba4b809fb9eafcf61cb344"
         }
       ],
@@ -1354,7 +1366,7 @@
     {
       "expansions": [
         {
-          "name":"The Elder Scrolls Online: Morrowind Upgrade",
+          "name":"Morrowind Upgrade",
           "store_link": "https://stadia.google.com/store/details/b17f16d4a4f94c0a85e07f54dbdedbb6rcp1/sku/dc22a780578a43998109b3223e15dcbc"
         }
       ],
@@ -1483,11 +1495,11 @@
     {
       "expansions": [
         {
-          "name": "Crayta: Premium Edition",
+          "name": "Premium Edition",
           "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/c43eb98aaf8e455fb6faece785893268"
         },
         {
-          "name": "Crayta: Deluxe Edition",
+          "name": "Deluxe Edition",
           "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/f7aa7caf05e64d91af2063bf1803e947"
         }
       ],
@@ -1517,11 +1529,11 @@
     {
       "expansions": [
         {
-          "name": "F1® 2020 Deluxe Schumacher Edition",
+          "name": "Deluxe Schumacher Edition",
           "store_link": "https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/5cef6c44a9314c7595e267196aafa823"
         },
         {
-          "name": "F1® 2020 F1® Seventy Edition",
+          "name": "F1® Seventy Edition",
           "store_link": "https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/deb9ce54875f4960bc0845f0294dd44c"
         }
       ],
@@ -1642,7 +1654,7 @@
     {
       "expansions": [
         {
-          "name": "Strange Brigade Deluxe Edition",
+          "name": "Deluxe Edition",
           "store_link": "https://stadia.google.com/store/details/8e77c7a4368944589b4c9d8179d2eb4crcp1/sku/fd993b8d4b7a49b99caad668a0d7ab3d"
         }
       ],
@@ -1666,6 +1678,26 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/c911998e4f8d4c6ea6712c5ad33e4a54rcp1/sku/68fb07a7c4ac41f1afb21d742c717538",
       "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "description": "Northern Canada, 1970. A strange blizzard ravages Atamipek Lake. Step into the shoes of a detective to explore the eerie village, investigate surreal events, and battle the elements to survive. Kona is a chilly interactive tale you won't soon forget.",
+      "genres": [
+        "adventure"
+      ],
+      "image_slug": "kona",
+      "slug": "kona",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "Kona",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 73,
+      "released": "2020-08-01T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/f5f9708a422a44cc876c240cfa07221drcp1/sku/12f3e5611c34478fb0285c6de4f2a8aa",
+      "early_access": false
     }
   ],
   "pro_games": [
@@ -1674,5 +1706,5 @@
       "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
     }
   ],
-  "updated": "2020-07-31T09:27:45.448Z"
+  "updated": "2020-08-03T14:30:41.528Z"
 }
