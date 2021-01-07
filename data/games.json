@@ -1767,6 +1767,28 @@
       "store_link": "https://stadia.google.com/store/details/cc1a8e0e94d54f15a22149fed93bbd7arcp1/sku/3d2a4c3229bd44ea80647beacc9ed247",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Built on the foundations of SUPERHOT and SUPERHOT VR, MIND CONTROL DELETE continues to bring you more of SUPERHOT’s signature power fantasy.\n\nTime moves only when you move. Enemies pour in from every direction. You are in complete control as you shoot, slice, and explode your way through dozens and dozens of increasingly challenging combat encounters. The closer you get to the core, the more powerful you become. You amass an arsenal of skills and weapons. You uncover snippets of precious knowledge - of the meaning that you crave so much.\n\nThe third game in the SUPERHOT franchise - MIND CONTROL DELETE gives you more insight into the world of SUPERHOT, more story, more signature gameplay. Keep dancing the slow motion ballet of destruction for so much longer than ever before.",
+      "genres": [
+        "action",
+        "shooter"
+      ],
+      "image_slug": "superhot_mind_control_delete",
+      "slug": "superhot-mind-control-delete",
+      "languages": ["english", "german", "spanish", "french", "italian", "polish", "czech", "hungarian", "japanese", "korean", "portuguese", "russian", "slovak", "chinese (simplified)", "chinese (traditional)"],
+      "name": "SUPERHOT: MIND CONTROL DELETE",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 78,
+      "released": "2020-08-17T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
