@@ -1737,10 +1737,34 @@
         "2-4 players online multiplayer",
         "2-4 players competitive"
       ],
-      "rating": 76,
+      "rating": 72,
       "released": "2020-08-13T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/d3d8e467203d401387857d5b6cc27263rcp1/sku/5251fd4e832d459ca046e6eb81b16809",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden", "austria", "czechia", "hungary", "poland", "portugal", "romania", "slovakia", "switzerland"],
+      "description": "Developed by id Software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, DOOM returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. Combine your arsenal of futuristic and iconic guns, upgrades, movement and an advanced melee system to knock-down, slash, stomp, crush, and blow apart demons in creative and violent ways.",
+      "genres": [
+        "action",
+        "shooter"
+      ],
+      "image_slug": "doom",
+      "slug": "doom",
+      "languages": ["english", "french", "italian", "german", "spanish", "polish", "russian", "japanese", "portuguese (brazil)", "chinese (traditional)"],
+      "name": "DOOM",
+      "game_modes": [
+        "single player",
+        "2-12 players online multiplayer",
+        "2-12 players competitive"
+      ],
+      "rating": 86,
+      "released": "2020-08-17T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/cc1a8e0e94d54f15a22149fed93bbd7arcp1/sku/3d2a4c3229bd44ea80647beacc9ed247",
       "early_access": false,
       "pre_order": false
     }
