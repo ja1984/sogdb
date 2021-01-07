@@ -1698,6 +1698,28 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/f5f9708a422a44cc876c240cfa07221drcp1/sku/12f3e5611c34478fb0285c6de4f2a8aa",
       "early_access": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "hungary", "poland", "portugal", "romania", "slovakia", "switzerland"],
+      "description": "Relicta is a first-person physics-based puzzle game where you need to creatively combine magnetism and gravity to unravel the secrets of Chandra Base. Alone in the depths of the Moon, your scientific mind is the only thing that can keep your daughter alive… Play as a physicist stranded on a derelict Moon base and bend gravity and magnetism to your will. Will you rush straight ahead or will you take your time to unravel the intrigues of 22nd century orbital politics? Buried in the eternal darkness lies a secret that might claim your daughter’s life - or change the fate of humanity. Are you ready to face the consequences of your research?",
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "image_slug": "relicta",
+      "slug": "relicta",
+      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "korean", "russian", "polish", "portuguese", "chinese (simplified)", "chinese (traditional)"],
+      "name": "Relicta",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 76,
+      "released": "2020-08-03T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/ed05d9df2ec4452594b07336e360a1aarcp1/sku/f139cbd41135461a83da504824a5d382",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
