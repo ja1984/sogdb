@@ -189,7 +189,8 @@ body.dark-theme {
 
   .checkbox__label {
     line-height: 25px;
-    padding-left: 12px;
+    padding-left: 5px;
+    font-size: 14px;
     text-transform: capitalize;
   }
 
