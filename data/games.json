@@ -1723,7 +1723,7 @@
     },
     {
       "expansions": [],
-      "countries": ["english", "french", "italian", "german", "spanish", "chinese (simplified)", "chinese (traditional)", "japanese", "korean", "russian"],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
       "description": "Rock of Ages 3: Make & Break is competitive tower defense and arcade action rolled up with ACE Team's quirky, Monty Python-esque humor into one giant, creative game for the ages.",
       "genres": [
         "arcade"
