@@ -352,7 +352,6 @@ export default {
   },
   watch: {
     completeFilter(newVal) {
-      console.log(newVal);
       const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${querystring.stringify(newVal)}`;
       window.history.pushState({ path: newurl }, '', newurl);
     },
