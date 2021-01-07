@@ -1720,6 +1720,29 @@
       "store_link": "https://stadia.google.com/store/details/ed05d9df2ec4452594b07336e360a1aarcp1/sku/f139cbd41135461a83da504824a5d382",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["english", "french", "italian", "german", "spanish", "chinese (simplified)", "chinese (traditional)", "japanese", "korean", "russian"],
+      "description": "Rock of Ages 3: Make & Break is competitive tower defense and arcade action rolled up with ACE Team's quirky, Monty Python-esque humor into one giant, creative game for the ages.",
+      "genres": [
+        "arcade"
+      ],
+      "image_slug": "rock_of_ages_3_make_and_break",
+      "slug": "rock-of-ages-3-make-and-break",
+      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "korean", "russian", "polish", "portuguese", "chinese (simplified)", "chinese (traditional)"],
+      "name": "Rock of Ages 3: Make & Break",
+      "game_modes": [
+        "single Player",
+        "2-4 players online multiplayer",
+        "2-4 players competitive"
+      ],
+      "rating": 76,
+      "released": "2020-08-13T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/d3d8e467203d401387857d5b6cc27263rcp1/sku/5251fd4e832d459ca046e6eb81b16809",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
