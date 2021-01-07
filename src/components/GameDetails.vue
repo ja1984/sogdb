@@ -19,7 +19,7 @@
     <section class="game-details__body">
       <div class="game-details__body__inner">
       <div class="game__information__row">
-      <div class="game__description">{{ game.description }}</div>
+      <div class="game__description" v-html="(game.description || '').replace(/(?:\r\n|\r|\n)/g, '<br>')"></div>
       </div>
       <div class="game__information__row">
         <strong>Languages</strong>

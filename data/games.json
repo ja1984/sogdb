@@ -1789,6 +1789,36 @@
       "store_link": "https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Digital Deluxe",
+          "store_link": "https://stadia.google.com/store/details/6a2ac2fc8e684c41b5c14981dcb454fdrcp1/sku/e6db6f135c514fe98a62b5de7187d9a5"
+        }
+      ],
+      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Play against the pros. Play with your crew. In PGA TOUR 2K21, you can play by the rules or create your own.\n\nFeaturing an all-new PGA TOUR Career Mode with licensed courses and 12 licensed pros to compete against in your quest for the FedExCup.\n\nCreate your dream course with our deep course creator to share with other players and run your own clubhouse with Online Societies.",
+      "genres": [
+        "sports",
+        "simulation"
+      ],
+      "image_slug": "pga_tour_2k21",
+      "slug": "pga-tour-2k21",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "PGA TOUR 2K21",
+      "game_modes": [
+        "single player",
+        "2-4 players local multiplayer",
+        "2-4 players online multiplayer",
+        "2-4 players competitive"
+      ],
+      "rating": 78,
+      "released": "2020-08-20T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/6a2ac2fc8e684c41b5c14981dcb454fdrcp1/sku/9c7fd0f16817482c9e0b311a8340cb0b",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
