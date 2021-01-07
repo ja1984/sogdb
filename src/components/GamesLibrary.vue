@@ -43,7 +43,7 @@
           <div class="filter-options">
             <h2 class="text-center">Showing {{ filteredGames.length }} games of {{ games.length }}</h2>
             <div class="rating genres">
-              <strong class="filter-options__title">Rating {{ (rating === 0 || rating === '0') ? '' : `> ${rating}` }}</strong>
+              <strong class="filter-options__title">Rating {{ (rating === 0 || rating === '0') ? '' : `>= ${rating}` }}</strong>
               <div class="row row--small-gutter">
                   <input type="range" min="0" max="100" v-model="rating" class="form-input form-input--fill">
               </div>
@@ -149,6 +149,7 @@
 
 <script>
 import axios from 'axios';
+import querystring from 'query-string';
 import { VueSlideToggle } from 'vue-slide-toggle';
 import { parseISO, format } from 'date-fns';
 import GameListItem from '@/components/GameListItem.vue';
@@ -190,6 +191,7 @@ export default {
     };
   },
   mounted() {
+    this.getFilters();
     if (document.body.classList.contains('dark-theme')) {
       this.useDarkTheme = true;
     }
@@ -233,6 +235,22 @@ export default {
     });
   },
   computed: {
+    completeFilter() {
+      const filters = {};
+      if (this.selectedGenres.length > 0) {
+        filters.genres = this.selectedGenres.join(',');
+      }
+
+      if (this.selectedGameModes.length > 0) {
+        filters.game_modes = this.selectedGameModes.join(',');
+      }
+
+      if (this.rating > 0) {
+        filters.rating = this.rating;
+      }
+
+      return filters;
+    },
     proGames() {
       const month = format(new Date(), 'MM-yyyy');
       const proPeriod = this.pro_games.find((x) => x.month === month);
@@ -316,11 +334,28 @@ export default {
     },
   },
   methods: {
+    getFilters() {
+      const query = querystring.parse(window.location.search);
+      if (typeof query.game_modes !== 'undefined') {
+        this.selectedGameModes.push(...query.game_modes.split(','));
+      }
+      if (typeof query.genres !== 'undefined') {
+        this.selectedGenres.push(...query.genres.split(','));
+      }
+      if (typeof query.rating !== 'undefined') {
+        this.rating = query.rating;
+      }
+    },
     selectGame(game) {
       this.selectedGame = game;
     },
   },
   watch: {
+    completeFilter(newVal) {
+      console.log(newVal);
+      const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${querystring.stringify(newVal)}`;
+      window.history.pushState({ path: newurl }, '', newurl);
+    },
     useDarkTheme(useDarkTheme) {
       if (useDarkTheme) {
         document.body.classList.add('dark-theme');

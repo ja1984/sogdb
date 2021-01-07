@@ -72,6 +72,7 @@ export default {
   },
   methods: {
     backdropClick(event) {
+      // https://stadia.google.com/player/3e7b24085e704c10ab03f93a19947c14rcp1
       if (event.target.className === 'modal') {
         this.$emit('close');
       }
