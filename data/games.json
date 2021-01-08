@@ -2022,6 +2022,37 @@
       "store_link": "https://stadia.google.com/store/details/232ff8abc7f74421a477e9e09dbf487drcp1/sku/cfc62fc3307a4ef1930e4644646c8179p",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Mamba Forever Edition",
+          "store_link": "https://stadia.google.com/store/details/b0a2ab7cdc194582bc4d111c07c2e30drcp1/sku/ef438c972780466594c5d148279f72bap"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "NBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience. With extensive improvements upon its best-in-class graphics and gameplay, competitive and community online features, and deep, varied game modes, NBA 2K21 offers one-of-a-kind immersion into all facets of NBA basketball and culture - where Everything is Game.",
+      "genres": [
+        "sports"
+      ],
+      "image_slug": "nba_2k21",
+      "slug": "nba-2k21",
+      "languages": ["english", "french", "german", "italian", "spanish", "japanese", "portuguese (brazil)", "russian", "polish", "czech", "korean", "chinese", "chinese (taiwan)", "arabic", "spanish (latin america)"],
+      "name": "NBA 2K21",
+      "game_modes": [
+        "single player",
+        "2-4 players local multiplayer",
+        "2-10 players online multiplayer",
+        "2-4 players local co-op",
+        "2-10 players online co-op",
+        "2-10 players competitive"
+      ],
+      "rating": 79,
+      "released": "2020-09-04T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b0a2ab7cdc194582bc4d111c07c2e30drcp1/sku/ae31d6ce393f4896b9b9d1f2f1ac676ep",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
