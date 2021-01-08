@@ -1891,6 +1891,27 @@
       "store_link": "https://stadia.google.com/store/details/16330bd770134d85b5bef3cc6b1407ffrcp1/sku/896565e45f974774a117876f949630df",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Featuring all of the Season One locations and episodes from the Prologue, Paris, Sapienza, Marrakesh, Bangkok, Colorado, and Hokkaido. As Agent 47, you will perform contract hits on powerful, high-profile targets in an intense spy-thriller story across a world of assassination.\n\nAs you complete missions and contracts new weapons, items and equipment become available for use across all locations. Learn the tools of the trade as you earn your way to Silent Assassin status.\n\nHITMAN includes a wealth of content and game modes, catering to long-time fans and new players in equal measure. A world of assassination awaits you in this award-winning stealth action game.",
+      "genres": [
+        "action"
+      ],
+      "image_slug": "hitman_complete_first_season",
+      "slug": "hitman-the-complete-first-season",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "HITMAN - The Complete First Season",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2020-08-31T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/cc1997b89ae44886a1197a59b42b2613",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
