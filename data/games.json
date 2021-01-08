@@ -1842,6 +1842,28 @@
       "store_link": "https://stadia.google.com/store/details/430bbe284fb7482c9afe8e877b119269rcp1/sku/5582aa71e58a45e59a05598a93cde9a3",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "The Forbidden Islands are Calling, Unlock their Secrets. Shipwrecked alone on an uncharted island, explore, adapt and navigate the land and perilous seas to stay alive. With no boat, no food or tools, just the will and skill to survive, uncover this beautiful island’s resources. Craft tools and weapons to hunt and defend yourself against nature itself with its wild and fantastical creatures. Whilst exploring further islands and the scattered ruins across their lands, secrets of the past and glimpses of the future are revealed. Unravel the mystery and you may find more than just your way home.",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "windbound",
+      "slug": "windbound",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Windbound",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 64,
+      "released": "2020-08-20T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/657210fe20ad402b85bda8f816b80d98rcp1/sku/d3e056ee79d947c29eedc5ae232d6c2ep",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
