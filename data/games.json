@@ -1939,6 +1939,32 @@
       "store_link": "https://stadia.google.com/store/details/9dc548a191914b419cc80802ca64788frcp1/sku/dc0627d002f24fdba14ac6755250360ep",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/5bdde123ddc246918c6919479e427c85"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Travel the globe and track your targets across exotic sandbox locations in HITMAN 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world's most creative assassin, Agent 47.\n\nPrepare to experience the ultimate spy thriller story; your mission is to eliminate the elusive Shadow Client and unravel his militia, but when 47 learns his target's true identity and the truth about his past, it changes everything.",
+      "genres": [
+        "action"
+      ],
+      "image_slug": "hitman_2",
+      "slug": "hitman-2",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "HITMAN 2",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2020-08-31T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/70d2750d0c614a01afbb34e5c4f3a9bc",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
