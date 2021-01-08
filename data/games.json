@@ -23,7 +23,22 @@
           "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/3e5dab36f21e466499f3449f13c98329"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "ireland", "france", "germany", "italy", "spain", "belgium", "denmark", "sweden", "netherlands", "norway", "finland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "ireland",
+        "france",
+        "germany",
+        "italy",
+        "spain",
+        "belgium",
+        "denmark",
+        "sweden",
+        "netherlands",
+        "norway",
+        "finland"
+      ],
       "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. See below for loot box odds.",
       "genres": [
         "action",
@@ -32,7 +47,21 @@
       ],
       "image_slug": "destiny2",
       "slug": "destiny-2",
-      "languages": ["english", "french", "italian", "german", "spanish", "spanish (Latin America)", "portuguese (Brazil)", "polish", "russian", "japanese", "korean", "chinese (Simplified)", "chinese (Traditional)"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "spanish (Latin America)",
+        "portuguese (Brazil)",
+        "polish",
+        "russian",
+        "japanese",
+        "korean",
+        "chinese (Simplified)",
+        "chinese (Traditional)"
+      ],
       "name": "Destiny 2",
       "game_modes": [
         "single player",
@@ -53,7 +82,20 @@
         }
       ],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "An asteroid has annihilated 80% of the earth’s population, and humanity’s numbers are dwindling. Ruthless and bloodthirsty gangs roam the open roads and the tyrannical Authority seek to rule with an iron fist. As Walker, the last Ranger of the wasteland and a threat to their power, you have been robbed of your home and left for dead. Now you’ll have to rage for justice and freedom. With ludicrous vehicle combat, super-powered first-person mayhem, and an open world full of emergent madness, you will tear across an unforgiving wasteland battling sadistic gangs to find the tools and tech needed to crush the oppressive rule of The Authority once and for all.",
       "genres": [
@@ -62,7 +104,13 @@
       ],
       "image_slug": "rage_2",
       "slug": "rage-2",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Rage 2",
       "game_modes": [
         "single player"
@@ -75,7 +123,20 @@
     {
       "expansions": [],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "DARKSIDERS: GENESIS is an action/adventure that tears its way through hordes of demons, angels, and everything in-between on its way to Hell and back with guns blazing and swords swinging. Genesis gives players their first look at the world of DARKSIDERS before the events of the original game, as well as introduces the horseman STRIFE.",
       "genres": [
@@ -85,7 +146,13 @@
         "arcade"
       ],
       "image_slug": "darksiders_genesis",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Darksiders: Genesis",
       "game_modes": [
         "single player",
@@ -108,7 +175,20 @@
         }
       ],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created. Flee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet. Explore the Russian wilderness in vast, non-linear levels and follow a thrilling story-line inspired by the novels of Dmitry Glukhovsky that spans an entire year through spring, summer and autumn to the depths of nuclear winter.",
       "genres": [
@@ -118,7 +198,21 @@
       "image_slug": "metro_exodus",
       "slug": "metro-exodus",
       "languages": [
-        "czech", "german", "english", "spanish (Spain)", "spanish (Mexico)", "french", "italian", "japanese", "korean", "polish", "portuguese", "russian", "ukrainian", "chinese (China)", "chinese (Taiwan)"
+        "czech",
+        "german",
+        "english",
+        "spanish (Spain)",
+        "spanish (Mexico)",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "polish",
+        "portuguese",
+        "russian",
+        "ukrainian",
+        "chinese (China)",
+        "chinese (Taiwan)"
       ],
       "name": "Metro Exodus",
       "game_modes": [
@@ -132,14 +226,37 @@
     {
       "expansions": [],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "A.O.T. 2: Final Battle contains the latest content for the tactical hunting action series based on the hit anime series \"Attack on Titan\". More than 40 playable characters join the battle! Through \"Story Mode\" experience the drama of seasons 1 and 2 of the anime firsthand, playing as the game-original protagonist! Via \"Another Mode\" play as other characters, too, and enjoy versus and cooperative battles online with other players as well! In \"Character Episode Mode\" experience season 3 through the eyes of the characters of the original anime! \"Territory Recovery Mode\" lets you create your own regiment and gather comrades to try and recapture territory outside the Walls!",
       "genres": [
         "action"
       ],
       "image_slug": "aot2-final_battle",
-      "languages": ["english", "french", "italian", "german", "spanish (Mexico)", "spanish (Spain)", "japanese", "korean", "chinese"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish (Mexico)",
+        "spanish (Spain)",
+        "japanese",
+        "korean",
+        "chinese"
+      ],
       "name": "Attack on Titan 2: Final Battle",
       "game_modes": [
         "single player",
@@ -160,7 +277,20 @@
         }
       ],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "Choose your fate in Assassin's Creed Odyssey. From outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate of Ancient Greece.",
       "genres": [
@@ -169,8 +299,20 @@
       ],
       "image_slug": "aco",
       "slug": "assassins-creed-odyssey",
-      "languages": [ 
-        "english", "french", "italian", "german", "spanish", "japanese", "korean", "dutch", "polish", "portuguese", "russian", "chinese (Simplified)", "chinese (Traditional)"
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "japanese",
+        "korean",
+        "dutch",
+        "polish",
+        "portuguese",
+        "russian",
+        "chinese (Simplified)",
+        "chinese (Traditional)"
       ],
       "name": "Assassin's Creed: Odyssey",
       "game_modes": [
@@ -184,7 +326,20 @@
     {
       "expansions": [],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "In Shadow of the Tomb Raider Definitive Edition experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be. Combining the base game, all seven DLC challenge tombs, as well as all downloadable weapons, outfits, and skills, Shadow of the Tomb Raider Definitive Edition is the ultimate way to experience Lara’s defining moment.",
       "genres": [
@@ -194,7 +349,11 @@
       "image_slug": "sottr",
       "slug": "shadow-of-the-tomb-raider",
       "languages": [
-        "english", "french", "italian", "german", "spanish"
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
       ],
       "name": "Shadow of the Tomb Raider",
       "game_modes": [
@@ -214,7 +373,20 @@
         }
       ],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
       "genres": [
@@ -225,7 +397,11 @@
       "image_slug": "borderlands3",
       "slug": "borderlands-3",
       "languages": [
-        "english", "french", "italian", "german", "spanish"
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
       ],
       "name": "Borderlands 3",
       "game_modes": [
@@ -251,7 +427,20 @@
         }
       ],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "Enjoy the complete experience with the Ultimate Edition, including: Year 1 Pass, the Survivor Pack, the Off-Road Pack, the Sacred Land Pack. The Year 1 Pass includes: The Siren's call Day 1 mission, two adventures continuing the main story, early unlock for 3 new classes, the Special Operations Forces Pack. Enjoy a totally new social experience with Stream Connect, providing a real time view into another player’s game as it’s happening, so you can not only watch but interact with them instantly.",
       "genres": [
@@ -261,7 +450,22 @@
       "image_slug": "ghost_recon_breakpoint",
       "slug": "ghost-recon-breakpoint",
       "languages": [
-        "english", "french", "italian", "german", "spanish", "dutch", "arabic", "korean", "japanese", "portuguese", "czech", "polish", "russian", "thai", "chinese (Simplified)", "chinese (Traditional)"
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "dutch",
+        "arabic",
+        "korean",
+        "japanese",
+        "portuguese",
+        "czech",
+        "polish",
+        "russian",
+        "thai",
+        "chinese (Simplified)",
+        "chinese (Traditional)"
       ],
       "name": "Ghost Recon: Breakpoint",
       "game_modes": [
@@ -278,7 +482,20 @@
     {
       "expansions": [],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "Rise of the Tomb Raider: 20 Year Celebration includes the base game and Season Pass featuring all-new content. Explore Croft Manor in the new \"Blood Ties\" story, then defend it against a zombie invasion in \"Lara’s Nightmare\". Survive extreme conditions with a friend in the new online Co-Op Endurance mode, and brave the new \"Extreme Survivor\" difficulty. Also features an outfit and weapon inspired by Tomb Raider III, and 5 classic Lara skins.",
       "genres": [
@@ -288,7 +505,11 @@
       "image_slug": "rottr_20_year",
       "slug": "rise-of-the-tomb-raider-20-year-celebration",
       "languages": [
-        "english", "french", "italian", "german", "spanish"
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
       ],
       "name": "Rise of the Tomb Raider: 20 Year Celebration",
       "game_modes": [
@@ -303,7 +524,21 @@
     {
       "expansions": [],
       "countries": [
-        "united states", "canada", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland", "united kingdom", "switzerland"
+        "united states",
+        "canada",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland",
+        "united kingdom",
+        "switzerland"
       ],
       "description": "Kine is a 3D narrative puzzle game about three daring machines that aspire to be musicians. Embark across a theatrical dreamscape by solving a wide variety of increasingly difficult 3D puzzles. Guide Euler, Quat, and Roo as they struggle to form a band, build bonds, and find their big break!",
       "genres": [
@@ -312,7 +547,11 @@
       "image_slug": "kine",
       "slug": "kine",
       "languages": [
-        "english", "french", "italian", "german", "spanish"
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
       ],
       "name": "Kine",
       "game_modes": [
@@ -326,7 +565,20 @@
     {
       "expansions": [],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "Wherever life takes you, Just Dance 2020 will keep you dancing for hours with an insane amount of content for the whole family to enjoy! Just Dance 2020 comes with over 40 new and fun songs, and access to more than 400 songs available with Just Dance Unlimited.",
       "genres": [
@@ -336,7 +588,20 @@
       "image_slug": "just_dance_2020",
       "slug": "just-dance-2020",
       "languages": [
-        "english", "french", "italian", "german", "spanish", "danish", "finnish", "korean", "norwegian", "dutch", "portuguese", "russian", "swedish", "chinese"
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "danish",
+        "finnish",
+        "korean",
+        "norwegian",
+        "dutch",
+        "portuguese",
+        "russian",
+        "swedish",
+        "chinese"
       ],
       "name": "Just Dance 2020",
       "game_modes": [
@@ -355,7 +620,20 @@
     {
       "expansions": [],
       "countries": [
-        "belgium", "canada", "germany", "denmark", "spain", "finland", "france", "united kingdom", "ireland", "italy", "netherlands", "norway", "sweden", "united states"
+        "belgium",
+        "canada",
+        "germany",
+        "denmark",
+        "spain",
+        "finland",
+        "france",
+        "united kingdom",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "sweden",
+        "united states"
       ],
       "description": "This is SAMURAI SHODOWN’s main game. SAMURAI SHODOWN has enjoyed worldwide success as a blade-wielding fighting game series since its first release in 1993. 11 years have passed since the last series installment, and it is now time for SAMURAI SHODOWN to return in a brand-new game featuring high-end visuals and gameplay! Faithfully reproducing the game mechanics and atmosphere that contributed to the success of the series, SAMURAI SHODOWN includes a revolutionary feature that learns players’ game actions and patterns in order to create CPU-controlled “ghost” characters. With its story set one year before the very first installment, warriors and combatants from various backgrounds and with their own goals are about to battle to fulfill their destinies!",
       "genres": [
@@ -366,7 +644,15 @@
       "image_slug": "samurai_shodown",
       "slug": "samurai-shodown",
       "languages": [
-        "german", "english", "spanish", "french", "italian", "japanese", "korean", "portuguese", "chinese"
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "portuguese",
+        "chinese"
       ],
       "name": "Samurai Shodown",
       "game_modes": [
@@ -387,7 +673,20 @@
         }
       ],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest opus of the Trials franchise. All new features, more competitions and more tracks means new challenges. Ride challenging tracks around the world – from the Great Wall of China and New York City to the Eiffel Tower and everywhere in between. With the new hilarious Tandem Bike, get your friends and try to control one bike with two riders. From your local backyard to worldwide stadiums, defeat all your opponents online and rise to glory. Create and share unique levels in Track Central using over 10 000 items available. Possibilities are endless , and so is the fun.",
       "genres": [
@@ -396,7 +695,17 @@
       "image_slug": "trials_rising",
       "slug": "trials-rising",
       "languages": [
-        "english", "french", "italian", "german", "spanish", "dutch", "arabic", "chinese", "japanese", "russian", "portuguese (Brazil)"
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "dutch",
+        "arabic",
+        "chinese",
+        "japanese",
+        "russian",
+        "portuguese (Brazil)"
       ],
       "name": "Trials Rising",
       "game_modes": [
@@ -418,7 +727,20 @@
         }
       ],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "GRID is a racing experience like no other. Offering unrivalled wheel-to-wheel racing for everyone, where every race is unpredictable as you create rivals and nemeses on your road to conquering the world of motorsport. Play now and get your heart racing.",
       "genres": [
@@ -426,7 +748,13 @@
       ],
       "image_slug": "grid",
       "slug": "grid",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "GRID",
       "game_modes": [
         "single player",
@@ -440,7 +768,20 @@
     {
       "expansions": [],
       "countries": [
-        "united states", "belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom"
+        "united states",
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom"
       ],
       "description": "Thumper is rhythm violence: classic rhythm-action, blistering speed, and brutal physicality. You are a space beetle. Brave the hellish void and confront a maniacal giant head from the future.",
       "genres": [
@@ -451,7 +792,25 @@
       "image_slug": "thumper",
       "slug": "thumper",
       "languages": [
-        "english (united states)", "french (france)", "french (canada)", "italian (italy)", "german (germany)", "spanish (spain)", "japanese (japan)", "korean (south korea)", "chinese (traditional)", "chinese (simplified)", "danish (denmark)", "finnish (finland)", "dutch (netherlands)", "norwegian (norway)", "polish (poland)", "portuguese (brazil)", "russian (russia)", "swedish (sweden)", "turkish (turkey)"
+        "english (united states)",
+        "french (france)",
+        "french (canada)",
+        "italian (italy)",
+        "german (germany)",
+        "spanish (spain)",
+        "japanese (japan)",
+        "korean (south korea)",
+        "chinese (traditional)",
+        "chinese (simplified)",
+        "danish (denmark)",
+        "finnish (finland)",
+        "dutch (netherlands)",
+        "norwegian (norway)",
+        "polish (poland)",
+        "portuguese (brazil)",
+        "russian (russia)",
+        "swedish (sweden)",
+        "turkish (turkey)"
       ],
       "name": "Thumper",
       "game_modes": [
@@ -465,8 +824,8 @@
     {
       "expansions": [
         {
-          "name":"Kombat Pack",
-          "store_link":"https://stadia.google.com/u/1/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/1492d4fcf167420cb227a5579f447016"
+          "name": "Kombat Pack",
+          "store_link": "https://stadia.google.com/u/1/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/1492d4fcf167420cb227a5579f447016"
         },
         {
           "name": "Aftermath Kollection",
@@ -474,7 +833,20 @@
         }
       ],
       "countries": [
-        "united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
       ],
       "description": "Mortal Kombat 11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own.",
       "genres": [
@@ -484,7 +856,11 @@
       "image_slug": "mortal_kombat_11",
       "slug": "mortal-kombat-11",
       "languages": [
-        "english", "french", "italian", "german", "spanish"
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
       ],
       "name": "Mortal Kombat 11",
       "game_modes": [
@@ -501,7 +877,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure. Nineteen years after the events of Wolfenstein II, BJ Blazkowicz has disappeared after a mission into Nazi-occupied Paris. Now, after years of training from their battle-hardened father, BJ’s twin daughters, Jess and Soph Blazkowicz, are forced into action. Team up with a friend or play alone. Level up, explore, and complete missions to unlock new abilities, weapons, gadgets, cosmetics, and more to complement your playstyle and customize your appearance. Wolfenstein: Youngblood features the most open-ended Wolfenstein experience to date. From a new base of operations located deep in the heart of the Paris catacombs, plan how and when to attack and dismantle the Nazi regime.",
       "genres": [
         "action",
@@ -509,7 +900,12 @@
       ],
       "image_slug": "wolfenstein_youngblood",
       "slug": "wolfenstein-youngblood",
-      "languages": ["english", "french", "italian", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "spanish"
+      ],
       "name": "Wolfenstein: Youngblood",
       "game_modes": [
         "single player",
@@ -523,14 +919,35 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "spain", "finland", "netherlands", "italy", "denmark", "united kingdom", "france", "germany", "canada", "norway", "ireland", "sweden", "belgium"],
+      "countries": [
+        "united states",
+        "spain",
+        "finland",
+        "netherlands",
+        "italy",
+        "denmark",
+        "united kingdom",
+        "france",
+        "germany",
+        "canada",
+        "norway",
+        "ireland",
+        "sweden",
+        "belgium"
+      ],
       "description": "Take the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before.",
       "genres": [
         "role-playing"
       ],
       "image_slug": "final_fantasy_xv",
       "slug": "final-fantasy-xv",
-      "languages": ["english", "german", "spanish", "french", "italian"],
+      "languages": [
+        "english",
+        "german",
+        "spanish",
+        "french",
+        "italian"
+      ],
       "name": "Final Fantasy XV",
       "game_modes": [
         "single player",
@@ -544,7 +961,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "DRAGON BALL XENOVERSE 2 gives players the ultimate DRAGON BALL gaming experience! Develop your own warrior, create the perfect avatar, train to learn new skills & help fight new enemies to restore the original story of the DRAGON BALL series. Join 300 players from around the world in the new hub city of Conton & fight with or against them.",
       "genres": [
         "action",
@@ -552,7 +984,16 @@
       ],
       "image_slug": "dragonball_xenoverse",
       "slug": "dragonball-xenoverse-2",
-      "languages": ["english (united states)", "spanish (spain)", "spanish (latin america)", "french (france)", "italian (italy)", "german (germany)", "portuguese (brazil)", "japanese (japan)"],
+      "languages": [
+        "english (united states)",
+        "spanish (spain)",
+        "spanish (latin america)",
+        "french (france)",
+        "italian (italy)",
+        "german (germany)",
+        "portuguese (brazil)",
+        "japanese (japan)"
+      ],
       "name": "Dragon Ball Xenoverse 2",
       "game_modes": [
         "single player",
@@ -568,7 +1009,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
       "genres": [
         "action",
@@ -576,7 +1032,13 @@
       ],
       "image_slug": "tombraider",
       "slug": "tomb-raider-definitive-edition",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Tomb Raider: Definitive Edition",
       "game_modes": [
         "single player",
@@ -599,7 +1061,22 @@
           "store_link": "https://stadia.google.com/u/1/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/63e94c60b10e4267add34ef768c30f8f"
         }
       ],
-      "countries": ["united states", "united kingdom", "sweden", "denmark", "italy", "norway", "finland", "france", "belgium", "canada", "netherlands", "spain", "ireland", "germany"],
+      "countries": [
+        "united states",
+        "united kingdom",
+        "sweden",
+        "denmark",
+        "italy",
+        "norway",
+        "finland",
+        "france",
+        "belgium",
+        "canada",
+        "netherlands",
+        "spain",
+        "ireland",
+        "germany"
+      ],
       "description": "Red Dead Redemption 2, the critically acclaimed open world epic from Rockstar Games and the highest rated game of the console generation, now enhanced for Google Stadia with new Story Mode content, visual upgrades and more. America, 1899. The end of the wild west era has begun. After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.",
       "genres": [
         "action",
@@ -607,7 +1084,13 @@
       ],
       "image_slug": "rdr2",
       "slug": "red-dead-redemption-2",
-      "languages": ["english", "french", "german", "italian", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "italian",
+        "spanish"
+      ],
       "name": "Red Dead Redemption 2",
       "game_modes": [
         "single player",
@@ -621,11 +1104,26 @@
     {
       "expansions": [
         {
-          "name":"Platinum Edition",
-          "store_link":"https://stadia.google.com/u/1/store/details/ebf235012b054269af70eee901bc85cfrcp1/sku/0292121ae01e4247ace30184df5f6ac0"
+          "name": "Platinum Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/ebf235012b054269af70eee901bc85cfrcp1/sku/0292121ae01e4247ace30184df5f6ac0"
         }
       ],
-      "countries": ["united states", "belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom"],
+      "countries": [
+        "united states",
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom"
+      ],
       "description": "Take on the role of a modern farmer in Farming Simulator 19 Platinum Edition! For the first time in the franchise history, discover CLAAS, one of the world's leading farming brands. Enjoy over 380 machines from John Deere, CASE IH, New Holland, Challenger, Fendt, Massey Ferguson, Valtra, Krone, Deutz-Fahr and many more. Including more than 35 new CLAAS vehicles and tools to grow your farm alone or with other players in two huge maps filled with exciting farming activities, crops to harvest and animals to tend to.",
       "genres": [
         "simulation",
@@ -633,7 +1131,14 @@
       ],
       "image_slug": "farming_simulator19",
       "slug": "farming-simulator-2019",
-      "languages": ["english", "german", "french", "spanish (spain)", "italian", "dutch"],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish (spain)",
+        "italian",
+        "dutch"
+      ],
       "name": "Farming Simulator 2019",
       "game_modes": [
         "single player",
@@ -647,7 +1152,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "Face your fears in GYLT, a haunting tale about bullying and childhood nightmares, as you help Sally navigate a creepy world to rescue her missing cousin Emily",
       "genres": [
         "action",
@@ -655,7 +1175,13 @@
       ],
       "image_slug": "gylt",
       "slug": "gylt",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Gylt",
       "game_modes": [
         "single player"
@@ -668,22 +1194,47 @@
     {
       "expansions": [
         {
-          "name":"Legend Edition",
-          "store_link":"https://stadia.google.com/u/1/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/0a763df666fc4569896ca44062308138"
+          "name": "Legend Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/0a763df666fc4569896ca44062308138"
         },
         {
-          "name":"Digital Deluxe",
-          "store_link":"https://stadia.google.com/u/1/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/183f245b98a141ae97214c9ee5ae8a56"
+          "name": "Digital Deluxe",
+          "store_link": "https://stadia.google.com/u/1/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/183f245b98a141ae97214c9ee5ae8a56"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "NBA 2K has evolved into much more than a basketball simulation. 2K continues to redefine what’s possible in sports gaming with NBA 2K20, featuring best in class graphics & gameplay, ground breaking game modes, and unparalleled player control and customization. Plus, with its immersive open-world Neighborhood, NBA 2K20 is a platform for gamers and ballers to come together and create what’s next in basketball culture",
       "genres": [
         "sports"
       ],
       "image_slug": "nba_2k20",
       "slug": "nba-2k20",
-      "languages": ["english", "french", "italian", "german", "spanish", "japanese", "korean", "chinese (simplified)", "chinese (traditional)"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "japanese",
+        "korean",
+        "chinese (simplified)",
+        "chinese (traditional)"
+      ],
       "name": "NBA 2K20",
       "game_modes": [
         "single player",
@@ -700,7 +1251,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "Manage your football club, your way, in a living, breathing football universe which places you at its very heart. In this latest instalment of the best-selling series, every footballing decision is yours to make; from creating tactical styles and training schedules to assembling an elite backroom staff and working with your scouts to build the ultimate squad. The question is, at which of the world’s best clubs will your journey begin? There are over 100 leagues from 50 countries to choose from. FM20 is a world that rewards planning and knowledge but, unlike other games, there’s no script or pre-defined ending – just endless possibilities. How you get to the top is up to you; you own your decision, and their consequences.",
       "genres": [
         "sports",
@@ -709,7 +1275,13 @@
       ],
       "image_slug": "football_manager_2020",
       "slug": "football-manager-2020",
-      "languages": ["german", "english", "spanish", "french", "italian"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
       "name": "Football Manager 2020",
       "game_modes": [
         "single player",
@@ -723,7 +1295,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "The only Official Monster Energy AMA Supercross Championship videogame is back! Relive the 2019 Supercross season with 100 riders of both 450SX and 250SX categories, 15 official stadiums and tracks and for the first time in the series you'll be able to join the official teams in the career mode. Enjoy an amazing Co-op experience with your friends in the new compound! Have fun with an improved multiplayer experience thanks to the new dedicated servers and play as a Race Director! Create and share an infinite number of tracks with the track editor! Race as a female rider to become the next Supercross champion. New ground and in-air physics, new rider models and new animations will give you a more immersive experience to enjoy the Supercross world at its best!",
       "genres": [
         "racing",
@@ -731,7 +1318,15 @@
       ],
       "image_slug": "monster_energy_supercross",
       "slug": "monster-energy-supercross",
-      "languages": ["english", "french", "italian", "german", "spanish", "portuguese (brazil)", "spanish (latin america)"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "portuguese (brazil)",
+        "spanish (latin america)"
+      ],
       "name": "Monster Energy Supercross",
       "game_modes": [
         "single player",
@@ -745,14 +1340,35 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "You know what the problem with multiplayer games is, right? The other players! It’s always THEIR FAULT if you lose! We’ve got the perfect game to blame your friends for their incapability: Spitlings! This chaotic action arcade game for up to four players is a modern take on the hardcore classics. You’re in control of a Spitling, a charming rectangular creature with teeth it can spit or use to jump! Makes no sense? Who cares, it’s FUN! Spitlings is a cute but hardcore Arcade game that’s made for playing its hundreds of levels locally/online with friends. Keep playing to unlock new music tracks, unique characters to play with and intense visual themes for certain levels.",
       "genres": [
         "action"
       ],
       "image_slug": "spitlings",
       "slug": "spitlings",
-      "languages": ["german", "english", "spanish", "french", "italian"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
       "name": "Spitlings",
       "game_modes": [
         "single player",
@@ -768,7 +1384,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it’s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath.",
       "genres": [
         "action",
@@ -777,7 +1408,14 @@
       ],
       "image_slug": "steamworld_dig_2",
       "slug": "steamworld-dig-2",
-      "languages": ["english", "french", "italian", "german", "spanish", "russian"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "russian"
+      ],
       "name": "SteamWorld Dig 2",
       "game_modes": [
         "single player"
@@ -789,7 +1427,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Triumph over evil with the hand you’re dealt! SteamWorld Quest is the roleplaying card game you’ve been waiting for! Lead a party of aspiring heroes through a beautifully hand-drawn world and intense battles using only your wits and a handful of cards. Take on whatever threat comes your way by crafting your own deck choosing from over 100 unique punch-cards! What awaits you is a luscious treasure chest filled with gold, dragons, vivid worlds, magic, knights in shining armor as well as XP, turn-based battles and all that good RPG stuff! The game’s humorous mix of traditional fantasy and steampunk robots makes for an unforgettable experience with lots of laughs.",
       "genres": [
         "action",
@@ -798,7 +1451,14 @@
       ],
       "image_slug": "steamworld_quest",
       "slug": "steamworld-quest-hand-of-gilgamech",
-      "languages": ["english", "french", "italian", "german", "spanish", "russian"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "russian"
+      ],
       "name": "SteamWorld Quest: Hand of Gilgamech",
       "game_modes": [
         "single player"
@@ -810,7 +1470,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Step into the shoes of the legendary action hero Sam \"Serious\" Stone and experience one of the most explosive shooter game series of all time, as you save the world from a merciless alien invasion.",
       "genres": [
         "shooter",
@@ -818,7 +1493,13 @@
       ],
       "image_slug": "serious_sam",
       "slug": "serious-sam-collection",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Serious Sam Collection",
       "game_modes": [
         "single player",
@@ -833,7 +1514,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below...",
       "genres": [
         "action",
@@ -842,7 +1538,14 @@
       ],
       "image_slug": "steamworld_dig",
       "slug": "steamworld-dig",
-      "languages": ["english", "french", "italian", "german", "spanish", "russian"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "russian"
+      ],
       "name": "Steamworld Dig",
       "game_modes": [
         "single player"
@@ -854,7 +1557,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "In SteamWorld Heist, you command a steam-driven pirate crew in a series of epic tactical shootouts. It’s turn-based strategy with a twist: You manually aim the guns of your robots, allowing for insane skill shots and bullet-bouncing action! As the captain you will board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your recruits with unique abilities, weapons – and even stylish hats!",
       "genres": [
         "strategy",
@@ -863,7 +1581,14 @@
       ],
       "image_slug": "steamworld_heist",
       "slug": "steamworld-heist",
-      "languages": ["english", "french", "italian", "german", "spanish", "russian"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "russian"
+      ],
       "name": "Steamworld Heist",
       "game_modes": [
         "single player"
@@ -880,14 +1605,35 @@
           "store_link": "https://stadia.google.com/u/1/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/354ab39ab5e14aaba1a06ef86a0268fe"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "HISTORY WILL REMEMBER. In The Division 2, the fate of the free world is on the line. Lead a team of elite agents into a post-pandemic Washington DC to restore order and prevent the collapse of the city. The Division 2 is an online, action shooter RPG experience, where exploration and player-progression are essential. Liberate Washington DC – Save a country on the brink of collapse as you explore an open, dynamic and hostile world. Stronger with your team – Specialize and fight together with your friends in online co-op or against others in competitive adversial PVP mode. Genre-defining endgame – Choose a unique class specialization to take on the toughest challenges with friends.",
       "genres": [
         "action"
       ],
       "image_slug": "tom_clancys_the_division_2",
       "slug": "tom-clancys-the-division-2",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Tom Clancy's The Division 2",
       "game_modes": [
         "cross platform multiplayer",
@@ -904,11 +1650,26 @@
     {
       "expansions": [
         {
-          "name":"Deluxe Edition",
-          "store_link":"https://stadia.google.com/u/1/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/e74abd04f4a34c7a82b6cf8cd9cf9ac0"
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/e74abd04f4a34c7a82b6cf8cd9cf9ac0"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you. Experience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat. And enter BATTLEMODE, the new 2 versus 1 multiplayer experience where a fully-armed DOOM Slayer faces off against two player-controlled demons, fighting it out in a best-of-five round match of intense first-person combat.",
       "genres": [
         "action",
@@ -916,7 +1677,13 @@
       ],
       "image_slug": "doom_eternal",
       "slug": "doom-eternal",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "DOOM Eternal",
       "game_modes": [
         "single player",
@@ -939,14 +1706,43 @@
           "store_link": "https://stadia.google.com/u/1/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/ec30180d14de41fcaec12d442b81e248"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "In The Crew 2, take on the American motorsports scene as you explore and dominate the land, air, and sea of the United States in one of the most exhilarating open worlds ever created.  With a wide variety of exotic cars, bikes, boats, and planes to choose from, experience the unbridled thrill and adrenaline-pumping excitement of competing across the entire USA as you test your skills in a wide range of driving disciplines. Record every heart-pounding, white-knuckle, moment and share them with the simple push of a button - fame is yours to take! Play with up to 7 friends online.",
       "genres": [
         "racing"
       ],
       "image_slug": "the_crew_2",
       "slug": "the-crew-2",
-      "languages": ["english", "french", "italian", "german", "spanish", "breton", "russian", "japanese", "arabic", "polish", "dutch", "kanuri", "chinese"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "breton",
+        "russian",
+        "japanese",
+        "arabic",
+        "polish",
+        "dutch",
+        "kanuri",
+        "chinese"
+      ],
       "name": "The Crew 2",
       "game_modes": [
         "single player",
@@ -961,26 +1757,62 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "Interact with the words inscribed in the pages of a young girl’s diary to solve challenging puzzles, tackle unique platforming segments and discover an emotional tale set across the vibrant world of Estoria in Lost Words: Beyond the Page. Personal diary entries belonging to a young girl named Izzy will unfold as you explore a fantasy land where words hold immense power. Featuring an immersive story crafted by renowned games writer Rhianna Pratchett, Lost Words: Beyond the Page will mesmerize players with its unique blend of gameplay mechanics and striking watercolor aesthetic. Driven by the player’s curiosity, the world of Estoria and the power it holds will serve as the engine that will propel Izzy through this deeply personal narrative, resulting in a truly memorable experience.",
       "genres": [
         "adventure"
       ],
       "image_slug": "lost_words",
       "slug": "lost-words-beyond-the-page",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Lost Words: Beyond the Page",
       "game_modes": [
         "single player"
       ],
-      "rating": -1,
+      "rating": 78,
       "released": "2020-03-26T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/d334bea27ee64ef5a3a9bb14b1d6a88ercp1/sku/ab6a5a0d448d4c7aaed8dfa91ad6f4b9"
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
       "description": "Stacks On Stacks (On Stacks) is a zany 3D tower builder. Play as the Master Stacker, Rockit, who must use her psychic helmet to stack the colorful bricks falling all over her madcap world. BUILD stable towers by executing architectural feats of balancing. INCORPORATE mixed-up materials into your towers: works of art, aquariums, magnets, and more. DEFEND your towers against invading ghosts, a fireball-breathing dragon, and other outlandish hazards. KNOCK your finished towers back down with a wrecking ball.",
       "genres": [
         "casual",
@@ -989,7 +1821,13 @@
       ],
       "image_slug": "stacks_on_stacks",
       "slug": "stacks-on-stacks-on-stacks",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Stacks On Stacks (On Stacks)",
       "game_modes": [
         "single player",
@@ -1005,7 +1843,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Experience all the thrills of the more-complete-than-ever Managerial Career mode and decide whether to join a 2020 season team or join a totally brand new team. Discover more realistic physics, improved graphics, new 3D models for the riders and face scans of official team managers, plus new animations. You will also have to learn how to manage the wear of tyres. Customize bikes and suits! Find the best combination of sponsor and livery, and choose colours and materials. Coordinate everything with your suit to win in style! Compete with legendary riders! New historic content and a new gaming mode await you to let you relive MotoGP™ history.",
       "genres": [
         "racing",
@@ -1013,7 +1866,14 @@
       ],
       "image_slug": "motogp20",
       "slug": "motogp20",
-      "languages": ["english", "french", "italian", "german", "spanish", "portuguese"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "portuguese"
+      ],
       "name": "MotoGP™20",
       "game_modes": [
         "single player",
@@ -1027,14 +1887,37 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Eight travelers. Eight adventures. Eight roles to play. Embark on an epic journey across the vast and wondrous world of Orsterra and discover the captivating stories of each of the eight travelers.",
       "genres": [
         "role-playing"
       ],
       "image_slug": "octopath_traveler",
       "slug": "octopath-traveler",
-      "languages": ["german", "spanish", "english", "french", "italian", "japanese", "chinese"],
+      "languages": [
+        "german",
+        "spanish",
+        "english",
+        "french",
+        "italian",
+        "japanese",
+        "chinese"
+      ],
       "name": "Octopath Traveler",
       "game_modes": [
         "single player"
@@ -1059,7 +1942,22 @@
           "store_link": "https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/480a6d783c834b9faa5c995f69b49431"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "This is Battle Royale. Land, loot and outwit your opponents to become the last player left standing in a thrilling game experience full of unexpected, adrenaline-pumping moment",
       "genres": [
         "shooter",
@@ -1067,7 +1965,13 @@
       ],
       "image_slug": "pubg",
       "slug": "playerunknowns-battlegrounds",
-      "languages": ["german", "spanish", "english", "french", "italian"],
+      "languages": [
+        "german",
+        "spanish",
+        "english",
+        "french",
+        "italian"
+      ],
       "name": "PlayerUnknown's Battlegrounds",
       "game_modes": [
         "online multiplayer",
@@ -1081,7 +1985,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Get Packed is a couch co-op removals game full of calamity and physics-based carnage for 1-4 players. When a greedy salt mining company takes over Ditchlington, Last Ditch Removals must handle the hostile eviction. With little time and even less caution, your ragtag removals team gets to work rapidly relocating the entire town… leaving a trail of destruction, explosions, and furniture fragments in your wake! Are you ready for some destructive fun with friends? Things you'll love: 1 - 4 player local and online co-op. Campaign and Destruction game modes. Co-op chaos and carnage across 12 locations. 4 Customizable/Playable characters",
       "genres": [
         "party",
@@ -1089,7 +2008,13 @@
       ],
       "image_slug": "get_packed",
       "slug": "get-packed",
-      "languages": ["german", "spanish", "english", "french", "italian"],
+      "languages": [
+        "german",
+        "spanish",
+        "english",
+        "french",
+        "italian"
+      ],
       "name": "Get Packed",
       "game_modes": [
         "single player",
@@ -1099,14 +2024,29 @@
         "online multiplayer",
         "local multiplayer"
       ],
-      "rating": -1,
+      "rating": 81,
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/73182869b2a644bdbef46984b96e1721rcp1/sku/a6ffc113bea9495b84581796893ebf50"
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Grow your empire anywhere, anytime, with MONOPOLY for Stadia! Immerse yourself in a mix of the original family-favorite board game enriched with new ways to play: • Choose among three lively 3D boards • Play on-the-go, with up to 6 players • Not enough time for a full game? Enjoy new modes for faster sessions • Select your own rules and spice things up with the new Action Cards Trading your way to success has never been so fun!",
       "genres": [
         "board game",
@@ -1114,13 +2054,19 @@
       ],
       "image_slug": "monopoly",
       "slug": "monopoly",
-      "languages": ["german", "spanish", "english", "french", "italian"],
+      "languages": [
+        "german",
+        "spanish",
+        "english",
+        "french",
+        "italian"
+      ],
       "name": "Monopoly",
       "game_modes": [
         "single player",
         "local multiplayer",
         "online multiplayer",
-        "competitive"        
+        "competitive"
       ],
       "rating": -1,
       "released": "2020-04-27T22:00:00.000Z",
@@ -1129,7 +2075,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Celebrate DOOM's 25th anniversary with the release of DOOM 64, originally released on the Nintendo 64 in 1997, and now available for the first time on Stadia. Fight against demons in your crusade to hunt down the Mother of Demons and stop Hell's invasion. As you battle through more than 30 action-packed levels, be on the lookout for enhanced weapons and secrets to help you put an end to the demonic threat.",
       "genres": [
         "action",
@@ -1137,10 +2098,16 @@
       ],
       "image_slug": "doom_64",
       "slug": "doom-64",
-      "languages": ["german", "spanish", "english", "french", "italian"],
+      "languages": [
+        "german",
+        "spanish",
+        "english",
+        "french",
+        "italian"
+      ],
       "name": "DOOM 64",
       "game_modes": [
-        "single player"      
+        "single player"
       ],
       "rating": 77,
       "released": "2020-05-11T22:00:00.000Z",
@@ -1158,7 +2125,22 @@
           "store_link": "https://stadia.google.com/u/1/store/details/cba537cccfe3470b8784f88660ea5f09rcp1/sku/5027183521d3454a8ff000edbfd478a9"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Hitler’s hordes are back for more in this spine-chilling shooter! Occult enemies, epic weapons and a new campaign for 1-4 players await, as you fight to save humankind from undead Armageddon!",
       "genres": [
         "arcade",
@@ -1167,7 +2149,13 @@
       ],
       "image_slug": "zombie_army_4_dead_war",
       "slug": "zombie-army-4-dead-war",
-      "languages": ["german", "spanish", "english", "french", "italian"],
+      "languages": [
+        "german",
+        "spanish",
+        "english",
+        "french",
+        "italian"
+      ],
       "name": "Zombie Army 4: Dead War",
       "game_modes": [
         "single player",
@@ -1180,7 +2168,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "The Turing Test is a challenging first-person puzzle game set on Jupiter’s moon, Europa. You are Ava Turing, an engineer for the International Space Agency (ISA) sent to discover the cause behind the disappearance of the ground crew stationed there. Upon arrival a series of puzzles awaits you – tests which, according to the station’s AI, Tom, can only be solved by a human. These puzzles have apparently been set by the missing ground crew – but why have they created them and what are they hiding from?",
       "genres": [
         "puzzle",
@@ -1188,7 +2191,15 @@
       ],
       "image_slug": "the_turing_test",
       "slug": "the-turing-test",
-      "languages": ["english", "french", "italian", "german", "spanish", "korean", "japanese"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "korean",
+        "japanese"
+      ],
       "name": "The Turing Test",
       "game_modes": [
         "single player"
@@ -1200,19 +2211,40 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Join Embr, THE Emergency Services Revolution, and become an Embr Respondr™ today! Fight fires and save lives while climbing the ladder of success, all within the comfort of flexible working hours. Embr's mission is simple; bring über firefighting to everyone, everywhere. As an Embr Respondr™️ you'll answer clients' calls for help, and bring firefighting directly to their door! Break down doors, clear gas leaks and put out fires - no job is too much for an Embr Respondr™️.",
       "genres": [
-        "indie", 
-        "simulation", 
+        "indie",
+        "simulation",
         "casual"
       ],
       "image_slug": "embr",
       "slug": "embr",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Embr",
       "game_modes": [
-        "single player", 
+        "single player",
         "online multiplayer",
         "online co-op",
         "cross platform multiplayer"
@@ -1225,15 +2257,41 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Jotun is a hand-drawn action-exploration game set in Norse mythology. In Jotun, you play Thora, a Viking warrior who died an inglorious death and must prove herself to the Gods to enter Valhalla. Explore vast regions of Norse Purgatory to find runes to unleash the jotun, giant Norse elementals. Fight them using only your massive two-handed axe, the blessings of the Gods and your skills! Impress the Gods!",
       "genres": [
-        "action", 
+        "action",
         "adventure"
       ],
       "image_slug": "jotun_valhalla_edition",
       "slug": "jotun-valhalla-edition",
-      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "russian", "portuguese", "polish", "chinese"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "russian",
+        "portuguese",
+        "polish",
+        "chinese"
+      ],
       "name": "Jotun: Valhalla Edition",
       "game_modes": [
         "single player"
@@ -1246,15 +2304,47 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Sundered is a chaotic hand­-drawn metroidvania where you resist or embrace ancient eldritch powers. Confront hordes of terrifying enemies in an ever-changing world inspired by the works of H.P. Lovecraft. Sundered is a challenging and unique take on a classic genre from the creators of Jotun, now with local co-op! You play Eshe, a wanderer in a ruined world, trapped in ever-­changing caverns filled with hordes of terrifying enemies. Harness the power of corrupted relics to defeat gigantic bosses, at the cost of your humanity. Resist or embrace.",
       "genres": [
-        "action", 
+        "action",
         "adventure"
       ],
       "image_slug": "sundered_eldritch_edition",
       "slug": "sundered-eldritch-edition",
-      "languages": ["german", "english", "spanish", "french", "italian", "dutch", "danish", "norwegian", "finnish", "swedish", "portuguese", "russian", "polish", "chinese", "japanese", "korean"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "dutch",
+        "danish",
+        "norwegian",
+        "finnish",
+        "swedish",
+        "portuguese",
+        "russian",
+        "polish",
+        "chinese",
+        "japanese",
+        "korean"
+      ],
       "name": "Sundered: Eldritch Edition",
       "game_modes": [
         "single player",
@@ -1268,15 +2358,45 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Blurring the lines between cautious strategy and unbridled mayhem, SUPERHOT is the FPS in which time moves only when you move. No regenerating health bars. No conveniently placed ammo drops. It's just you, outnumbered and outgunned, grabbing the weapons of fallen enemies to shoot, slice, and maneuver through a hurricane of slow-motion bullets. With its unique, stylized graphics SUPERHOT finally adds something new and disruptive to the FPS genre. SUPERHOT’s polished, minimalist visual language helps you concentrate on the most important - on the fluidity of gameplay and cinematic beauty of the fight.",
       "genres": [
-        "action", 
+        "action",
         "shooter"
       ],
       "image_slug": "superhot",
       "slug": "superhot",
-      "languages": ["english", "german", "spanish", "french", "italian", "polish", "czech", "hungarian", "japanese", "korean", "portuguese", "russian", "slovak", "chinese"],
+      "languages": [
+        "english",
+        "german",
+        "spanish",
+        "french",
+        "italian",
+        "polish",
+        "czech",
+        "hungarian",
+        "japanese",
+        "korean",
+        "portuguese",
+        "russian",
+        "slovak",
+        "chinese"
+      ],
       "name": "SUPERHOT",
       "game_modes": [
         "single player"
@@ -1294,14 +2414,40 @@
           "store_link": "https://stadia.google.com/u/1/store/details/3aed855f10b34f618e5f6c6f5467bcf9rcp1/sku/ba538bceb5494eb3a3b53dafec0a0bf3"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears! Help Six escape The Maw – a vast, mysterious vessel inhabited by corrupted souls looking for their next meal. As you progress on your journey, explore the most disturbing dollhouse offering a prison to escape from and a playground full of secrets to discover. Reconnect with your inner child to unleash your imagination and find the way out!",
       "genres": [
         "adventure"
       ],
       "image_slug": "little_nightmares",
       "slug": "little-nightmares",
-      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "korean", "portuguese", "russian", "chinese"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "portuguese",
+        "russian",
+        "chinese"
+      ],
       "name": "Little Nightmares",
       "game_modes": [
         "single player"
@@ -1315,18 +2461,39 @@
     {
       "expansions": [
         {
-          "name":"Battle for the Grid Collector's Edition",
+          "name": "Battle for the Grid Collector's Edition",
           "store_link": "https://stadia.google.com/u/1/store/details/bbb1a143aa3449a5a1f236a05c305c9frcp1/sku/dd3cc4400aba4b809fb9eafcf61cb344"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Generations of Power Rangers collide across the multiverse’s 25 year history. Experience authentic, but reimagined Power Rangers gameplay. This easy to learn, but hard to master fighting game is designed to welcome players of all skill levels.",
       "genres": [
         "fighting"
       ],
       "image_slug": "power_rangers",
       "slug": "power-ranges-battle-for-the-grid",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Power Rangers: Battle for the Grid",
       "game_modes": [
         "single player",
@@ -1343,7 +2510,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "A new, remade version of the Panzer Dragoon game - true to the original, with improved graphics and controls, that suit modern gaming standards! On a far, lone planet, you encounter two dragons awaken from the ancient times. Armed with a deadly gun from the past and the guidance of your armored blue dragon, you must fulfill your destiny and keep the Prototype Dragon from reaching the Tower or die trying. Features: - Pilot through seven unbelievably realistic levels ranging from tropical blue ocean cities to intricate subterranean ruins. - Attack approaching from all sides enemies quickly and without mercy, with improved 360-degree controls and lock-on targeting.",
       "genres": [
         "arcade",
@@ -1352,7 +2534,13 @@
       ],
       "image_slug": "panzer_dragoon_remake",
       "slug": "panzer-dragoon-remake",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Panzer Dragoon: Remake",
       "game_modes": [
         "single player"
@@ -1366,18 +2554,37 @@
     {
       "expansions": [
         {
-          "name":"Morrowind Upgrade",
+          "name": "Morrowind Upgrade",
           "store_link": "https://stadia.google.com/store/details/b17f16d4a4f94c0a85e07f54dbdedbb6rcp1/sku/dc22a780578a43998109b3223e15dcbc"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Includes The Elder Scrolls Online Base game and the Morrowind Chapter. Join over 10 million players in the award-winning online multiplayer RPG and experience an ever-expanding story set across Tamriel. Explore a rich, living world with friends or embark on a solo adventure – the choice is yours to make in a persistent Elder Scrolls world.",
       "genres": [
         "role-playing game"
       ],
       "image_slug": "elder_scrolls_online",
       "slug": "elder-scrolls-online",
-      "languages": ["english", "french", "german"],
+      "languages": [
+        "english",
+        "french",
+        "german"
+      ],
       "name": "The Elder Scrolls Online",
       "game_modes": [
         "single player",
@@ -1394,7 +2601,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Wave Break is a classic arcade-style skate tricking game, with a splash of water, guns and explosions - set in an 80s crime-filled Miami Vice themed world. Score massive points with massive combos, play with friends online, or enjoy the single player campaign mode.",
       "genres": [
         "arcade",
@@ -1403,7 +2625,13 @@
       ],
       "image_slug": "wave_break",
       "slug": "vawe-break",
-      "languages": ["english", "french", "german", "italian", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "italian",
+        "spanish"
+      ],
       "name": "Wave Break",
       "game_modes": [
         "single player",
@@ -1419,7 +2647,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Just Shapes & Beats is a chaotic co-op musical bullet-hell based on three simple things: avoid Shapes, move to the rad Beats, and die, repeatedly. It’s a new spin on SHMUPs, adding a layer of coop that's at the core of the game: 'cause everything is better with friends.",
       "genres": [
         "music or rhythm",
@@ -1428,7 +2671,17 @@
       ],
       "image_slug": "just_shapes_beats",
       "slug": "just-shapes-beats",
-      "languages": ["english", "french", "german", "japanese", "korean", "russian", "chinese", "italian", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "japanese",
+        "korean",
+        "russian",
+        "chinese",
+        "italian",
+        "spanish"
+      ],
       "name": "Just Shapes & Beats",
       "game_modes": [
         "single player",
@@ -1450,7 +2703,22 @@
           "store_link": "https://stadia.google.com/store/details/0a60fff637b445a797623d0c69433a9crcp1/sku/1e4c988278b0452baa7d172722425cbd"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Say howdy to West of Loathing -- a single-player slapstick comedy adventure role-playing game set in the wild west of the Kingdom of Loathing universe. Traverse snake-infested gulches, punch skeletons wearing cowboy hats, grapple with demon cows, and investigate a wide variety of disgusting spittoons. Talk your way out of trouble as a silver-tongued Snake Oiler, plumb the refried mysteries of the cosmos as a wise and subtle Beanslinger, or let your fists do the talking as a fierce Cow Puncher. Explore a vast open world and encounter a colorful cast of characters, some of whom are good, many of whom are bad, and a few of whom are ugly.",
       "genres": [
         "role-playing game",
@@ -1459,7 +2727,9 @@
       ],
       "image_slug": "west_of_loathing",
       "slug": "west-of-loathing",
-      "languages": ["english"],
+      "languages": [
+        "english"
+      ],
       "name": "West of Loathing",
       "game_modes": [
         "single player"
@@ -1472,7 +2742,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "A legendary series returns with a grand new adventure! Enjoy a colorful action-adventure game made alongside Ryuichi Nishizawa, creator of the original Wonder Boy in Monster World series. Monster Boy and the Cursed Kingdom borrows the best from the classic series to deliver a fresh, modern adventure with fun gameplay, memorable music and gorgeous hand drawn animations. Can Jin save Monster World Kingdom? Help our young hero defeat challenging enemies, discover hidden locations, upgrade powerful equipment, and more! You'll also unlock special forms with unique skills used to open new paths where mighty bosses and secret treasures await.",
       "genres": [
         "action",
@@ -1481,7 +2766,19 @@
       ],
       "image_slug": "monster_boy_and_the_cursed_kingdom",
       "slug": "monster-boy-and-the-cursed-kingdom",
-      "languages": ["german", "english", "spanish", "french", "italian", "portuguese", "polish", "russian", "japanese", "chinese", "korean"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "portuguese",
+        "polish",
+        "russian",
+        "japanese",
+        "chinese",
+        "korean"
+      ],
       "name": "Monster Boy and the Cursed Kingdom",
       "game_modes": [
         "single player"
@@ -1503,7 +2800,22 @@
           "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/f7aa7caf05e64d91af2063bf1803e947"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Crayta brings together players of all abilities and backgrounds to create and play multiplayer games with their families, friends, and the rest of the world. Create and collaborate in real-time, then share your games instantly with the Crayta community. Powerful, flexible, accessible, fun – game creation is now a game in itself!",
       "genres": [
         "arcade",
@@ -1513,14 +2825,20 @@
       ],
       "image_slug": "crayta",
       "slug": "crayta",
-      "languages": ["english", "french", "german", "italian", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "italian",
+        "spanish"
+      ],
       "name": "Crayta",
       "game_modes": [
         "online multiplayer",
         "competitive",
         "online co-op"
       ],
-      "rating": -1,
+      "rating": 71,
       "released": "2020-06-30T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/bf97db3ce0644a448815aef1a5c33e0a",
@@ -1537,7 +2855,22 @@
           "store_link": "https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/deb9ce54875f4960bc0845f0294dd44c"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "F1® 2020 allows you to create your F1® team for the very first time and race alongside the official teams and drivers. Alternatively, challenge your friends in new split-screen with casual race options for more relaxed racing. Compete on 22 circuits, with current and classic content.",
       "genres": [
         "racing",
@@ -1546,7 +2879,14 @@
       ],
       "image_slug": "f1_2020",
       "slug": "f1-2020",
-      "languages": ["english", "french", "german", "italian", "spanish", "dutch"],
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "italian",
+        "spanish",
+        "dutch"
+      ],
       "name": "F1® 2020",
       "game_modes": [
         "single player",
@@ -1563,7 +2903,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Orcs Must Die! 3 ushers orc-slaying mayhem to a previously unimaginable scale. All new War Scenarios pit players and their friends against the largest orc armies ever assembled. War Machines give players the essential firepower to heave, stab, carbonize, and disarticulate the abominable intruders. Orcs Must Die! 3 is the long-awaited successor to the award-winning series.",
       "genres": [
         "action",
@@ -1572,13 +2927,27 @@
       ],
       "image_slug": "orcs_must_die_3",
       "slug": "orcs-must-die-3",
-      "languages": ["english", "french", "italian", "german", "spanish", "japanese", "korean", "finnish", "swedish", "norwegian", "danish", "russian", "portuguese"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "japanese",
+        "korean",
+        "finnish",
+        "swedish",
+        "norwegian",
+        "danish",
+        "russian",
+        "portuguese"
+      ],
       "name": "Orcs Must Die! 3",
       "game_modes": [
         "single player",
         "online co-op"
       ],
-      "rating": -1,
+      "rating": 73,
       "released": "2020-07-13T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a",
@@ -1586,7 +2955,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Experience a 2D platformer with a very unique mechanic: change the world with your voice! One Hand Clapping lets you discover the power that rests within your vocal cords while solving unique puzzles that will require rhythm and a good ear. You must build confidence in your singing voice and explore several different mechanics to overcome harmonic and pitch-focused challenges. Don’t be afraid of hitting the wrong notes, it is all about taking risks and learning from your mistakes. Find out how far your voice can take you! - Please be aware, that this game is still in early development and new features and levels will be added in future updates.",
       "genres": [
         "adventure",
@@ -1595,7 +2979,33 @@
       ],
       "image_slug": "one_hand_clapping",
       "slug": "one-hand-clapping",
-      "languages": ["english", "french", "italian", "german", "spanish", "russian", "turkish", "portuguese", "croatian", "japanese", "chinese", "korean", "dutch", "norwegian", "swedish", "danish", "polish", "finnish", "romanian", "slovenian", "czech", "hungarian", "bulgarian", "greek", "thai"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "russian",
+        "turkish",
+        "portuguese",
+        "croatian",
+        "japanese",
+        "chinese",
+        "korean",
+        "dutch",
+        "norwegian",
+        "swedish",
+        "danish",
+        "polish",
+        "finnish",
+        "romanian",
+        "slovenian",
+        "czech",
+        "hungarian",
+        "bulgarian",
+        "greek",
+        "thai"
+      ],
       "name": "One Hand Clapping",
       "game_modes": [
         "single player"
@@ -1608,7 +3018,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Lara Croft and the Temple of Osiris is the sequel to the critically-acclaimed Lara Croft and the Guardian of Light, and the first-ever four-player co-op experience with Lara Croft. Featuring stunning visuals and a brand-new story, players must work together to explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps. All the while, players will compete for treasure, powerful artifacts, and ultimate bragging rights.",
       "genres": [
         "adventure",
@@ -1616,7 +3041,16 @@
       ],
       "image_slug": "lara_croft_and_the_temple_of_osiris",
       "slug": "lara-croft-and-the-temple-of-osiris",
-      "languages": ["english", "french", "italian", "german", "spanish", "russian", "japanese", "portuguese"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "russian",
+        "japanese",
+        "portuguese"
+      ],
       "name": "Lara Croft and the Temple of Osiris",
       "game_modes": [
         "single player",
@@ -1632,7 +3066,22 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
       "genres": [
         "action",
@@ -1640,7 +3089,13 @@
       ],
       "image_slug": "celeste",
       "slug": "celeste",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Celeste",
       "game_modes": [
         "single player"
@@ -1658,7 +3113,22 @@
           "store_link": "https://stadia.google.com/store/details/8e77c7a4368944589b4c9d8179d2eb4crcp1/sku/fd993b8d4b7a49b99caad668a0d7ab3d"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Egypt, 1930's. Erased from ancient history and buried in a nameless tomb for 4,000 years, Seteki the Witch Queen has risen once again. Only one troop of daring heroes can stand against the fearsome power of Seteki and her army of mummified monstrosities: The Strange Brigade! Explore remarkable ruins, solve perilous puzzles and uncover tantalising treasure while blasting your way through an array of undead enemies in thrilling third-person action that’s certain to bring out your inner adventurer!",
       "genres": [
         "arcade",
@@ -1667,7 +3137,13 @@
       ],
       "image_slug": "strange_brigade",
       "slug": "strange-brigade",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Strange Brigade",
       "game_modes": [
         "single player",
@@ -1681,14 +3157,35 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
       "description": "Northern Canada, 1970. A strange blizzard ravages Atamipek Lake. Step into the shoes of a detective to explore the eerie village, investigate surreal events, and battle the elements to survive. Kona is a chilly interactive tale you won't soon forget.",
       "genres": [
         "adventure"
       ],
       "image_slug": "kona",
       "slug": "kona",
-      "languages": ["english", "french", "italian", "german", "spanish"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
       "name": "Kona",
       "game_modes": [
         "single player"
@@ -1701,7 +3198,30 @@
     },
     {
       "expansions": [],
-      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "hungary", "poland", "portugal", "romania", "slovakia", "switzerland"],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "hungary",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland"
+      ],
       "description": "Relicta is a first-person physics-based puzzle game where you need to creatively combine magnetism and gravity to unravel the secrets of Chandra Base. Alone in the depths of the Moon, your scientific mind is the only thing that can keep your daughter alive… Play as a physicist stranded on a derelict Moon base and bend gravity and magnetism to your will. Will you rush straight ahead or will you take your time to unravel the intrigues of 22nd century orbital politics? Buried in the eternal darkness lies a secret that might claim your daughter’s life - or change the fate of humanity. Are you ready to face the consequences of your research?",
       "genres": [
         "adventure",
@@ -1709,7 +3229,20 @@
       ],
       "image_slug": "relicta",
       "slug": "relicta",
-      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "korean", "russian", "polish", "portuguese", "chinese (simplified)", "chinese (traditional)"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "russian",
+        "polish",
+        "portuguese",
+        "chinese (simplified)",
+        "chinese (traditional)"
+      ],
       "name": "Relicta",
       "game_modes": [
         "single player"
@@ -1723,14 +3256,50 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
       "description": "Rock of Ages 3: Make & Break is competitive tower defense and arcade action rolled up with ACE Team's quirky, Monty Python-esque humor into one giant, creative game for the ages.",
       "genres": [
         "arcade"
       ],
       "image_slug": "rock_of_ages_3_make_and_break",
       "slug": "rock-of-ages-3-make-and-break",
-      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "korean", "russian", "polish", "portuguese", "chinese (simplified)", "chinese (traditional)"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "russian",
+        "polish",
+        "portuguese",
+        "chinese (simplified)",
+        "chinese (traditional)"
+      ],
       "name": "Rock of Ages 3: Make & Break",
       "game_modes": [
         "single Player",
@@ -1746,7 +3315,30 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden", "austria", "czechia", "hungary", "poland", "portugal", "romania", "slovakia", "switzerland"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden",
+        "austria",
+        "czechia",
+        "hungary",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland"
+      ],
       "description": "Developed by id Software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, DOOM returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. Combine your arsenal of futuristic and iconic guns, upgrades, movement and an advanced melee system to knock-down, slash, stomp, crush, and blow apart demons in creative and violent ways.",
       "genres": [
         "action",
@@ -1754,7 +3346,18 @@
       ],
       "image_slug": "doom",
       "slug": "doom",
-      "languages": ["english", "french", "italian", "german", "spanish", "polish", "russian", "japanese", "portuguese (brazil)", "chinese (traditional)"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "polish",
+        "russian",
+        "japanese",
+        "portuguese (brazil)",
+        "chinese (traditional)"
+      ],
       "name": "DOOM",
       "game_modes": [
         "single player",
@@ -1770,7 +3373,30 @@
     },
     {
       "expansions": [],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
       "description": "Built on the foundations of SUPERHOT and SUPERHOT VR, MIND CONTROL DELETE continues to bring you more of SUPERHOT’s signature power fantasy.\n\nTime moves only when you move. Enemies pour in from every direction. You are in complete control as you shoot, slice, and explode your way through dozens and dozens of increasingly challenging combat encounters. The closer you get to the core, the more powerful you become. You amass an arsenal of skills and weapons. You uncover snippets of precious knowledge - of the meaning that you crave so much.\n\nThe third game in the SUPERHOT franchise - MIND CONTROL DELETE gives you more insight into the world of SUPERHOT, more story, more signature gameplay. Keep dancing the slow motion ballet of destruction for so much longer than ever before.",
       "genres": [
         "action",
@@ -1778,7 +3404,23 @@
       ],
       "image_slug": "superhot_mind_control_delete",
       "slug": "superhot-mind-control-delete",
-      "languages": ["english", "german", "spanish", "french", "italian", "polish", "czech", "hungarian", "japanese", "korean", "portuguese", "russian", "slovak", "chinese (simplified)", "chinese (traditional)"],
+      "languages": [
+        "english",
+        "german",
+        "spanish",
+        "french",
+        "italian",
+        "polish",
+        "czech",
+        "hungarian",
+        "japanese",
+        "korean",
+        "portuguese",
+        "russian",
+        "slovak",
+        "chinese (simplified)",
+        "chinese (traditional)"
+      ],
       "name": "SUPERHOT: MIND CONTROL DELETE",
       "game_modes": [
         "single player"
@@ -1797,7 +3439,30 @@
           "store_link": "https://stadia.google.com/store/details/6a2ac2fc8e684c41b5c14981dcb454fdrcp1/sku/e6db6f135c514fe98a62b5de7187d9a5"
         }
       ],
-      "countries": ["united states", "canada", "united kingdom", "france", "italy", "germany", "spain", "belgium", "denmark", "finland", "ireland", "netherlands", "norway", "sweden", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
       "description": "Play against the pros. Play with your crew. In PGA TOUR 2K21, you can play by the rules or create your own.\n\nFeaturing an all-new PGA TOUR Career Mode with licensed courses and 12 licensed pros to compete against in your quest for the FedExCup.\n\nCreate your dream course with our deep course creator to share with other players and run your own clubhouse with Online Societies.",
       "genres": [
         "sports",
@@ -1805,7 +3470,13 @@
       ],
       "image_slug": "pga_tour_2k21",
       "slug": "pga-tour-2k21",
-      "languages": ["german", "english", "spanish", "french", "italian"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
       "name": "PGA TOUR 2K21",
       "game_modes": [
         "single player",
@@ -1824,7 +3495,11 @@
   "pro_games": [
     {
       "month": "04-2020",
-      "games": ["spitlings", "serious-sam-collection", "stacks-on-stacks-on-stacks"]
+      "games": [
+        "spitlings",
+        "serious-sam-collection",
+        "stacks-on-stacks-on-stacks"
+      ]
     }
   ],
   "updated": "2020-08-03T14:30:41.528Z"

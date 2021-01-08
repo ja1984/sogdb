@@ -8,15 +8,16 @@ function getMissingRatingsTitles() {
     return file.games.filter((game) => game.rating === -1);
 }
 
-function getMissingRating(game) {
+function getGameRating(game) {
     return new Promise((res) => {
-        getMetacriticRating(game.name)
-            .then((rating) => {
+        getMetacriticData(game.name)
+            .then((metacriticData) => {
+                const rating = metacriticData.metascore;
                 if (rating === 'tbd') {
                     console.log(`${game.name}: tbd, retry later!`);
                     return res();
                 }
-                console.log(`${game.name}: ${rating}!`);
+                console.log(`${game.name}: ${rating}`);
                 game.rating = +rating;
                 return res();
             })
@@ -27,25 +28,33 @@ function getMissingRating(game) {
     });
 }
 
-function fillMissingRatings() {
+function getMetacriticData(title) {
     return new Promise((res, rej) => {
-        const missingRatingsTitles = getMissingRatingsTitles();
-        const getMissingRatings = missingRatingsTitles.map((game) => getMissingRating(game));
-        return Promise.all(getMissingRatings).then(() => res()).catch((err) => console.log(err));
-    });
-}
-
-function getMetacriticRating(title) {
-    return new Promise((res, rej) => {
-        metacritic.Search({ category: 'game', text: encodeURI(title) },
-            function (err, result) {
+        const searchInput = title.replace(/[^a-zA-Z\d\s:]/g, ' ');
+        metacritic.Search({ category: 'game', text: searchInput },
+            function (err, results) {
                 if (err) {
                     return rej(err);
                 }
-                return res(result[0].metascore);
+                const stadiagame = results.filter((result) => result.link.indexOf('\/stadia\/') >= 0);
+                if (stadiagame.length === 0) {
+                    return rej('Stadia game not found');
+                }
+                return res(stadiagame[0]);
             });
     })
 }
+
+function fillMissingRatings() {
+    return new Promise((res, rej) => {
+        const missingRatingsTitles = getMissingRatingsTitles();
+        const getMissingRatings = missingRatingsTitles.map((game) => getGameRating(game));
+        return Promise.all(getMissingRatings)
+            .then(() => res())
+            .catch((err) => rej(err));
+    });
+}
+
 
 function updateLibrary() {
     console.log('Updating library...');
