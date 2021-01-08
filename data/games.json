@@ -1864,6 +1864,33 @@
       "store_link": "https://stadia.google.com/store/details/657210fe20ad402b85bda8f816b80d98rcp1/sku/d3e056ee79d947c29eedc5ae232d6c2ep",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "CYBERPUNK VOLLEYBALL WITH GUNS • Online PvP • Solo Campaign • Local Co-Op • 5 teams/stages.\n\nIn the tradition of the great arcade titles, Gunsport is a game about precise action and timing. The aim of the game is to get the ball into the opponent's goal, making the best use of your limited shots. The only way to get the ball into the goal is by shooting it there, using of your team's unique special weapons and each stage's gimmicks or game-changing rulesets. Gunsport is familiar but different - this is Future Millennium Sporting Action!",
+      "genres": [
+        "arcade", 
+        "sports",
+        "indie"
+      ],
+      "image_slug": "gunsport",
+      "slug": "gunsport",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Gunsport",
+      "game_modes": [
+        "single player",
+        "2 players local co-op",
+        "2-4 players local multiplayer",
+        "2-4 players online multiplayer",
+        "4 players competitive"
+      ],
+      "rating": -1,
+      "released": "2020-08-31T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/16330bd770134d85b5bef3cc6b1407ffrcp1/sku/896565e45f974774a117876f949630df",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
