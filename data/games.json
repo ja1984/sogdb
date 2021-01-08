@@ -1819,6 +1819,29 @@
       "store_link": "https://stadia.google.com/store/details/6a2ac2fc8e684c41b5c14981dcb454fdrcp1/sku/9c7fd0f16817482c9e0b311a8340cb0b",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Spiritfarer is a cozy management game about dying. You play Stella, ferrymaster to the deceased, a Spiritfarer. Build a boat to explore the world, then befriend and care for spirits before finally releasing them into the afterlife. Farm, mine, fish, harvest, cook, and craft your way across mystical seas. Join the adventure as Daffodil the cat, in two-player cooperative play. Spend relaxing quality time with your spirit passengers, create lasting memories, and, ultimately, learn how to say goodbye to your cherished friends.",
+      "genres": [
+        "adventure",
+        "simulation"
+      ],
+      "image_slug": "spiritfarer",
+      "slug": "spiritfarer",
+      "languages": ["german", "english", "spanish", "french", "italian", "russian", "portuguese", "chinese", "korean", "japanese"],
+      "name": "Spiritfarer",
+      "game_modes": [
+        "single player",
+        "1-2 players local co-op"
+      ],
+      "rating": 83,
+      "released": "2020-08-20T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/430bbe284fb7482c9afe8e877b119269rcp1/sku/5582aa71e58a45e59a05598a93cde9a3",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
