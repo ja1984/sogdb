@@ -2084,26 +2084,27 @@
         }
       ],
       "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
-      "description": "NBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience. With extensive improvements upon its best-in-class graphics and gameplay, competitive and community online features, and deep, varied game modes, NBA 2K21 offers one-of-a-kind immersion into all facets of NBA basketball and culture - where Everything is Game.",
+      "description": "One of the most iconic classic games which we all grew to know and love! UNO makes its return with an assortment of exciting new features such as added video chat support and an all new theme system which adds more fun! Match cards either by matching color or value and play action cards to change things up. Race against others to empty your hand before everyone else in either Classic play or customize your experience with a variety of House Rules and match settings to ensure you and your friends never play the same game twice! Also, get ready to shake things up with new branded themes introducing never-before-seen Theme Cards that really change the way you play the game!",
       "genres": [
-        "sports"
+        "kids & family",
+        "board game"
       ],
-      "image_slug": "nba_2k21",
-      "slug": "nba-2k21",
-      "languages": ["english", "french", "german", "italian", "spanish", "japanese", "portuguese (brazil)", "russian", "polish", "czech", "korean", "chinese", "chinese (taiwan)", "arabic", "spanish (latin america)"],
-      "name": "NBA 2K21",
+      "image_slug": "uno",
+      "slug": "uno",
+      "languages": ["german", "english", "spanish", "french", "italian", "dutch", "portuguese (brazil)", "japanese", "russian", "chinese (traditional)", "chinese (simplified)"],
+      "name": "UNO®",
       "game_modes": [
         "single player",
-        "2-4 players local multiplayer",
-        "2-10 players online multiplayer",
-        "2-4 players local co-op",
-        "2-10 players online co-op",
-        "2-10 players competitive"
+        "2 players local multiplayer",
+        "2-4 players online multiplayer",
+        "2 players local co-op",
+        "2-4 players online co-op",
+        "2-4 players competitive"
       ],
-      "rating": 79,
-      "released": "2020-09-04T22:00:00.000Z",
+      "rating": 71,
+      "released": "2020-09-15T22:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/b0a2ab7cdc194582bc4d111c07c2e30drcp1/sku/ae31d6ce393f4896b9b9d1f2f1ac676ep",
+      "store_link": "https://stadia.google.com/store/details/1694aaa3968344228424092f180a3e0ercp1/sku/c147fbe82f394c11bbe41ee134d4f350",
       "early_access": false,
       "pre_order": false
     }
