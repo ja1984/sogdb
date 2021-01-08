@@ -2053,6 +2053,59 @@
       "store_link": "https://stadia.google.com/store/details/b0a2ab7cdc194582bc4d111c07c2e30drcp1/sku/ae31d6ce393f4896b9b9d1f2f1ac676ep",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Developed over five years by industry veterans (Metal Gear Solid, Halo, F.E.A.R.), République is a thrilling and topical stealth-action game that explores the perils of government surveillance in the Internet Age.You receive a call from Hope, a woman trapped inside a mysterious totalitarian state. By hacking into the nation's elaborate surveillance network and taking control, you guide Hope through a web of danger and deception across five thrilling episodes.",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "republique",
+      "slug": "republique",
+      "languages": ["german", "english", "spanish", "french", "italian", "russian", "chinese", "korean", "portuguese", "japanese"],
+      "name": "République",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 72,
+      "released": "2020-09-14T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b0a2ab7cdc194582bc4d111c07c2e30drcp1/sku/ae31d6ce393f4896b9b9d1f2f1ac676ep",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Mamba Forever Edition",
+          "store_link": "https://stadia.google.com/store/details/b0a2ab7cdc194582bc4d111c07c2e30drcp1/sku/ef438c972780466594c5d148279f72bap"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "NBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience. With extensive improvements upon its best-in-class graphics and gameplay, competitive and community online features, and deep, varied game modes, NBA 2K21 offers one-of-a-kind immersion into all facets of NBA basketball and culture - where Everything is Game.",
+      "genres": [
+        "sports"
+      ],
+      "image_slug": "nba_2k21",
+      "slug": "nba-2k21",
+      "languages": ["english", "french", "german", "italian", "spanish", "japanese", "portuguese (brazil)", "russian", "polish", "czech", "korean", "chinese", "chinese (taiwan)", "arabic", "spanish (latin america)"],
+      "name": "NBA 2K21",
+      "game_modes": [
+        "single player",
+        "2-4 players local multiplayer",
+        "2-10 players online multiplayer",
+        "2-4 players local co-op",
+        "2-10 players online co-op",
+        "2-10 players competitive"
+      ],
+      "rating": 79,
+      "released": "2020-09-04T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b0a2ab7cdc194582bc4d111c07c2e30drcp1/sku/ae31d6ce393f4896b9b9d1f2f1ac676ep",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
