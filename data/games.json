@@ -2615,6 +2615,23 @@
       "store_link": "https://stadia.google.com/store/details/1a871cfe8a7d4ebc8592c2ad4bc07150rcp1/sku/ab83a7b5efed40188c8ab8798d7dbfa6",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Hello Neighbor Multiplayer. Secret Neighbor is a Multiplayer Social Horror Game where a group of intruders try to rescue their friend from the Neighbor's creepy basement. Only problem is one of the intruders is the Neighbor in disguise.",
+      "genres": ["action", "adventure"],
+      "image_slug": "secret_neighbor",
+      "slug": "secret-neighbor",
+      "languages": ["english", "french", "italian", "german", "spanish", "portuguese (portugal)", "polish"],
+      "name": "Secret Neighbor",
+      "game_modes": ["2-6 players online multiplayer"],
+      "rating": -1,
+      "released": "2020-11-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/8f8d583a2ae843e0b31fa653cea5d27drcp1/sku/5f1dfba8e3d64b3bbd4979c504cea096p",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
