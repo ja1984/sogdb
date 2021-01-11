@@ -2265,7 +2265,7 @@
       "slug": "baldurs-gate-3",
       "languages": ["english", "french", "german", "spanish", "polish", "russian", "chinese"],
       "name": "Baldur's Gate 3",
-      "game_modes": ["single player, 2-4 players online multiplayer"],
+      "game_modes": ["single player", "2-4 players online multiplayer"],
       "rating": -1,
       "released": "2020-10-05T23:00:00.000Z",
       "resolution": "unknown",
