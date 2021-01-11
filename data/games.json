@@ -2261,6 +2261,42 @@
       "store_link": "https://stadia.google.com/store/details/41de509cbdbb4a13828636099c57731arcp1/sku/a84dcb8e05e74083b5c879b49e923205p",
       "early_access": true,
       "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Fight to be the tastiest cake in Cake Bash! A frantic four player party game where adorable drawn-to-life cakes beat the crumbs out of each other.\n\nPick your favourite cake and battle in a variety of lifelike arenas with unique goals - cover yourself in sweeties or hurl fruit into a pie, there’s plenty for everyone!\n\nCompete on the same screen, find challengers online or battle well-baked bots. It’s time to get out of the oven and into the fray!",
+      "genres": ["party", "kids & family", "indie"],
+      "image_slug": "cake_bash",
+      "slug": "cake-bash",
+      "languages": ["english", "french", "italian", "german", "spanish", "japanese", "portuguese", "korean", "chinese (simplified)", "russian"],
+      "name": "Cake Bash",
+      "game_modes": ["single player", "2-4 players local multiplayer", "2-4 players online multiplayer", ">1 player competitive", ">1 player cross-platform multiplayer"],
+      "rating": -1,
+      "released": "2020-10-14T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/19efd5fa36794d7b8bc87de68124e705rcp1/sku/a7f0a6098ae747788a6f75d0d1e1d8f2p",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "This is a standalone product for those who do not yet own the DOOM Eternal Standard or Deluxe Edition. Includes DOOM Eternal (BATTLEMODE). The Ancient Gods – Part One is the first campaign expansion for the critically acclaimed DOOM Eternal. Your war is not over… The legions of Hell have razed the heavens, threatening to expand across dimensions. Battle your way back to Urdak and decide the fate of the cosmos. Your mission is now your own.",
+      "genres": ["action", "shooter"],
+      "image_slug": "doom_eternal_ancient_gods",
+      "slug": "doom-eternal-the-ancient-gods",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "DOOM Eternal: The Ancient Gods",
+      "game_modes": ["single player", "2-3 players online multiplayer", "2-3 players competitive"],
+      "rating": -1,
+      "released": "2020-10-19T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/e414067702174e96b5971cc0ec08e4b7p",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
