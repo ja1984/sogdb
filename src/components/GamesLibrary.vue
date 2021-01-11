@@ -84,7 +84,7 @@
             <div class="players genres">
               <strong class="filter-options__title">Available in</strong>
               <div class="row row--small-gutter">
-                <div class="column filter-player" v-for="country in sortedCountries" :key="country">
+                <div class="column filter-countries" v-for="country in sortedCountries" :key="country">
                   <label class="checkbox">
                     <input v-model="selectedCountries" :value="country" type="checkbox" class="form-input">
                     <div class="checkbox-box" /> <span class="checkbox__label">{{ country }}</span>
@@ -95,7 +95,7 @@
             <div class="players genres">
               <strong class="filter-options__title">Game language</strong>
               <div class="row row--small-gutter">
-                <div class="column filter-player" v-for="language in sortedLanguages" :key="language">
+                <div class="column filter-language" v-for="language in sortedLanguages" :key="language">
                   <label class="checkbox">
                     <input v-model="selectedLanguages" :value="language" type="checkbox" class="form-input">
                     <div class="checkbox-box" /> <span class="checkbox__label">{{ language }}</span>
@@ -404,9 +404,13 @@ a {
 }
 
 
-.filter-genre, .filter-player {
+.filter-genre, .filter-player, .filter-countries, .filter-language {
   flex: 0 1 20%;
   padding: 5px;
+}
+
+.filter-player {
+  flex: 0 1 (100% / 3);
 }
 
 

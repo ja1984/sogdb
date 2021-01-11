@@ -1073,14 +1073,7 @@
       "slug": "get-packed",
       "languages": ["german", "spanish", "english", "french", "italian"],
       "name": "Get Packed",
-      "game_modes": [
-        "single player",
-        "competitive",
-        "online co-op",
-        "local co-op",
-        "online multiplayer",
-        "local multiplayer"
-      ],
+      "game_modes": ["single player", "2-4 players local multiplayer", "1-4 players online multiplayer", "2-4 players local co-op", "2-4 players online co-op", "2-4 players competitive"],
       "rating": -1,
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
@@ -1310,13 +1303,7 @@
       "slug": "power-ranges-battle-for-the-grid",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Power Rangers: Battle for the Grid",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "competitive",
-        "cross platform multiplayer"
-      ],
+      "game_modes": ["single player", "1-2 players local multiplayer", "1-2 players online multiplayer", "1-2 players competitive", "1-2 players cross-platform multiplayer"],
       "rating": -1,
       "released": "2020-05-31T22:00:00.000Z",
       "resolution": "unknown",
@@ -1412,13 +1399,7 @@
       "slug": "just-shapes-beats",
       "languages": ["english", "french", "german", "japanese", "korean", "russian", "chinese", "italian", "spanish"],
       "name": "Just Shapes & Beats",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "local co-op",
-        "online multiplayer",
-        "online co-op"
-      ],
+      "game_modes": ["single player", "2-4 players local multiplayer", "2-4 players local co-op", "2-4 players online multiplayer", "2-4 players online co-op"],
       "rating": 83,
       "released": "2020-06-29T22:00:00.000Z",
       "resolution": "unknown",

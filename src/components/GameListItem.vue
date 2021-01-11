@@ -30,7 +30,7 @@
           </div>
           <div class="column column--wrap">
             <template v-if="mode.exist">
-              <div v-if="mode.players !== -1">{{ mode.players }}</div>
+              <div v-if="mode.players !== -1" class="players">{{ mode.players }}</div>
               <svg v-else xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check game-modes__icon"><polyline points="20 6 9 17 4 12"></polyline></svg>
             </template>
             <template v-else>
@@ -215,6 +215,7 @@ export default {
 
 .game-modes__icon {
   height: 18px;
+  display: block;
 }
 
 .game-modes {
@@ -261,5 +262,11 @@ export default {
   font-size: 11px;
   padding: 5px;
   font-weight: bold;
+}
+
+.players {
+  min-width: 24px;
+  text-align: center;
+  font-size: 14px;
 }
 </style>
