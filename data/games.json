@@ -2498,6 +2498,28 @@
       "store_link": "https://stadia.google.com/store/details/deb490c166544813bf2ab73f4c6e2aa0rcp1/sku/3a7288e1be9d4e92bc87c2138aa547c1p",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/36c01626f21f428e8d5ae35ce19c774brcp1/sku/5bf9d7d407fd4f3eae612ebfb72b304a"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "A galaxy-spanning adventure awaits in STAR WARS Jedi: Fallen Order, a 3rd person action-adventure title from Respawn Entertainment. This narratively-driven single player game puts you in the role of a Jedi Padawan who narrowly escaped the purge of Order 66 following the events of Episode 3: Revenge of the Sith. On a quest to rebuild the Jedi Order, you must pick up the pieces of your shattered past to complete your training, develop new powerful Force abilities, and master the art of the iconic lightsaber - all while staying one step ahead of the Empire and its deadly Inquisitors.",
+      "genres": ["action", "adventure"],
+      "image_slug": "star_wars_jedi_fallen_order",
+      "slug": "star-wars-jedi-fallen-order",
+      "languages": ["french", "english", "italian", "german", "spanish", "portuguese", "spanish", "japanese", "korean (south korea)", "polish", "russian", "chinese", "chinese"],
+      "name": "STAR WARS Jedi: Fallen Order™",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-11-23T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/36c01626f21f428e8d5ae35ce19c774brcp1/sku/73f14fd59eb3417c8439562f54d2fc4a",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
