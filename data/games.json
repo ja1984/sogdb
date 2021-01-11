@@ -2598,6 +2598,23 @@
       "store_link": "https://stadia.google.com/store/details/44752f1774ca4508a2c45e57121d7e8frcp1/sku/dfda545ac2e94885a13b1434d370d4b0",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.",
+      "genres": ["indie", "strategy", "board game"],
+      "image_slug": "into_the_breach",
+      "slug": "into-the-breach",
+      "languages": ["english", "chinese", "french", "german", "italian", "polish", "portuguese", "russian", "spanish", "japanese"],
+      "name": "Into the Breach",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-11-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/1a871cfe8a7d4ebc8592c2ad4bc07150rcp1/sku/ab83a7b5efed40188c8ab8798d7dbfa6",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
