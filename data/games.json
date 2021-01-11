@@ -2305,6 +2305,64 @@
       "store_link": "https://stadia.google.com/store/details/cc3f233990754f77a5819a583594f399rcp1/sku/2a1351f516904ed190546d1b82934bd1",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Best friends Arina and Frendt fall into a series of vibrant, dreamlike island gardens peppered with everyday objects from their childhood. Together they embark on an emotional journey that examines the significance of their friendship: the memories they’ve built, what must be let go, and what should never be left behind.\n\nLost in a mysterious realm where cause and effect are malleable, the friends find that time flows in all directions. Manipulate time to solve puzzles and reach the apex of each isle. Follow the duo as they unpack and explore their significant moments spent together, lighting up constellations and illuminating threads of a bittersweet narrative.",
+      "genres": ["action", "indie", "puzzle"],
+      "image_slug": "the_gardens_between",
+      "slug": "the-gardens-between",
+      "languages": ["german", "english", "spanish", "french", "italian", "polish", "portuguese", "dutch"],
+      "name": "The Gardens Between",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-10-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/cf65dc95d523465493d6fbc482452227rcp1/sku/86269481f3884521806398d7d875df9e",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/1376a179ca87458b85acd44341854772rcp1/sku/b899a93d213e4d2a9cef68e36e261715p"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Continuing the series’ World War Two heritage, Sniper Elite 4 delivers critically acclaimed gunplay across the striking landscapes of wartime Italy, from sun-drenched Mediterranean coastal towns to giddying mountain monasteries and more. Sniper Elite 4 combines genre-defining ballistics, breathless emergent stealth and gripping third-person action. Experience unrivalled freedom across levels many times the size of Sniper Elite 3’s. Exploit the environment, carve your own approach, manipulate the battlefield and hunt your enemies.",
+      "genres": ["action", "adventure", "shooter"],
+      "image_slug": "sniper_elite_4",
+      "slug": "sniper-elite-4",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "Sniper Elite 4",
+      "game_modes": ["single player", "2-12 players online multiplayer", "2-4 players online co-op"],
+      "rating": -1,
+      "released": "2020-10-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/1376a179ca87458b85acd44341854772rcp1/sku/b485ca2ff43a4c658b32bd638546142cp",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Hello Neighbor: Hide and Seek follows the tragic story of the Neighbor’s family in this dramatic prequel to Hello Neighbor. Experience playing a game of hide-and-seek with your brother as you both deal with the loss of a family member. The game explains events that lead up to the original Stealth Horror hit Hello Neighbor.",
+      "genres": ["action", "adventure"],
+      "image_slug": "hello_neighbor_hide_and_seek",
+      "slug": "hello-neighbor-hide-and-seek",
+      "languages": ["english", "french", "italian", "german", "spanish", "portuguese", "polish"],
+      "name": "Hello Neighbor: Hide and Seek",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-10-27T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/cf784a0f4c554ce68a2880cb461bd903rcp1/sku/ad2362e56c57469cafad1ed5799e8997p",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
