@@ -2297,6 +2297,24 @@
       "store_link": "https://stadia.google.com/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/e414067702174e96b5971cc0ec08e4b7p",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "This is a standalone product for those who do not yet own the DOOM Eternal Standard or Deluxe Edition. Includes DOOM Eternal (BATTLEMODE). You pulled humanity back from the edge of extinction, but it came at a cost. Slaying the Kahn Maykr left an imbalance of power in the cosmos that threatens all of creation. Now you must rise and set things right in DOOM Eternal: The Ancient Gods. The Year One Pass includes two campaign expansions: The Ancient Gods - Part One and The Ancient Gods - Part Two. The Ancient Gods - Part One: The legions of Hell have razed the heavens, threatening to expand across dimensions. Battle your way back to Urdak and decide the fate of the cosmos. Your mission is now your own. Tha Ancient Gods - Part Two: More information coming soon!",
+      "genres": ["action", "shooter"],
+      "image_slug": "doom_eternal_year_one_pass",
+      "slug": "doom-eternal-year-one-pass",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "DOOM Eternal: Year One Pass",
+      "game_modes": ["single player", "2-3 players online multiplayer", "2-3 players competitive"],
+      "rating": -1,
+      "released": "2020-10-19T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/5859706900cd48a88d80c89fb3a18a8bp",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
