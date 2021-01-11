@@ -331,14 +331,7 @@
         "english", "french", "italian", "german", "spanish", "danish", "finnish", "korean", "norwegian", "dutch", "portuguese", "russian", "swedish", "chinese"
       ],
       "name": "Just Dance 2020",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "local co-op",
-        "competitive",
-        "cross platform multiplayer"
-      ],
+      "game_modes": ["single player", "2-6 players local multiplayer", "1-99 players online multiplayer", "2-6 players local co-op", "2-99 players competitive", "1-99 players cross-platform multiplayer"],
       "rating": 77,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
@@ -681,14 +674,7 @@
       "slug": "nba-2k20",
       "languages": ["english", "french", "italian", "german", "spanish", "japanese", "korean", "chinese (simplified)", "chinese (traditional)"],
       "name": "NBA 2K20",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "local co-op",
-        "online co-op",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2-4 players local multiplayer", "2-10 players online multiplayer", "2-4 players local co-op", "2-10 players online co-op", "2-10 players competitive"],
       "rating": 77,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "unknown",
@@ -750,13 +736,7 @@
       "slug": "spitlings",
       "languages": ["german", "english", "spanish", "french", "italian"],
       "name": "Spitlings",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "local co-op",
-        "online co-op"
-      ],
+      "game_modes": ["single player", ">1 player local multiplayer", ">1 player online multiplayer", ">1 player local co-op", ">1 player online co-op"],
       "rating": -1,
       "released": "2020-02-24T23:00:00.000Z",
       "resolution": "4k60",
@@ -1234,10 +1214,7 @@
       "slug": "sundered-eldritch-edition",
       "languages": ["german", "english", "spanish", "french", "italian", "dutch", "danish", "norwegian", "finnish", "swedish", "portuguese", "russian", "polish", "chinese", "japanese", "korean"],
       "name": "Sundered: Eldritch Edition",
-      "game_modes": [
-        "single player",
-        "local co-op"
-      ],
+      "game_modes": ["single player", "1-4 players local co-op"],
       "rating": 73,
       "released": "2020-05-25T22:00:00.000Z",
       "resolution": "unknown",
