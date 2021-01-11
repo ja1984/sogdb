@@ -2143,7 +2143,7 @@
         "action",
         "indie"
       ],
-      "image_slug": "hotline-miami_2",
+      "image_slug": "hotline_miami_2",
       "slug": "hotline-miami-2-wrong-number",
       "languages": ["german", "english", "spanish", "french", "italian"],
       "name": "Hotline Miami 2: Wrong Number",
@@ -2164,7 +2164,7 @@
         "action",
         "indie"
       ],
-      "image_slug": "hotline-miami",
+      "image_slug": "hotline_miami",
       "slug": "hotline-miami",
       "languages": ["german", "english", "spanish", "french", "italian"],
       "name": "Hotline Miami",
