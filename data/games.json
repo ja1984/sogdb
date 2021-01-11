@@ -2463,6 +2463,23 @@
       "store_link": "https://stadia.google.com/store/details/377f50584071472096bcda89b0839bc3rcp1/sku/cc0def63fcb547b2ab1e8dd8e4ac8a63",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Just Dance 2021 is the ultimate dance game, with 40 hot new tracks like “Don't Start Now” by Dua Lipa, “Feel Special” by TWICE, and “Señorita” by Shawn Mendes & Camila Cabello. Start a dance party your friends and family can enjoy! Just Dance Unlimited subscription streaming service lets you dance to over 550 songs! One month FREE included with the game. Play with friends and share the fun with co-op mode! Create your own personalized custom playlists. Enjoy eight new kid-friendly tracks for a family-fun experience. Use your smartphone to track moves with the Just Dance Controller app. Up to six players can join!",
+      "genres": ["music or rhythm", "party"],
+      "image_slug": "just_dance_2021",
+      "slug": "just-dance-2021",
+      "languages": ["german", "english", "spanish", "french", "italian", "dutch", "danish", "finnish", "norwegian", "swedish", "russian", "portuguese", "chinese (simplified)", "chinese (traditional)", "japanese", "korean (south korea)"],
+      "name": "Just Dance® 2021",
+      "game_modes": ["single player", "2-6 players local multiplayer", ">1 player online multiplayer", "2-6 players local co-op", ">2 players competitive", ">1 player cross-platform multiplayer"],
+      "rating": -1,
+      "released": "2020-11-11T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b87ca389d6454546af28dff82898406arcp1/sku/691ff561f94e4fe79a219434f4186862",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
