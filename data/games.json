@@ -2542,6 +2542,28 @@
       "store_link": "https://stadia.google.com/store/details/8185df0ce9d74d61aab58a12d4bf21a0rcp1/sku/018fbca8f0f34f2a93332ccf9f05e520p",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "The Soroboreans",
+          "store_link": "https://stadia.google.com/store/details/8185df0ce9d74d61aab58a12d4bf21a0rcp1/sku/213e7c48fb2d479badf48cc0276e4345p"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Chronos: Before the Ashes is an atmospheric RPG that chronicles a hero’s lifelong quest to save their homeland from a great evil. Grow wiser, stronger and more powerful as you explore the depths of the mysterious labyrinth. But beware, the labyrinth takes a heavy toll – each time your hero dies, they lose a year of their life!",
+      "genres": ["action", "adventure", "role-playing game"],
+      "image_slug": "chronos",
+      "slug": "chronos-before-the-ashes",
+      "languages": ["english", "german", "spanish", "french", "russian", "polish", "portuguese", "chinese", "korean"],
+      "name": "Chronos: Before the Ashes",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-11-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/3f94b62fa50c4202be10472947478f8frcp1/sku/c3fcca2c75614bf6b634bedc2f766003p",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
