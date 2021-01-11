@@ -2107,6 +2107,32 @@
       "store_link": "https://stadia.google.com/store/details/1694aaa3968344228424092f180a3e0ercp1/sku/c147fbe82f394c11bbe41ee134d4f350",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Digital Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/f28e66bbd0984c77ac6a54e8cc3007bdrcp1/sku/3c404bed77284df9adfbb212ed6c07e5p"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish interactive environments around the world. Compete in your favorite match types with an arsenal of exaggerated maneuvers, special abilities, and devastating power-ups, including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry “The King” Lawler call all the mayhem! Are you ready to enter the battleground?",
+      "genres": [
+        "arcade",
+        "fighting",
+        "sports",
+      ],
+      "image_slug": "wwe_2k_battlegrounds",
+      "slug": "wwe-2k-battlegrounds",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "WWE 2K Battlegrounds",
+      "game_modes": ["single player", "2-4 players local multiplayer", "2-8 players online multiplayer", "2 players local co-op", "2 players online co-op", "2-8 players competitive", "2-8 players cross-platform multiplayer"],
+      "rating": 58,
+      "released": "2020-09-18T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/f28e66bbd0984c77ac6a54e8cc3007bdrcp1/sku/30a2e74966344afcabc22d32c0d2cdc3p",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
