@@ -2175,6 +2175,27 @@
       "store_link": "https://stadia.google.com/store/details/5f54e869de4441f8998e80d2c54fa74brcp1/sku/be1bff38daf046f78cde2b36228de554",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Serious Sam 4 reignites the classic FPS series in a high-powered prequel loaded with an explosive arsenal, intergalactic carnage, and perfectly timed one-liners.",
+      "genres": [
+        "action",
+        "shooter"
+      ],
+      "image_slug": "serious_sam_4",
+      "slug": "serious-sam-4",
+      "languages": ["english", "french", "italian", "german", "spanish", "polish", "portuguese", "turkish", "russian", "japanese", "korean", "chinese (traditional)", "chinese (simplified)"],
+      "name": "Serious Sam 4",
+      "game_modes": ["single player", "2-4 players Online co-op"],
+      "rating": 68,
+      "released": "2020-09-22T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b3bd32ef05444a189dcdc88f8e85d7f2rcp1/sku/3ff11dc4d2bf449f89c89bf329003e10",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
