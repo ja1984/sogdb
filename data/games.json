@@ -1626,10 +1626,7 @@
       "slug": "strange-brigade",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Strange Brigade",
-      "game_modes": [
-        "single player",
-        "online co-op"
-      ],
+      "game_modes": ["single player", "2-4 players online co-op"],
       "rating": 68,
       "released": "2020-07-31T22:00:00.000Z",
       "resolution": "unknown",
