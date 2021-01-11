@@ -2476,8 +2476,12 @@
     {
       "expansions": [
         {
-          "name": "Ultimate Stadia Edition",
-          "store_link": "https://stadia.google.com/store/details/a1ce1274a83244f1a099bebef7ae1233rcp1/sku/aa8893b6d5c64ae5a3e969940d6cb6f0p"
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/deb490c166544813bf2ab73f4c6e2aa0rcp1/sku/48ef512dab394bd18b7900787461fd3ap"
+        },
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/deb490c166544813bf2ab73f4c6e2aa0rcp1/sku/c0786720840b4aa5b425b8f750d36cbfp"
         }
       ],
       "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
