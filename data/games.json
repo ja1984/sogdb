@@ -2241,7 +2241,7 @@
       "expansions": [
       ],
       "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
-      "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed.\n\nSurvivors play in third-person and have the advantage of better situational awareness. The Killer plays in first-person and is more focused on their prey.\n\nThe Survivors' goal in each encounter is to escape the Killing Ground without getting caught by the Killer - something that sounds easier than it is, especially when the environment changes every time you play.",
+      "description": "Human: Fall Flat is a hilarious, light-hearted physics platformer set in a world of floating dreamscapes. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
       "genres": ["indie", "adventure", "kids & family"],
       "image_slug": "human_fall_flat",
       "slug": "human-fall-flat",
@@ -2253,6 +2253,24 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/16d98de80a3340ffa4129953ae4e3206rcp1/sku/6ec089b591ee47fab2fed726e466700ap",
       "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Gather your party, and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a Mind Flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. From the creators of Divinity: Original Sin 2 comes a next-generation RPG, set in the world of Dungeons and Dragons.",
+      "genres": ["role-playing game"],
+      "image_slug": "baldurs_gate_3",
+      "slug": "baldurs-gate-3",
+      "languages": ["english", "french", "german", "spanish", "polish", "russian", "chinese"],
+      "name": "Baldur's Gate 3",
+      "game_modes": ["single player, 2-4 players online multiplayer"],
+      "rating": -1,
+      "released": "2020-10-05T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/41de509cbdbb4a13828636099c57731arcp1/sku/a84dcb8e05e74083b5c879b49e923205p",
+      "early_access": true,
       "pre_order": false
     }
   ],
