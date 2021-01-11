@@ -2120,7 +2120,7 @@
       "genres": [
         "arcade",
         "fighting",
-        "sports",
+        "sports"
       ],
       "image_slug": "wwe_2k_battlegrounds",
       "slug": "wwe-2k-battlegrounds",
@@ -2131,6 +2131,27 @@
       "released": "2020-09-18T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/f28e66bbd0984c77ac6a54e8cc3007bdrcp1/sku/30a2e74966344afcabc22d32c0d2cdc3p",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Hotline Miami 2: Wrong Number is the brutal conclusion to the Hotline Miami saga, set against a backdrop of escalating violence and retribution over spilled blood in the original game. Follow the paths of several distinct factions – each with their own questionable methods and uncertain motivations – as unforeseen consequences intersect and reality once again slips back into a brilliant haze of neon and bloodshed.",
+      "genres": [
+        "action",
+        "indie"
+      ],
+      "image_slug": "hotline-miami_2",
+      "slug": "hotline-miami-2-wrong-number",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Hotline Miami 2: Wrong Number",
+      "game_modes": ["single player"],
+      "rating": 74,
+      "released": "2020-09-21T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/68add0d67fe3491f94cb439664b1ffc7rcp1/sku/bc01f7206e4f4f83a468ce33eea0c404",
       "early_access": false,
       "pre_order": false
     }
