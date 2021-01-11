@@ -2522,7 +2522,12 @@
       "pre_order": false
     },
     {
-      "expansions": [],
+      "expansions": [
+        {
+          "name": "The Soroboreans",
+          "store_link": "https://stadia.google.com/store/details/8185df0ce9d74d61aab58a12d4bf21a0rcp1/sku/213e7c48fb2d479badf48cc0276e4345p"
+        }
+      ],
       "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
       "description": "Outward offers an immersive RPG experience coupled with realistic gameplay, as well as deeply-rewarding challenges for the most avid gamers.\nIn order to survive in the dazzling yet deadly world of Aurai, you’ll have to be clever… and prepared. Sharing your journey with a friend, locally or online, is also greatly encouraged!",
       "genres": ["role-playing game"],
