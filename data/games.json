@@ -2520,6 +2520,23 @@
       "store_link": "https://stadia.google.com/store/details/36c01626f21f428e8d5ae35ce19c774brcp1/sku/73f14fd59eb3417c8439562f54d2fc4a",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Outward offers an immersive RPG experience coupled with realistic gameplay, as well as deeply-rewarding challenges for the most avid gamers.\nIn order to survive in the dazzling yet deadly world of Aurai, you’ll have to be clever… and prepared. Sharing your journey with a friend, locally or online, is also greatly encouraged!",
+      "genres": ["role-playing game"],
+      "image_slug": "outward",
+      "slug": "outward",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Outward",
+      "game_modes": ["single player", "2 players local multiplayer", "2 players online multiplayer", "2 players local co-op", "2 players online co-op", "2 players split-screen"],
+      "rating": -1,
+      "released": "2020-11-29T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/8185df0ce9d74d61aab58a12d4bf21a0rcp1/sku/018fbca8f0f34f2a93332ccf9f05e520p",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
