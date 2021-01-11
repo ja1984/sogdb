@@ -2407,6 +2407,23 @@
       "store_link": "https://stadia.google.com/store/details/a2a4ff75e249404a975db7ae5f77e536rcp1/sku/f500f7d58be94fa389e1cdef3bf1118ep",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Imagine a magical factory, appearing right in your living room. A carefully planned masterpiece, where diligent workers throw together anything customers want. Rubber ducks and dressers, drones and electric guitars, scooters and other wonderful goods can be created from many different materials and sold for hard cash – cash you invest right back into your factory to get more machines, more workers and grow your business. In Little Big Workshop you become a factory tycoon!",
+      "genres": ["simulation", "strategy"],
+      "image_slug": "little_big_workshop",
+      "slug": "little-big-workshop",
+      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "korean", "polish", "portuguese", "russian", "chinese"],
+      "name": "Little Big Workshop",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-11-04T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/e4e8f5e5bc744270a644c554ba3f2962rcp1/sku/c00cecabcbde4e95bdab69be6e80b40bp",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
