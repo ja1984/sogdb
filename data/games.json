@@ -2196,6 +2196,24 @@
       "store_link": "https://stadia.google.com/store/details/b3bd32ef05444a189dcdc88f8e85d7f2rcp1/sku/3ff11dc4d2bf449f89c89bf329003e10",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing. No run will ever be the same.",
+      "genres": ["action", "adventure", "shooter"],
+      "image_slug": "risk_of_rain_2",
+      "slug": "risk-of-rain-2",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Risk of Rain 2",
+      "game_modes": ["single player", "1-4 players online multiplayer", "1-4 players online co-op"],
+      "rating": 85,
+      "released": "2020-09-28T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/7b6d79b833354dcaa9b2461086a7763crcp1/sku/5470776eda9b4270b049f081c6bc07ce",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
