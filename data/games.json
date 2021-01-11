@@ -87,14 +87,7 @@
       "image_slug": "darksiders_genesis",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Darksiders: Genesis",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "local co-op",
-        "online co-op",
-        "split screen"
-      ],
+      "game_modes": ["single player", "1-2 players local multiplayer", "1-2 players online multiplayer", "1-2 players local co-op", "1-2 players online co-op", "1-2 players split-screen"],
       "rating": 78,
       "released": "2019-12-04T23:00:00.000Z",
       "resolution": "1080p60",
@@ -986,13 +979,7 @@
       "slug": "stacks-on-stacks-on-stacks",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Stacks On Stacks (On Stacks)",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "local co-op",
-        "competitive",
-        "split screen"
-      ],
+      "game_modes": ["single player", "2 players local multiplayer", "2 players local co-op", "2 players competitive", "2 players split-screen"],
       "rating": -1,
       "released": "2020-03-31T22:00:00.000Z",
       "resolution": "unknown",
