@@ -2472,6 +2472,28 @@
       "store_link": "https://stadia.google.com/store/details/a1ce1274a83244f1a099bebef7ae1233rcp1/sku/e609b00ee98d4e0e9a5eb80789db566cp",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Ultimate Stadia Edition",
+          "store_link": "https://stadia.google.com/store/details/a1ce1274a83244f1a099bebef7ae1233rcp1/sku/aa8893b6d5c64ae5a3e969940d6cb6f0p"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Build a resistance from virtually anyone you see as you hack, infiltrate, and fight to take back a near-future London that is facing its downfall. Welcome to the Resistance. Recruit and play as anyone in the city. Everyone you see has a unique backstory, personality, and skill set. Hack armed drones, deploy spider-bots, and take down enemies using an Augmented Reality Cloak. Explore a massive urban open world featuring London’s many iconic landmarks and fun side activities.Take your recruits online and team up with your friends as you complete missions and challenging endgame content.",
+      "genres": ["action", "adventure"],
+      "image_slug": "watch_dogs_legion",
+      "slug": "watch-dogs-legion",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Watch Dogs: Legion",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-11-18T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/deb490c166544813bf2ab73f4c6e2aa0rcp1/sku/3a7288e1be9d4e92bc87c2138aa547c1p",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
