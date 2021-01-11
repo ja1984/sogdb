@@ -188,6 +188,7 @@ export default {
       sortOptions: ['release', 'name', 'rating'],
       selectedSortOption: 'release',
       useDarkTheme: false,
+      gameModesFilterOptions: ['single player'],
     };
   },
   mounted() {

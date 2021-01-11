@@ -34,12 +34,7 @@
       "slug": "destiny-2",
       "languages": ["english", "french", "italian", "german", "spanish", "spanish (Latin America)", "portuguese (Brazil)", "polish", "russian", "japanese", "korean", "chinese (Simplified)", "chinese (Traditional)"],
       "name": "Destiny 2",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "competitive",
-        "online co-op"
-      ],
+      "game_modes": ["single player", "2-16 players online multiplayer", "2-12 players competitive", "2-6 players online co-op"],
       "rating": 85,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1080p60",
@@ -204,6 +199,10 @@
         {
           "name": "Season Pass",
           "store_link": "https://stadia.google.com/u/1/store/details/be080ad40b434ca289166031d3e88623rcp1/sku/1e6b50c7fd7640f4a7b5160e74708043"
+        },
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/be080ad40b434ca289166031d3e88623rcp1/sku/26b18a6d45254ea79afdce75b76ddabbp"
         }
       ],
       "countries": [
@@ -2419,6 +2418,49 @@
       "released": "2020-11-04T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/e4e8f5e5bc744270a644c554ba3f2962rcp1/sku/c00cecabcbde4e95bdab69be6e80b40bp",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Journey across the magnificent world of Valdi! Ary and the Secret of Seasons is an award-winning adventure game following a young girl named Aryelle, or Ary, as she journeys across the great world of Valdi. By becoming the Guardian of Winter, Ary gains the ability to manipulate the seasons around her. Ary will learn to control the seasons and use them to defeat enemies, overcome obstacles, and solve complex puzzles on her adventure across Valdi.",
+      "genres": ["action", "adventure", "kids & family"],
+      "image_slug": "ary",
+      "slug": "ary-and-the-secret-of-seasons",
+      "languages": ["english", "french", "italian", "german", "spanish", "dutch"],
+      "name": "Ary and the Secret of Seasons",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-11-04T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/016636d5f49f4862be3ff8cbcf6c7adercp1/sku/be70e67b1fd64dc2bb4f002e65239731p",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/377f50584071472096bcda89b0839bc3rcp1/sku/b848b3c3063c49b0ad971cd0053e4426"
+        },
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/377f50584071472096bcda89b0839bc3rcp1/sku/284cebe64c144357b338dd721c8bb9c7"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Become Eivor, a legendary Viking raider on a quest for glory. Explore England's Dark Ages as you raid your enemies, grow your settlement, and build your political power. Lead epic Viking raids against Saxon troops and fortresses. Dual-wield powerful weapons and relive the visceral fighting style of the Vikings. Challenge yourself with the most varied collection of deadly enemies ever found in Assassin's Creed. Shape the growth of your character with every choice and carve your path to glory. Explore a Dark Age open world, from the shores of Norway to the kingdoms of England. Personalize your experience by growing your clan's settlement.",
+      "genres": ["action", "adventure"],
+      "image_slug": "assasins_creed_valhalla",
+      "slug": "assasins-creed-valhalla",
+      "languages": ["english", "french", "italian", "german", "spanish", "polish", "russian", "portuguese", "spanish", "japanese", "korean", "chinese (traditional)", "chinese (simplified)", "arabic"],
+      "name": "Assassin's Creed Valhalla",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-11-09T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/377f50584071472096bcda89b0839bc3rcp1/sku/cc0def63fcb547b2ab1e8dd8e4ac8a63",
       "early_access": false,
       "pre_order": false
     }
