@@ -1733,7 +1733,7 @@
       "languages": ["german", "english", "spanish", "french", "italian", "japanese", "korean", "russian", "polish", "portuguese", "chinese (simplified)", "chinese (traditional)"],
       "name": "Rock of Ages 3: Make & Break",
       "game_modes": [
-        "single Player",
+        "single player",
         "2-4 players online multiplayer",
         "2-4 players competitive"
       ],
