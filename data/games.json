@@ -2154,6 +2154,27 @@
       "store_link": "https://stadia.google.com/store/details/68add0d67fe3491f94cb439664b1ffc7rcp1/sku/bc01f7206e4f4f83a468ce33eea0c404",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Hotline Miami is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat. Set in an alternative 1989 Miami, you will assume the role of a mysterious antihero on a murderous rampage against the shady underworld at the behest of voices on your answering machine. Soon you'll find yourself struggling to get a grip of what is going on and why you are prone to these acts of violence.",
+      "genres": [
+        "action",
+        "indie"
+      ],
+      "image_slug": "hotline-miami",
+      "slug": "hotline-miami",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Hotline Miami",
+      "game_modes": ["single player"],
+      "rating": 85,
+      "released": "2020-09-22T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/5f54e869de4441f8998e80d2c54fa74brcp1/sku/be1bff38daf046f78cde2b36228de554",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
