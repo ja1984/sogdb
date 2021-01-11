@@ -1548,13 +1548,7 @@
       "slug": "f1-2020",
       "languages": ["english", "french", "german", "italian", "spanish", "dutch"],
       "name": "F1® 2020",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "competitive",
-        "split screen"
-      ],
+      "game_modes": ["single player", "2 players local multiplayer", "2-22 players online multiplayer", "2-22 players competitive", "2 players split-screen"],
       "rating": 88,
       "released": "2020-07-06T22:00:00.000Z",
       "resolution": "unknown",
