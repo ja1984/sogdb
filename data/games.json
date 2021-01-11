@@ -1127,10 +1127,7 @@
       "slug": "zombie-army-4-dead-war",
       "languages": ["german", "spanish", "english", "french", "italian"],
       "name": "Zombie Army 4: Dead War",
-      "game_modes": [
-        "single player",
-        "online multiplayer"
-      ],
+      "game_modes": ["single player", "2-4 players online multiplayer"],
       "rating": 72,
       "released": "2020-04-30T22:00:00.000Z",
       "resolution": "unknown",
@@ -1169,12 +1166,7 @@
       "slug": "embr",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Embr",
-      "game_modes": [
-        "single player", 
-        "online multiplayer",
-        "online co-op",
-        "cross platform multiplayer"
-      ],
+      "game_modes": ["single player", "1-4 players online multiplayer", "1-4 players online co-op", "1-4 players cross-platform multiplayer"],
       "rating": -1,
       "released": "2020-05-20T22:00:00.000Z",
       "resolution": "unknown",
@@ -1328,13 +1320,7 @@
       "slug": "elder-scrolls-online",
       "languages": ["english", "french", "german"],
       "name": "The Elder Scrolls Online",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op",
-        "competitive",
-        "cross platform multiplayer"
-      ],
+      "game_modes": ["single player", ">1 player online multiplayer", ">1 player online co-op", ">1 player competitive", ">1 player cross-platform multiplayer"],
       "rating": 83,
       "released": "2020-06-15T22:00:00.000Z",
       "resolution": "unknown",
@@ -1354,12 +1340,7 @@
       "slug": "vawe-break",
       "languages": ["english", "french", "german", "italian", "spanish"],
       "name": "Wave Break",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op",
-        "competitive"
-      ],
+      "game_modes": ["single player", "1-4 players split-screen", "2-8 players online co-op", "2-8 players online multiplayer", ">1 player competitive"],
       "rating": -1,
       "released": "2020-06-22T22:00:00.000Z",
       "resolution": "unknown",
@@ -1458,11 +1439,7 @@
       "slug": "crayta",
       "languages": ["english", "french", "german", "italian", "spanish"],
       "name": "Crayta",
-      "game_modes": [
-        "online multiplayer",
-        "competitive",
-        "online co-op"
-      ],
+      "game_modes": ["2-20 players online multiplayer", "2-20 players competitive", "2-20 players online co-op"],
       "rating": -1,
       "released": "2020-06-30T22:00:00.000Z",
       "resolution": "unknown",
@@ -1555,12 +1532,7 @@
       "slug": "lara-croft-and-the-temple-of-osiris",
       "languages": ["english", "french", "italian", "german", "spanish", "russian", "japanese", "portuguese"],
       "name": "Lara Croft and the Temple of Osiris",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2-4 players online multiplayer", "2-4 players online co-op", "2-4 players competitive"],
       "rating": 73,
       "released": "2020-07-14T22:00:00.000Z",
       "resolution": "unknown",
