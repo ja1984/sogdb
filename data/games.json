@@ -2236,6 +2236,24 @@
       "store_link": "https://stadia.google.com/store/details/b67e43f2b05f4ba7acc56a4b222568aarcp1/sku/5af3426b8434401897bb4eeac0344662",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed.\n\nSurvivors play in third-person and have the advantage of better situational awareness. The Killer plays in first-person and is more focused on their prey.\n\nThe Survivors' goal in each encounter is to escape the Killing Ground without getting caught by the Killer - something that sounds easier than it is, especially when the environment changes every time you play.",
+      "genres": ["indie", "adventure", "kids & family"],
+      "image_slug": "human_fall_flat",
+      "slug": "human-fall-flat",
+      "languages": ["german", "english", "spanish", "french", "italian", "ukrainian", "lithuanian", "thai", "indonesian", "turkish", "portuguese"],
+      "name": "Human: Fall Flat",
+      "game_modes": ["single player", "2 players local multiplayer", "2-16 players online multiplayer", "2 players local co-op", "2-16 players online co-op", "2 players split-screen"],
+      "rating": 70,
+      "released": "2020-09-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/16d98de80a3340ffa4129953ae4e3206rcp1/sku/6ec089b591ee47fab2fed726e466700ap",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
