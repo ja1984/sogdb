@@ -2450,6 +2450,28 @@
       "store_link": "https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Ultimate Stadia Edition",
+          "store_link": "https://stadia.google.com/store/details/a1ce1274a83244f1a099bebef7ae1233rcp1/sku/aa8893b6d5c64ae5a3e969940d6cb6f0p"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Create a team with up to 3 friends in Ghost Recon Wildlands and enjoy the ultimate military shooter experience set in a massive, dangerous, and responsive open world. TAKE DOWN THE CARTEL In a near future, Bolivia has fallen into the hands of Santa Blanca, a merciless drug cartel who spread injustice and violence. Their objective: to create the biggest Narco-State in history. BECOME A GHOST Create and fully customize your Ghost, weapons, and gear. Enjoy a total freedom of playstyle. Lead your team and take down the cartel, either solo or with up to three friends. EXPLORE BOLIVIA Journey through Ubisoft's largest action-adventure open world. Discover the stunning diverse landscapes of the Wildlands both on and off road, in the air, on land, and at sea with over 60 different vehicles.",
+      "genres": ["action", "shooter"],
+      "image_slug": "ghosts_recon_wildlands",
+      "slug": "tom-clancys-ghost-recon-wildlands",
+      "languages": ["english", "french", "italian", "german", "spanish", "dutch", "arabic", "korean (south korea)", "japanese", "portuguese", "czech", "polish", "russian", "chinese (simplified)", "chinese (traditional)"],
+      "name": "Tom Clancy’s Ghost Recon Wildlands",
+      "game_modes": ["single player", "2-8 players online multiplayer", "2-4 players online co-op", "2-8 players competitive"],
+      "rating": -1,
+      "released": "2020-11-18T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/a1ce1274a83244f1a099bebef7ae1233rcp1/sku/e609b00ee98d4e0e9a5eb80789db566cp",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
