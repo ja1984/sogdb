@@ -2363,6 +2363,50 @@
       "store_link": "https://stadia.google.com/store/details/cf784a0f4c554ce68a2880cb461bd903rcp1/sku/ad2362e56c57469cafad1ed5799e8997p",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/7d9beb13648d44839b9aeea7555c37c0rcp1/sku/d572350afe054f9f99838e69ea68dbdep"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Far Cry comes to America in the latest installment of the award-winning franchise. Welcome to Hope County, Montana, land of the free and the brave but also home to a fanatical doomsday cult known as the Project at Eden’s Gate. Stand up to cult leader Joseph Seed, and his siblings, the Heralds, to spark the fires of resistance and liberate the besieged community. FIGHT AGAINST A DEADLY CULT Free Hope County in solo or two-player co-op. Recruit Guns and Fangs for hire to help defeat the cult. A WORLD THAT HITS BACK Wreak havoc on the cult and its members but beware of the wrath of Joseph Seed and his followers. CARVE YOUR OWN PATH Build your character and choose your adventure in the largest customizable Far Cry game ever!",
+      "genres": ["shooter"],
+      "image_slug": "far_cry_5",
+      "slug": "far-cry-5",
+      "languages": ["german", "english", "spanish", "french", "italian", "portuguese", "japanese", "russian", "polish", "czech", "dutch", "korean", "arabic", "chinese (traditional)", "chinese (simplified)"],
+      "name": "Far Cry 5",
+      "game_modes": ["single player", "2 players online co-op", "1-12 players competitive"],
+      "rating": -1,
+      "released": "2020-11-02T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/7d9beb13648d44839b9aeea7555c37c0rcp1/sku/b446084511c54da8a9b3381be38255c7p",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/a2a4ff75e249404a975db7ae5f77e536rcp1/sku/80da4613928a48459214767c8316a223p"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Dive into a transformed vibrant post apocalyptic Hope County, Montana, 17 years after a global nuclear catastrophe. Join fellow survivors and lead the fight against the dangerous new threat the Highwaymen, and their ruthless leaders The Twins, as they seek to take over the last remaining resources. FIGHT FOR SURVIVAL IN A POST-APOCALYPTIC WORLD Take up arms on your own or with a friend in two player co-op in an unpredicatable and transformed world. COLLIDE AGAINST TWO ALL NEW VILLAINS Recruit an eclectic cast of Guns and Fangs for Hire and form alliances to fight by your side against the Highwaymen's unruly leaders The Twins BUILD UP YOUR HOMEBASE AND THE SURVIVORS Recruit Specialists to upgrade your homebase, who will help unlock all new features including crafting weapons, gear and more.",
+      "genres": ["shooter"],
+      "image_slug": "far_cry_new_dawn",
+      "slug": "far-cry-new-dawn",
+      "languages": ["english", "french", "italian", "german", "spanish", "portuguese", "japanese", "russian", "dutch", "czech", "korean", "chinese (traditional)", "chinese (simplified)", "arabic", "polish"],
+      "name": "Far Cry® New Dawn",
+      "game_modes": ["single player", "2 players online co-op"],
+      "rating": -1,
+      "released": "2020-11-02T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/a2a4ff75e249404a975db7ae5f77e536rcp1/sku/f500f7d58be94fa389e1cdef3bf1118ep",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
