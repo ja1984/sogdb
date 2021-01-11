@@ -2433,6 +2433,23 @@
       "store_link": "https://stadia.google.com/store/details/b87ca389d6454546af28dff82898406arcp1/sku/691ff561f94e4fe79a219434f4186862",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Prove your mettle in the world’s biggest simultaneous multiplayer PAC-MAN experience! Jump into 64-player games and show everyone who's the leader of the PAC! Invade other players' mazes, eat their dots and power ups - even other players! - and dominate the mazes! But watch out: viewers can vote on power-ups that can cause you - or your opponents! - to stumble on the field and be eliminated from battle! Invade, defend, and rack up high scores across a field of 64 interconnected mazes. Take advantage of brand-new power-ups, spy on neighboring boards, and much more! Spectator interactivity means even viewers are part of all the thrilling action! And customize your PAC-MAN and your home maze with fun skins to show off unique looks!",
+      "genres": ["arcade", "casual"],
+      "image_slug": "pac_man",
+      "slug": "pac-man-mega-tunnel-battle",
+      "languages": ["english", "french", "italian", "german", "spanish"],
+      "name": "PAC-MAN™ Mega Tunnel Battle",
+      "game_modes": ["1-64 players online multiplayer", "1-64 players competitive"],
+      "rating": -1,
+      "released": "2020-11-16T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
