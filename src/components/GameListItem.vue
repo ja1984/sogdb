@@ -84,7 +84,7 @@ export default {
   },
   methods: {
     getGameMode(mode) {
-      return this.game.game_modes.find((x) => x.toLowerCase().includes(`players ${mode}`));
+      return this.game.game_modes.find((x) => x.toLowerCase().includes(`players ${mode}`) || x.toLowerCase().includes(`players ${mode.replace(' ', '-')}`));
     },
   },
   computed: {

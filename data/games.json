@@ -820,12 +820,7 @@
       "slug": "serious-sam-collection",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Serious Sam Collection",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op",
-        "split screen"
-      ],
+      "game_modes": ["single player", "2-16 players online multiplayer", "2-16 players online co-op", "2-4 players split-screen"],
       "rating": -1,
       "released": "2020-03-02T23:00:00.000Z",
       "resolution": "unknown",
