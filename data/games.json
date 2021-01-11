@@ -2214,6 +2214,24 @@
       "store_link": "https://stadia.google.com/store/details/7b6d79b833354dcaa9b2461086a7763crcp1/sku/5470776eda9b4270b049f081c6bc07ce",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed.\n\nSurvivors play in third-person and have the advantage of better situational awareness. The Killer plays in first-person and is more focused on their prey.\n\nThe Survivors' goal in each encounter is to escape the Killing Ground without getting caught by the Killer - something that sounds easier than it is, especially when the environment changes every time you play.",
+      "genres": ["action"],
+      "image_slug": "dead_by_daylight",
+      "slug": "dead-by-daylight",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Dead by Daylight",
+      "game_modes": ["2-5 players online multiplayer", "2-5 players competitive", "2-5 players cross-platform multiplayer"],
+      "rating": 71,
+      "released": "2020-09-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b67e43f2b05f4ba7acc56a4b222568aarcp1/sku/5af3426b8434401897bb4eeac0344662",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
