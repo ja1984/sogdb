@@ -2177,6 +2177,10 @@
         {
           "name": "Gold Edition",
           "store_link": "https://stadia.google.com/store/details/b67e43f2b05f4ba7acc56a4b222568aarcp1/sku/41538c3158ec4c7aaf641ab7b9330d37p"
+        },
+        {
+          "name": "Stranger Things Edition",
+          "store_link": "https://stadia.google.com/store/details/b67e43f2b05f4ba7acc56a4b222568aarcp1/sku/6934fd15e74946d6adcefcc19eef0e83p"
         }
       ],
       "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
@@ -2281,6 +2285,24 @@
       "released": "2020-10-19T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/5859706900cd48a88d80c89fb3a18a8bp",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "In Sekiro™: Shadows Die Twice you are the 'one-armed wolf', a disgraced and disfigured warrior rescued from the brink of death. Bound to protect a young lord who is the descendant of an ancient bloodline, you become the target of many vicious enemies, including the dangerous Ashina clan. When the young lord is captured, nothing will stop you on a perilous quest to regain your honor, not even death itself. Explore late 1500s Sengoku Japan, a brutal period of constant life and death conflict, as you come face to face with larger than life foes in a dark and twisted world.",
+      "genres": ["action", "adventure"],
+      "image_slug": "sekiro_shadows_dies_twice",
+      "slug": "sekiro-shadows-die-twice",
+      "languages": ["english", "german", "spanish", "french", "italian", "japanese", "korean", "polish", "portuguese", "russian", "thai", "chinese (simplified)", "chinese (traditional)"],
+      "name": "Sekiro™: Shadows Die Twice",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-10-27T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/cc3f233990754f77a5819a583594f399rcp1/sku/2a1351f516904ed190546d1b82934bd1",
       "early_access": false,
       "pre_order": false
     }
