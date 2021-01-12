@@ -1022,6 +1022,10 @@
         {
           "name": "Payback Edition",
           "store_link": "https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/480a6d783c834b9faa5c995f69b49431"
+        },
+        {
+          "name": "Breakthrough Edition",
+          "store_link": "https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/e0d32e6d5b0442f9bea2f8deb5d03570p"
         }
       ],
       "countries": ["united states", "canada", "united kingdom", "france", "germany", "spain", "italy", "netherlands", "denmark", "norway", "finland", "sweden", "belgium", "ireland"],
