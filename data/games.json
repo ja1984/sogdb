@@ -2842,7 +2842,7 @@
       "genres": ["action", "adventure"],
       "image_slug": "unto_the_end",
       "slug": "unto-the-end",
-      "languages": ["german", "english", "spanish", "french", "italian", "danish", "finnish", "french (canada)", "french (france)", "korean", "dutch", "polish", "portuguese (brazil)", "russian", "swedish", "turkish"],
+      "languages": ["german", "english", "spanish", "french", "italian", "danish", "finnish", "korean", "dutch", "polish", "portuguese", "russian", "swedish", "turkish"],
       "name": "Unto The End",
       "game_modes": ["single player"],
       "rating": -1,
@@ -2866,6 +2866,71 @@
       "released": "2020-12-09T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/49697e672bc34e7d8a5f73f78cb580d0rcp1/sku/a4d44ee20c90481c86163a5d7b7b9d97p",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Assassin’s Creed Unity is an action/adventure game set in the city of Paris during one of its darkest hours, the French Revolution. Take ownership of the story by customising Arno's equipement to make the experience unique to you, both visually and mechanically. In addition to an epic single-player experience, Assassin’s Creed Unity delivers the excitement of playing with up to three friends through online cooperative gameplay in specific missions. Throughout the game, take part in one of the most pivotal moments of French history in a compelling storyline and a breath-taking playground that brought you the city of lights of today.",
+      "genres": ["action", "adventure"],
+      "image_slug": "assasins_creed_unity",
+      "slug": "assasins-creed-unity",
+      "languages": ["english", "french", "spanish", "portuguese", "polish", "german", "chinese", "italian", "japanese", "czech", "korean", "russian", "dutch", "arabic"],
+      "name": "Assassin's Creed Unity",
+      "game_modes": ["single player", "2-4 players online co-op"],
+      "rating": -1,
+      "released": "2020-12-14T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/92f77c19718444499ffb3054dd97ca36rcp1/sku/41225d1572f64d53948ce77fb498a4e4p",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/88a2945345f744519c5148ddd54f26d1rcp1/sku/7e2b6ba6ef6c4705bc638f558398ced9p"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "London, 1868. In the heart of the Industrial Revolution, lead your underworld organization and grow your influence to fight those who exploit the less privileged in the name of progress.As Jacob Frye, a young and reckless Assassin, use your skills to help those trampled by the march of progress. From freeing exploited children used as slave labour in factories, to stealing precious assets from enemy boats, you will stop at nothing to bring justice back to London’s streets. To reclaim London for the people, you will need an army. As a gang leader, strengthen your stronghold and rally rival gang members to your cause, in order to take back the capital from the Templars’ hold.",
+      "genres": ["action", "adventure"],
+      "image_slug": "assasins_creed_syndicate",
+      "slug": "assasins-creed-syndicate",
+      "languages": ["english", "french", "spanish", "polish", "german", "chinese (traditional)", "italian", "japanese", "czech", "korean", "russian", "dutch", "portuguese", "chinese (simplified)", "arabic"],
+      "name": "Assassin's Creed Syndicate",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-12-14T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/88a2945345f744519c5148ddd54f26d1rcp1/sku/8aa42ef528804d0ba75608240a6c0289p",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/11dfda5b2d78475d8624972b9b78c995rcp1/sku/43887edfd35145d39cdd8074c40ec227p"
+        },
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/11dfda5b2d78475d8624972b9b78c995rcp1/sku/93600168b0e14fbc9e743edf183b2a54p"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Assassin’s Creed Origins Is A New Beginning. Ancient Egypt, a land of majesty and intrigue, is disappearing in a ruthless fight for power. Unveil dark secrets and forgotten myths as you go back to the one founding moment: The Origins of the Assassin’s Brotherhood. A Country to Discover. Sail down the Nile, uncover the mysteries of the pyramids or fight your way against dangerous ancient factions and wild beasts as you explore this gigantic and unpredictable land. A New Story Every Time You Play. Engage into multiple quests and gripping stories as you cross paths with strong and memorable characters, from the wealthiest high-born to the most desperate outcasts. Embrace Action-RPG. Experience a completely new way to fight.",
+      "genres": ["action", "adventure"],
+      "image_slug": "assasins_creed_origins",
+      "slug": "assasins-creed-origins",
+      "languages": ["german", "english", "spanish", "french", "italian", "czech", "japanese", "korean", "dutch", "polish", "portuguese", "russian", "chinese (simplified)", "chinese (traditional)"],
+      "name": "Assassin's Creed Origins",
+      "game_modes": ["action", "role-playing game"],
+      "rating": -1,
+      "released": "2020-12-14T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/11dfda5b2d78475d8624972b9b78c995rcp1/sku/562bc9b24c514a019dddd4d848bec0b9p",
       "early_access": false,
       "pre_order": false
     }
