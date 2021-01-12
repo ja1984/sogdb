@@ -180,10 +180,7 @@
         "english", "french", "italian", "german", "spanish"
       ],
       "name": "Shadow of the Tomb Raider",
-      "game_modes": [
-        "single player",
-        "online co-op"
-      ],
+      "game_modes": ["single player", "2 players online co-op"],
       "rating": 78,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
@@ -268,10 +265,7 @@
         "english", "french", "italian", "german", "spanish"
       ],
       "name": "Rise of the Tomb Raider: 20 Year Celebration",
-      "game_modes": [
-        "single player",
-        "online co-op"
-      ],
+      "game_modes": ["single player", "2 players online co-op"],
       "rating": 88,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
@@ -339,11 +333,7 @@
         "german", "english", "spanish", "french", "italian", "japanese", "korean", "portuguese", "chinese"
       ],
       "name": "Samurai Shodown",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "local multiplayer"
-      ],
+      "game_modes": ["single player", "2-10 players online multiplayer", "2 players local multiplayer"],
       "rating": -1,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
@@ -369,12 +359,7 @@
         "english", "french", "italian", "german", "spanish", "dutch", "arabic", "chinese", "japanese", "russian", "portuguese (Brazil)"
       ],
       "name": "Trials Rising",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2-4 players local multiplayer", "2-8 players online multiplayer", "2-8 players competitive"],
       "rating": 82,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
@@ -398,10 +383,7 @@
       "slug": "grid",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "GRID",
-      "game_modes": [
-        "single player",
-        "online multiplayer"
-      ],
+      "game_modes": ["single player", "2-40 players online multiplayer"],
       "rating": 73,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
@@ -461,13 +443,7 @@
         "english", "french", "italian", "german", "spanish"
       ],
       "name": "Mortal Kombat 11",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "online co-op",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2 players local multiplayer", "2-8 players online multiplayer", "2-3 players online co-op", "2 players competitive"],
       "rating": 84,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
@@ -485,11 +461,7 @@
       "slug": "wolfenstein-youngblood",
       "languages": ["english", "french", "italian", "spanish"],
       "name": "Wolfenstein: Youngblood",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op"
-      ],
+      "game_modes": ["single player", "2 players online multiplayer", "2 players online co-op"],
       "rating": 67,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
