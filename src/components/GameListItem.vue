@@ -16,6 +16,9 @@
         <div v-if="isEarlyAccess" class="early-access">
           EARLY ACCESS
         </div>
+        <div v-if="isPreOrder" class="pre-order">
+          PRE-ORDER
+        </div>
       </div>
     </header>
     <section class="card__body">
@@ -24,19 +27,18 @@
         <p>{{ game.description }}</p>
       </div> -->
       <div class="game-modes">
-        <div class="row row--small-gutter" v-for="mode in gameModes" :key="mode" :class="{'game-modes--unavailable': !game.game_modes.includes(mode)}">
+        <div class="row row--small-gutter" v-for="mode in gameGameModes" :key="mode.name" :class="{'game-modes--unavailable': !mode.exist}">
           <div class="column">
-            <span class="game-modes__name">{{ mode }}</span>
+            <span class="game-modes__name">{{ mode.name }}</span>
           </div>
           <div class="column column--wrap">
-            <template v-if="game.game_modes.includes(mode)">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check game-modes__icon"><polyline points="20 6 9 17 4 12"></polyline></svg>
+            <template v-if="mode.exist">
+              <div v-if="mode.players !== -1" class="players">{{ mode.players }}</div>
+              <svg v-else xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check game-modes__icon"><polyline points="20 6 9 17 4 12"></polyline></svg>
             </template>
             <template v-else>
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x game-modes__icon"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
             </template>
-            <!-- <img src="@/assets/check.svg" class="game-modes__icon">
-            <img v-else src="@/assets/x.svg" class="game-modes__icon"> -->
           </div>
         </div>
       </div>
@@ -44,7 +46,13 @@
     <footer class="card__footer">
       <div class="row row--center-v">
         <div class="column">
-          <span class="release-date">{{ releaseDate }}</span>
+          <span class="release-date release-date--highlight" v-if="isPreOrder">
+            {{ `In ${ getDaysLeft } days`}}
+            <span :aria-label="releaseDate" data-balloon-pos="up">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+            </span>
+          </span>
+          <span class="release-date" v-else >{{ releaseDate }}</span>
         </div>
         <div class="column column--wrap">
           <a :href="game.store_link" @click.stop target="_blank">
@@ -64,6 +72,11 @@ import { format } from 'date-fns';
 
 export default {
   name: 'GameListItem',
+  data() {
+    return {
+      filteredGameModes: ['single player', 'split screen', 'online multiplayer', 'local co-op', 'online co-op', 'local multiplayer', 'competitive', 'cross platform multiplayer'],
+    };
+  },
   props: {
     game: {
       type: Object,
@@ -78,12 +91,51 @@ export default {
       default: false,
     },
   },
+  methods: {
+    getGameMode(mode) {
+      return this.game.game_modes.find((x) => x.toLowerCase().includes(`player ${mode}`) || x.toLowerCase().includes(`players ${mode}`) || x.toLowerCase().includes(`players ${mode.replace(' ', '-')}`) || x.toLowerCase().includes(`player ${mode.replace(' ', '-')}`));
+    },
+  },
   computed: {
+    getDaysLeft() {
+      const date1 = new Date();
+      const date2 = new Date(this.game.released);
+      const diff = date2.getTime() - date1.getTime();
+      return Math.round(diff / (1000 * 3600 * 24));
+    },
+    gameGameModes() {
+      const gameModes = [];
+
+      this.filteredGameModes.forEach((mode) => {
+        const multiplayerGameMode = this.getGameMode(mode);
+        if (multiplayerGameMode) {
+          const test = multiplayerGameMode.split(' ');
+          gameModes.push({
+            name: mode,
+            exist: true,
+            players: test[0],
+          });
+        } else {
+          gameModes.push({
+            name: mode,
+            exist: this.game.game_modes.includes(mode),
+            players: -1,
+          });
+        }
+      });
+      return gameModes;
+    },
     releaseDate() {
       return format(this.game.released, 'MMMM dd, yyyy');
     },
     isEarlyAccess() {
       return this.game.early_access;
+    },
+    isPreOrder() {
+      if (this.game.pre_order) {
+        return true;
+      }
+      return this.getDaysLeft > 0;
     },
   },
 };
@@ -184,6 +236,7 @@ export default {
 
 .game-modes__icon {
   height: 18px;
+  display: block;
 }
 
 .game-modes {
@@ -221,7 +274,7 @@ export default {
   width: 18px;
 }
 
-.early-access {
+.early-access, .pre-order {
   position: absolute;
   bottom: 15px;
   right: 0;
@@ -230,5 +283,32 @@ export default {
   font-size: 11px;
   padding: 5px;
   font-weight: bold;
+}
+
+.pre-order {
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  right: auto;
+  background: #F44336;
+  color: #fff;
+  font-size: 11px;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.players {
+  min-width: 24px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.release-date--highlight {
+  color: #F44336;
+}
+
+.feather.feather-help-circle {
+  height: 16px;
+  vertical-align: middle;
 }
 </style>
