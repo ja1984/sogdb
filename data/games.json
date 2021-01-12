@@ -860,13 +860,7 @@
       "slug": "tom-clancys-the-division-2",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Tom Clancy's The Division 2",
-      "game_modes": [
-        "cross platform multiplayer",
-        "online multiplayer",
-        "online co-op",
-        "competitive",
-        "cross platform multiplayer"
-      ],
+      "game_modes": ["single player", "1-16 players online multiplayer", "1-8 players online co-op", "2-8 players competitive", "1-16 players cross-platform multiplayer"],
       "rating": 83,
       "released": "2020-03-16T23:00:00.000Z",
       "resolution": "unknown",
@@ -889,11 +883,7 @@
       "slug": "doom-eternal",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "DOOM Eternal",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2-3 players online multiplayer", "2-3 players competitive"],
       "rating": 89,
       "released": "2020-03-19T23:00:00.000Z",
       "resolution": "1800p60",
@@ -919,12 +909,7 @@
       "slug": "the-crew-2",
       "languages": ["english", "french", "italian", "german", "spanish", "breton", "russian", "japanese", "arabic", "polish", "dutch", "kanuri", "chinese"],
       "name": "The Crew 2",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2-8 players online multiplayer", "2-4 players online co-op", "4-8 players competitive"],
       "rating": 66,
       "released": "2020-03-24T23:00:00.000Z",
       "resolution": "unknown",
@@ -980,11 +965,7 @@
       "slug": "motogp20",
       "languages": ["english", "french", "italian", "german", "spanish", "portuguese"],
       "name": "MotoGP™20",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "competitive"
-      ],
+      "game_modes": ["single player", ">2 players online multiplayer", ">2 players competitive"],
       "rating": -1,
       "released": "2020-04-22T22:00:00.000Z",
       "resolution": "unknown",
@@ -1038,11 +1019,7 @@
       "slug": "playerunknowns-battlegrounds",
       "languages": ["german", "spanish", "english", "french", "italian"],
       "name": "PlayerUnknown's Battlegrounds",
-      "game_modes": [
-        "online multiplayer",
-        "competitive",
-        "cross platform multiplayer"
-      ],
+      "game_modes": ["2-100 players online multiplayer", "2-100 players competitive", "2-100 players cross-platform multiplayer"],
       "rating": 86,
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
@@ -1078,12 +1055,7 @@
       "slug": "monopoly",
       "languages": ["german", "spanish", "english", "french", "italian"],
       "name": "Monopoly",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "competitive"        
-      ],
+      "game_modes": ["single player", "2-6 players local multiplayer", "2-6 players online multiplayer", "2-6 players competitive"],
       "rating": -1,
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
@@ -1492,10 +1464,7 @@
       "slug": "orcs-must-die-3",
       "languages": ["english", "french", "italian", "german", "spanish", "japanese", "korean", "finnish", "swedish", "norwegian", "danish", "russian", "portuguese"],
       "name": "Orcs Must Die! 3",
-      "game_modes": [
-        "single player",
-        "online co-op"
-      ],
+      "game_modes": ["single player", "2 players online co-op"],
       "rating": -1,
       "released": "2020-07-13T22:00:00.000Z",
       "resolution": "unknown",
