@@ -2773,6 +2773,23 @@
       "store_link": "https://stadia.google.com/store/details/53bd183291e340dda697167108d3dc6brcp1/sku/a25302b5cbc44d03b1440d2adaa0dd5ap",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "The cult-classic returns! Terrorize the people of 1950's Earth in the role of the evil alien Crypto-137. Harvest their DNA and bring down the US government in the faithful remake of the legendary alien invasion action adventure. Annihilate puny humans using an assortment of alien weaponry and psychic abilities. Reduce their cities to rubble with your flying Saucer! One giant step on mankind!",
+      "genres": ["action", "adventure"],
+      "image_slug": "destroy_all_humans",
+      "slug": "destroy-all-humans",
+      "languages": ["german", "english", "spanish", "french", "italian", "polish", "portuguese", "arabic", "japanese", "korean", "russian", "chinese"],
+      "name": "Destroy All Humans!",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-12-07T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/0fd3103549b54c7e89afd6eed83672cercp1/sku/fae281d43a044453a5ad2e1a1961625a",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
