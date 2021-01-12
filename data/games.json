@@ -129,12 +129,7 @@
       "image_slug": "aot2-final_battle",
       "languages": ["english", "french", "italian", "german", "spanish (Mexico)", "spanish (Spain)", "japanese", "korean", "chinese"],
       "name": "Attack on Titan 2: Final Battle",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2-8 players online multiplayer", "2-4 players online co-op", "2-8 players competitive"],
       "rating": 76,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
@@ -220,12 +215,7 @@
         "english", "french", "italian", "german", "spanish"
       ],
       "name": "Borderlands 3",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2-4 players online multiplayer", "2-4 players online co-op", "2-4 players competitive"],
       "rating": 80,
       "released": "2019-12-16T23:00:00.000Z",
       "resolution": "4k30",
@@ -256,12 +246,7 @@
         "english", "french", "italian", "german", "spanish", "dutch", "arabic", "korean", "japanese", "portuguese", "czech", "polish", "russian", "thai", "chinese (Simplified)", "chinese (Traditional)"
       ],
       "name": "Ghost Recon: Breakpoint",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2-8 players online multiplayer", "2-4 players online co-op", "2-8 players competitive"],
       "rating": 58,
       "released": "2019-12-17T23:00:00.000Z",
       "resolution": "4k30",
@@ -543,13 +528,7 @@
       "slug": "dragonball-xenoverse-2",
       "languages": ["english (united states)", "spanish (spain)", "spanish (latin america)", "french (france)", "italian (italy)", "german (germany)", "portuguese (brazil)", "japanese (japan)"],
       "name": "Dragon Ball Xenoverse 2",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer",
-        "online co-op",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2 players local multiplayer", "2-6 players online multiplayer", "2-6 players online co-op", ">1 player competitive"],
       "rating": 75,
       "released": "2019-12-16T23:00:00.000Z",
       "resolution": "1080p30",
@@ -715,11 +694,7 @@
       "slug": "monster-energy-supercross",
       "languages": ["english", "french", "italian", "german", "spanish", "portuguese (brazil)", "spanish (latin america)"],
       "name": "Monster Energy Supercross",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "competitive"
-      ],
+      "game_modes": ["single player", ">2 players online multiplayer", ">2 players competitive"],
       "rating": 71,
       "released": "2020-02-03T23:00:00.000Z",
       "resolution": "unknown",
