@@ -2988,6 +2988,62 @@
       "store_link": "https://stadia.google.com/store/details/2677ffb357f946e29b4e86a9f18ea55frcp1/sku/0b415b02e06f452f8be948daf77787c1p",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "The master of insanity, Cthulhu, has lost his powers (again!?) and the only way he can get them back is by rescuing Santa Claus from the League of Christmas Evil! Join Cthulhu, the Snow Maiden, Baba Yaga-chan, and Belsnickel as they build R'lyehtionships, fight the League of Christmas Evil, and catch the Christmas spirit! Fhtagn!",
+      "genres": ["role-playing game"],
+      "image_slug": "cthulhu_saves_christmas",
+      "slug": "cthulhu-saves-christmas",
+      "languages": ["english"],
+      "name": "Cthulhu Saves Christmas",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-12-21T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/769a088b9ef04c04b341911a1ef8b8ecrcp1/sku/5748ef643485495ba71d15041c44f0d4p",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/5978ecf352094277a09daf94b5bfff1cp"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Death Awaits. Agent 47 returns in HITMAN 3, the dramatic conclusion to the World of Assassination trilogy.",
+      "genres": ["action"],
+      "image_slug": "hitman_3",
+      "slug": "hitman-3",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "HITMAN 3",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-01-19T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/a31dabb87e2441978da11fd60f3197dfp",
+      "early_access": false,
+      "pre_order": true
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "HUMANKIND™ is Amplitude Studios' magnum opus, a Historical Strategy game where YOU will re-write the entire narrative of humankind – a convergence of culture, history, and values that allows you to create a civilization that is as unique as you are. HOW FAR WILL YOU PUSH HUMANKIND?",
+      "genres": ["strategy"],
+      "image_slug": "humankind",
+      "slug": "humankind",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "HUMANKIND™",
+      "game_modes": ["single player", "2-10 players online multiplayer", "2-10 players cross-platform multiplayer"],
+      "rating": -1,
+      "released": "2020-04-21T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/a31dabb87e2441978da11fd60f3197dfp",
+      "early_access": false,
+      "pre_order": true
     }
   ],
   "pro_games": [
