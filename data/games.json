@@ -2732,7 +2732,7 @@
       "slug": "figment",
       "languages": ["german", "english", "spanish", "french", "italian", "arabic", "danish", "japanese", "korean", "polish", "portuguese", "russian", "chinese", "turkish"],
       "name": "Figment",
-      "game_modes": ["single player", "2 players local co-op", "2 players online co-op"],
+      "game_modes": ["single player"],
       "rating": -1,
       "released": "2020-12-07T23:00:00.000Z",
       "resolution": "unknown",
