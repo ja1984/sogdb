@@ -16,6 +16,9 @@
         <div v-if="isEarlyAccess" class="early-access">
           EARLY ACCESS
         </div>
+        <div v-if="isPreOrder" class="early-access">
+          PRE-ORDER
+        </div>
       </div>
     </header>
     <section class="card__body">
@@ -115,6 +118,12 @@ export default {
     },
     isEarlyAccess() {
       return this.game.early_access;
+    },
+    isPreOrder() {
+      if (this.game.pre_order) {
+        return true;
+      }
+      return false;
     },
   },
 };
