@@ -16,7 +16,7 @@
         <div v-if="isEarlyAccess" class="early-access">
           EARLY ACCESS
         </div>
-        <div v-if="isPreOrder" class="early-access">
+        <div v-if="isPreOrder" class="pre-order">
           PRE-ORDER
         </div>
       </div>
@@ -46,7 +46,13 @@
     <footer class="card__footer">
       <div class="row row--center-v">
         <div class="column">
-          <span class="release-date">{{ releaseDate }}</span>
+          <span class="release-date release-date--highlight" v-if="isPreOrder">
+            {{ `In ${ getDaysLeft } days`}}
+            <span :aria-label="releaseDate" data-balloon-pos="up">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+            </span>
+          </span>
+          <span class="release-date" v-else >{{ releaseDate }}</span>
         </div>
         <div class="column column--wrap">
           <a :href="game.store_link" @click.stop target="_blank">
@@ -91,6 +97,12 @@ export default {
     },
   },
   computed: {
+    getDaysLeft() {
+      const date1 = new Date();
+      const date2 = new Date(this.game.released);
+      const diff = date2.getTime() - date1.getTime();
+      return Math.round(diff / (1000 * 3600 * 24));
+    },
     gameGameModes() {
       const gameModes = [];
 
@@ -123,7 +135,7 @@ export default {
       if (this.game.pre_order) {
         return true;
       }
-      return false;
+      return this.getDaysLeft > 0;
     },
   },
 };
@@ -262,7 +274,7 @@ export default {
   width: 18px;
 }
 
-.early-access {
+.early-access, .pre-order {
   position: absolute;
   bottom: 15px;
   right: 0;
@@ -273,9 +285,30 @@ export default {
   font-weight: bold;
 }
 
+.pre-order {
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  right: auto;
+  background: #F44336;
+  color: #fff;
+  font-size: 11px;
+  padding: 5px;
+  font-weight: bold;
+}
+
 .players {
   min-width: 24px;
   text-align: center;
   font-size: 14px;
+}
+
+.release-date--highlight {
+  color: #F44336;
+}
+
+.feather.feather-help-circle {
+  height: 16px;
+  vertical-align: middle;
 }
 </style>
