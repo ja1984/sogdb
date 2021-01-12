@@ -2632,6 +2632,28 @@
       "store_link": "https://stadia.google.com/store/details/8f8d583a2ae843e0b31fa653cea5d27drcp1/sku/5f1dfba8e3d64b3bbd4979c504cea096p",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/161f276db10947a199cd0260ed4dc248rcp1/sku/29943e585f864c4d8971a1fc6b4c58ecp"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Immortals Fenyx Rising™ brings grand mythological adventure to life.\nPlay as Fenyx, a new, winged demigod on a quest to save the Greek gods. The fate of the world is at stake – you are the gods’ last hope.\nFight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground.\nUse your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.\nDiscover a stylized open world across seven unique regions, each inspired by the gods.",
+      "genres": ["action", "adventure"],
+      "image_slug": "immortals",
+      "slug": "immortals-fenyx-rising",
+      "languages": ["english", "french", "italian", "german", "spanish", "dutch", "czech", "polish", "russian", "portuguese", "japanese", "korean", "chinese (traditional)", "chinese (simplified)", "arabic"],
+      "name": "Immortals Fenyx Rising™",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-12-02T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/161f276db10947a199cd0260ed4dc248rcp1/sku/e08ea1952a294f24b9ba58478f69a5ddp",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
