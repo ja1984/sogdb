@@ -2654,6 +2654,23 @@
       "store_link": "https://stadia.google.com/store/details/161f276db10947a199cd0260ed4dc248rcp1/sku/e08ea1952a294f24b9ba58478f69a5ddp",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Fight your friends and team up to beat your enemies in chaotic eight player shot-curving combat.",
+      "genres": ["party", "adventure", "arcade"],
+      "image_slug": "outcasters",
+      "slug": "outcasters",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Outcasters",
+      "game_modes": ["2-8 players online multiplayer", ">1 player online co-op", "2-8 players competitive"],
+      "rating": -1,
+      "released": "2020-12-02T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/8533fb04b9174c3f8dce10a2fec7b062rcp1/sku/dbea776881b04301a1815e2ad662419a",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
