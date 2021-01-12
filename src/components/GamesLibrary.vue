@@ -62,7 +62,7 @@
             <div class="players genres">
               <strong class="filter-options__title">Game modes</strong>
               <div class="row row--small-gutter">
-                <div class="column filter-player" v-for="mode in sortedGameModes" :key="mode">
+                <div class="column filter-player" v-for="mode in gameModesFilterOptions" :key="mode">
                   <label class="checkbox">
                     <input v-model="selectedGameModes" :value="mode" type="checkbox" class="form-input">
                     <div class="checkbox-box" /> <span class="checkbox__label">{{ mode }}</span>
@@ -188,7 +188,7 @@ export default {
       sortOptions: ['release', 'name', 'rating'],
       selectedSortOption: 'release',
       useDarkTheme: false,
-      gameModesFilterOptions: ['single player'],
+      gameModesFilterOptions: ['single player', 'split screen', 'online multiplayer', 'local co-op', 'online co-op', 'local multiplayer', 'competitive', 'cross platform multiplayer'],
     };
   },
   mounted() {
@@ -290,7 +290,10 @@ export default {
 
       if (this.selectedGameModes.length > 0) {
         games = games
-          .filter((x) => this.selectedGameModes.some((z) => x.game_modes.includes(z)));
+          .filter((x) => {
+            const test = x.game_modes.join('');
+            return this.selectedGameModes.some((y) => test.includes(y) || test.includes(y.replace(' ', '-')));
+          });
       }
 
       return games;
@@ -410,9 +413,9 @@ a {
   padding: 5px;
 }
 
-.filter-player {
-  flex: 0 1 (100% / 3);
-}
+// .filter-player {
+//   flex: 0 1 (100% / 3);
+// }
 
 
 .logo__image {
