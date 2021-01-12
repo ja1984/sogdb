@@ -478,11 +478,7 @@
       "slug": "final-fantasy-xv",
       "languages": ["english", "german", "spanish", "french", "italian"],
       "name": "Final Fantasy XV",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "online co-op"
-      ],
+      "game_modes": ["single player", "1-4 players online multiplayer", ">1 player online co-op"],
       "rating": 82,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1080p30",
@@ -518,11 +514,7 @@
       "slug": "tomb-raider-definitive-edition",
       "languages": ["english", "french", "italian", "german", "spanish"],
       "name": "Tomb Raider: Definitive Edition",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "competitive"
-      ],
+      "game_modes": ["single player", "2-8 players online multiplayer", "2-8 players competitive"],
       "rating": 86,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1512p60",
@@ -549,10 +541,7 @@
       "slug": "red-dead-redemption-2",
       "languages": ["english", "french", "german", "italian", "spanish"],
       "name": "Red Dead Redemption 2",
-      "game_modes": [
-        "single player",
-        "online multiplayer"
-      ],
+      "game_modes": ["single player", "2-32 players online multiplayer"],
       "rating": 96,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1440p30",
@@ -575,11 +564,7 @@
       "slug": "farming-simulator-2019",
       "languages": ["english", "german", "french", "spanish (spain)", "italian", "dutch"],
       "name": "Farming Simulator 2019",
-      "game_modes": [
-        "single player",
-        "online multiplayer",
-        "cross platform multiplayer"
-      ],
+      "game_modes": ["single player", ">1 player online multiplayer", ">1 player cross-platform multiplayer"],
       "rating": 71,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "3.5k60",
@@ -644,11 +629,7 @@
       "slug": "football-manager-2020",
       "languages": ["german", "english", "spanish", "french", "italian"],
       "name": "Football Manager 2020",
-      "game_modes": [
-        "single player",
-        "local multiplayer",
-        "online multiplayer"
-      ],
+      "game_modes": ["single player", ">1 player local multiplayer", ">1 player online multiplayer"],
       "rating": 84,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "unknown",
