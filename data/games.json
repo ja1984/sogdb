@@ -2790,6 +2790,50 @@
       "store_link": "https://stadia.google.com/store/details/0fd3103549b54c7e89afd6eed83672cercp1/sku/fae281d43a044453a5ad2e1a1961625a",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Complete Edition",
+          "store_link": "https://stadia.google.com/store/details/b7503867ccbc4ac7be7093fe3ba1523crcp1/sku/57147ceff15149a09b17978a3cb5f043p"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "IN TODAY’S HYPER-CONNECTED WORLD, CHICAGO OPERATES UNDER CTOS, THE MOST ADVANCED COMPUTER NETWORK IN AMERICA.You are Aiden Pearce, a brilliant hacker but also a former thug, who’s criminal past lead to a violent family tragedy.In a world led by technology, you will be able to hack and manipulate the city's systems to stop traffic lights, detonate gas lines, turn off the electrical grid and more.The city of Chicago has become the ultimate weapon for a man bent on revenge.",
+      "genres": ["action", "adventure"],
+      "image_slug": "watch_dogs",
+      "slug": "watch-dogs",
+      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "korean", "russian", "chinese (traditional)", "chinese (simplified)", "arabic", "czech", "polish", "dutch", "hungarian", "portuguese"],
+      "name": "Watch Dogs",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-12-08T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b7503867ccbc4ac7be7093fe3ba1523crcp1/sku/426d9b3d67b84b359c71606ef2672cbdp",
+      "early_access": false,
+      "pre_order": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/e6005e58d6d3458abd01bcf68e264ccercp1/sku/6b0fe9832ca94f708b7dcbd8a8de437dp"
+        }
+      ],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area. Team up with Dedsec, a notorious group of hackers, to execute the biggest hack in history; take down ctOS 2.0, an invasive operating system being used by criminal masterminds to monitor and manipulate citizens on a massive scale. Explore the dynamic open-world, full of gameplay possibilities Hack into every connected device and take control of the city infrastructure. Develop different skills to suit your playstyle, and upgrade your hacker tools – RC cars, Quadcopter drone, 3D printed weapons and much more.",
+      "genres": ["action", "adventure"],
+      "image_slug": "watch_dogs_2",
+      "slug": "watch-dogs-2",
+      "languages": ["german", "english", "spanish", "french", "italian", "russian", "japanese", "chinese (simplified)", "chinese (traditional)", "korean", "czech", "arabic", "portuguese", "hungarian", "dutch"],
+      "name": "Watch Dogs® 2",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-12-08T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/e6005e58d6d3458abd01bcf68e264ccercp1/sku/b64033837ef440bfaba7b1c54a1ac866p",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
