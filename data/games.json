@@ -2851,6 +2851,23 @@
       "store_link": "https://stadia.google.com/store/details/a089691b36254f77bc66a75052fc7cf6rcp1/sku/9e7a4e4a25cf45bc81367d8087df7f3bp",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality. You can customize your character’s cyberware, skillset and playstyle, and explore a vast city where the choices you make shape the story and the world around you.",
+      "genres": ["action", "role-playing game"],
+      "image_slug": "cyberpunk_2077",
+      "slug": "cyberpunk-2077",
+      "languages": ["german", "english", "spanish", "french", "italian", "japanese", "polish", "portuguese", "russian", "chinese", "arabic", "czech", "chinese (taiwan)", "hungarian", "korean", "spanish", "thai", "turkish"],
+      "name": "Cyberpunk 2077",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2020-12-09T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/49697e672bc34e7d8a5f73f78cb580d0rcp1/sku/a4d44ee20c90481c86163a5d7b7b9d97p",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
