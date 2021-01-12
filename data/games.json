@@ -2756,6 +2756,23 @@
       "store_link": "https://stadia.google.com/store/details/b00e2f20b91e43c8a0597b07fc80ca84rcp1/sku/bd0a6e3669c7410c8c3f86779cac1f44p",
       "early_access": false,
       "pre_order": false
+    },
+    {
+      "expansions": [],
+      "countries": ["belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "netherlands", "norway", "spain", "sweden", "united kingdom", "united states", "austria", "czechia", "poland", "portugal", "romania", "slovakia", "switzerland", "hungary"],
+      "description": "Are you ready, kids? The cult classic is back, faithfully remade in spongetastic splendor! Play as SpongeBob, Patrick and Sandy and show the evil Plankton that crime pays even less than Mr. Krabs. Want to save Bikini Bottom from lots of rampant robots? Of course you do! Want to underpants bungee jump? Why wouldn't you! Want to join forces in a brand new multiplayer mode? The battle is on!",
+      "genres": ["action", "adventure"],
+      "image_slug": "spongebob_squarepants",
+      "slug": "spongebobsquarepants-battle-for-bikini-bottomRehydrated",
+      "languages": ["german", "english", "spanish", "french", "italian", "polish", "portuguese", "japanese", "korean", "malay", "chinese", "hindi", "russian"],
+      "name": "SpongeBobSquarePants:Battle for Bikini BottomRehydrated",
+      "game_modes": ["single player", "2 players local multiplayer", "2 players online multiplayer"],
+      "rating": -1,
+      "released": "2020-12-07T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/53bd183291e340dda697167108d3dc6brcp1/sku/a25302b5cbc44d03b1440d2adaa0dd5ap",
+      "early_access": false,
+      "pre_order": false
     }
   ],
   "pro_games": [
