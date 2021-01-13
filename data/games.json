@@ -221,7 +221,8 @@
       "rating": 81,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
-      "store_link": "https://stadia.google.com/store/details/879d82512f5441829250ead1aa678a70rcp1/sku/8ca5e97f091e4f7fbfcf8069ba850b1f"
+      "store_link": "https://stadia.google.com/store/details/879d82512f5441829250ead1aa678a70rcp1/sku/8ca5e97f091e4f7fbfcf8069ba850b1f",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -523,7 +524,8 @@
       "rating": 88,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
-      "store_link": "https://stadia.google.com/store/details/e5c6ec7bf437491ea4ac0917df8f9640rcp1/sku/f5562aaf93cb46e081d317263bde3013"
+      "store_link": "https://stadia.google.com/store/details/e5c6ec7bf437491ea4ac0917df8f9640rcp1/sku/f5562aaf93cb46e081d317263bde3013",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -673,7 +675,7 @@
       "expansions": [
         {
           "name": "Digital Gold Edition",
-          "store_link": "https://stadia.google.com/u/1/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/cc66f2992d04402bba5cbc8abf6cc616"
+          "store_link": "https://stadia.google.com/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/cc66f2992d04402bba5cbc8abf6cc616"
         }
       ],
       "countries": [
@@ -721,7 +723,8 @@
       "rating": 82,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
-      "store_link": "https://stadia.google.com/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/01e95e73256c465fb5620fc574446413"
+      "store_link": "https://stadia.google.com/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/01e95e73256c465fb5620fc574446413",
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [
@@ -823,7 +826,8 @@
       "rating": 85,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
-      "store_link": "https://stadia.google.com/store/details/c121d8b3fa744b52b71bf3599cb3da7frcp1/sku/6e98f34bbcae444a99816b8f2613452b"
+      "store_link": "https://stadia.google.com/store/details/c121d8b3fa744b52b71bf3599cb3da7frcp1/sku/6e98f34bbcae444a99816b8f2613452b",
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [
@@ -1056,7 +1060,8 @@
       "rating": 86,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1512p60",
-      "store_link": "https://stadia.google.com/store/details/42503ac2cfcf40018c15c86b86a5508drcp1/sku/c86bd12f279741a8b8c9c522845c7fa9"
+      "store_link": "https://stadia.google.com/store/details/42503ac2cfcf40018c15c86b86a5508drcp1/sku/c86bd12f279741a8b8c9c522845c7fa9",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [
@@ -1255,7 +1260,8 @@
       "rating": 77,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/b6d1b295ed0d4f1080576ac5d51df6d0"
+      "store_link": "https://stadia.google.com/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/b6d1b295ed0d4f1080576ac5d51df6d0",
+      "age_rating": "pegi_3"
     },
     {
       "expansions": [],
@@ -6276,7 +6282,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/d46f9c2d858d41d6ae4cc12d186657f0rcp1/sku/4761cd53808a462ca823a9e403baea99",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_3"
     },
     {
       "expansions": [],
