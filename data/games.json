@@ -2616,7 +2616,7 @@
       "slug": "el-hijo-a-wild-west-tale",
       "languages": ["english", "french", "italian", "german", "spanish", "russian", "turkish", "portuguese", "croatian", "japanese", "chinese (traditional)", "chinese (simplified)", "korean", "dutch", "norwegian", "swedish", "danish", "polish", "finnish", "romanian", "slovenian", "czech", "hungarian", "bulgarian", "greek", "thai", "vietnamese"],
       "name": "El Hijo - A Wild West Tale",
-      "game_modes": ["single player", "2 players local co-op", "2 players online co-op"],
+      "game_modes": ["single player"],
       "rating": -1,
       "released": "2020-12-02T23:00:00.000Z",
       "resolution": "unknown",
