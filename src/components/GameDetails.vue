@@ -12,8 +12,14 @@
         <div class="game-details__header__close" @click="$emit('close')">
           <img src="@/assets/x.svg" class="game-details__header__close__icon">
         </div>
-                <div v-if="isEarlyAccess" class="early-access">
+        <div class="pegi-rating" v-if="game.age_rating">
+          <div class="pegi-rating__icon" :class="game.age_rating"></div>
+        </div>
+        <div v-if="isEarlyAccess" class="early-access">
           EARLY ACCESS
+        </div>
+                <div v-if="isPreOrder" class="pre-order">
+          PRE-ORDER
         </div>
     </header>
     <section class="game-details__body">
@@ -60,6 +66,18 @@ export default {
     },
   },
   computed: {
+    getDaysLeft() {
+      const date1 = new Date();
+      const date2 = new Date(this.game.released);
+      const diff = date2.getTime() - date1.getTime();
+      return Math.round(diff / (1000 * 3600 * 24));
+    },
+    isPreOrder() {
+      if (this.game.pre_order) {
+        return true;
+      }
+      return this.getDaysLeft > 0;
+    },
     languages() {
       return this.game.languages.concat().sort((a, b) => a.localeCompare(b)).join(', ');
     },
@@ -187,7 +205,7 @@ body.dark-theme {
   text-transform: capitalize;
 }
 
-.early-access {
+.early-access, .pre-order {
   position: absolute;
   bottom: 15px;
   right: 0;
@@ -196,5 +214,44 @@ body.dark-theme {
   font-size: 14px;
   padding: 5px;
   font-weight: bold;
+}
+
+.pre-order {
+  position: absolute;
+  bottom: 60px;
+  left: 0;
+  right: auto;
+  background: #F44336;
+  color: #fff;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.pegi-rating {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+
+.pegi-rating__icon {
+  width: 60px / 2;
+  height: 73px / 2;
+  background-size: cover;
+&.pegi_3 {
+    background-image: url("~@/assets/pegi_3.png");
+  }
+  &.pegi_7 {
+    background-image: url("~@/assets/pegi_7.png");
+  }
+  &.pegi_12 {
+    background-image: url("~@/assets/pegi_12.png");
+  }
+  &.pegi_16 {
+    background-image: url("~@/assets/pegi_16.png");
+  }
+  &.pegi_18 {
+    background-image: url("~@/assets/pegi_18.png");
+  }
 }
 </style>
