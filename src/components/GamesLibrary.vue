@@ -159,7 +159,7 @@
 </template>
 
 <script>
-import axios from 'axios';
+// import axios from 'axios';
 import querystring from 'query-string';
 import { VueSlideToggle } from 'vue-slide-toggle';
 import { parseISO, format } from 'date-fns';
@@ -209,52 +209,54 @@ export default {
     if (document.body.classList.contains('dark-theme')) {
       this.useDarkTheme = true;
     }
-    axios.get('https://raw.githubusercontent.com/ja1984/osgdb/master/data/games.json').then((response) => {
-      this.loading = false;
-      response.data.games.forEach((game) => {
-        game.genres.forEach((genre) => {
-          if (!this.genres.includes(genre)) {
-            this.genres.push(genre);
+    fetch('https://raw.githubusercontent.com/ja1984/osgdb/master/data/games.json')
+      .then((response) => response.json())
+      .then((data) => {
+        this.loading = false;
+        data.games.forEach((game) => {
+          game.genres.forEach((genre) => {
+            if (!this.genres.includes(genre)) {
+              this.genres.push(genre);
+            }
+          });
+
+          game.game_modes.forEach((mode) => {
+            if (!this.game_modes.includes(mode)) {
+              this.game_modes.push(mode);
+            }
+          });
+
+          if (!this.resolutions.includes(game.resolution)) {
+            this.resolutions.push(game.resolution);
           }
-        });
 
-        game.game_modes.forEach((mode) => {
-          if (!this.game_modes.includes(mode)) {
-            this.game_modes.push(mode);
+          if (game.age_rating && !this.ageRatings.includes(game.age_rating)) {
+            this.ageRatings.push(game.age_rating);
           }
-        });
 
-        if (!this.resolutions.includes(game.resolution)) {
-          this.resolutions.push(game.resolution);
-        }
+          game.countries.forEach((country) => {
+            if (!this.countries.includes(country)) {
+              this.countries.push(country);
+            }
+          });
 
-        if (game.age_rating && !this.ageRatings.includes(game.age_rating)) {
-          this.ageRatings.push(game.age_rating);
-        }
-
-        game.countries.forEach((country) => {
-          if (!this.countries.includes(country)) {
-            this.countries.push(country);
-          }
-        });
-
-        game.languages.forEach((language) => {
-          const gameLanguage = language.split(' (')[0];
-          if (!this.languages.includes(gameLanguage)) {
-            this.languages.push(gameLanguage);
-          }
-        });
+          game.languages.forEach((language) => {
+            const gameLanguage = language.split(' (')[0];
+            if (!this.languages.includes(gameLanguage)) {
+              this.languages.push(gameLanguage);
+            }
+          });
 
         game.released = parseISO(game.released); //eslint-disable-line
 
-        this.games.push(Object.freeze(game));
+          this.games.push(Object.freeze(game));
+        });
+        this.ageRatings.sort((a, b) => b.localeCompare(a, undefined, {
+          numeric: true,
+          sensitivity: 'base',
+        }));
+        this.pro_games = data.pro_games;
       });
-      this.ageRatings.sort((a, b) => b.localeCompare(a, undefined, {
-        numeric: true,
-        sensitivity: 'base',
-      }));
-      this.pro_games = response.data.pro_games;
-    });
   },
   computed: {
     completeFilter() {

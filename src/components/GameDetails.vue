@@ -235,8 +235,8 @@ body.dark-theme {
 
 
 .pegi-rating__icon {
-  width: 60px / 2;
-  height: 73px / 2;
+  width: 50px;
+  height: 60.5px;
   background-size: cover;
 &.pegi_3 {
     background-image: url("~@/assets/pegi_3.png");

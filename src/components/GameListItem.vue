@@ -322,8 +322,8 @@ export default {
 }
 
 .pegi-rating__icon {
-  width: 15px;
-  height: 18px;
+  width: 25px;
+    height: 30px;
   background-size: cover;
 &.pegi_3 {
     background-image: url("~@/assets/pegi_3.png");
