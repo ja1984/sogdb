@@ -1547,7 +1547,8 @@
       "rating": -1,
       "released": "2020-03-02T23:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/cabec52b78264dafac69011aeacd5753rcp1/sku/45918155e78145af937b5df1a574afd2"
+      "store_link": "https://stadia.google.com/store/details/cabec52b78264dafac69011aeacd5753rcp1/sku/45918155e78145af937b5df1a574afd2",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -1590,7 +1591,8 @@
       "rating": 82,
       "released": "2020-03-09T23:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/c4898519ff254b969ede8bafdff927e8rcp1/sku/f6658df6c8874c828532d5d24c66d58f"
+      "store_link": "https://stadia.google.com/store/details/c4898519ff254b969ede8bafdff927e8rcp1/sku/f6658df6c8874c828532d5d24c66d58f",
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [],
@@ -1633,13 +1635,14 @@
       "rating": 82,
       "released": "2020-03-09T23:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/819cdf4b7ff94947941106571ccf41e5rcp1/sku/f47a1e1e9f0b43078e0a80c57068b085"
+      "store_link": "https://stadia.google.com/store/details/819cdf4b7ff94947941106571ccf41e5rcp1/sku/f47a1e1e9f0b43078e0a80c57068b085",
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [
         {
           "name": "Warlords of New York Expansion",
-          "store_link": "https://stadia.google.com/u/1/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/354ab39ab5e14aaba1a06ef86a0268fe"
+          "store_link": "https://stadia.google.com/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/354ab39ab5e14aaba1a06ef86a0268fe"
         }
       ],
       "countries": [
@@ -1682,13 +1685,14 @@
       "rating": 83,
       "released": "2020-03-16T23:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/bed63eac149542078fa5b9d6f20f5f2f"
+      "store_link": "https://stadia.google.com/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/bed63eac149542078fa5b9d6f20f5f2f",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [
         {
           "name": "Deluxe Edition",
-          "store_link": "https://stadia.google.com/u/1/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/e74abd04f4a34c7a82b6cf8cd9cf9ac0"
+          "store_link": "https://stadia.google.com/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/e74abd04f4a34c7a82b6cf8cd9cf9ac0"
         }
       ],
       "countries": [
@@ -1730,7 +1734,8 @@
       "rating": 89,
       "released": "2020-03-19T23:00:00.000Z",
       "resolution": "1800p60",
-      "store_link": "https://stadia.google.com/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/17affc92b9ca47a7b64e748609ed25af"
+      "store_link": "https://stadia.google.com/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/17affc92b9ca47a7b64e748609ed25af",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [
@@ -1790,7 +1795,8 @@
       "rating": 66,
       "released": "2020-03-24T23:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/94db678cbb6342c3bc0e58f71130b3fb"
+      "store_link": "https://stadia.google.com/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/94db678cbb6342c3bc0e58f71130b3fb",
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [],
@@ -1830,7 +1836,8 @@
       "rating": 78,
       "released": "2020-03-26T23:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/d334bea27ee64ef5a3a9bb14b1d6a88ercp1/sku/ab6a5a0d448d4c7aaed8dfa91ad6f4b9"
+      "store_link": "https://stadia.google.com/store/details/d334bea27ee64ef5a3a9bb14b1d6a88ercp1/sku/ab6a5a0d448d4c7aaed8dfa91ad6f4b9",
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [],
@@ -1876,7 +1883,8 @@
       "rating": -1,
       "released": "2020-03-31T22:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/15a067411b8d4429b0954434d8f05d48rcp1/sku/7ed521aacf2a44168fb99cd1e13472ad"
+      "store_link": "https://stadia.google.com/store/details/15a067411b8d4429b0954434d8f05d48rcp1/sku/7ed521aacf2a44168fb99cd1e13472ad",
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [],
@@ -1920,7 +1928,8 @@
       "rating": -1,
       "released": "2020-04-22T22:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/u/1/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5"
+      "store_link": "https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5",
+      "age_rating": "pegi_3"
     },
     {
       "expansions": [],
@@ -2022,7 +2031,8 @@
       "rating": 86,
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/u/1/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/71e7c4fc5ca24f0f8301da6d042bf18e"
+      "store_link": "https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/71e7c4fc5ca24f0f8301da6d042bf18e",
+      "age_rating": "pegi_16"
     },
     {
       "expansions": [],
@@ -2068,7 +2078,8 @@
       "rating": -1,
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/u/1/store/details/73182869b2a644bdbef46984b96e1721rcp1/sku/a6ffc113bea9495b84581796893ebf50"
+      "store_link": "https://stadia.google.com/store/details/73182869b2a644bdbef46984b96e1721rcp1/sku/a6ffc113bea9495b84581796893ebf50",
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [],
