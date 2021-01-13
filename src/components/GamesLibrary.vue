@@ -59,6 +59,17 @@
                 </div>
               </div>
             </div>
+            <div class="resolutions genres">
+              <strong class="filter-options__title">PEGI Rating</strong>
+              <div class="row row--small-gutter">
+                <div class="column filter-genre" v-for="rating in ageRatings" :key="rating">
+                  <label class="checkbox">
+                    <input v-model="selectedAgeRatings" :value="rating" type="checkbox" class="form-input">
+                    <div class="checkbox-box" /> <span class="checkbox__label"><div class="pegi-rating" :class="rating"></div></span>
+                  </label>
+                </div>
+              </div>
+            </div>
             <div class="players genres">
               <strong class="filter-options__title">Game modes</strong>
               <div class="row row--small-gutter">
@@ -172,11 +183,13 @@ export default {
       countries: [],
       languages: [],
       resolutions: [],
+      ageRatings: [],
       selectedGenres: [],
       selectedGameModes: [],
       selectedCountries: [],
       selectedLanguages: [],
       selectedResolutions: [],
+      selectedAgeRatings: [],
       pro_games: [],
       rating: 0,
       filter: '',
@@ -215,6 +228,10 @@ export default {
           this.resolutions.push(game.resolution);
         }
 
+        if (game.age_rating && !this.ageRatings.includes(game.age_rating)) {
+          this.ageRatings.push(game.age_rating);
+        }
+
         game.countries.forEach((country) => {
           if (!this.countries.includes(country)) {
             this.countries.push(country);
@@ -230,7 +247,7 @@ export default {
 
         game.released = parseISO(game.released); //eslint-disable-line
 
-        this.games.push(game);
+        this.games.push(Object.freeze(game));
       });
       this.pro_games = response.data.pro_games;
     });
@@ -276,6 +293,11 @@ export default {
       if (this.selectedLanguages.length > 0) {
         games = games
           .filter((x) => this.selectedLanguages.some((z) => x.languages.includes(z)));
+      }
+
+      if (this.selectedAgeRatings.length > 0) {
+        games = games
+          .filter((x) => this.selectedAgeRatings.some((z) => (x.age_rating || '').includes(z)));
       }
 
       if (this.selectedCountries.length > 0) {
@@ -536,4 +558,26 @@ body.dark-theme {
   }
 }
 
+
+.pegi-rating {
+  width: 21px;
+  height: 25px;
+    background-size: cover;
+    display: inline-block;
+&.pegi_3 {
+    background-image: url("~@/assets/pegi_3.png");
+  }
+  &.pegi_7 {
+    background-image: url("~@/assets/pegi_7.png");
+  }
+  &.pegi_12 {
+    background-image: url("~@/assets/pegi_12.png");
+  }
+  &.pegi_16 {
+    background-image: url("~@/assets/pegi_12.png");
+  }
+  &.pegi_18 {
+    background-image: url("~@/assets/pegi_18.png");
+  }
+}
 </style>

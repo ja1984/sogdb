@@ -119,7 +119,8 @@
       "rating": 67,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1080p60",
-      "store_link": "https://stadia.google.com/store/details/8615c857d7d54efebd94fe17e3f2896crcp1/sku/78ea22fb5c054167bb722322b469f33f"
+      "store_link": "https://stadia.google.com/store/details/8615c857d7d54efebd94fe17e3f2896crcp1/sku/78ea22fb5c054167bb722322b469f33f",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -672,7 +673,8 @@
       "rating": -1,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
-      "store_link": "https://stadia.google.com/store/details/120348c2707740b99b509fad49a2f45drcp1/sku/888a817c35b5439bb6a03a78ab09e138"
+      "store_link": "https://stadia.google.com/store/details/120348c2707740b99b509fad49a2f45drcp1/sku/888a817c35b5439bb6a03a78ab09e138",
+      "age_rating": "pegi_16"
     },
     {
       "expansions": [
@@ -888,7 +890,8 @@
       "rating": 84,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
-      "store_link": "https://stadia.google.com/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/f3f250e8a4d54f60ba730fbc04268052"
+      "store_link": "https://stadia.google.com/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/f3f250e8a4d54f60ba730fbc04268052",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -1116,7 +1119,8 @@
       "rating": 96,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1440p30",
-      "store_link": "https://stadia.google.com/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/f790e37b6161477188923408085528a1"
+      "store_link": "https://stadia.google.com/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/f790e37b6161477188923408085528a1",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [
@@ -1165,7 +1169,8 @@
       "rating": 71,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "3.5k60",
-      "store_link": "https://stadia.google.com/store/details/ebf235012b054269af70eee901bc85cfrcp1/sku/c50094b71d054fc28f3116245d9dbc9a"
+      "store_link": "https://stadia.google.com/store/details/ebf235012b054269af70eee901bc85cfrcp1/sku/c50094b71d054fc28f3116245d9dbc9a",
+      "age_rating": "pegi_3"
     },
     {
       "expansions": [],
