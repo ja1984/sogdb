@@ -6,6 +6,9 @@
           :src="`https://raw.githubusercontent.com/ja1984/sogdb/master/images/${game.image_slug}.webp`"
           class="game-image__image"
         />
+        <div class="pegi-rating" v-if="game.age_rating">
+          <div class="pegi-rating__icon" :class="game.age_rating"></div>
+        </div>
         <div class="rating" v-if="game.rating && !isNaN(game.rating)" alt="Rating" title="Rating">
           <img src="@/assets/smile.svg" class="rating__icon" />
           <span class="rating__text">{{ game.rating === -1 ? 'n/a' : game.rating }}</span>
@@ -310,5 +313,32 @@ export default {
 .feather.feather-help-circle {
   height: 16px;
   vertical-align: middle;
+}
+
+.pegi-rating {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.pegi-rating__icon {
+  width: 15px;
+  height: 18px;
+  background-size: cover;
+&.pegi_3 {
+    background-image: url("~@/assets/pegi_3.png");
+  }
+  &.pegi_7 {
+    background-image: url("~@/assets/pegi_7.png");
+  }
+  &.pegi_12 {
+    background-image: url("~@/assets/pegi_12.png");
+  }
+  &.pegi_16 {
+    background-image: url("~@/assets/pegi_12.png");
+  }
+  &.pegi_18 {
+    background-image: url("~@/assets/pegi_18.png");
+  }
 }
 </style>

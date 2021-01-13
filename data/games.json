@@ -72,7 +72,8 @@
       "rating": 85,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1080p60",
-      "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/4950959380034dcda0aecf98f675e11f"
+      "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/4950959380034dcda0aecf98f675e11f",
+      "age_rating": "pegi_16"
     },
     {
       "expansions": [
@@ -322,7 +323,8 @@
       "rating": 85,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
-      "store_link": "https://stadia.google.com/store/details/8b7e7f7036e5483eaa8745d46248536crcp1/sku/6760aad6e75b4edc9686c48e8dd38936"
+      "store_link": "https://stadia.google.com/store/details/8b7e7f7036e5483eaa8745d46248536crcp1/sku/6760aad6e75b4edc9686c48e8dd38936",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -364,7 +366,8 @@
       "rating": 78,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
-      "store_link": "https://stadia.google.com/store/details/efa3b6108d3e41689b2223ba9d48f5c8rcp1/sku/bb9bcb490fd145d9997c8b3ff3f1039f"
+      "store_link": "https://stadia.google.com/store/details/efa3b6108d3e41689b2223ba9d48f5c8rcp1/sku/bb9bcb490fd145d9997c8b3ff3f1039f",
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [
@@ -969,7 +972,8 @@
       "rating": 82,
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "1080p30",
-      "store_link": "https://stadia.google.com/store/details/a447622dbe084c3e9ace4f913a939afarcp1/sku/1611bf48ac784869bcbd1ce85bc71add"
+      "store_link": "https://stadia.google.com/store/details/a447622dbe084c3e9ace4f913a939afarcp1/sku/1611bf48ac784869bcbd1ce85bc71add",
+      "age_rating": "pegi_16"
     },
     {
       "expansions": [],
