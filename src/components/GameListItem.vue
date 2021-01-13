@@ -335,7 +335,7 @@ export default {
     background-image: url("~@/assets/pegi_12.png");
   }
   &.pegi_16 {
-    background-image: url("~@/assets/pegi_12.png");
+    background-image: url("~@/assets/pegi_16.png");
   }
   &.pegi_18 {
     background-image: url("~@/assets/pegi_18.png");

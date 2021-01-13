@@ -249,6 +249,10 @@ export default {
 
         this.games.push(Object.freeze(game));
       });
+      this.ageRatings.sort((a, b) => b.localeCompare(a, undefined, {
+        numeric: true,
+        sensitivity: 'base',
+      }));
       this.pro_games = response.data.pro_games;
     });
   },
@@ -574,7 +578,7 @@ body.dark-theme {
     background-image: url("~@/assets/pegi_12.png");
   }
   &.pegi_16 {
-    background-image: url("~@/assets/pegi_12.png");
+    background-image: url("~@/assets/pegi_16.png");
   }
   &.pegi_18 {
     background-image: url("~@/assets/pegi_18.png");
