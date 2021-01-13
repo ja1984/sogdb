@@ -2464,8 +2464,9 @@
       "rating": 82,
       "released": "2020-05-31T22:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/u/1/store/details/f7afcff709e74227a5648aacadf03815rcp1/sku/ce8a411f4dc2470da828fc259c584aa5",
-      "early_access": false
+      "store_link": "https://stadia.google.com/store/details/f7afcff709e74227a5648aacadf03815rcp1/sku/ce8a411f4dc2470da828fc259c584aa5",
+      "early_access": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [
@@ -2610,8 +2611,9 @@
       "rating": -1,
       "released": "2020-05-31T22:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/u/1/store/details/ffda0b7e397243f8956f92f89b6902c4rcp1/sku/ac819b64342841eda35cebfd3a34c769",
-      "early_access": false
+      "store_link": "https://stadia.google.com/store/details/ffda0b7e397243f8956f92f89b6902c4rcp1/sku/ac819b64342841eda35cebfd3a34c769",
+      "early_access": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [
@@ -2659,7 +2661,8 @@
       "released": "2020-06-15T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/b17f16d4a4f94c0a85e07f54dbdedbb6rcp1/sku/dad1cc5c8c1e45c38a83d125e59ea4b9",
-      "early_access": false
+      "early_access": false,
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -2706,7 +2709,8 @@
       "released": "2020-06-22T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2",
-      "early_access": false
+      "early_access": false,
+      "age_rating": "pegi_16"
     },
     {
       "expansions": [],
@@ -2757,7 +2761,8 @@
       "released": "2020-06-29T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/6b43cecd79734ba28cef5894985c65f1rcp1/sku/a8918900bd834426ab8f5a55fba998c7",
-      "early_access": false
+      "early_access": false,
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [
@@ -2801,7 +2806,8 @@
       "released": "2020-06-30T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/0a60fff637b445a797623d0c69433a9crcp1/sku/772119af45f44182bca3ff8d39f62b0b",
-      "early_access": false
+      "early_access": false,
+      "age_rating": "pegi_16"
     },
     {
       "expansions": [],
@@ -2849,8 +2855,9 @@
       "rating": 84,
       "released": "2020-06-30T22:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/0a60fff637b445a797623d0c69433a9crcp1/sku/772119af45f44182bca3ff8d39f62b0b",
-      "early_access": false
+      "store_link": "https://stadia.google.com/store/details/ef14fb2f692c4b42b4b092d3e7864cd8rcp1/sku/38f772ac664545d99890ebb460d1d894",
+      "early_access": false,
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [
@@ -2905,7 +2912,8 @@
       "released": "2020-06-30T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/bf97db3ce0644a448815aef1a5c33e0a",
-      "early_access": false
+      "early_access": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [
@@ -2962,7 +2970,8 @@
       "released": "2020-07-06T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/60da786be741463fbbeb63ed5130bc11",
-      "early_access": false
+      "early_access": false,
+      "age_rating": "pegi_3"
     },
     {
       "expansions": [],
