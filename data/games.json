@@ -3023,7 +3023,8 @@
       "released": "2020-07-13T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a",
-      "early_access": false
+      "early_access": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [],
@@ -7127,7 +7128,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/8f0addba5d3d4c05b07d7b59481e0171rcp1/sku/de13900e4bc8442b9f1ddead7baaec6dp",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [],
@@ -7183,7 +7185,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/2677ffb357f946e29b4e86a9f18ea55frcp1/sku/0b415b02e06f452f8be948daf77787c1p",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [],
@@ -7229,7 +7232,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/769a088b9ef04c04b341911a1ef8b8ecrcp1/sku/5748ef643485495ba71d15041c44f0d4p",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [
@@ -7284,7 +7288,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/a31dabb87e2441978da11fd60f3197dfp",
       "early_access": false,
-      "pre_order": true
+      "pre_order": true,
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -7334,9 +7339,10 @@
       "rating": -1,
       "released": "2021-04-21T23:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/a31dabb87e2441978da11fd60f3197dfp",
+      "store_link": "https://stadia.google.com/store/details/3f40802097224fa1aaa0dcc4555828b7rcp1/sku/ca8344739a34441dac1f53938b55e178p",
       "early_access": false,
-      "pre_order": true
+      "pre_order": true,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
