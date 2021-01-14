@@ -7425,7 +7425,7 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/a3725b4a70aa4447b4c193125f3a2529rcp1/sku/bf065d3d3dca4d0e8d68418f66d3afa1p",
       "early_access": false,
-      "pre_order": true,
+      "pre_order": false,
       "age_rating": "pegi_12"
     }
   ],
