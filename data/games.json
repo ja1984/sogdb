@@ -3384,7 +3384,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/d3d8e467203d401387857d5b6cc27263rcp1/sku/5251fd4e832d459ca046e6eb81b16809",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [],
@@ -3442,7 +3443,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/cc1a8e0e94d54f15a22149fed93bbd7arcp1/sku/3d2a4c3229bd44ea80647beacc9ed247",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -3503,7 +3505,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [
@@ -3562,7 +3565,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/6a2ac2fc8e684c41b5c14981dcb454fdrcp1/sku/9c7fd0f16817482c9e0b311a8340cb0b",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_3"
     },
     {
       "expansions": [],
@@ -3619,7 +3623,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/430bbe284fb7482c9afe8e877b119269rcp1/sku/5582aa71e58a45e59a05598a93cde9a3",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [],
@@ -3670,7 +3675,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/657210fe20ad402b85bda8f816b80d98rcp1/sku/d3e056ee79d947c29eedc5ae232d6c2ep",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [],
@@ -3726,7 +3732,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/16330bd770134d85b5bef3cc6b1407ffrcp1/sku/896565e45f974774a117876f949630df",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [
@@ -3781,7 +3788,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/cc1997b89ae44886a1197a59b42b2613",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [],
@@ -3834,7 +3842,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/9dc548a191914b419cc80802ca64788frcp1/sku/dc0627d002f24fdba14ac6755250360ep",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_7"
     },
     {
       "expansions": [
@@ -3889,7 +3898,8 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/70d2750d0c614a01afbb34e5c4f3a9bc",
       "early_access": false,
-      "pre_order": false
+      "pre_order": false,
+      "age_rating": "pegi_18"
     },
     {
       "expansions": [
