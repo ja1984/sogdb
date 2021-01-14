@@ -4,6 +4,8 @@
       <div class="game-image">
         <img
           :src="`https://raw.githubusercontent.com/ja1984/sogdb/master/images/${game.image_slug}.webp`"
+          crossorigin="anonymous"
+          loading="lazy"
           class="game-image__image"
         />
         <div class="pegi-rating" v-if="game.age_rating">

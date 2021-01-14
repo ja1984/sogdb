@@ -5,6 +5,7 @@
       <div class="game-image">
       <img
           :src="`https://raw.githubusercontent.com/ja1984/sogdb/master/images/${game.image_slug}.webp`"
+          crossorigin="anonymous"
           class="image"
         />
         <div class="game-image__name">{{ game.name }}</div>
