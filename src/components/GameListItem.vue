@@ -25,7 +25,7 @@
         </div>
         <div class="game__details">
           <span class="game__name">{{ game.name }}</span>
-          <span class="game__details__information">{{ game.resolution }}</span>
+          <span class="game__details__information">{{ game.resolution === 'unknown' ? 'Resolution unknown' : game.resolution }}</span>
         </div>
       </div>
     </header>
