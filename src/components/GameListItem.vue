@@ -10,22 +10,32 @@
         <div class="pegi-rating" v-if="game.age_rating">
           <div class="pegi-rating__icon" :class="game.age_rating"></div>
         </div>
-        <div class="rating" v-if="game.rating && !isNaN(game.rating)" alt="Rating" title="Rating">
+        <div
+          class="rating"
+          v-if="game.rating && !isNaN(game.rating)"
+          alt="Rating"
+          title="Rating"
+        >
           <img src="@/assets/smile.svg" class="rating__icon" />
-          <span class="rating__text">{{ game.rating === -1 ? 'n/a' : game.rating }}</span>
+          <span class="rating__text">{{
+            game.rating === -1 ? "n/a" : game.rating
+          }}</span>
         </div>
-        <div v-if="isProDeal" class="deal" alt="This months pro deal" title="This months pro deal">
-          <img src="@/assets/award.svg" class="deal__icon">
+        <div
+          v-if="isProDeal"
+          class="deal"
+          alt="This months pro deal"
+          title="This months pro deal"
+        >
+          <img src="@/assets/award.svg" class="deal__icon" />
         </div>
-        <div v-if="isEarlyAccess" class="early-access">
-          EARLY ACCESS
-        </div>
-        <div v-if="isPreOrder" class="pre-order">
-          PRE-ORDER
+        <div class="badge">
+          <div v-if="isEarlyAccess" class="early-access">EARLY ACCESS</div>
+          <div v-if="isPreOrder" class="pre-order">PRE-ORDER</div>
         </div>
         <div class="game__details">
           <span class="game__name">{{ game.name }}</span>
-          <span class="game__details__information">{{ game.resolution === 'unknown' ? 'Resolution unknown' : game.resolution }}</span>
+          <span class="game__details__information">{{ resolution }}</span>
         </div>
       </div>
     </header>
@@ -34,17 +44,52 @@
         <p>{{ game.description }}</p>
       </div> -->
       <div class="game-modes">
-        <div class="row row--small-gutter" v-for="mode in gameGameModes" :key="mode.name" :class="{'game-modes--unavailable': !mode.exist}">
+        <div
+          class="row row--small-gutter"
+          v-for="mode in gameGameModes"
+          :key="mode.name"
+          :class="{ 'game-modes--unavailable': !mode.exist }"
+        >
           <div class="column">
             <span class="game-modes__name">{{ mode.name }}</span>
           </div>
           <div class="column column--wrap">
             <template v-if="mode.exist">
-              <div v-if="mode.players !== -1" class="players">{{ mode.players }}</div>
-              <svg v-else xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check game-modes__icon"><polyline points="20 6 9 17 4 12"></polyline></svg>
+              <div v-if="mode.players !== -1" class="players">
+                {{ mode.players }}
+              </div>
+              <svg
+                v-else
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="feather feather-check game-modes__icon"
+              >
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
             </template>
             <template v-else>
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x game-modes__icon"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="feather feather-x game-modes__icon"
+              >
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
             </template>
           </div>
         </div>
@@ -54,23 +99,57 @@
       <div class="row row--center-v">
         <div class="column">
           <span class="release-date release-date--highlight" v-if="isPreOrder">
-            <template v-if="getDaysLeft === 0">
-              Today
-            </template>
+            <template v-if="getDaysLeft === 0"> Today </template>
             <template v-else>
-              {{ `In ${ getDaysLeft } days`}}
-            <span :aria-label="releaseDate" data-balloon-pos="up">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
-            </span>
+              {{ `In ${getDaysLeft} days` }}
+              <span :aria-label="releaseDate" data-balloon-pos="up">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="feather feather-help-circle"
+                >
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                  <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                </svg>
+              </span>
             </template>
           </span>
-          <span class="release-date" v-else >{{ releaseDate }}</span>
+          <span class="release-date" v-else>{{ releaseDate }}</span>
         </div>
         <div class="column column--wrap">
           <a :href="game.store_link" @click.stop target="_blank">
             <div class="store-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shopping-bag"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg>
-              <span class="store-icon__badge" v-if="game.expansions.length > 0">{{ game.expansions.length}}</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="feather feather-shopping-bag"
+              >
+                <path
+                  d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"
+                ></path>
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <path d="M16 10a4 4 0 0 1-8 0"></path>
+              </svg>
+              <span
+                class="store-icon__badge"
+                v-if="game.expansions.length > 0"
+                >{{ game.expansions.length }}</span
+              >
             </div>
           </a>
         </div>
@@ -109,6 +188,19 @@ export default {
     },
   },
   computed: {
+    resolution() {
+      if (this.game.resolution === 'unknown') return 'Resolution and fps unknown';
+      let split = this.game.resolution.split('p');
+      if (split.length === 2) {
+        return `${split[0]}p @ ${split[1]} fps`;
+      }
+
+      split = this.game.resolution.split('k');
+      if (split.length === 2) {
+        return `${split[0]}k @ ${split[1]} fps`;
+      }
+      return 'Resolution and fps unknown';
+    },
     getDaysLeft() {
       const date1 = new Date();
       const date2 = new Date(this.game.released);
@@ -174,26 +266,25 @@ export default {
   color: #fff;
   padding: 10px 15px;
   padding-top: 25px;
-  background: rgba(0,0,0,.3);
+  background: rgba(0, 0, 0, 0.3);
   background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
   text-shadow: 1px 1px 1px #000;
 }
 
 .game__name {
-    font-weight: 700;
-    font-size: 16px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: block;
-    padding-bottom: 2px;
+  font-weight: 700;
+  font-size: 16px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  padding-bottom: 2px;
 }
 
 .game__details__information {
   color: #bbb;
   font-size: 13px;
   font-weight: 500;
-  text-transform: uppercase;
   display: block;
 }
 
@@ -211,12 +302,16 @@ export default {
   position: relative;
 
   &:after {
-    content: '';
+    content: "";
     position: absolute;
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, .1) 100%);
+    background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 0.1) 100%
+    );
     height: 35px;
   }
 }
@@ -225,7 +320,7 @@ export default {
   position: absolute;
   top: 10px;
   right: 10px;
-  background: rgba(0,0,0, .7);
+  background: rgba(0, 0, 0, 0.7);
   border-radius: 40px;
   padding: 3px 6px;
   color: #fff;
@@ -250,7 +345,6 @@ export default {
   display: block;
   width: 100%;
 }
-
 
 .store-icon {
   display: inline-block;
@@ -292,7 +386,7 @@ export default {
 }
 
 .game-modes--unavailable {
-  opacity: .2;
+  opacity: 0.2;
 }
 .game-modes__name {
   text-transform: capitalize;
@@ -315,11 +409,8 @@ export default {
   width: 18px;
 }
 
-.early-access, .pre-order {
-  position: absolute;
-  bottom: 15px;
-  right: 0;
-  background: #FFC107;
+.early-access {
+  background: #ffc107;
   color: #000;
   font-size: 11px;
   padding: 5px;
@@ -327,15 +418,12 @@ export default {
 }
 
 .pre-order {
-  position: absolute;
-  bottom: 15px;
-  left: 0;
-  right: auto;
-  background: #F44336;
+  background: #f44336;
   color: #fff;
   font-size: 11px;
   padding: 5px;
   font-weight: bold;
+  display: inline-block;
 }
 
 .players {
@@ -345,7 +433,7 @@ export default {
 }
 
 .release-date--highlight {
-  color: #F44336;
+  color: #f44336;
 }
 
 .feather.feather-help-circle {
@@ -361,9 +449,9 @@ export default {
 
 .pegi-rating__icon {
   width: 25px;
-    height: 30px;
+  height: 30px;
   background-size: cover;
-&.pegi_3 {
+  &.pegi_3 {
     background-image: url("~@/assets/pegi_3.png");
   }
   &.pegi_7 {
@@ -378,5 +466,13 @@ export default {
   &.pegi_18 {
     background-image: url("~@/assets/pegi_18.png");
   }
+}
+
+.badge {
+  position: absolute;
+  bottom: 55px;
+  right: 0;
+  z-index: 1;
+  text-align: right;
 }
 </style>
