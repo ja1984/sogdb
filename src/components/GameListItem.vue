@@ -5,7 +5,6 @@
         <img
           :src="`https://raw.githubusercontent.com/ja1984/sogdb/master/images/${game.image_slug}.webp`"
           crossorigin="anonymous"
-          loading="lazy"
           class="game-image__image"
         />
         <div class="pegi-rating" v-if="game.age_rating">
@@ -24,10 +23,13 @@
         <div v-if="isPreOrder" class="pre-order">
           PRE-ORDER
         </div>
+        <div class="game__details">
+          <span class="game__name">{{ game.name }}</span>
+          <span class="game__details__information">{{ game.resolution }}</span>
+        </div>
       </div>
     </header>
     <section class="card__body">
-      <span class="game__name">{{ game.name }}</span>
       <!-- <div class="game__description">
         <p>{{ game.description }}</p>
       </div> -->
@@ -52,10 +54,15 @@
       <div class="row row--center-v">
         <div class="column">
           <span class="release-date release-date--highlight" v-if="isPreOrder">
-            {{ `In ${ getDaysLeft } days`}}
+            <template v-if="getDaysLeft === 0">
+              Today
+            </template>
+            <template v-else>
+              {{ `In ${ getDaysLeft } days`}}
             <span :aria-label="releaseDate" data-balloon-pos="up">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
             </span>
+            </template>
           </span>
           <span class="release-date" v-else >{{ releaseDate }}</span>
         </div>
@@ -157,9 +164,37 @@ export default {
   padding-bottom: 0;
 }
 
+.game__details {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  // font-size: 24px;
+  // font-weight: 600;
+  color: #fff;
+  padding: 10px 15px;
+  padding-top: 25px;
+  background: rgba(0,0,0,.3);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
+  text-shadow: 1px 1px 1px #000;
+}
+
 .game__name {
-  font-weight: 600;
-  font-size: 17px;
+    font-weight: 700;
+    font-size: 16px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    padding-bottom: 2px;
+}
+
+.game__details__information {
+  color: #bbb;
+  font-size: 13px;
+  font-weight: 500;
+  text-transform: uppercase;
+  display: block;
 }
 
 .release-date {
@@ -246,6 +281,7 @@ export default {
 
 .game-modes {
   padding: 10px 0;
+  padding-top: 0;
 }
 
 .row--small-gutter {
