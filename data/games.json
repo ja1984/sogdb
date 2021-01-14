@@ -3087,7 +3087,8 @@
       "released": "2020-07-13T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/76309b9f2f294b07b410e8b6aa879273rcp1/sku/55b718bf03544bd3a9f6a62946fe7436",
-      "early_access": true
+      "early_access": true,
+      "age_rating": "pegi_3"
     },
     {
       "expansions": [],
@@ -3135,7 +3136,8 @@
       "released": "2020-07-14T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/6d0d865669774338b3ce888a84da6cdercp1/sku/163efc95783a4c39839c218b75e36127",
-      "early_access": false
+      "early_access": false,
+      "age_rating": "pegi_12"
     },
     {
       "expansions": [],
