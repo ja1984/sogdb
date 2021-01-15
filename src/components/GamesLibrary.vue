@@ -161,7 +161,7 @@
         </div>
       </transition-group>
       </div>
-      <div class="last-update">
+      <div class="last-update" v-if="!loading">
         Game data updated: {{ lastUpdate }}
       </div>
     </div>
