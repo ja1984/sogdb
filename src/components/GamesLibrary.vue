@@ -214,7 +214,7 @@ export default {
       useDarkTheme: false,
       gameModesFilterOptions: ['single player', 'split screen', 'online multiplayer', 'local co-op', 'online co-op', 'local multiplayer', 'competitive', 'cross platform multiplayer'],
       lastUpdate: null,
-      filterProGames: true,
+      filterProGames: false,
     };
   },
   filters: {
