@@ -202,6 +202,7 @@ export default {
       selectedSortOption: 'release',
       useDarkTheme: false,
       gameModesFilterOptions: ['single player', 'split screen', 'online multiplayer', 'local co-op', 'online co-op', 'local multiplayer', 'competitive', 'cross platform multiplayer'],
+      lastUpdate: null,
     };
   },
   mounted() {
@@ -248,8 +249,7 @@ export default {
           });
 
         game.released = parseISO(game.released); //eslint-disable-line
-
-          this.games.push(Object.freeze(game));
+          game.is_pro = this.games.push(Object.freeze(game));
         });
         this.ageRatings.sort((a, b) => b.localeCompare(a, undefined, {
           numeric: true,
