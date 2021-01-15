@@ -43,6 +43,14 @@
           <div class="filter-options">
             <h2 class="text-center">Showing {{ filteredGames.length }} games of {{ games.length }}</h2>
             <div class="rating genres">
+              <div class="row row--small-gutter">
+                <label class="checkbox">
+                  <input v-model="filterProGames" type="checkbox" class="form-input">
+                  <div class="checkbox-box" /> <span class="checkbox__label">Show only PRO games</span>
+                </label>
+              </div>
+            </div>
+            <div class="rating genres">
               <strong class="filter-options__title">Rating {{ (rating === 0 || rating === '0') ? '' : `>= ${rating}` }}</strong>
               <div class="row row--small-gutter">
                   <input type="range" min="0" max="100" v-model="rating" class="form-input form-input--fill">
@@ -54,7 +62,7 @@
                 <div class="column filter-genre" v-for="resolution in sortedResolutions" :key="resolution">
                   <label class="checkbox">
                     <input v-model="selectedResolutions" :value="resolution" type="checkbox" class="form-input">
-                    <div class="checkbox-box" /> <span class="checkbox__label">{{ resolution }}</span>
+                    <div class="checkbox-box" /> <span class="checkbox__label">{{ resolution | makePretty }}</span>
                   </label>
                 </div>
               </div>
@@ -153,6 +161,9 @@
         </div>
       </transition-group>
       </div>
+      <div class="last-update">
+        Game data updated: {{ lastUpdate }}
+      </div>
     </div>
     <game-details v-if="selectedGame" :game="selectedGame" @close="selectedGame = null"></game-details>
   </div>
@@ -203,7 +214,23 @@ export default {
       useDarkTheme: false,
       gameModesFilterOptions: ['single player', 'split screen', 'online multiplayer', 'local co-op', 'online co-op', 'local multiplayer', 'competitive', 'cross platform multiplayer'],
       lastUpdate: null,
+      filterProGames: true,
     };
+  },
+  filters: {
+    makePretty(input) {
+      if (input === 'unknown') return 'Unknown';
+      let split = input.split('p');
+      if (split.length === 2) {
+        return `${split[0]}p @ ${split[1]} fps`;
+      }
+
+      split = input.split('k');
+      if (split.length === 2) {
+        return `${split[0]}k @ ${split[1]} fps`;
+      }
+      return 'Unknown';
+    },
   },
   mounted() {
     this.getFilters();
@@ -249,8 +276,10 @@ export default {
           });
 
         game.released = parseISO(game.released); //eslint-disable-line
-          game.is_pro = this.games.push(Object.freeze(game));
+          game.is_pro = this.checkIfPro([game.store_link, ...game.expansions.map(x => x.store_link)].join(''), data.pro_skuids); //eslint-disable-line
+          this.games.push(Object.freeze(game));
         });
+        this.lastUpdate = data.updated;
         this.ageRatings.sort((a, b) => b.localeCompare(a, undefined, {
           numeric: true,
           sensitivity: 'base',
@@ -286,6 +315,9 @@ export default {
       games = games
         .filter((x) => x.name.toLowerCase().includes(this.filter.toLowerCase()));
 
+      if (this.filterProGames) {
+        games = games.filter((x) => x.is_pro);
+      }
       if (this.rating > 0) {
         games = games
           .filter((x) => (x.rating || 0) >= this.rating);
@@ -366,6 +398,12 @@ export default {
     },
   },
   methods: {
+    checkIfPro(url, skuIds) {
+      for (let i = 0; i < skuIds.length; i += 1) {
+        if (url.includes(skuIds[i])) return true;
+      }
+      return false;
+    },
     getFilters() {
       const query = querystring.parse(window.location.search);
       if (typeof query.game_modes !== 'undefined') {
@@ -585,5 +623,11 @@ body.dark-theme {
   &.pegi_18 {
     background-image: url("~@/assets/pegi_18.png");
   }
+}
+
+.last-update {
+  text-align: center;
+  padding: 25px 0;
+  font-weight: 600;
 }
 </style>

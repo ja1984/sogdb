@@ -34,6 +34,9 @@
           <div v-if="isPreOrder" class="pre-order">PRE-ORDER</div>
         </div>
         <div class="game__details">
+          <div v-if="game.is_pro" class="game-badge">
+          <img src="@/assets/pro.png">
+        </div>
           <span class="game__name">{{ game.name }}</span>
           <span class="game__details__information">{{ resolution }}</span>
         </div>
