@@ -165,7 +165,9 @@
         Game data updated: {{ lastUpdate }}
       </div>
     </div>
+    <transition name="fade">
     <game-details v-if="selectedGame" :game="selectedGame" @close="selectedGame = null"></game-details>
+    </transition>
   </div>
 </template>
 

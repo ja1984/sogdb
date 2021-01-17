@@ -8,6 +8,7 @@
           crossorigin="anonymous"
           class="image"
         />
+
         <div class="game-image__name">{{ game.name }}</div>
       </div>
         <div class="game-details__header__close" @click="$emit('close')">
@@ -21,6 +22,11 @@
         </div>
                 <div v-if="isPreOrder" class="pre-order">
           PRE-ORDER
+        </div>
+        <div v-if="playUrl && !isPreOrder" class="play-link">
+          <a :href="playUrl" target="_blank" class="play-link__button">
+              <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" class="play-link__icon" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M8 5v14l11-7z"/></svg>
+          </a>
         </div>
     </header>
     <section class="game-details__body">
@@ -67,6 +73,13 @@ export default {
     },
   },
   computed: {
+    playUrl() {
+      // https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2
+      const splitStoreLink = this.game.store_link.split('/');
+      if (splitStoreLink.length < 5) return null;
+      const id = splitStoreLink[splitStoreLink.length - 3];
+      return `https://stadia.google.com/player/${id}`;
+    },
     getDaysLeft() {
       const date1 = new Date();
       const date2 = new Date(this.game.released);
@@ -160,6 +173,7 @@ body.dark-theme {
   cursor: pointer;
   opacity: .4;
   transition: all ease .3s;
+  z-index: 10;
 
   &:hover {
     opacity: .8;
@@ -254,5 +268,47 @@ body.dark-theme {
   &.pegi_18 {
     background-image: url("~@/assets/pegi_18.png");
   }
+}
+
+.play-link  {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.play-link__button {
+  background: #fff;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  opacity: .2;
+  transition: all ease .3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &:hover {
+    opacity: .8 !important;
+    transform: scale(1.2);
+  }
+}
+
+.game-details__header:hover {
+  .play-link__button {
+    opacity: .5;
+  }
+}
+
+.play-link__icon {
+  display: block;
+  width: 50px;
+  height: auto;
 }
 </style>
