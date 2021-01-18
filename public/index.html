@@ -22,6 +22,7 @@
     <div id="app"></div>
     <script>
       (function() {
+        if(typeof window.localStorage === 'undefined') return;
         if(localStorage.getItem('dark-theme')) {
           document.body.classList.add('dark-theme');
         };

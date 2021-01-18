@@ -128,6 +128,9 @@
           <span class="release-date" v-else>{{ releaseDate }}</span>
         </div>
         <div class="column column--wrap">
+          <button @click.stop="$emit('toggle-game-in-my-games', game.slug)" class="toggle-own" :class="{'toggle-own--selected': isOwned}">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-star"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+          </button>
           <a :href="game.store_link" @click.stop target="_blank">
             <div class="store-icon">
               <svg
@@ -181,6 +184,10 @@ export default {
       default: () => [],
     },
     isProDeal: {
+      type: Boolean,
+      default: false,
+    },
+    isOwned: {
       type: Boolean,
       default: false,
     },
@@ -477,5 +484,21 @@ export default {
   right: 0;
   z-index: 1;
   text-align: right;
+}
+
+.toggle-own {
+  background: transparent;
+  padding: 0;
+  border: none;
+  outline: none;
+  margin-right: 5px;
+
+  .feather {
+    display: block;
+  }
+
+  &.toggle-own--selected {
+    color: #FFC107;
+  }
 }
 </style>

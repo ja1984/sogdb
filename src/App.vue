@@ -44,7 +44,7 @@ body.dark-theme {
   background-color: #282d3a;
   color: #eee;
 
-  a {
+  a, button {
     color: #eee;
   }
 }
@@ -277,6 +277,14 @@ body.dark-theme {
   .filter-toggle {
     border-color: #fff;
     color: #fff;
+  }
+}
+
+.small-cards  {
+  .game {
+    @media (min-width: 1200px) {
+      flex: 0 1 25%;
+    }
   }
 }
 
