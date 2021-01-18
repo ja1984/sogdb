@@ -406,6 +406,7 @@
             class="column column--small game"
             v-for="game in orderedGames"
             :key="game.name"
+            v-show="filteredGames.includes(game.slug)"
           >
             <game-list-item
               :game="game"
@@ -414,6 +415,7 @@
               :game-modes="sortedGameModes"
               :is-owned="myGames.includes(game.slug)"
               :is-pro-deal="proGames.includes(game.slug)"
+
             ></game-list-item>
           </div>
         </transition-group>
@@ -642,10 +644,10 @@ export default {
           });
       }
 
-      return games;
+      return games.map((x) => x.slug);
     },
     orderedGames() {
-      const games = this.filteredGames.concat();
+      const games = this.games.concat();
       games.sort((a, b) => {
         const valA = this.selectedSortOrder === 'asc' ? a : b;
         const valB = this.selectedSortOrder === 'asc' ? b : a;
