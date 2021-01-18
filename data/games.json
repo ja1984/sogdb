@@ -2032,7 +2032,7 @@
         "2-4 players online co-op",
         "2-4 players competitive"
       ],
-      "rating": -1,
+      "rating": 81,
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/73182869b2a644bdbef46984b96e1721rcp1/sku/a6ffc113bea9495b84581796893ebf50",
@@ -2864,7 +2864,7 @@
         "2-20 players competitive",
         "2-20 players online co-op"
       ],
-      "rating": -1,
+      "rating": 71,
       "released": "2020-06-30T22:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/bf97db3ce0644a448815aef1a5c33e0a",
@@ -2975,7 +2975,7 @@
         "single player",
         "2 players online co-op"
       ],
-      "rating": -1,
+      "rating": 73,
       "released": "2020-07-13T22:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a",
@@ -5482,7 +5482,7 @@
         "1-64 players online multiplayer",
         "1-64 players competitive"
       ],
-      "rating": -1,
+      "rating": 67,
       "released": "2020-11-16T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5",
@@ -6153,7 +6153,7 @@
         ">1 player online co-op",
         "2-8 players competitive"
       ],
-      "rating": -1,
+      "rating": 75,
       "released": "2020-12-02T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/8533fb04b9174c3f8dce10a2fec7b062rcp1/sku/dbea776881b04301a1815e2ad662419a",
@@ -7396,12 +7396,28 @@
         "hungary"
       ],
       "description": "Complete Edition includes the original Scott Pilgrim vs. The World™: The Game, as well as its original contents: the Knives Chau and Wallace Wells Add-On Packs. Rediscover the beloved 2D arcade-style beat 'em up inspired by the iconic comic book series and movie Scott Pilgrim vs. The World. Play as your favorite characters – Scott Pilgrim, Ramona Flowers, Knives Chau, and more. Level up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more! Team up with friends and battle your way through waves of enemies, or compete with them in mini-games; all on your way to defeat the League of Evil Exes!",
-      "genres": ["action", "fighting"],
+      "genres": [
+        "action",
+        "fighting"
+      ],
       "image_slug": "scott_pilgrim_vs_the_world",
       "slug": "scott-pilgrim-vs-the-world-complete-edition",
-      "languages": ["german", "english", "spanish", "french", "italian"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
       "name": "Scott Pilgrim vs. The World™ - Complete Edition",
-      "game_modes": ["single player", "2-4 players local multiplayer", "2-4 players online multiplayer", "2-4 players local co-op", "2-4 players online co-op", "2-4 players competitive"],
+      "game_modes": [
+        "single player",
+        "2-4 players local multiplayer",
+        "2-4 players online multiplayer",
+        "2-4 players local co-op",
+        "2-4 players online co-op",
+        "2-4 players competitive"
+      ],
       "rating": -1,
       "released": "2021-01-13T23:00:00.000Z",
       "resolution": "unknown",
@@ -7421,6 +7437,37 @@
       ]
     }
   ],
-  "pro_skuids": ["5748ef643485495ba71d15041c44f0d4p", "e0d32e6d5b0442f9bea2f8deb5d03570p", "dfc0719b3a5b48ab8213033dc72bfdfcp", "4761cd53808a462ca823a9e403baea99", "dbea776881b04301a1815e2ad662419a", "07b0ea07f5554f70a2675fe696b4c9ebp", "5f1dfba8e3d64b3bbd4979c504cea096p", "ab83a7b5efed40188c8ab8798d7dbfa6", "dfda545ac2e94885a13b1434d370d4b0", "2af064a6b4814ae6a280ab8018842623p", "be70e67b1fd64dc2bb4f002e65239731p", "ad2362e56c57469cafad1ed5799e8997p", "b485ca2ff43a4c658b32bd638546142cp", "86269481f3884521806398d7d875df9e", "6ec089b591ee47fab2fed726e466700ap", "be1bff38daf046f78cde2b36228de554", "2a4af85a84974cdba4d61df620305335", "70d2750d0c614a01afbb34e5c4f3a9bc", "cc1997b89ae44886a1197a59b42b2613", "896565e45f974774a117876f949630df", "f491723b366248d18843107689f3ead6", "fa63c6e891ff4d1bb76c4ac7580c119a", "60da786be741463fbbeb63ed5130bc11", "c43eb98aaf8e455fb6faece785893268", "ac819b64342841eda35cebfd3a34c769", "f47a1e1e9f0b43078e0a80c57068b085", "f6658df6c8874c828532d5d24c66d58f", "a1afa4eca7b24713a9bcf3421dd85a13", "90f5bd9270024986b26ee8221c1fa2e4", "8d3124a81f6444219acd3d99c90a5658"],
+  "pro_skuids": [
+    "5748ef643485495ba71d15041c44f0d4p",
+    "e0d32e6d5b0442f9bea2f8deb5d03570p",
+    "dfc0719b3a5b48ab8213033dc72bfdfcp",
+    "4761cd53808a462ca823a9e403baea99",
+    "dbea776881b04301a1815e2ad662419a",
+    "07b0ea07f5554f70a2675fe696b4c9ebp",
+    "5f1dfba8e3d64b3bbd4979c504cea096p",
+    "ab83a7b5efed40188c8ab8798d7dbfa6",
+    "dfda545ac2e94885a13b1434d370d4b0",
+    "2af064a6b4814ae6a280ab8018842623p",
+    "be70e67b1fd64dc2bb4f002e65239731p",
+    "ad2362e56c57469cafad1ed5799e8997p",
+    "b485ca2ff43a4c658b32bd638546142cp",
+    "86269481f3884521806398d7d875df9e",
+    "6ec089b591ee47fab2fed726e466700ap",
+    "be1bff38daf046f78cde2b36228de554",
+    "2a4af85a84974cdba4d61df620305335",
+    "70d2750d0c614a01afbb34e5c4f3a9bc",
+    "cc1997b89ae44886a1197a59b42b2613",
+    "896565e45f974774a117876f949630df",
+    "f491723b366248d18843107689f3ead6",
+    "fa63c6e891ff4d1bb76c4ac7580c119a",
+    "60da786be741463fbbeb63ed5130bc11",
+    "c43eb98aaf8e455fb6faece785893268",
+    "ac819b64342841eda35cebfd3a34c769",
+    "f47a1e1e9f0b43078e0a80c57068b085",
+    "f6658df6c8874c828532d5d24c66d58f",
+    "a1afa4eca7b24713a9bcf3421dd85a13",
+    "90f5bd9270024986b26ee8221c1fa2e4",
+    "8d3124a81f6444219acd3d99c90a5658"
+  ],
   "updated": "2021-01-15T11:23:12.146Z"
 }
