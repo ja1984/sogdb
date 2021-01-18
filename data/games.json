@@ -1352,13 +1352,7 @@
       ],
       "image_slug": "spitlings",
       "slug": "spitlings",
-      "languages": [
-        "german",
-        "english",
-        "spanish",
-        "french",
-        "italian"
-      ],
+      "languages": ["german", "english", "spanish", "french", "italian", "russian", "turkish", "portuguese", "korean", "chinese (simplified)", "chinese (traditional)", "japanese", "dutch", "norwegian", "swedish", "danish", "polish", "finnish", "romanian", "slovenian", "czech", "hungarian", "bulgarian", "greek", "thai", "vietnamese", "croatian"],
       "name": "Spitlings",
       "game_modes": [
         "single player",
