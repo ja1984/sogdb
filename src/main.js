@@ -3,7 +3,7 @@ import App from './App.vue';
 
 Vue.config.productionTip = false;
 
-if (process.env.NODE_ENV === 'production') {
+if (process.env.NODE_ENV === 'production' && typeof navigator.serviceWorker !== 'undefined') {
   navigator.serviceWorker.register('./service-worker.js', { scope: './' })
     .then(navigator.serviceWorker.ready);
   // .then(() => {

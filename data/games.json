@@ -5852,7 +5852,8 @@
       "name": "Monster Jam Steel Titans",
       "game_modes": [
         "single player",
-        "2 players local multiplayer"
+        "2 players local multiplayer",
+        "2 players split-screen"
       ],
       "rating": -1,
       "released": "2020-11-30T23:00:00.000Z",
