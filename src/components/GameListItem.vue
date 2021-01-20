@@ -247,8 +247,8 @@ export default {
       return this.game.early_access;
     },
     isPreOrder() {
-      if (this.game.pre_order) {
-        return true;
+      if (!this.game.pre_order) {
+        return false;
       }
       return this.getDaysLeft > 0;
     },
