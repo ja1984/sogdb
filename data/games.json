@@ -1352,7 +1352,35 @@
       ],
       "image_slug": "spitlings",
       "slug": "spitlings",
-      "languages": ["german", "english", "spanish", "french", "italian", "russian", "turkish", "portuguese", "korean", "chinese (simplified)", "chinese (traditional)", "japanese", "dutch", "norwegian", "swedish", "danish", "polish", "finnish", "romanian", "slovenian", "czech", "hungarian", "bulgarian", "greek", "thai", "vietnamese", "croatian"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "russian",
+        "turkish",
+        "portuguese",
+        "korean",
+        "chinese (simplified)",
+        "chinese (traditional)",
+        "japanese",
+        "dutch",
+        "norwegian",
+        "swedish",
+        "danish",
+        "polish",
+        "finnish",
+        "romanian",
+        "slovenian",
+        "czech",
+        "hungarian",
+        "bulgarian",
+        "greek",
+        "thai",
+        "vietnamese",
+        "croatian"
+      ],
       "name": "Spitlings",
       "game_modes": [
         "single player",
@@ -7419,6 +7447,66 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [
+        {
+          "title": "Year One Edition",
+          "store_link": "https://stadia.google.com/store/details/18ea8c5d2f7e4f40ad783a512da8ef91rcp1/sku/09d6eb2215a14ea9b863406f629215f3p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Phoenix Point puts players in the midst of a desperate fight to take back the Earth from a mutating, alien menace. Featuring turn-based tactical combat on procedurally generated maps, and resource management on a global scale, Phoenix Point offers endless replayability and a brutal challenge.",
+      "genres": [
+        "strategy",
+        "role-playing game"
+      ],
+      "image_slug": "phoenix_point",
+      "slug": "phoenix-point",
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "italian",
+        "spanish",
+        "russian",
+        "polish",
+        "chinese"
+      ],
+      "name": "Phoenix Point",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-01-25T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/a3725b4a70aa4447b4c193125f3a2529rcp1/sku/bf065d3d3dca4d0e8d68418f66d3afa1p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
