@@ -7560,12 +7560,7 @@
       "age_rating": "pegi_3"
     },
     {
-      "expansions": [
-        {
-          "title": "Superstar Edition",
-          "store_link": "https://stadia.google.com/store/details/0e6c703afde840148204847447b9c21drcp1/sku/2e6de1746efc442ca5849584e406f35ep"
-        }
-      ],
+      "expansions": [],
       "countries": [
         "belgium",
         "canada",
@@ -7590,22 +7585,17 @@
         "switzerland",
         "hungary"
       ],
-      "description": "Rise to fame in Madden NFL 21.\n\nMadden NFL 21 delivers new features and modes including:\nFace of the Franchise: Rise to Fame: Rise to fame and become immortalized.\nTake Control: Master innovative running enhancements and live playbooks.\nX-Factor 2.0: New X-Factor abilities.",
-      "genres": [
-        "sports",
-        "simulation"
-      ],
-      "image_slug": "madden_nfl_21",
-      "slug": "madden-nfl-21",
-      "languages": [
-        "english"
-      ],
-      "name": "Madden NFL 21",
-      "game_modes": ["single player", "1-4 players local multiplayer", "2-6 players online multiplayer", "2 players local co-op", "2-3 players online co-op", "2-6 players competitive"],
+      "description": "Experience a brand new adventure game set amongst a world of weird and wonderful fish planets. Explore beautiful environments, solve intricate puzzles and discover the truth about a mysterious little girl and her mechanical alter-ego, Cubus.\n\nAdventure as a little girl\nExplore vivid and atmospheric locations, meet intriguing characters, and solve elaborate puzzles - all on your quest to repair the Sacred Engine. As The Girl you are light and nimble, and so can reach areas of the world that others can't.\n\nUtilise the might of Cubus\nAt any time you can transform into The Girl’s mechanical friend, Cubus. Need something heavy lifting? Cubus has you covered.\n\nSolve intricately crafted puzzles\nYou'll need your wits about you to solve TOHU’s unique and wacky conundrums.",
+      "genres": ["adventure", "kids & family", "puzzle"],
+      "image_slug": "tohu",
+      "slug": "tohu",
+      "languages": ["english", "french", "russian", "italian", "german", "spanish", "portuguese", "chinese (china)", "japanese", "polish", "korean", "turkish"],
+      "name": "TOHU",
+      "game_modes": ["single player"],
       "rating": -1,
       "released": "2021-01-27T23:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/store/details/0e6c703afde840148204847447b9c21drcp1/sku/7f7cf21388134e2d9218968af61ab7dap",
+      "store_link": "https://stadia.google.com/store/details/df0f55ed73d946b8a70398fea9805e2drcp1/sku/6a40d7ab07e14609bbb3320b3c1ccb46p",
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
