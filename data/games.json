@@ -2598,6 +2598,14 @@
         {
           "name": "Morrowind Upgrade",
           "store_link": "https://stadia.google.com/store/details/b17f16d4a4f94c0a85e07f54dbdedbb6rcp1/sku/dc22a780578a43998109b3223e15dcbc"
+        },
+        {
+          "name": "Blackwood",
+          "store_link": "https://stadia.google.com/store/details/b17f16d4a4f94c0a85e07f54dbdedbb6rcp1/sku/3e15e73f6b6541f69021289923ca8628p"
+        },
+        {
+          "name": "Blackwood CE",
+          "store_link": "https://stadia.google.com/store/details/b17f16d4a4f94c0a85e07f54dbdedbb6rcp1/sku/5a2dadfd862645bc8f3c6d70e6529744p"
         }
       ],
       "countries": [
@@ -7550,7 +7558,14 @@
         "english"
       ],
       "name": "Madden NFL 21",
-      "game_modes": ["single player", "1-4 players local multiplayer", "2-6 players online multiplayer", "2 players local co-op", "2-3 players online co-op", "2-6 players competitive"],
+      "game_modes": [
+        "single player",
+        "1-4 players local multiplayer",
+        "2-6 players online multiplayer",
+        "2 players local co-op",
+        "2-3 players online co-op",
+        "2-6 players competitive"
+      ],
       "rating": -1,
       "released": "2021-01-27T23:00:00.000Z",
       "resolution": "unknown",
@@ -7586,12 +7601,31 @@
         "hungary"
       ],
       "description": "Experience a brand new adventure game set amongst a world of weird and wonderful fish planets. Explore beautiful environments, solve intricate puzzles and discover the truth about a mysterious little girl and her mechanical alter-ego, Cubus.\n\nAdventure as a little girl\nExplore vivid and atmospheric locations, meet intriguing characters, and solve elaborate puzzles - all on your quest to repair the Sacred Engine. As The Girl you are light and nimble, and so can reach areas of the world that others can't.\n\nUtilise the might of Cubus\nAt any time you can transform into The Girl’s mechanical friend, Cubus. Need something heavy lifting? Cubus has you covered.\n\nSolve intricately crafted puzzles\nYou'll need your wits about you to solve TOHU’s unique and wacky conundrums.",
-      "genres": ["adventure", "kids & family", "puzzle"],
+      "genres": [
+        "adventure",
+        "kids & family",
+        "puzzle"
+      ],
       "image_slug": "tohu",
       "slug": "tohu",
-      "languages": ["english", "french", "russian", "italian", "german", "spanish", "portuguese", "chinese (china)", "japanese", "polish", "korean", "turkish"],
+      "languages": [
+        "english",
+        "french",
+        "russian",
+        "italian",
+        "german",
+        "spanish",
+        "portuguese",
+        "chinese (china)",
+        "japanese",
+        "polish",
+        "korean",
+        "turkish"
+      ],
       "name": "TOHU",
-      "game_modes": ["single player"],
+      "game_modes": [
+        "single player"
+      ],
       "rating": -1,
       "released": "2021-01-27T23:00:00.000Z",
       "resolution": "unknown",
@@ -7599,6 +7633,66 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Valiant Edition",
+          "store_link": "https://stadia.google.com/store/details/f001c122cb70445d8a247d5b6f6334cbrcp1/sku/326960d5729c43ea9e56ef683e0b87a1p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "You Are The Last Hope For Humanity\nThe gods’ torturous rule over humanity has lasted for millennia. They demand to be served with blind worship by every man, woman and child. To those who don't submit to the gods’ will; a slow and merciless death awaits.\nExperience the brutal trials of a venturous band of warriors in their desperate plight to sever the gods’ callous grip on humanity. Every man and woman who can muster a blade, having suffered the brutality of the gods’ reign for too long, will be called upon to form your clan of 8 Celtic survivors and rise up to take on the legions of horrific beasts and minions that dwell in each of the gods’ hellish realms.\nA personal tale emerges with every decision made. Succeed and see legends born. Fail, and watch lives turn to dust.",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "gods_will_fall",
+      "slug": "gods-will-fall",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "russian",
+        "chinese (china)",
+        "chinese (taiwan)"
+      ],
+      "name": "Gods Will Fall",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-01-28T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/f001c122cb70445d8a247d5b6f6334cbrcp1/sku/ec8c2355c1fc4dab9ff8efd4858316b2p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
@@ -7643,5 +7737,5 @@
     "90f5bd9270024986b26ee8221c1fa2e4",
     "8d3124a81f6444219acd3d99c90a5658"
   ],
-  "updated": "2021-01-15T11:23:12.146Z"
+  "updated": "2021-01-29T08:29:59.786Z"
 }
