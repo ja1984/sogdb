@@ -7507,6 +7507,108 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [
+        {
+          "title": "Superstar Edition",
+          "store_link": "https://stadia.google.com/store/details/0e6c703afde840148204847447b9c21drcp1/sku/2e6de1746efc442ca5849584e406f35ep"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Rise to fame in Madden NFL 21.\n\nMadden NFL 21 delivers new features and modes including:\nFace of the Franchise: Rise to Fame: Rise to fame and become immortalized.\nTake Control: Master innovative running enhancements and live playbooks.\nX-Factor 2.0: New X-Factor abilities.",
+      "genres": [
+        "sports",
+        "simulation"
+      ],
+      "image_slug": "madden_nfl_21",
+      "slug": "madden-nfl-21",
+      "languages": [
+        "english"
+      ],
+      "name": "Madden NFL 21",
+      "game_modes": ["single player", "1-4 players local multiplayer", "2-6 players online multiplayer", "2 players local co-op", "2-3 players online co-op", "2-6 players competitive"],
+      "rating": -1,
+      "released": "2021-01-27T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/0e6c703afde840148204847447b9c21drcp1/sku/7f7cf21388134e2d9218968af61ab7dap",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [
+        {
+          "title": "Superstar Edition",
+          "store_link": "https://stadia.google.com/store/details/0e6c703afde840148204847447b9c21drcp1/sku/2e6de1746efc442ca5849584e406f35ep"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Rise to fame in Madden NFL 21.\n\nMadden NFL 21 delivers new features and modes including:\nFace of the Franchise: Rise to Fame: Rise to fame and become immortalized.\nTake Control: Master innovative running enhancements and live playbooks.\nX-Factor 2.0: New X-Factor abilities.",
+      "genres": [
+        "sports",
+        "simulation"
+      ],
+      "image_slug": "madden_nfl_21",
+      "slug": "madden-nfl-21",
+      "languages": [
+        "english"
+      ],
+      "name": "Madden NFL 21",
+      "game_modes": ["single player", "1-4 players local multiplayer", "2-6 players online multiplayer", "2 players local co-op", "2-3 players online co-op", "2-6 players competitive"],
+      "rating": -1,
+      "released": "2021-01-27T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/0e6c703afde840148204847447b9c21drcp1/sku/7f7cf21388134e2d9218968af61ab7dap",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
