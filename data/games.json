@@ -7693,6 +7693,50 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "WELCOME TO THE PIONEER PROGRAM! As the newest recruit of Kindred Aerospace - The 4th best interstellar space exploration company - Your job is to determine if the planet ARY-26 is fit for humans. You may be short on equipment and experience, but you'll figure it out!",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "journey_to_the_savage_planet",
+      "slug": "journey-to-the-savage-planet",
+      "languages": ["english", "french", "italian", "german", "spanish", "portuguese", "russian", "japanese", "chinese (traditional)", "chinese (simplified)", "korean"],
+      "name": "Journey to the Savage Planet",
+      "game_modes": ["single player", "2 players online co-op"],
+      "rating": -1,
+      "released": "2021-01-27T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/22c6d03e67474644a139de4f04a08c11rcp1/sku/a287b8393c204384a8b940dc79d142fd",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
