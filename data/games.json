@@ -6299,7 +6299,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": -1,
+      "rating": 73,
       "released": "2020-12-02T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/3c39a33bbc064308941f9276c38c30e7rcp1/sku/07b0ea07f5554f70a2675fe696b4c9ebp",
@@ -7804,6 +7804,65 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Pikuniku is an absurdly wonderful puzzle-exploration game that takes place in a strange but playful world where not everything is as happy as it seems. Help peculiar characters overcome struggles, uncover a deep state conspiracy, and start a fun little revolution in this delightful dystopian adventure!",
+      "genres": [
+        "puzzle",
+        "kids & family"
+      ],
+      "image_slug": "pikuniku",
+      "slug": "pikuniku",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "russian",
+        "portuguese (brazil)",
+        "chinese (simplified)",
+        "chinese (traditional)"
+      ],
+      "name": "PIKUNIKU",
+      "game_modes": [
+        "single player",
+        "2 players local co-op"
+      ],
+      "rating": -1,
+      "released": "2021-02-08T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/c02a86f966b044569ee03f80fbc86035rcp1/sku/f1bbad79434f496bae9865248c6c136ap",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
