@@ -7863,6 +7863,59 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [
+        {
+          "name": "The Nome's Attic",
+          "store_link": "https://stadia.google.com/u/1/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/7351425f93934c16990f2db78fda867bp"
+        }
+      ],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
+      "description": "Return to a world of charming horror in Little Nightmares II, a suspense adventure game in which you play as Mono, a young boy trapped in a world that has been distorted by the humming transmission of a distant tower.\n\nWith Six, the girl in the yellow raincoat, as his guide, Mono sets out to discover the dark secrets of The Signal Tower. Their journey won't be easy; Mono and Six will face a host of new threats from the terrible residents of this world.\n\nWill you dare to face this collection of new, little nightmares?",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "little_nightmares_2",
+      "slug": "little-nightmares-2",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "portuguese",
+        "russian",
+        "chinese"
+      ],
+      "name": "Little Nightmares II",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": 80,
+      "released": "2021-02-10T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp",
+      "early_access": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
