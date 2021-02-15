@@ -7916,6 +7916,48 @@
       "store_link": "https://stadia.google.com/u/1/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp",
       "early_access": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [
+        {
+          "name": "The Nome's Attic",
+          "store_link": "https://stadia.google.com/u/1/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/7351425f93934c16990f2db78fda867bp"
+        }
+      ],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
+      "description": "In 2013 the world was devastated by an apocalyptic event. A handful of survivors took refuge in the depths of the Moscow underground…The year is 2033. You are Artyom, born in the last days before the fire, but raised Underground. One fateful event sparks a desperate mission to the heart of the Metro system, to warn the remnants of mankind of a terrible impending threat. Metro 2033 Redux is the definitive version of the cult classic ‘Metro 2033’. Fans of the original game will find the unique world of Metro transformed with incredible lighting, physics and dynamic weather effects. Newcomers will get the chance to experience one of the finest story-driven shooters of all time; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.",
+      "genres": [
+        "shooter",
+        "action"
+      ],
+      "image_slug": "metro_2033_redux",
+      "slug": "metro-2033-redux",
+      "languages": ["czech", "german", "english", "spanish", "french", "italian", "dutch", "polish", "russian", "ukrainian"],
+      "name": "Metro 2033 Redux",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2020-06-22T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/9b3ea6519cac48d68ca821f07b1a6a3drcp1/sku/de1e97332f1148468759dfc4553edad9?first_impression_url=https%3A%2F%2Fstadia.google.com%2F%3Foriginal_url%3Dhttps%253A%252F%252Fstadia.google.com%252Fstore%252Fdetails%252F9b3ea6519cac48d68ca821f07b1a6a3drcp1%252Fsku%252Fde1e97332f1148468759dfc4553edad9%26redirect_reasons%3D2",
+      "early_access": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
