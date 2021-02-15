@@ -8018,18 +8018,7 @@
       "countries": [
         "united states",
         "canada",
-        "united kingdom",
-        "france",
-        "germany",
-        "spain",
-        "italy",
-        "netherlands",
-        "denmark",
-        "norway",
-        "finland",
-        "sweden",
-        "belgium",
-        "ireland"
+        "united kingdom"
       ],
       "description": "Experience one of America’s hottest gameshows at home now! Customize your character, challenge your friends, family, and even other players online for a chance to bring the big prize home. Play four exciting game modes: Classic mode features the authentic Family Feud® experience. Choose a difficulty and take on an AI team just as determined as you are! Party Battle lets you get into teams with your family and friends as you battle each other in local multiplayer. Couch vs. Couch brings the experience online! Play against others across the world. The Live Show feature allows you to broadcast your game and play with your viewers!",
       "genres": [
@@ -8055,8 +8044,7 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/5ba98de70c8c4b64bf56ca9009d60e62rcp1/sku/3af579475c334c62985ac80b3dfed0bap",
       "early_access": false,
-      "age_rating": "pegi_3",
-      "hidden": true
+      "age_rating": "pegi_3"
     },
     {
       "expansions": [],
