@@ -7942,7 +7942,18 @@
       ],
       "image_slug": "metro_2033_redux",
       "slug": "metro-2033-redux",
-      "languages": ["czech", "german", "english", "spanish", "french", "italian", "dutch", "polish", "russian", "ukrainian"],
+      "languages": [
+        "czech",
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "dutch",
+        "polish",
+        "russian",
+        "ukrainian"
+      ],
       "name": "Metro 2033 Redux",
       "game_modes": [
         "single player"
@@ -7979,7 +7990,18 @@
       ],
       "image_slug": "metro_last_light_redux",
       "slug": "metro-last-list-redux",
-      "languages": ["czech", "german", "english", "spanish", "french", "italian", "dutch", "polish", "russian", "ukrainian"],
+      "languages": [
+        "czech",
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "dutch",
+        "polish",
+        "russian",
+        "ukrainian"
+      ],
       "name": "Metro Last Light Redux",
       "game_modes": [
         "single player"
@@ -8010,12 +8032,24 @@
         "ireland"
       ],
       "description": "Experience one of America’s hottest gameshows at home now! Customize your character, challenge your friends, family, and even other players online for a chance to bring the big prize home. Play four exciting game modes: Classic mode features the authentic Family Feud® experience. Choose a difficulty and take on an AI team just as determined as you are! Party Battle lets you get into teams with your family and friends as you battle each other in local multiplayer. Couch vs. Couch brings the experience online! Play against others across the world. The Live Show feature allows you to broadcast your game and play with your viewers!",
-      "genres": ["party", "kids & family", "casual"],
+      "genres": [
+        "party",
+        "kids & family",
+        "casual"
+      ],
       "image_slug": "family_feud",
       "slug": "family-feud",
-      "languages": ["english"],
+      "languages": [
+        "english"
+      ],
       "name": "Family Feud®",
-      "game_modes": ["single player", "2-10 players local multiplayer", "2-10 players online multiplayer", "2-5 players local co-op", "2-10 players competitive"],
+      "game_modes": [
+        "single player",
+        "2-10 players local multiplayer",
+        "2-10 players online multiplayer",
+        "2-5 players local co-op",
+        "2-10 players competitive"
+      ],
       "rating": -1,
       "released": "2020-11-11T22:00:00.000Z",
       "resolution": "unknown",
@@ -8043,12 +8077,26 @@
         "ireland"
       ],
       "description": "Manage your football club, your way, in a living, breathing football universe which places you at its very heart. In this latest instalment of the best-selling series, every footballing decision is yours to make; from creating tactical styles and training schedules to assembling an elite backroom staff and working with your scouts to build the ultimate squad. The question is, at which of the world’s best clubs will your journey begin? There are over 100 leagues from 50 countries to choose from. FM20 is a world that rewards planning and knowledge but, unlike other games, there’s no script or pre-defined ending – just endless possibilities. How you get to the top is up to you; you own your decision, and their consequences.",
-      "genres": ["sports", "simulation", "strategy"],
+      "genres": [
+        "sports",
+        "simulation",
+        "strategy"
+      ],
       "image_slug": "football_manager_2020",
       "slug": "football-manager-2020",
-      "languages": ["german", "english", "spanish", "french", "italian"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
       "name": "Football Manager 2020",
-      "game_modes": ["single player", "> 1 player local multiplayer", "> 1 player online multiplayer"],
+      "game_modes": [
+        "single player",
+        "> 1 player local multiplayer",
+        "> 1 player online multiplayer"
+      ],
       "rating": -1,
       "released": "2020-11-18T22:00:00.000Z",
       "resolution": "unknown",
@@ -8099,5 +8147,5 @@
     "90f5bd9270024986b26ee8221c1fa2e4",
     "8d3124a81f6444219acd3d99c90a5658"
   ],
-  "updated": "2021-02-11T09:16:40.768Z"
+  "updated": "2021-02-15T08:12:45.161Z"
 }
