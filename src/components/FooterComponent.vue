@@ -13,6 +13,9 @@
             <p>
               SOGDb is a databse for the available Google Stadia games. SOGDb makes it easy to filter the games to find the one you are looking for.
             </p>
+            <p>
+              Stadia is a trademark of Google LLC. SOGDb is not affiliated with Stadia or Google.
+            </p>
             </div>
           </div>
 
