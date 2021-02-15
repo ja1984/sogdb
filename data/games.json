@@ -7918,12 +7918,7 @@
       "age_rating": "pegi_16"
     },
     {
-      "expansions": [
-        {
-          "name": "The Nome's Attic",
-          "store_link": "https://stadia.google.com/u/1/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/7351425f93934c16990f2db78fda867bp"
-        }
-      ],
+      "expansions": [],
       "countries": [
         "united states",
         "canada",
@@ -7955,9 +7950,112 @@
       "rating": -1,
       "released": "2020-06-22T22:00:00.000Z",
       "resolution": "unknown",
-      "store_link": "https://stadia.google.com/u/1/store/details/9b3ea6519cac48d68ca821f07b1a6a3drcp1/sku/de1e97332f1148468759dfc4553edad9?first_impression_url=https%3A%2F%2Fstadia.google.com%2F%3Foriginal_url%3Dhttps%253A%252F%252Fstadia.google.com%252Fstore%252Fdetails%252F9b3ea6519cac48d68ca821f07b1a6a3drcp1%252Fsku%252Fde1e97332f1148468759dfc4553edad9%26redirect_reasons%3D2",
+      "store_link": "https://stadia.google.com/u/1/store/details/9b3ea6519cac48d68ca821f07b1a6a3drcp1/sku/de1e97332f1148468759dfc4553edad9",
       "early_access": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
+      "description": "The awe-inspiring immersive experience of a lifetime. Join the external and internal fights that could change everything for a single Artyom. Just when hope is lost, this Artyom finds it time and time again. This game may be 3D in pixels, but it's infinitely dimensional in meaning.",
+      "genres": [
+        "shooter",
+        "action"
+      ],
+      "image_slug": "metro_last_light_redux",
+      "slug": "metro-last-list-redux",
+      "languages": ["czech", "german", "english", "spanish", "french", "italian", "dutch", "polish", "russian", "ukrainian"],
+      "name": "Metro Last Light Redux",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2020-06-22T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/b65c1c4dcdf24446bcecda190c6a2fe7rcp1/sku/92cd0fa4958444b5846d1b72878c7e25",
+      "early_access": false,
+      "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
+      "description": "Experience one of America’s hottest gameshows at home now! Customize your character, challenge your friends, family, and even other players online for a chance to bring the big prize home. Play four exciting game modes: Classic mode features the authentic Family Feud® experience. Choose a difficulty and take on an AI team just as determined as you are! Party Battle lets you get into teams with your family and friends as you battle each other in local multiplayer. Couch vs. Couch brings the experience online! Play against others across the world. The Live Show feature allows you to broadcast your game and play with your viewers!",
+      "genres": ["party", "kids & family", "casual"],
+      "image_slug": "family_feud",
+      "slug": "family-feud",
+      "languages": ["english"],
+      "name": "Family Feud®",
+      "game_modes": ["single player", "2-10 players local multiplayer", "2-10 players online multiplayer", "2-5 players local co-op", "2-10 players competitive"],
+      "rating": -1,
+      "released": "2020-11-11T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/5ba98de70c8c4b64bf56ca9009d60e62rcp1/sku/3af579475c334c62985ac80b3dfed0bap",
+      "early_access": false,
+      "age_rating": "pegi_3",
+      "hidden": true
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "germany",
+        "spain",
+        "italy",
+        "netherlands",
+        "denmark",
+        "norway",
+        "finland",
+        "sweden",
+        "belgium",
+        "ireland"
+      ],
+      "description": "Manage your football club, your way, in a living, breathing football universe which places you at its very heart. In this latest instalment of the best-selling series, every footballing decision is yours to make; from creating tactical styles and training schedules to assembling an elite backroom staff and working with your scouts to build the ultimate squad. The question is, at which of the world’s best clubs will your journey begin? There are over 100 leagues from 50 countries to choose from. FM20 is a world that rewards planning and knowledge but, unlike other games, there’s no script or pre-defined ending – just endless possibilities. How you get to the top is up to you; you own your decision, and their consequences.",
+      "genres": ["sports", "simulation", "strategy"],
+      "image_slug": "football_manager_2020",
+      "slug": "football-manager-2020",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "Football Manager 2020",
+      "game_modes": ["single player", "> 1 player local multiplayer", "> 1 player online multiplayer"],
+      "rating": -1,
+      "released": "2020-11-18T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/8a3cc52ad2334b1e91ded77bc43644e0rcp1/sku/32a0791a88474f08ad7a687846b786f2",
+      "early_access": false,
+      "age_rating": "pegi_3",
+      "hidden": true
     }
   ],
   "pro_games": [
