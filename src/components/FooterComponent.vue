@@ -1,9 +1,9 @@
 <template>
-    <footer class="footer">
-      <div class="container">
-        <div class="row row--block-mobile">
-          <div class="column">
-            <div class="small-section">
+  <footer class="footer">
+    <div class="container">
+      <div class="row row--block-mobile">
+        <div class="column">
+          <div class="small-section">
             <div class="logo row row--center-v row--small-gutter">
               <div class="column column--wrap column--small-gutter">
                 <span class="logo__text"><img src="@/assets/google-stadia-logo--white.png" class="logo__image">OGDb</span>
@@ -16,50 +16,57 @@
             <p>
               Stadia is a trademark of Google LLC. SOGDb is not affiliated with Stadia or Google.
             </p>
-            </div>
           </div>
+        </div>
 
-          <div class="column">
-            <div class="small-section">
+        <div class="column">
+          <div class="small-section">
             <h2>Thanks</h2>
             <p>
               Thank you to the awesome <strong>nilicule</strong> who got this ball rolling by creating <strong>Stadia Game DB</strong>
             </p>
-            <p>
-              <strong>Links</strong>
+            <div>
+              <p>
+                <strong>Links</strong>
+              </p>
               <ul>
-                <li><a href="https://github.com/nilicule/"  target="_blank">nilicule</a></li>
-                <li><a href="https://stadiagamedb.com/"  target="_blank">Stadia Game DB</a> (<a href="https://github.com/nilicule/StadiaGameDB" target="_blank">GitHub</a>)</li>
-                <li><a href="https://stadia.google.com/"  target="_blank">Stadia</a></li>
-                <li><div class="divider"></div></li>
-                <li><a href="https://github.com/ja1984/sogdb"  target="_blank">SOGDb Github</a></li>
+                <li><a href="https://github.com/nilicule/" target="_blank">nilicule</a></li>
+                <li><a href="https://stadiagamedb.com/" target="_blank">Stadia Game DB</a> (<a href="https://github.com/nilicule/StadiaGameDB" target="_blank">GitHub</a>)</li>
+                <li><a href="https://stadia.google.com/" target="_blank">Stadia</a></li>
+                <li>
+                  <div class="divider"></div>
+                </li>
+                <li><a href="https://github.com/ja1984/sogdb" target="_blank">SOGDb Github</a></li>
               </ul>
               <button class="footer-button" @click="showModal = true">Use SOGDb data</button>
-            </p>
-          </div>
-          </div>
-        </div>
-      </div>
-      <div class="modal" v-show="showModal">
-        <div class="modal__inner">
-            <div class="modal__inner__close" @click="showModal = false">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x game-details__header__close__icon"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
             </div>
-          <div class="dev-information">
-            <header class="dev-information__header">
-              <strong class="current-color">JSON URL</strong>
-              <input readonly type="text" class="form-input form-input--fill" value="https://raw.githubusercontent.com/ja1984/sogdb/master/data/games.json">
-              <strong class="current-color margin-top">Response</strong>
-            </header>
-            <section class="dev-information__body">
-              <div class="dev-information__body__inner">
-                <pre class="pre">{{ json }}</pre>
-              </div>
-            </section>
           </div>
         </div>
       </div>
-    </footer>
+    </div>
+    <div v-show="showModal" class="modal">
+      <div class="modal__inner">
+        <div class="modal__inner__close" @click="showModal = false">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x game-details__header__close__icon">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </div>
+        <div class="dev-information">
+          <header class="dev-information__header">
+            <strong class="current-color">JSON URL</strong>
+            <input readonly type="text" class="form-input form-input--fill" value="https://raw.githubusercontent.com/ja1984/sogdb/master/data/games.json">
+            <strong class="current-color margin-top">Response</strong>
+          </header>
+          <section class="dev-information__body">
+            <div class="dev-information__body__inner">
+              <pre class="pre">{{ json }}</pre>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </footer>
 </template>
 <script>
 export default {
@@ -144,12 +151,11 @@ export default {
 };
 </script>
 <style lang="less" scoped>
-
 .logo__image {
   height: 30px;
   display: inline-block;
 
-  @media(min-width: 1025px) {
+  @media (min-width: 1025px) {
     height: 45px;
   }
 }
@@ -159,7 +165,7 @@ export default {
   font-family: "Montserrat Alternates", sans-serif;
   font-size: 40px;
 
-  @media(min-width: 1025px) {
+  @media (min-width: 1025px) {
     font-size: 60px;
   }
 }
@@ -169,7 +175,7 @@ a {
 }
 
 .small-section {
-  @media(min-width: 1024px) {
+  @media (min-width: 1024px) {
     padding-right: 125px;
   }
 }
@@ -191,34 +197,34 @@ ul {
 .footer-button {
   margin: 25px 0 10px 0;
   background: #fff;
-    color: #2c3e50;
-    display: inline-block;
-    text-decoration: none;
-    border-radius: 50px;
-    padding: 20px 60px;
-    border: none;
-    font-weight: 800;
-    text-transform: uppercase;
-    cursor: pointer;
-    -webkit-transition: all .3s ease;
-    transition: all .3s ease;
-    font-family: inherit;
-    font-size: 15px;
-    line-height: 1;
-    text-align: center;
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,
-    Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-    box-shadow: 0 5px 10px -7px rgba(0,0,0, .3);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 60px;
+  color: #2c3e50;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 50px;
+  padding: 20px 60px;
+  border: none;
+  font-weight: 800;
+  text-transform: uppercase;
+  cursor: pointer;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  font-family: inherit;
+  font-size: 15px;
+  line-height: 1;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  box-shadow: 0 5px 10px -7px rgba(0, 0, 0, 0.3);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60px;
 }
 
 .modal__inner {
   background: #fff;
   border-radius: 5px;
   overflow: hidden;
-  box-shadow: 0 5px 10px -7px rgba(0,0,0,.3);
+  box-shadow: 0 5px 10px -7px rgba(0, 0, 0, 0.3);
   width: 90%;
   max-width: 650px;
   height: 90%;
@@ -227,7 +233,7 @@ ul {
   position: relative;
   padding-top: 25px;
 
-  @media(min-height: 1200px) {
+  @media (min-height: 1200px) {
     max-height: 90%;
   }
 }
@@ -253,7 +259,7 @@ body.dark-theme {
 }
 
 .dev-information__body__inner {
-height: 100%;
+  height: 100%;
 }
 .pre {
   border: 1px solid #cacaca;
@@ -273,7 +279,6 @@ height: 100%;
   display: block;
 }
 
-
 body.dark-theme {
   .current-color {
     color: #eee;
@@ -286,7 +291,7 @@ body.dark-theme {
 
 .modal__inner__close {
   position: absolute;
-  top:10px;
+  top: 10px;
   right: 10px;
   cursor: pointer;
   color: #333;
@@ -298,9 +303,8 @@ body.dark-theme {
   }
 }
 
-
 .row--block-mobile {
-  @media(max-width: 1023px) {
+  @media (max-width: 1023px) {
     display: block;
   }
 }

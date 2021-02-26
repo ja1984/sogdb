@@ -6,27 +6,20 @@
           <div class="column column--wrap">
             <div class="logo row row--center-v row--small-gutter">
               <div class="column column--wrap column--small-gutter">
-                <span class="logo__text"
-                  ><img
-                    src="@/assets/google-stadia-logo.png"
-                    class="logo__image"
-                  />OGDb</span
-                >
+                <span class="logo__text"><img src="@/assets/google-stadia-logo.png" class="logo__image" />OGDb</span>
                 <div class="logo__sub-title">Stadia Open Games Database</div>
               </div>
             </div>
           </div>
           <div class="column">
-            <div
-              class="row row--center-v row--small-gutter row--center-h always-flex"
-            >
+            <div class="row row--center-v row--small-gutter row--center-h always-flex">
               <div class="column column--wrap column--small-gutter">
-                <button @click="showSort = !showSort" class="filter-toggle">
+                <button class="filter-toggle" @click="showSort = !showSort">
                   Sorting
                 </button>
               </div>
               <div class="column column--wrap column--small-gutter">
-                <button @click="showFilter = !showFilter" class="filter-toggle">
+                <button class="filter-toggle" @click="showFilter = !showFilter">
                   Filter
                 </button>
               </div>
@@ -35,117 +28,70 @@
           <div class="column column--wrap">
             <div class="row row--center-v row--small-gutter">
               <div class="column column--wrap column--small-gutter">
-                <input
-                  type="search"
-                  v-model="filter"
-                  class="filter form-input"
-                  placeholder="Type to filter"
-                />
+                <input v-model="filter" type="search" class="filter form-input" placeholder="Type to filter" />
               </div>
               <div class="column column--wrap column--small-gutter">
                 <div class="toolbar">
-                                <div class="column column--wrap column--small-gutter">
-                <div @click="useDarkTheme = !useDarkTheme" class="select-theme" :aria-label="useDarkTheme ? 'Change to light theme' : 'Change to dark theme'" data-balloon-pos="down">
-                  <template v-if="useDarkTheme">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      class="feather feather-sun select-theme__icon"
-                    >
-                      <circle cx="12" cy="12" r="5"></circle>
-                      <line x1="12" y1="1" x2="12" y2="3"></line>
-                      <line x1="12" y1="21" x2="12" y2="23"></line>
-                      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                      <line x1="1" y1="12" x2="3" y2="12"></line>
-                      <line x1="21" y1="12" x2="23" y2="12"></line>
-                      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                  </template>
-                  <template v-else>
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      class="feather feather-moon select-theme__icon"
-                    >
-                      <path
-                        d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"
-                      ></path>
-                    </svg>
-                  </template>
-                </div>
-              </div>
-              <div class="column column--wrap column--small-gutter">
-                <div class="select-theme" @click="showSmallCards = !showSmallCards" :aria-label="showSmallCards ? 'Show 3 cards' : 'Show 4 cards'" data-balloon-pos="down">
-                  <svg
-                    width="24px"
-                    height="24px"
-                    viewBox="0 0 24 24"
-                    version="1.1"
-                    xmlns="http://www.w3.org/2000/svg"
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    class="select-theme__icon"
-                    v-if="!showSmallCards"
-                  >
-                    <g
-                      id="Page-1"
-                      stroke="none"
-                      stroke-width="1"
-                      fill="none"
-                      fill-rule="evenodd"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
-                      <g
-                        id="columns-(1)-2"
-                        transform="translate(3.000000, 3.000000)"
-                        stroke="currentColor"
-                        stroke-width="2"
-                      >
-                        <g id="columns-(1)">
-                          <path
-                            d="M9,0 L16,0 C17.1045695,0 18,0.8954305 18,2 L18,16 C18,17.1045695 17.1045695,18 16,18 L9,18"
-                            id="Path"
-                          ></path>
-                          <path
-                            d="M9,0 L2,0 C0.8954305,0 0,0.8954305 0,2 L0,16 C0,17.1045695 0.8954305,18 2,18 L9,18"
-                            id="Path"
-                          ></path>
-                          <line x1="6" y1="0" x2="6" y2="18" id="Path"></line>
-                          <line x1="12" y1="0" x2="12" y2="18" id="Path"></line>
+                  <div class="column column--wrap column--small-gutter">
+                    <div class="select-theme" :aria-label="useDarkTheme ? 'Change to light theme' : 'Change to dark theme'" data-balloon-pos="down" @click="useDarkTheme = !useDarkTheme">
+                      <template v-if="useDarkTheme">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun select-theme__icon">
+                          <circle cx="12" cy="12" r="5"></circle>
+                          <line x1="12" y1="1" x2="12" y2="3"></line>
+                          <line x1="12" y1="21" x2="12" y2="23"></line>
+                          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                          <line x1="1" y1="12" x2="3" y2="12"></line>
+                          <line x1="21" y1="12" x2="23" y2="12"></line>
+                          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                      </template>
+                      <template v-else>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-moon select-theme__icon">
+                          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                      </template>
+                    </div>
+                  </div>
+                  <div class="column column--wrap column--small-gutter">
+                    <div class="select-theme" :aria-label="showSmallCards ? 'Show 3 cards' : 'Show 4 cards'" data-balloon-pos="down" @click="showSmallCards = !showSmallCards">
+                      <svg v-if="!showSmallCards" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="select-theme__icon">
+                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+                          <g id="columns-(1)-2" transform="translate(3.000000, 3.000000)" stroke="currentColor" stroke-width="2">
+                            <g id="columns-(1)">
+                              <path id="Path" d="M9,0 L16,0 C17.1045695,0 18,0.8954305 18,2 L18,16 C18,17.1045695 17.1045695,18 16,18 L9,18"></path>
+                              <path id="Path" d="M9,0 L2,0 C0.8954305,0 0,0.8954305 0,2 L0,16 C0,17.1045695 0.8954305,18 2,18 L9,18"></path>
+                              <line id="Path" x1="6" y1="0" x2="6" y2="18"></line>
+                              <line id="Path" x1="12" y1="0" x2="12" y2="18"></line>
+                            </g>
+                          </g>
                         </g>
-                      </g>
-                    </g>
-                  </svg>
-                  <svg v-else xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-columns select-theme__icon"><path d="M12 3h7a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-7m0-18H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h7m0-18v18"></path></svg>
-                </div>
-              </div>
-              <div class="column column--wrap column--small-gutter">
-                <div class="select-theme" @click="filterMyGames = !filterMyGames" :class="{'select-theme--active': filterMyGames}" :aria-label="filterMyGames ? 'Show all games' : 'Show my games only'" data-balloon-pos="down">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-heart select-theme__icon"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
-                  <!-- <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-star select-theme__icon"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg> -->
-                </div>
-              </div>
-              <div class="column column--wrap column--small-gutter" v-if="myGames.length > 0">
-                <div class="select-theme" @click="randomizeGame" aria-label="Start random game" data-balloon-pos="down">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-gift"><polyline points="20 12 20 22 4 22 4 12"></polyline><rect x="2" y="7" width="20" height="5"></rect><line x1="12" y1="22" x2="12" y2="7"></line><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"></path><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"></path></svg>
-                </div>
-              </div>
+                      </svg>
+                      <svg v-else xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-columns select-theme__icon">
+                        <path d="M12 3h7a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-7m0-18H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h7m0-18v18"></path>
+                      </svg>
+                    </div>
+                  </div>
+                  <div class="column column--wrap column--small-gutter">
+                    <div class="select-theme" :class="{'select-theme--active': filterMyGames}" :aria-label="filterMyGames ? 'Show all games' : 'Show my games only'" data-balloon-pos="down" @click="filterMyGames = !filterMyGames">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-heart select-theme__icon">
+                        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                      </svg>
+                      <!-- <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-star select-theme__icon"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg> -->
+                    </div>
+                  </div>
+                  <div v-if="myGames.length > 0" class="column column--wrap column--small-gutter">
+                    <div class="select-theme" aria-label="Start random game" data-balloon-pos="down" @click="randomizeGame">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-gift">
+                        <polyline points="20 12 20 22 4 22 4 12"></polyline>
+                        <rect x="2" y="7" width="20" height="5"></rect>
+                        <line x1="12" y1="22" x2="12" y2="7"></line>
+                        <path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"></path>
+                        <path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"></path>
+                      </svg>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -160,11 +106,7 @@
               <div class="row row--small-gutter">
                 <div class="column">
                   <label class="checkbox">
-                    <input
-                      v-model="filterProGames"
-                      type="checkbox"
-                      class="form-input"
-                    />
+                    <input v-model="filterProGames" type="checkbox" class="form-input" />
                     <div class="checkbox-box" />
                     <span class="checkbox__label">Show only PRO games</span>
                   </label>
@@ -172,37 +114,20 @@
               </div>
             </div>
             <div class="rating genres">
-              <strong class="filter-options__title"
-                >Rating
+              <strong class="filter-options__title">Rating
                 {{
                   rating === 0 || rating === "0" ? "" : `>= ${rating}`
-                }}</strong
-              >
+                }}</strong>
               <div class="row row--small-gutter">
-                <input
-                  type="range"
-                  min="0"
-                  max="100"
-                  v-model="rating"
-                  class="form-input form-input--fill"
-                />
+                <input v-model="rating" type="range" min="0" max="100" class="form-input form-input--fill" />
               </div>
             </div>
             <div class="resolutions genres">
               <strong class="filter-options__title">Resolution</strong>
               <div class="row row--small-gutter">
-                <div
-                  class="column filter-genre"
-                  v-for="resolution in sortedResolutions"
-                  :key="resolution"
-                >
+                <div v-for="resolution in sortedResolutions" :key="resolution" class="column filter-genre">
                   <label class="checkbox">
-                    <input
-                      v-model="selectedResolutions"
-                      :value="resolution"
-                      type="checkbox"
-                      class="form-input"
-                    />
+                    <input v-model="selectedResolutions" :value="resolution" type="checkbox" class="form-input" />
                     <div class="checkbox-box" />
                     <span class="checkbox__label">{{
                       resolution | makePretty
@@ -214,22 +139,13 @@
             <div class="resolutions genres">
               <strong class="filter-options__title">PEGI Rating</strong>
               <div class="row row--small-gutter">
-                <div
-                  class="column filter-genre"
-                  v-for="rating in ageRatings"
-                  :key="rating"
-                >
+                <div v-for="rating in ageRatings" :key="rating" class="column filter-genre">
                   <label class="checkbox">
-                    <input
-                      v-model="selectedAgeRatings"
-                      :value="rating"
-                      type="checkbox"
-                      class="form-input"
-                    />
+                    <input v-model="selectedAgeRatings" :value="rating" type="checkbox" class="form-input" />
                     <div class="checkbox-box" />
-                    <span class="checkbox__label"
-                      ><div class="pegi-rating" :class="rating"></div
-                    ></span>
+                    <span class="checkbox__label">
+                      <div class="pegi-rating" :class="rating"></div>
+                    </span>
                   </label>
                 </div>
               </div>
@@ -237,18 +153,9 @@
             <div class="players genres">
               <strong class="filter-options__title">Game modes</strong>
               <div class="row row--small-gutter">
-                <div
-                  class="column filter-player"
-                  v-for="mode in gameModesFilterOptions"
-                  :key="mode"
-                >
+                <div v-for="mode in gameModesFilterOptions" :key="mode" class="column filter-player">
                   <label class="checkbox">
-                    <input
-                      v-model="selectedGameModes"
-                      :value="mode"
-                      type="checkbox"
-                      class="form-input"
-                    />
+                    <input v-model="selectedGameModes" :value="mode" type="checkbox" class="form-input" />
                     <div class="checkbox-box" />
                     <span class="checkbox__label">{{ mode }}</span>
                   </label>
@@ -258,18 +165,9 @@
             <div class="genres">
               <strong class="filter-options__title">Genres</strong>
               <div class="row row--small-gutter">
-                <div
-                  class="column filter-genre"
-                  v-for="genre in sortedGenres"
-                  :key="genre"
-                >
+                <div v-for="genre in sortedGenres" :key="genre" class="column filter-genre">
                   <label class="checkbox">
-                    <input
-                      v-model="selectedGenres"
-                      :value="genre"
-                      type="checkbox"
-                      class="form-input"
-                    />
+                    <input v-model="selectedGenres" :value="genre" type="checkbox" class="form-input" />
                     <div class="checkbox-box" />
                     <span class="checkbox__label">{{ genre }}</span>
                   </label>
@@ -279,18 +177,9 @@
             <div class="players genres">
               <strong class="filter-options__title">Available in</strong>
               <div class="row row--small-gutter">
-                <div
-                  class="column filter-countries"
-                  v-for="country in sortedCountries"
-                  :key="country"
-                >
+                <div v-for="country in sortedCountries" :key="country" class="column filter-countries">
                   <label class="checkbox">
-                    <input
-                      v-model="selectedCountries"
-                      :value="country"
-                      type="checkbox"
-                      class="form-input"
-                    />
+                    <input v-model="selectedCountries" :value="country" type="checkbox" class="form-input" />
                     <div class="checkbox-box" />
                     <span class="checkbox__label">{{ country }}</span>
                   </label>
@@ -300,18 +189,9 @@
             <div class="players genres">
               <strong class="filter-options__title">Game language</strong>
               <div class="row row--small-gutter">
-                <div
-                  class="column filter-language"
-                  v-for="language in sortedLanguages"
-                  :key="language"
-                >
+                <div v-for="language in sortedLanguages" :key="language" class="column filter-language">
                   <label class="checkbox">
-                    <input
-                      v-model="selectedLanguages"
-                      :value="language"
-                      type="checkbox"
-                      class="form-input"
-                    />
+                    <input v-model="selectedLanguages" :value="language" type="checkbox" class="form-input" />
                     <div class="checkbox-box" />
                     <span class="checkbox__label">{{ language }}</span>
                   </label>
@@ -325,18 +205,9 @@
             <div class="genres">
               <strong class="filter-options__title">Sort on</strong>
               <div class="row row--small-gutter">
-                <div
-                  class="column filter-genre"
-                  v-for="option in sortOptions"
-                  :key="option"
-                >
+                <div v-for="option in sortOptions" :key="option" class="column filter-genre">
                   <label class="radio">
-                    <input
-                      v-model="selectedSortOption"
-                      name="sortoption"
-                      :value="option"
-                      type="radio"
-                    />
+                    <input v-model="selectedSortOption" name="sortoption" :value="option" type="radio" />
                     <div class="radio-box" />
                     <span class="radio__label">{{ option }}</span>
                   </label>
@@ -346,19 +217,9 @@
             <div class="genres">
               <strong class="filter-options__title">Sort order</strong>
               <div class="row row--small-gutter">
-                <div
-                  class="column filter-genre"
-                  v-for="option in sortOrderOptions"
-                  :key="option"
-                >
+                <div v-for="option in sortOrderOptions" :key="option" class="column filter-genre">
                   <label class="radio">
-                    <input
-                      v-model="selectedSortOrder"
-                      name="sortorderoption"
-                      :value="option"
-                      type="radio"
-                      class="form-input"
-                    />
+                    <input v-model="selectedSortOrder" name="sortorderoption" :value="option" type="radio" class="form-input" />
                     <div class="radio-box" />
                     <span class="radio__label">{{ option }}</span>
                   </label>
@@ -368,19 +229,8 @@
           </div>
         </VueSlideToggle>
       </header>
-      <div class="loader" v-if="loading">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          class="feather feather-loader spin feather--large"
-        >
+      <div v-if="loading" class="loader">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-loader spin feather--large">
           <line x1="12" y1="2" x2="12" y2="6"></line>
           <line x1="12" y1="18" x2="12" y2="22"></line>
           <line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line>
@@ -391,40 +241,19 @@
           <line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line>
         </svg>
       </div>
-      <div class="games-wrapper" v-else>
-        <transition-group
-          name="fade"
-          tag="div"
-          :class="{ 'small-cards': showSmallCards }"
-        >
-          <div
-            class="column column--small game"
-            v-for="game in orderedGames"
-            :key="game.name"
-            v-show="filteredGames.includes(game.slug)"
-          >
-            <game-list-item
-              :game="game"
-              @select="selectGame"
-              @toggle-game-in-my-games="toggleGameInMyGames"
-              :game-modes="sortedGameModes"
-              :is-owned="myGames.includes(game.slug)"
-              :is-pro-deal="proGames.includes(game.slug)"
-
-            ></game-list-item>
+      <div v-else class="games-wrapper">
+        <transition-group name="fade" tag="div" :class="{ 'small-cards': showSmallCards }">
+          <div v-for="game in orderedGames" v-show="filteredGames.includes(game.slug)" :key="game.name" class="column column--small game">
+            <game-list-item :game="game" :game-modes="sortedGameModes" :is-owned="myGames.includes(game.slug)" :is-pro-deal="proGames.includes(game.slug)" @select="selectGame" @toggle-game-in-my-games="toggleGameInMyGames"></game-list-item>
           </div>
         </transition-group>
       </div>
-      <div class="last-update" v-if="!loading">
+      <div v-if="!loading" class="last-update">
         Game data updated: {{ lastUpdate }}
       </div>
     </div>
     <transition name="fade">
-      <game-details
-        v-if="selectedGame"
-        :game="selectedGame"
-        @close="selectedGame = null"
-      ></game-details>
+      <game-details v-if="selectedGame" :game="selectedGame" @close="selectedGame = null"></game-details>
     </transition>
   </div>
 </template>
@@ -444,6 +273,21 @@ export default {
     VueSlideToggle,
     GameListItem,
     GameDetails,
+  },
+  filters: {
+    makePretty(input) {
+      if (input === 'unknown') return 'Unknown';
+      let split = input.split('p');
+      if (split.length === 2) {
+        return `${split[0]}p @ ${split[1]} fps`;
+      }
+
+      split = input.split('k');
+      if (split.length === 2) {
+        return `${split[0]}k @ ${split[1]} fps`;
+      }
+      return 'Unknown';
+    },
   },
   data() {
     return {
@@ -481,85 +325,6 @@ export default {
       page: 1,
       gamesPerPage: 48,
     };
-  },
-  filters: {
-    makePretty(input) {
-      if (input === 'unknown') return 'Unknown';
-      let split = input.split('p');
-      if (split.length === 2) {
-        return `${split[0]}p @ ${split[1]} fps`;
-      }
-
-      split = input.split('k');
-      if (split.length === 2) {
-        return `${split[0]}k @ ${split[1]} fps`;
-      }
-      return 'Unknown';
-    },
-  },
-  mounted() {
-    this.getFilters();
-    if (document.body.classList.contains('dark-theme')) {
-      this.useDarkTheme = true;
-    }
-    if (typeof window.localStorage !== 'undefined') {
-      if (localStorage.getItem('small-cards')) {
-        this.showSmallCards = true;
-      }
-      if (localStorage.getItem('show-my-games')) {
-        this.filterMyGames = true;
-      }
-    }
-    this.fillMyGames();
-    fetch('https://raw.githubusercontent.com/ja1984/osgdb/master/data/games.json')
-      .then((response) => response.json())
-      .then((data) => {
-        this.loading = false;
-        data.games.forEach((game) => {
-          game.genres.forEach((genre) => {
-            if (!this.genres.includes(genre)) {
-              this.genres.push(genre);
-            }
-          });
-
-          game.game_modes.forEach((mode) => {
-            if (!this.game_modes.includes(mode)) {
-              this.game_modes.push(mode);
-            }
-          });
-
-          if (!this.resolutions.includes(game.resolution)) {
-            this.resolutions.push(game.resolution);
-          }
-
-          if (game.age_rating && !this.ageRatings.includes(game.age_rating)) {
-            this.ageRatings.push(game.age_rating);
-          }
-
-          game.countries.forEach((country) => {
-            if (!this.countries.includes(country)) {
-              this.countries.push(country);
-            }
-          });
-
-          game.languages.forEach((language) => {
-            const gameLanguage = language.split(' (')[0];
-            if (!this.languages.includes(gameLanguage)) {
-              this.languages.push(gameLanguage);
-            }
-          });
-
-          game.released = parseISO(game.released); //eslint-disable-line
-          game.is_pro = this.checkIfPro([game.store_link, ...game.expansions.map(x => x.store_link)].join(''), data.pro_skuids); //eslint-disable-line
-          this.games.push(Object.freeze(game));
-        });
-        this.lastUpdate = data.updated;
-        this.ageRatings.sort((a, b) => b.localeCompare(a, undefined, {
-          numeric: true,
-          sensitivity: 'base',
-        }));
-        this.pro_games = data.pro_games;
-      });
   },
   computed: {
     completeFilter() {
@@ -680,6 +445,110 @@ export default {
         .sort((a, b) => a.localeCompare(b));
     },
   },
+  watch: {
+    completeFilter(newVal) {
+      const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${querystring.stringify(newVal)}`;
+      window.history.pushState({ path: newurl }, '', newurl);
+    },
+    useDarkTheme(useDarkTheme) {
+      if (useDarkTheme) {
+        document.body.classList.add('dark-theme');
+        if (typeof window.localStorage === 'undefined') return;
+        localStorage.setItem('dark-theme', true);
+      } else {
+        document.body.classList.remove('dark-theme');
+        if (typeof window.localStorage === 'undefined') return;
+        localStorage.removeItem('dark-theme');
+      }
+    },
+    showSmallCards(smallCards) {
+      if (typeof window.localStorage === 'undefined') return;
+      if (smallCards) {
+        localStorage.setItem('small-cards', true);
+      } else {
+        localStorage.removeItem('small-cards');
+      }
+    },
+    filterMyGames(smallCards) {
+      if (typeof window.localStorage === 'undefined') return;
+      if (smallCards) {
+        localStorage.setItem('show-my-games', true);
+      } else {
+        localStorage.removeItem('show-my-games');
+      }
+    },
+    selectedGame(game) {
+      if (game) {
+        document.body.classList.add('no-scroll');
+      } else {
+        document.body.classList.remove('no-scroll');
+      }
+    },
+  },
+  mounted() {
+    this.getFilters();
+    if (document.body.classList.contains('dark-theme')) {
+      this.useDarkTheme = true;
+    }
+    if (typeof window.localStorage !== 'undefined') {
+      if (localStorage.getItem('small-cards')) {
+        this.showSmallCards = true;
+      }
+      if (localStorage.getItem('show-my-games')) {
+        this.filterMyGames = true;
+      }
+    }
+    this.fillMyGames();
+    fetch('https://raw.githubusercontent.com/ja1984/osgdb/master/data/games.json')
+      .then((response) => response.json())
+      .then((data) => {
+        this.loading = false;
+        data.games.forEach((game) => {
+          game.genres.forEach((genre) => {
+            if (!this.genres.includes(genre)) {
+              this.genres.push(genre);
+            }
+          });
+
+          game.game_modes.forEach((mode) => {
+            if (!this.game_modes.includes(mode)) {
+              this.game_modes.push(mode);
+            }
+          });
+
+          if (!this.resolutions.includes(game.resolution)) {
+            this.resolutions.push(game.resolution);
+          }
+
+          if (game.age_rating && !this.ageRatings.includes(game.age_rating)) {
+            this.ageRatings.push(game.age_rating);
+          }
+
+          game.countries.forEach((country) => {
+            if (!this.countries.includes(country)) {
+              this.countries.push(country);
+            }
+          });
+
+          game.languages.forEach((language) => {
+            const gameLanguage = language.split(' (')[0];
+            if (!this.languages.includes(gameLanguage)) {
+              this.languages.push(gameLanguage);
+            }
+          });
+
+          game.released = parseISO(game.released); //eslint-disable-line
+          game.is_pro = this.checkIfPro([game.store_link, ...game.expansions.map(x => x.store_link)].join(''), data.pro_skuids); //eslint-disable-line
+          this.games.push(Object.freeze(game));
+        });
+        this.lastUpdate = data.updated;
+        this.ageRatings.sort((a, b) => b.localeCompare(a, undefined, {
+          numeric: true,
+          sensitivity: 'base',
+        }));
+        this.pro_games = data.pro_games;
+      });
+  },
   methods: {
     randomizeGame() {
       const item = this.myGames[Math.floor(Math.random() * this.myGames.length)];
@@ -723,46 +592,6 @@ export default {
     },
     selectGame(game) {
       this.selectedGame = game;
-    },
-  },
-  watch: {
-    completeFilter(newVal) {
-      const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${querystring.stringify(newVal)}`;
-      window.history.pushState({ path: newurl }, '', newurl);
-    },
-    useDarkTheme(useDarkTheme) {
-      if (useDarkTheme) {
-        document.body.classList.add('dark-theme');
-        if (typeof window.localStorage === 'undefined') return;
-        localStorage.setItem('dark-theme', true);
-      } else {
-        document.body.classList.remove('dark-theme');
-        if (typeof window.localStorage === 'undefined') return;
-        localStorage.removeItem('dark-theme');
-      }
-    },
-    showSmallCards(smallCards) {
-      if (typeof window.localStorage === 'undefined') return;
-      if (smallCards) {
-        localStorage.setItem('small-cards', true);
-      } else {
-        localStorage.removeItem('small-cards');
-      }
-    },
-    filterMyGames(smallCards) {
-      if (typeof window.localStorage === 'undefined') return;
-      if (smallCards) {
-        localStorage.setItem('show-my-games', true);
-      } else {
-        localStorage.removeItem('show-my-games');
-      }
-    },
-    selectedGame(game) {
-      if (game) {
-        document.body.classList.add('no-scroll');
-      } else {
-        document.body.classList.remove('no-scroll');
-      }
     },
   },
 };
@@ -890,14 +719,13 @@ body.dark-theme {
   &:hover {
     opacity: 1;
   }
-
 }
 .select-theme__icon {
   display: block;
 }
 
 .select-theme--active {
-  color: #E91E63;
+  color: #e91e63;
 }
 .games-library {
   flex: 1;
