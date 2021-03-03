@@ -8391,8 +8391,8 @@
       ],
       "description": "Belt up and blast into the rhythmic regions of unexplored space in AVICII Invector. Created in collaboration with the late superstar DJ, AVICII Invector is a pulse-pounding, frenetic rhythm-action experience. Soar through vocal melodies, sweep each fade and attack every beat in 25 of AVICII’s biggest hits, including global chart toppers: Without You, Wake Me Up and Lay Me Down.",
       "genres": [
-        "action",
-        "role-playing game"
+        "music or rhythm",
+        "party"
       ],
       "image_slug": "avicii_invector",
       "slug": "avicii-invector",
@@ -8426,6 +8426,67 @@
       "store_link": "https://stadia.google.com/u/1/store/details/2c8b9ab112e5460db922dc7353381256rcp1/sku/afb2b66ddd744605a3d01acbeaf3ba01p",
       "early_access": false,
       "age_rating": "pegi_3",
+      "hidden": false
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "austria",
+        "belgium",
+        "canada",
+        "czechia",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "hungary",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "spain",
+        "sweden",
+        "switzerland",
+        "united kingdom",
+        "united states"
+      ],
+      "description": "SOS! Tantal is under attack by fiendish aliens bent on harvesting the population's life force! Shake off that hypersleep and slash, smash, raid and rescue your way through hundreds of unique missions, all while unraveling the mystery of the enigmatic Keepers. Use State Share to share stages with the turrets, mines and other imprints you've left behind, or jump into another mercenary's stage and use their imprints to your strategic advantage.",
+      "genres": [
+        "action",
+      ],
+      "image_slug": "pixeljunk_raiders",
+      "slug": "pixeljunk-raiders",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "czech",
+        "danish",
+        "finnish",
+        "hungarian",
+        "swedish",
+        "norwegian",
+        "portuguese",
+        "polish",
+        "romanian",
+        "slovak"
+      ],
+      "name": "PixelJunk Raiders",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-02-28T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p",
+      "early_access": false,
+      "age_rating": "pegi_12",
       "hidden": false
     }
   ],
