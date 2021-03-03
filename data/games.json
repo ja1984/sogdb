@@ -8456,7 +8456,7 @@
       ],
       "description": "SOS! Tantal is under attack by fiendish aliens bent on harvesting the population's life force! Shake off that hypersleep and slash, smash, raid and rescue your way through hundreds of unique missions, all while unraveling the mystery of the enigmatic Keepers. Use State Share to share stages with the turrets, mines and other imprints you've left behind, or jump into another mercenary's stage and use their imprints to your strategic advantage.",
       "genres": [
-        "action",
+        "action"
       ],
       "image_slug": "pixeljunk_raiders",
       "slug": "pixeljunk-raiders",
@@ -8487,6 +8487,65 @@
       "store_link": "https://stadia.google.com/u/1/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p",
       "early_access": false,
       "age_rating": "pegi_12",
+      "hidden": false
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "austria",
+        "belgium",
+        "canada",
+        "czechia",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "hungary",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "spain",
+        "sweden",
+        "switzerland",
+        "united kingdom",
+        "united states"
+      ],
+      "description": "A merciless alien species that feeds on human brains (duh) has invaded the Earth. Who can stand up to them? You, obviously! Save the world—or at least yourself. Send aliens to oblivion in It Came From Space and Ate Our Brains—a unique top-down arcade shooter.",
+      "genres": [
+        "shooter",
+        "action",
+        "arcade"
+      ],
+      "image_slug": "it_came_from_space_and_ate_our_brains",
+      "slug": "it-came-from-space-and-ate-our-brains",
+      "languages": [
+        "english",
+        "german",
+        "spanish",
+        "french",
+        "italian",
+        "portuguese",
+        "dutch",
+        "polish"
+      ],
+      "name": "It Came From Space And Ate Our Brains",
+      "game_modes": [
+        "single player",
+        "1-4 players local multiplayer",
+        "1-4 players local co-op",
+        "1-4 players split-screen"
+      ],
+      "rating": -1,
+      "released": "2021-03-01T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/004b82924b0441c5a2ba6488cca19b90rcp1/sku/cf6b0ff80be24b3591051fb31a0765c0p",
+      "early_access": false,
+      "age_rating": "pegi_17",
       "hidden": false
     }
   ],
