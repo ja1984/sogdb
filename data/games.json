@@ -8545,7 +8545,63 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/004b82924b0441c5a2ba6488cca19b90rcp1/sku/cf6b0ff80be24b3591051fb31a0765c0p",
       "early_access": false,
-      "age_rating": "pegi_17",
+      "age_rating": "pegi_7",
+      "hidden": false
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "austria",
+        "belgium",
+        "canada",
+        "czechia",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "hungary",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "spain",
+        "sweden",
+        "switzerland",
+        "united kingdom",
+        "united states"
+      ],
+      "description": "More Trucks! New Worlds!\nPlay with your friends in brand new online and split-screen multiplayer modes!\n\nExplore 5 huge outdoor worlds and unlock their secrets!\nChoose from 38 official trucks and upgrade them over the course of your career!\nCompete in authentic stadium events and race in various modes to become the ultimate champion!",
+      "genres": [
+        "racing"
+      ],
+      "image_slug": "monster_jam_steel_titans_2",
+      "slug": "monster-jam-steel-titans-2",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "polish",
+        "portuguese"
+      ],
+      "name": "Monster Jam Steel Titans 2",
+      "game_modes": [
+        "single player",
+        "2 players local multiplayer",
+        "1-6 players online multiplayer",
+        "2 players split-screen"
+      ],
+      "rating": -1,
+      "released": "2021-03-01T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/3fa9461d9fbd4fb3855039d9b64ca736rcp1/sku/9fcd42244f3a456fa24dbc536564e457p",
+      "early_access": false,
+      "age_rating": "pegi_3",
       "hidden": false
     }
   ],
