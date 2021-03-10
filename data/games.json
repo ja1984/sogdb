@@ -5448,7 +5448,7 @@
         "chinese (simplified)",
         "chinese (traditional)",
         "japanese",
-        "korean (south korea)"
+        "korean"
       ],
       "name": "Just Dance® 2021",
       "game_modes": [
@@ -5566,7 +5566,7 @@
         "spanish",
         "dutch",
         "arabic",
-        "korean (south korea)",
+        "korean",
         "japanese",
         "portuguese",
         "czech",
@@ -5698,7 +5698,7 @@
         "portuguese",
         "spanish",
         "japanese",
-        "korean (south korea)",
+        "korean",
         "polish",
         "russian",
         "chinese",
@@ -8402,7 +8402,7 @@
         "spanish",
         "french",
         "italian",
-        "korean (south korea)",
+        "korean",
         "japanese",
         "russian",
         "danish",
@@ -8481,7 +8481,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": -1,
+      "rating": 55,
       "released": "2021-02-28T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p",
@@ -8602,6 +8602,66 @@
       "store_link": "https://stadia.google.com/u/1/store/details/3fa9461d9fbd4fb3855039d9b64ca736rcp1/sku/9fcd42244f3a456fa24dbc536564e457p",
       "early_access": false,
       "age_rating": "pegi_3",
+      "hidden": false
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "austria",
+        "belgium",
+        "canada",
+        "czechia",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "hungary",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "spain",
+        "sweden",
+        "switzerland",
+        "united kingdom",
+        "united states"
+      ],
+      "description": "Saints Row®: The Third™ - Remastered gives you control of the Saints at the height of their power, and you live the life to show for it. This is your City. These are your rules. Remastered with enhanced graphics, Steelport the original city of sin, has never looked so good as it drowns in sex, drugs and guns. Take a tank skydiving, call in a satellite-targeted airstrike on a Mexican wrestling gang, and fight against a highly-trained military force by your lonesome in the most outlandish gameplay scenarios ever seen.",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "saint_row_the_third_remastered",
+      "slug": "saint-row-the-third-remastered",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "czech",
+        "polish",
+        "korean",
+        "russian",
+        "dutch",
+        "japanese"
+      ],
+      "name": "Saints Row®: The Third™ - Remastered",
+      "game_modes": [
+        "single player",
+        "2 players online multiplayer",
+        "2 players online co-op"
+      ],
+      "rating": -1,
+      "released": "2021-03-04T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/8d30307256df491c9d578792d11bd474rcp1/sku/100d5974a44743d89ceeae4db9246a41p",
+      "early_access": false,
+      "age_rating": "pegi_18",
       "hidden": false
     }
   ],

@@ -263,8 +263,8 @@
 import querystring from 'query-string';
 import { VueSlideToggle } from 'vue-slide-toggle';
 import { parseISO, format } from 'date-fns';
-import GameListItem from '@/components/GameListItem.vue';
-import GameDetails from '@/components/GameDetails.vue';
+import GameListItem from '@/components/GameListItem.vue'; //eslint-disable-line
+import GameDetails from '@/components/GameDetails.vue';//eslint-disable-line
 
 
 export default {

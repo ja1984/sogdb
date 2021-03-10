@@ -1,33 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title>SOGDb - Stadia Open Games Database</title>
-    <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:900&display=swap" rel="stylesheet" crossorigin="anonymous">
-    <meta property="og:url" content="https://sogdb.com"/>
-    <meta property="og:title" content="SOGDb - Stadia Open Games Database"/>
-    <meta name="description" content="Easily discover games available on Google Stadia, and filter on what to play with your friends"/>
-    <meta name="og:description" content="Easily discover games available on Google Stadia, and filter on what to play with your friends"/>
-    <meta name="keywords" content="Stadia,games,games database,google stadia">
-    <meta name="og:image" content="https://sogdb.com/img/icons/android-icon-512x512.png"/>
-    <link rel="manifest" href="<%= BASE_URL %>manifest.json">
-  </head>
-  <body>
-    <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
-    <div id="app"></div>
-    <script>
-      (function() {
-        if(typeof window.localStorage === 'undefined') return;
-        if(localStorage.getItem('dark-theme')) {
-          document.body.classList.add('dark-theme');
-        };
-      }())
-    </script>
-    <!-- built files will be auto injected -->
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <title>SOGDb - Stadia Open Games Database</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:900&display=swap" rel="stylesheet" crossorigin="anonymous">
+  <meta property="og:url" content="https://sogdb.com" />
+  <meta property="og:title" content="SOGDb - Stadia Open Games Database" />
+  <meta name="description" content="Easily discover games available on Google Stadia, and filter on what to play with your friends" />
+  <meta name="og:description" content="Easily discover games available on Google Stadia, and filter on what to play with your friends" />
+  <meta name="keywords" content="Stadia,games,games database,google stadia">
+  <meta name="og:image" content="https://sogdb.com/img/icons/android-icon-512x512.png" />
+  <link rel="manifest" href="<%= BASE_URL %>manifest.json">
+  <script>if (!sessionStorage.getItem("_swa") && document.referrer.indexOf(location.protocol + "//" + location.host) !== 0) { fetch("https://counter.dev/track?" + new URLSearchParams({ referrer: document.referrer, screen: screen.width + "x" + screen.height, user: "ja1984@gmail.com", utcoffset: "1" })) }; sessionStorage.setItem("_swa", "1");</script>
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <script>
+    (function () {
+      if (typeof window.localStorage === 'undefined') return;
+      if (localStorage.getItem('dark-theme')) {
+        document.body.classList.add('dark-theme');
+      };
+    }())
+  </script>
+  <!-- built files will be auto injected -->
+</body>
+
 </html>
