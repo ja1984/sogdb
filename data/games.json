@@ -2853,7 +2853,11 @@
         },
         {
           "name": "Deluxe Edition",
-          "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/f7aa7caf05e64d91af2063bf1803e947"
+          "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/73dc23a8b30b4cd6bc87fcc7b30a1da7p"
+        },
+        {
+          "name": "Champion Edition",
+          "store_link": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/d2301f5fcd4c47ec89120cbaab2b0aa2p"
         }
       ],
       "countries": [
@@ -8663,6 +8667,52 @@
       "early_access": false,
       "age_rating": "pegi_18",
       "hidden": false
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "Unleash your desire for 2-wheeled excitement. Make your cross 'super'! Become a true champion. A new career mode will accompany you along the stages of your successes. Prove you are number one by starting from scratch and winning in the 450SX category. Over 100 riders, the highest number of bikers of the 450SX and 250SX classes that the series has ever seen, and finally also Ken Roczen. Everything is more super! Explore, improve and race with other 3 friends on beautiful islands with their fantastic landscapes in the new compound. You are the creator of your own fun. With the new track editor the gaming experience goes up a notch. Create your super tracks and share them online with the community. Customise bikes and riders with over 100 official brands!",
+      "genres": [
+        "racing",
+        "simulation"
+      ],
+      "image_slug": "monster_energy_supercross_4",
+      "slug": "monster-energy-supercross-the-offecial-videogame-4",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "spanish (latin america)"
+      ],
+      "name": "Monster Energy Supercross - The Official Videogame 4",
+      "game_modes": [
+        "single player",
+        "2-16 players online multiplayer",
+        "2-4 players online co-op",
+        "2-16 players competitive"
+      ],
+      "rating": -1,
+      "released": "2020-03-10T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/a62130f4b41b4878a00f8ec444df6b01rcp1/sku/5e700b58ae2546a2b5c4cc13da8f37a2p",
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
