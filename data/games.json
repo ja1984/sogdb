@@ -8754,6 +8754,86 @@
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/u/1/store/details/6cf458a458cd4b2e8161c740c4844621rcp1/sku/60c01d0c87b64fa0a6bf5cca0bb079e7p",
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Champions Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/2c4539adc1e641c0bb2cd0e4032eec75rcp1/sku/b022eed7da8a4b2f82d8fc22524e8663p"
+        },
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/2c4539adc1e641c0bb2cd0e4032eec75rcp1/sku/a612bf39f1ec412aa8abda0fb48b96d2p"
+        }
+      ],
+      "countries": [
+        "austria",
+        "belgium",
+        "canada",
+        "czechia",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "hungary",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "spain",
+        "sweden",
+        "switzerland",
+        "united kingdom",
+        "united states"
+      ],
+      "description": "Powered by Frostbite™, win as one in EA SPORTS™ FIFA 21 with new ways to team up and express yourself on the street and in the stadium:\n• Enjoy even bigger victories together in VOLTA FOOTBALL SQUADS and FIFA Ultimate Team™ Co-Op.\n• Manage every moment in FIFA 21 Career Mode with new innovations that create additional depth in matches, transfers and training.\n• Experience unrivaled authenticity that gives you the most true-to-life experience of The World’s Game.",
+      "genres": [
+        "sports"
+      ],
+      "image_slug": "fifa_2021",
+      "slug": "fifa-21",
+      "languages": [
+        "english",
+        "czech",
+        "danish",
+        "german",
+        "spanish",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "dutch",
+        "norwegian",
+        "polish",
+        "portuguese (brazil)",
+        "portuguese (portugal)",
+        "russian",
+        "swedish",
+        "turkish",
+        "chinese",
+        "arabic"
+      ],
+      "name": "FIFA 21",
+      "game_modes": [
+        "single player",
+        "2-4 players local multiplayer",
+        "2-22 players online multiplayer",
+        "2-4 players local co-op",
+        "2 players online co-op",
+        "2-22 players competitive"
+      ],
+      "rating": -1,
+      "released": "2021-03-16T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/2c4539adc1e641c0bb2cd0e4032eec75rcp1/sku/700cbb2e56894745816e73bdbd86f809",
+      "early_access": false,
+      "age_rating": "pegi_3",
+      "hidden": false
     }
   ],
   "pro_games": [
