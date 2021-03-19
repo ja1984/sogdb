@@ -8985,11 +8985,11 @@
       "image_slug": "kaze_and_the_wild_masks",
       "slug": "kaze-and-the-wild-masks",
       "languages": [
-        "english",
+        "english"
       ],
       "name": "Kaze and the Wild Masks",
       "game_modes": [
-        "single player",
+        "single player"
       ],
       "rating": -1,
       "released": "2021-03-26T23:00:00.000Z",
@@ -8998,6 +8998,65 @@
       "early_access": false,
       "pre_order": true,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "OUTRIDERS is a 1-3 player co-op RPG shooter set in an original, dark and desperate sci-fi universe.\nAs mankind bleeds out in the trenches of Enoch, you’ll create your own Outrider and embark on a journey across the hostile planet.\nCombining intense gunplay with violent powers and an arsenal of increasingly twisted weaponry and gear-sets, OUTRIDERS offers countless hours of gameplay from one of the finest shooter developers in the industry – People Can Fly.",
+      "genres": [
+        "adventure",
+        "role-playing game",
+        "action"
+      ],
+      "image_slug": "outriders",
+      "slug": "outriders",
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "portuguese (brazil)",
+        "polish",
+        "russian"
+      ],
+      "name": "OUTRIDERS",
+      "game_modes": [
+        "single player",
+        "2-3 players online multiplayer",
+        "2-3 players online co-op",
+        "2-3 players cross-platform multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-03-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/ad1e34961f2148568d215a8101df7693rcp1/sku/bd34045ef3d7485dba29ca6d629d8238p",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
