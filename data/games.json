@@ -8834,6 +8834,68 @@
       "early_access": false,
       "age_rating": "pegi_3",
       "hidden": false
+    },
+    {
+      "expansions": [
+        {
+          "name": "Champions Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/2c4539adc1e641c0bb2cd0e4032eec75rcp1/sku/b022eed7da8a4b2f82d8fc22524e8663p"
+        },
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/u/1/store/details/2c4539adc1e641c0bb2cd0e4032eec75rcp1/sku/a612bf39f1ec412aa8abda0fb48b96d2p"
+        }
+      ],
+      "countries": [
+        "austria",
+        "belgium",
+        "canada",
+        "czechia",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "hungary",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "spain",
+        "sweden",
+        "switzerland",
+        "united kingdom",
+        "united states"
+      ],
+      "description": "The world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours!\n\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are completely in the player’s control.\n\nTerraria offers more content than ever - including the brand new 'Journey's End' Update!\nPresenting an impressive catalogue of 5,000+ items, 25+ NPCs, and 400+ enemies and blending elements of classic action games with sandbox-style creativity, Terraria is truly a unique adventure!",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "terraria",
+      "slug": "terraria",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "Terraria",
+      "game_modes": [
+        "single player",
+        "2-16 players online multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-03-17T22:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/774b82b8c1194dc2acc13a268c4ea7c7rcp1/sku/f308e50758b64693bd6314550bd249aep",
+      "early_access": false,
+      "age_rating": "pegi_12",
+      "hidden": false
     }
   ],
   "pro_games": [
