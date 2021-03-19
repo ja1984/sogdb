@@ -8896,6 +8896,60 @@
       "early_access": false,
       "age_rating": "pegi_12",
       "hidden": false
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "This is a standalone product for those who do not yet own the DOOM Eternal Standard or Deluxe Edition or DOOM Eternal: The Ancient Gods - Part One (Standalone). Includes DOOM Eternal (BATTLEMODE). The Ancient Gods – Part Two is the epic conclusion to the DOOM Slayer’s Saga and the second campaign expansion to the critically acclaimed DOOM Eternal. You denied the gods and awoke an ancient evil. Now rally the scattered Sentinel armies, lay siege to the last bastion of Hell, break through the fortress walls, and face the Dark Lord himself. The soul of the universe hangs in the balance. Your war against Hell ends here.",
+      "genres": [
+        "action",
+        "shooter"
+      ],
+      "image_slug": "doom_eternal_ancient_gods_2",
+      "slug": "doom-eternal-the-ancient-gods-part-two",
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
+      "name": "DOOM Eternal: The Ancient Gods - Part Two",
+      "game_modes": [
+        "single player",
+        "2-3 players online multiplayer",
+        "2-3 players competitive"
+      ],
+      "rating": -1,
+      "released": "2021-03-17T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/u/1/store/details/632522c846a041ce801e47b96ba2e265rcp1/sku/41a3ae7401f341169e2f853594df6c39p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
