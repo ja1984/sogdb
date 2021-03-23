@@ -9110,6 +9110,58 @@
       "early_access": false,
       "pre_order": true,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/c44439c4ee1741b383c93996985efddfrcp1/sku/a20c866402f74644b87013dde4d31572p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Experience survival horror like never before in the eighth major installment in the storied Resident Evil franchise - Resident Evil Village.\n\nSet a few years after the horrifying events in the critically acclaimed Resident Evil 7 biohazard, the all-new storyline begins with Ethan Winters and his wife Mia living peacefully in a new location, free from their past nightmares. Just as they are building their new life together, tragedy befalls them once again.",
+      "genres": [
+        "action"
+      ],
+      "image_slug": "resident_evil_village",
+      "slug": "resident-evil-village",
+      "languages": [
+        "english"
+      ],
+      "name": "Resident Evil Village",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-05-06T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/c44439c4ee1741b383c93996985efddfrcp1/sku/e86757e0c8a04164b05c501585af600cp",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
