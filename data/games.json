@@ -204,8 +204,8 @@
         "czech",
         "german",
         "english",
-        "spanish (Spain)",
-        "spanish (Mexico)",
+        "spanish (spain)",
+        "spanish (mexico)",
         "french",
         "italian",
         "japanese",
@@ -214,8 +214,8 @@
         "portuguese",
         "russian",
         "ukrainian",
-        "chinese (China)",
-        "chinese (Taiwan)"
+        "chinese (china)",
+        "chinese (taiwan)"
       ],
       "name": "Metro Exodus",
       "game_modes": [
@@ -9334,6 +9334,60 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Killer Queen Black, inspired by the hit arcade game, Killer Queen, let's you fight for your hive with three ways to win. Will you claim your victory by hopping on the snail, hoarding berries, or wiping out the enemy's queen? Play Killer Queen Black casually in quickplay matches, up the intensity in ranked matches, or invite friends to a private room. Easy to play, hard to master, fun for all! An epic, platform strategy game for up to eight players online or locally.",
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "image_slug": "killer_queen_black",
+      "slug": "killer-queen-black",
+      "languages": [
+        "english"
+      ],
+      "name": "Killer Queen Black",
+      "game_modes": [
+        "single player",
+        "1-8 players local multiplayer",
+        "1-8 players online multiplayer",
+        "1-4 players local co-op",
+        "1-4 players online co-op",
+        "1-8 players competitive",
+        "1-8 players cross-platform multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-03-29T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/3f30ebc3799945fea323f8a663c35501rcp1/sku/70065c4266c5464ca068d225cd341902p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
