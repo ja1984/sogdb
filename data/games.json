@@ -9707,6 +9707,59 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [
+        {
+          "name": "",
+          "store_link": "https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "This is the Digital Limited Edition of The Legend of Heroes: Trails of Cold Steel III. 'The Legend of Heroes: Trails of Cold Steel III - Digital Limited Edition' content: The Legend of Heroes: Trails of Cold Steel III (full game), Consumable Starter Set, Standard Cosmetic Set",
+      "genres": [
+        "role-playing"
+      ],
+      "image_slug": "trails_of_cold_steel_3",
+      "slug": "trails-of-cold-steel-3",
+      "languages": [
+        "english",
+        "french"
+      ],
+      "name": "Trails of Cold Steel III",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-03-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/708fb1d2dfa54e22b99cf1cf5e706671p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
