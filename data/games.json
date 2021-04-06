@@ -9546,7 +9546,72 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
-    }
+    },
+    {
+      "expansions": [
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/c44439c4ee1741b383c93996985efddfrcp1/sku/a20c866402f74644b87013dde4d31572p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Experience one of the scariest, most highly acclaimed games of 2017 with Resident Evil 7 Gold Edition – complete with all Season Pass content. As Ethan Winters, explore the seemingly abandoned Baker farm and uncover the truth behind the disappearance of your wife, Mia. The Gold Edition contains the full game plus Banned Footage Vol. 1 and 2 extra content packs, the End of Zoe epilogue episode, and the 'Not a Hero' epilogue chapter starring Chris Redfield.",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "resident_evil_7",
+      "slug": "resident-evil-7-biohazard",
+      "languages": [
+        "arabic",
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "polish",
+        "portuguese",
+        "russian",
+        "chinese (simplified)",
+        "chinese (traditional)"
+      ],
+      "name": "Resident Evil 7 biohazard Gold Edition",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-03-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/8c452d1e69554c36a28b64ee8344037drcp1/sku/29857d666ee24e56a7c52ce2f8f561b4p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_18"
+    },
   ],
   "pro_games": [
     {
