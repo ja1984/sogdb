@@ -9444,6 +9444,58 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Nanotale - Typing Chronicles is an atmospheric typing adventure RPG set in a colorful vibrant world. Follow Rosalind, a novice Archivist, as she journeys out to explore a distant world. On her quest to gather knowledge, she collects samples of mystic natural beauties. Everything is peaceful. War is a thing of the distant past. In the shadows, a tale of dissonant magic is spreading, instilling corruption into broken hearts.",
+      "genres": [
+        "adventure",
+        "role-playing"
+      ],
+      "image_slug": "nanotale",
+      "slug": "nanotale-typing-chronicles",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "Nanotale - Typing Chronicles",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-03-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/4108770e33414848ae849cb6ad14e685rcp1/sku/32f70a285ee34bdfba4261237f869ad9p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
