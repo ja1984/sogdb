@@ -9548,12 +9548,7 @@
       "age_rating": "pegi_12"
     },
     {
-      "expansions": [
-        {
-          "name": "Deluxe Edition",
-          "store_link": "https://stadia.google.com/store/details/c44439c4ee1741b383c93996985efddfrcp1/sku/a20c866402f74644b87013dde4d31572p"
-        }
-      ],
+      "expansions": [],
       "countries": [
         "belgium",
         "canada",
@@ -9612,6 +9607,53 @@
       "pre_order": false,
       "age_rating": "pegi_18"
     },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Alyssa L'Salle was one of the top secret agents at the Agency of Peace & Intelligence on the Planet Araenu. But when she uncovers a horrible conspiracy, she has to go rogue in order to save the day! Can Alyssa save the galaxy when everyone (and everything) is out to stop her!",
+      "genres": [
+        "role-playing"
+      ],
+      "image_slug": "cosmic_star_heroine",
+      "slug": "cosmic-star-heroine",
+      "languages": [
+        "english"
+      ],
+      "name": "Cosmic Star Heroine",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-03-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/88396e4e44c94d43b4259e6bedbd582crcp1/sku/8eec020af3914643b3ce2ff4332b9a4cp",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
+    }
   ],
   "pro_games": [
     {
