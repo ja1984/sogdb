@@ -9653,6 +9653,60 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "When the Moon God turns the inhabitants of the forest to stone, four Animal Ninja Masters must fight their way to Mt. Fuji and break his spell. Use swift moves, an arsenal of tools, and each Master’s unique abilities to save your home!",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "kemono_heroes",
+      "slug": "kemono-heroes",
+      "languages": [
+        "english",
+        "spanish",
+        "japanese",
+        "korean",
+        "chinese"
+      ],
+      "name": "Kemono Heroes",
+      "game_modes": [
+        "single player",
+        "1-4 players local multiplayer",
+        "1-4 players local co-op"
+      ],
+      "rating": -1,
+      "released": "2021-03-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/81733d32e2db41f9a58b97aa80c0b2fcrcp1/sku/75f3878de6e64b6084650d3dabd25abap",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
