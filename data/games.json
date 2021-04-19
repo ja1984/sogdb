@@ -9917,6 +9917,56 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Delouse your room with sage and pack up your travel-sized ouija board, it’s time to re-enter Twin Lakes - America’s 34th most haunted city. Join Detective McQueen as he puzzles his way through 6 chilling cases, risking life and pixelated limb to solve the macabre mysteries that plague the poor town.",
+      "genres": [
+        "adventure"
+      ],
+      "image_slug": "the_darkside_detective_2",
+      "slug": "the-darkside-detective-a-fumble-in-the-dark",
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "spanish"
+      ],
+      "name": "The Darkside Detective: A Fumble in the Dark",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-04-14T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/4e9c4e089aa5410cbffb3c1869d68925rcp1/sku/31d2c4b062e34650aa2ca3037e030355p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
