@@ -9762,12 +9762,7 @@
       "age_rating": "pegi_12"
     },
     {
-      "expansions": [
-        {
-          "name": "",
-          "store_link": "https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp"
-        }
-      ],
+      "expansions": [],
       "countries": [
         "belgium",
         "canada",
@@ -9816,6 +9811,58 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Digital Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/95d975e630f5443ca402b5d67c31323drcp1/sku/82d08b12df424507bafe42e19103b400p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "The long awaited finale to the epic engulfing a continent comes to a head in the final chapter of the Trails of Cold Steel saga!",
+      "genres": [
+        "role-playing"
+      ],
+      "image_slug": "trails_of_cold_steel_4",
+      "slug": "the-legend-of-heroes-trails-of-cold-steel-iv",
+      "languages": [
+        "english"
+      ],
+      "name": "The Legend of Heroes: Trails of Cold Steel IV",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-04-08T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/95d975e630f5443ca402b5d67c31323drcp1/sku/ae329268991c464cb99f32287c1bcabap",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
