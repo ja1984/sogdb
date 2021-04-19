@@ -9760,6 +9760,62 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [
+        {
+          "name": "",
+          "store_link": "https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Grab your trench coat, tune your sixth sense and join the Darkside Division as they investigate the outright bizarre, the downright dangerous and the mildly confusing cases of Twin Lakes. Flesh-hungry tentacles, mafian zombies, and the occasional missing sock are no match for The Darkside Detective.",
+      "genres": [
+        "adventure"
+      ],
+      "image_slug": "the_darkside_detective",
+      "slug": "the-darkside-detective",
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "spanish",
+        "chinese"
+      ],
+      "name": "The Darkside Detective",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-04-07T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b465998ccc1c48aaa2fb74f331ebbdd7rcp1/sku/9d8c8bb162b6477ca2f2e5ee89f62b15p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
