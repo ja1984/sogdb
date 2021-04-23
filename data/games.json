@@ -8086,8 +8086,8 @@
       "name": "Football Manager 2020",
       "game_modes": [
         "single player",
-        "> 1 player local multiplayer",
-        "> 1 player online multiplayer"
+        ">1 player local multiplayer",
+        ">1 player online multiplayer"
       ],
       "rating": -1,
       "released": "2020-11-18T22:00:00.000Z",
@@ -9908,7 +9908,7 @@
       "name": "FLOOR KIDS",
       "game_modes": [
         "single player",
-        "> 1 player local multiplayer"
+        ">1 player local multiplayer"
       ],
       "rating": -1,
       "released": "2021-04-13T23:00:00.000Z",
