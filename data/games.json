@@ -9217,7 +9217,12 @@
       "age_rating": "pegi_11"
     },
     {
-      "expansions": [],
+      "expansions": [
+        {
+          "name": "Year one Edition",
+          "store_link": "https://stadia.google.com/store/details/ed81a01114044edcacfa52656b259d41rcp1/sku/935e2915c89b45d29d4a32266d5a40c4p"
+        }
+      ],
       "countries": [
         "belgium",
         "canada",
@@ -10022,6 +10027,61 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Legend of Keepers is the perfect mix between Dungeon Management and Roguelite. You have been hired as a dungeon master by the Dungeons Company. Your job is simple: protect their dungeons!",
+      "genres": [
+        "strategy",
+        "indie"
+      ],
+      "image_slug": "legend_of_keepers",
+      "slug": "legend-of-keepers-career-of-a-dungeon-manager",
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "japanese",
+        "chinese (china)",
+        "chinese (taiwan)"
+      ],
+      "name": "Legend of Keepers: Career of a Dungeon Manager",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-04-28T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/ba593716983f436ea49ae09a531d65b5rcp1/sku/83e17749482942da85f0c20ea0d47ca5p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
