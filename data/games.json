@@ -10066,10 +10066,7 @@
         "french",
         "italian",
         "german",
-        "spanish",
-        "japanese",
-        "chinese (china)",
-        "chinese (taiwan)"
+        "spanish"
       ],
       "name": "Legend of Keepers: Career of a Dungeon Manager",
       "game_modes": [
@@ -10095,8 +10092,10 @@
     }
   ],
   "pro_skuids": [
+    "c78b6a8ef7734bbf8de9c068eeadd049p",
     "29857d666ee24e56a7c52ce2f8f561b4p",
     "b51c2723938547a99ebfb2e3b2ae320dp",
+    "8f39647dac4f452ea0abb9aec508295fp",
     "45405fbb56ad4f9fa280d60a6bb57b08p",
     "afb2b66ddd744605a3d01acbeaf3ba01p",
     "657a67fa3574490aa63600ea1d4b5c2dp",
@@ -10105,22 +10104,19 @@
     "a287b8393c204384a8b940dc79d142fd",
     "5748ef643485495ba71d15041c44f0d4p",
     "0b415b02e06f452f8be948daf77787c1p",
-    "de13900e4bc8442b9f1ddead7baaec6dp",
-    "b4f4f4de3d1e4eef9417a9c896513f0ap",
     "e0d32e6d5b0442f9bea2f8deb5d03570p",
     "a25302b5cbc44d03b1440d2adaa0dd5ap",
     "dfc0719b3a5b48ab8213033dc72bfdfcp",
-    "4761cd53808a462ca823a9e403baea99",
     "07b0ea07f5554f70a2675fe696b4c9ebp",
     "dfda545ac2e94885a13b1434d370d4b0",
     "9a25de2639254575abb6f2d58d5c57e5",
     "be70e67b1fd64dc2bb4f002e65239731p",
     "6ec089b591ee47fab2fed726e466700ap",
+    "bc01f7206e4f4f83a468ce33eea0c404",
     "2a4af85a84974cdba4d61df620305335",
     "cc1997b89ae44886a1197a59b42b2613",
     "896565e45f974774a117876f949630df",
     "fa63c6e891ff4d1bb76c4ac7580c119a",
-    "f47a1e1e9f0b43078e0a80c57068b085",
     "f6658df6c8874c828532d5d24c66d58f"
   ],
   "updated": "2021-03-03T11:25:46.569Z"
