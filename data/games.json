@@ -2503,6 +2503,10 @@
         {
           "name": "Battle for the Grid Collector's Edition",
           "store_link": "https://stadia.google.com/store/details/bbb1a143aa3449a5a1f236a05c305c9frcp1/sku/dd3cc4400aba4b809fb9eafcf61cb344"
+        },
+        {
+          "name": "Battle for the Grid Super Edition",
+          "store_link": "https://stadia.google.com/store/details/bbb1a143aa3449a5a1f236a05c305c9frcp1/sku/76db77b389de4d6f9700271b2152058cp"
         }
       ],
       "countries": [
@@ -10199,6 +10203,64 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/5eb3896383464e2897b3d4b56a5b3a1drcp1/sku/7765c244ae5a41c28692564dd62930ccp"
+        },
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/5eb3896383464e2897b3d4b56a5b3a1drcp1/sku/8399b89700004f83875baa52ae80b937p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Welcome to Yara, a tropical paradise frozen in time. As the dictator of Yara, Anton Castillo is intent on restoring his nation back to its former glory by any means, with his son, Diego, following in his bloody footsteps. Their ruthless oppression has ignited a revolution.",
+      "genres": [
+        "shooter",
+        "action"
+      ],
+      "image_slug": "far_cry_6",
+      "slug": "far-cry-6",
+      "languages": [
+        "english"
+      ],
+      "name": "FAR CRY 6",
+      "game_modes": [
+        "single player",
+        "1-2 players online co-op"
+      ],
+      "rating": -1,
+      "released": "2021-10-06T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/5eb3896383464e2897b3d4b56a5b3a1drcp1/sku/2f7e5c3d53594dff9252bb025b23770bp",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
