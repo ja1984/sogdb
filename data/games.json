@@ -10310,12 +10310,68 @@
         "single player"
       ],
       "rating": -1,
-      "released": "2021-31-05T23:00:00.000Z",
+      "released": "2021-05-31T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p",
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Orbital Decay Bundle",
+          "store_link": "https://stadia.google.com/store/details/e219615d926c4e6e92fae3b567fac94ercp1/sku/ead2af559b5a4c32aa769af46634b325p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Tom Clancy’s Rainbow Six® Extraction is a 1 to 3-player co-op tactical FPS.\nThe elite Operators of Rainbow Six are now united to face a common enemy: a lethal threat, the Archeans. Assemble your team and risk everything in tense incursions in the containment zone. Knowledge, cooperation and a tactical approach are your best weapons to take on this enemy.",
+      "genres": [
+        "shooter",
+        "action"
+      ],
+      "image_slug": "rainbox_six_extraction",
+      "slug": "rainbow-six-extraction",
+      "languages": [
+        "english"
+      ],
+      "name": "Rainbow Six: Extraction",
+      "game_modes": [
+        "single player",
+        "2-3 players online multiplayer",
+        "2-3 players online co-op",
+        "2-3 players cross-platform multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-07-15T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/e219615d926c4e6e92fae3b567fac94ercp1/sku/ac57b886324e4f05bb3fd5d2dc101ecdp",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
