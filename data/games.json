@@ -10261,6 +10261,61 @@
       "early_access": false,
       "pre_order": true,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "A Dark World Awaits - Travel through the perished world of Penumbra to explore unique areas filled with diverse enemies, sharp 3D platforming challenges, quests, collectibles, and more.\nEmbark on an extraordinary journey through the desolated kingdom of Penumbra and discover the hidden secrets of this long-forgotten land. Explore mystical temples, encounter survivors and take on strange quests to collect valuable items. Along your adventure, slash your way through daunting adversaries, roam across mysterious and abandoned regions, leap through deadly traps and ultimately master the art of movement.",
+      "genres": [
+        "indie",
+        "adventure",
+        "role-playing game"
+      ],
+      "image_slug": "blue_fire",
+      "slug": "blue-fire",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "russian",
+        "portuguese"
+      ],
+      "name": "Blue Fire",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-31-05T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
