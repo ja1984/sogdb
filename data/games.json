@@ -10320,8 +10320,8 @@
     {
       "expansions": [
         {
-          "name": "Orbital Decay Bundle",
-          "store_link": "https://stadia.google.com/store/details/e219615d926c4e6e92fae3b567fac94ercp1/sku/ead2af559b5a4c32aa769af46634b325p"
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/e219615d926c4e6e92fae3b567fac94ercp1/sku/59e1f64df4c348ceb49a1dcfc7946bb6p"
         }
       ],
       "countries": [
@@ -10366,12 +10366,108 @@
         "2-3 players cross-platform multiplayer"
       ],
       "rating": -1,
-      "released": "2021-08-15T23:00:00.000Z",
+      "released": "2021-09-15T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/e219615d926c4e6e92fae3b567fac94ercp1/sku/ac57b886324e4f05bb3fd5d2dc101ecdp",
       "early_access": false,
       "pre_order": true,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Experience the BAFTA award-winning story of Life is Strange now beautifully remastered with enhanced visuals and vastly improved animation using mocap technology.\nPlay as Max Caulfield, a photography senior who discovers she can rewind time while saving her best friend Chloe Price from a violent altercation. The pair soon find themselves investigating the mysterious disappearance of fellow student Rachel Amber, uncovering a dark side to life in Arcadia Bay",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "life_is_strange_remastered",
+      "slug": "life-is-strange-remastered",
+      "languages": [
+        "english"
+      ],
+      "name": "Life is Strange Remastered",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-09-29T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com//store/details/09011184da8446c1b6fafb8c010888bfrcp1/sku/e201a3bfa07c400fb169aed6e2aa8220p",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Life is Strange: Before the Storm returns with remastered visuals across characters & environments. Set three years before ‘Life is Strange’, you play as sixteen-year old Chloe Price who forms an unlikely friendship with Rachel Amber, a beautiful and popular girl destined for success. When Rachel learns a secret about her family that threatens to destroy her world, it is her newfound friendship with Chloe that gives her the strength to carry on.",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "life_is_strange_before_the_storm_remastered",
+      "slug": "life-is-strange-before-the-storm-remastered",
+      "languages": [
+        "english"
+      ],
+      "name": "Life is Strange: Before the Storm Remastered",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-09-29T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com//store/details/09011184da8446c1b6fafb8c010888bfrcp1/sku/e201a3bfa07c400fb169aed6e2aa8220p",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
