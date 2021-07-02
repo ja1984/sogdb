@@ -10721,7 +10721,14 @@
         "english"
       ],
       "name": "Madden NFL 22",
-      "game_modes": ["single player", "2-4 players local multiplayer", "1-6 players online multiplayer", "2 players local co-op", "2-3 players online co-op", "2-6 players competitive"],
+      "game_modes": [
+        "single player",
+        "2-4 players local multiplayer",
+        "1-6 players online multiplayer",
+        "2 players local co-op",
+        "2-3 players online co-op",
+        "2-6 players competitive"
+      ],
       "rating": -1,
       "released": "2021-08-19T23:00:00.000Z",
       "resolution": "unknown",
@@ -10729,6 +10736,66 @@
       "early_access": false,
       "pre_order": true,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/a173ab7957e243d5a2a5668c6edd94b6rcp1/sku/b2d422cf67d34d4885f1985da2641604p"
+        },
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/a173ab7957e243d5a2a5668c6edd94b6rcp1/sku/209dea1af89c4ae592fed973ad6e4fcbp"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Battle against over 50 players simultaneously in a massive multiplayer playground. Compete in an all-out mass start race—collide, grind, and fight your way to the finish! Customize your character to show off your style to your friends or show up the competition. Bike, ski, snowboard, or wingsuit through a seamless open world in Career mode or multiplayer events. Go wild on the heights of iconic US national parks like Yosemite, Zion, and Bryce Canyon.",
+      "genres": [
+        "sports",
+        "racing"
+      ],
+      "image_slug": "riders_republic",
+      "slug": "Riders Republic",
+      "languages": [
+        "english"
+      ],
+      "name": "Madden NFL 22",
+      "game_modes": [
+        "single player",
+        "2-64 players online multiplayer",
+        "2-64 players competitive",
+        "2-64 players cross-platform multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-09-01T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/a173ab7957e243d5a2a5668c6edd94b6rcp1/sku/eaef5f5d5fbe4901bf834a0653d55a1cp",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
