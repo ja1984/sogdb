@@ -10538,6 +10538,62 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Hello Engineer is a multiplayer machinery-building construction game set in the Hello Neighbor universe. Scavenge, craft, and overcome challenges in the sandbox world of a mysterious amusement park. Put together incredible machines built of scrap, and beware of the Neighbor!",
+      "genres": [
+        "action",
+        "simulation",
+        "indie"
+      ],
+      "image_slug": "hello_engineer",
+      "slug": "hello-engineer",
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "portuguese",
+        "polish"
+      ],
+      "name": "Hello Engineer",
+      "game_modes": [
+        "single player",
+        "2-4 players online multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-06-21T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/e85d550899de407e996a8a2d9dfbc7efrcp1/sku/4db0c5af19c74032beb90d083dfb9431p",
+      "early_access": true,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
