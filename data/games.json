@@ -10594,6 +10594,86 @@
       "early_access": true,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/ab3353cfcd1f4a938e40b0ba32c72b64rcp1/sku/fb14fddfdb174608b13a43796f5bf94ep"
+        },
+        {
+          "name": "Operator Edition",
+          "store_link": "https://stadia.google.com/store/details/ab3353cfcd1f4a938e40b0ba32c72b64rcp1/sku/1a3447a7ba674952bdcace9fc4b0af2dp"
+        },
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/ab3353cfcd1f4a938e40b0ba32c72b64rcp1/sku/10b1267266444a05afb998f08fe2db24p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Dive into explosive 5v5 gameplay, high-stakes competition, and thrilling PvP team battles. Tom Clancy's Rainbow Six Siege features an ever-expanding experience with limitless opportunities to perfect your strategy and help lead your team to victory. Rainbow Six Siege is constantly evolving. Each new season brings brand-new content, game-changing operators and abilities, in-game events, weapons, and maps. Start with the core Rainbow Six Siege experience, which includes the full game with all maps and modes",
+      "genres": [
+        "shooter",
+        "strategy"
+      ],
+      "image_slug": "rainbox_six_siege",
+      "slug": "rainbow-six-siege",
+      "languages": [
+        "arabic",
+        "czech",
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "dutch",
+        "polish",
+        "portuguese",
+        "russian",
+        "thai",
+        "turkish",
+        "chinese"
+      ],
+      "name": "Rainbow Six Siege",
+      "game_modes": [
+        "single player",
+        "2-10 players online multiplayer",
+        "2-5 players online co-op",
+        "10 players competitive",
+        "2-10 players cross-platform multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-06-29T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/ab3353cfcd1f4a938e40b0ba32c72b64rcp1/sku/7d138394b4e84e95aaee37d8e9ce27acp",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
