@@ -10472,6 +10472,72 @@
       "early_access": false,
       "pre_order": true,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "The Olympic Games are back, and this time it's your chance for glory! Whether you play with friends, family, or go for gold on the global leaderboards, this is a party game that anyone can pick up and enjoy. Prepare to unleash the competitor within as you create your athlete, customize their skills and pick the perfect costume. Why settle for standard sportswear when you can take centre stage as a pirate, astronaut or cowboy? Choose between 18 fun-fueled sporting events—from Tennis and Football to the 100m, Basketball and Boxing—there’s always a record to beat and a score to settle. Going for gold has never been this much fun!",
+      "genres": [
+        "sports",
+        "arcade",
+        "party"
+      ],
+      "image_slug": "olympic_games_tokyo_2020",
+      "slug": "olympic-games-tokyo-2020",
+      "languages": [
+        "english",
+        "japanese",
+        "korean",
+        "chinese (traditional)",
+        "french",
+        "german",
+        "italian",
+        "spanish",
+        "chinese (simplified)",
+        "polish",
+        "portuguese",
+        "russian"
+      ],
+      "name": "Olympic Games Tokyo 2020",
+      "game_modes": [
+        "single player",
+        "2 players local multiplayer",
+        "2-8 players online multiplayer",
+        "2 players local co-op",
+        "2 players online co-op",
+        "2-8 players competitive",
+        "2 players split-screen"
+      ],
+      "rating": -1,
+      "released": "2021-06-21T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b5b149105b1e4a38b1c43484d2d4dc22rcp1/sku/a6cf151640fc4c2da95aa196a39717bep",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
