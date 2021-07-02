@@ -10674,6 +10674,61 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [
+        {
+          "name": "MVP Edition",
+          "store_link": "https://stadia.google.com/store/details/451f31e0ce9e4ac4b928f4f6a9d2b3d0rcp1/sku/daad83a30ae24b468f9365bdc5f1de25p"
+        },
+        {
+          "name": "Dynasty Edition",
+          "store_link": "https://stadia.google.com/store/details/451f31e0ce9e4ac4b928f4f6a9d2b3d0rcp1/sku/56d1bfb67a9b4d27b556e118b829b8edp"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "All-new features in Franchise include staff management, an enhanced scenario engine, and weekly strategy. Share avatar progress and player class between Face of The Franchise and The Yard with unified progression. And for the first time ever in Ultimate Team, adjust Superstar X-Factors at halftime.",
+      "genres": [
+        "sports",
+        "simulation"
+      ],
+      "image_slug": "madden_nfl_22",
+      "slug": "madden-nfl-22",
+      "languages": [
+        "english"
+      ],
+      "name": "Madden NFL 22",
+      "game_modes": ["single player", "2-4 players local multiplayer", "1-6 players online multiplayer", "2 players local co-op", "2-3 players online co-op", "2-6 players competitive"],
+      "rating": -1,
+      "released": "2021-08-19T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/451f31e0ce9e4ac4b928f4f6a9d2b3d0rcp1/sku/a60fc7b7cd604ffc99e225526738b93cp",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
