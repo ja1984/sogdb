@@ -10796,6 +10796,66 @@
       "early_access": false,
       "pre_order": true,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/a173ab7957e243d5a2a5668c6edd94b6rcp1/sku/b2d422cf67d34d4885f1985da2641604p"
+        },
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/a173ab7957e243d5a2a5668c6edd94b6rcp1/sku/209dea1af89c4ae592fed973ad6e4fcbp"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Moonlighter is an Action RPG with rogue-lite elements following the everyday routines of Will, an adventurous shopkeeper that dreams of becoming a hero. During a long-passed archaeological excavation, a set of Gates were discovered. People quickly realized that these ancient passages lead to different realms and dimensions – providing brave and reckless adventurers with treasures beyond measure. Rynoka, a small commercial village, was founded near the excavation site providing refuge and a place for adventurers to sell their hard-earned riches.",
+      "genres": [
+        "action"
+      ],
+      "image_slug": "moonlighter",
+      "slug": "moonlighter",
+      "languages": [
+        "english",
+        "german",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "Moonlighter",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-06-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/703fbd4ee94441299adeaace6446f27arcp1/sku/a12ef65cefdd48d5856ed5c4cde6b977p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
