@@ -10798,16 +10798,7 @@
       "age_rating": "pegi_12"
     },
     {
-      "expansions": [
-        {
-          "name": "Gold Edition",
-          "store_link": "https://stadia.google.com/store/details/a173ab7957e243d5a2a5668c6edd94b6rcp1/sku/b2d422cf67d34d4885f1985da2641604p"
-        },
-        {
-          "name": "Ultimate Edition",
-          "store_link": "https://stadia.google.com/store/details/a173ab7957e243d5a2a5668c6edd94b6rcp1/sku/209dea1af89c4ae592fed973ad6e4fcbp"
-        }
-      ],
+      "expansions": [],
       "countries": [
         "belgium",
         "canada",
@@ -10856,6 +10847,63 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Bloodstained: Ritual of the Night is a gothic horror action side-scrolling RPG set in 18th century England. A paranormal force has summoned a demon-infested castle, revealing crystal shards infused with tremendous magical power.\nPlay as Miriam, an orphan scarred by an alchemist's curse which slowly crystallizes her body. To save humanity, and herself in the process, Miriam must fight through the castle and defeat the summoner, Gebel.\nCollect, craft and unlock a vast array of weapons, equipment and loot to defeat the countless minions and bosses of hell that await!",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "bloodstained_ritual_of_the_night",
+      "slug": "bloodstained-ritual-of-the-night",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "portuguese",
+        "russian",
+        "korean",
+        "chinese",
+        "japanese"
+      ],
+      "name": "Bloodstained: Ritual of the Night",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-07-06T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/df3c9859e1d14300941f62a693d140e2rcp1/sku/10f078ceb83f47cb8657d965c28e1ac2p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
