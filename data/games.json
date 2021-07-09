@@ -1724,6 +1724,10 @@
         {
           "name": "Deluxe Edition",
           "store_link": "https://stadia.google.com/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/ec30180d14de41fcaec12d442b81e248"
+        },
+        {
+          "name": "Special Edition",
+          "store_link": "https://stadia.google.com/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/edb78277d2544169b73509d9cf97a29fp"
         }
       ],
       "countries": [
