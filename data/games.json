@@ -10966,6 +10966,63 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/d45d390acba5479db7c47170b09d517drcp1/sku/954752319d264a25912a0753e7382c4dp"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Powered by Football™, EA SPORTS™ FIFA 22 brings the game even closer to the real thing with fundamental gameplay advances and a new season of innovation across every mode.",
+      "genres": [
+        "sports"
+      ],
+      "image_slug": "fifa_22",
+      "slug": "fifa-22",
+      "languages": [
+        "english"
+      ],
+      "name": "FIFA 22",
+      "game_modes": [
+        "single player",
+        "2-4 players local multiplayer",
+        "2-22 players online multiplayer",
+        "2-4 players local co-op",
+        "2 players online co-op",
+        "2-22 players competitive"
+      ],
+      "rating": -1,
+      "released": "2021-09-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/d45d390acba5479db7c47170b09d517drcp1/sku/83e8fd585222451790d89f3a279e9391p",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
@@ -11006,5 +11063,5 @@
     "fa63c6e891ff4d1bb76c4ac7580c119a",
     "b0c60f8483be419eb2335a79a0783cc5"
   ],
-  "updated": "2021-07-09T07:26:12.017Z"
+  "updated": "2021-07-12T07:24:28.282Z"
 }
