@@ -11111,7 +11111,7 @@
         "action",
         "arcade"
       ],
-      "image_slug": "cris-tales",
+      "image_slug": "cris_tales",
       "slug": "cris-tales",
       "languages": [
         "german",
@@ -11223,8 +11223,8 @@
         "adventure",
         "shooter"
       ],
-      "image_slug": "one_piece_world_seeker",
-      "slug": "one-piece-world-seeker",
+      "image_slug": "control",
+      "slug": "control",
       "languages": [
         "english",
         "german",
