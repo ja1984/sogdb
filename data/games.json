@@ -11025,12 +11025,7 @@
       "age_rating": "pegi_3"
     },
     {
-      "expansions": [
-        {
-          "name": "Ultimate Edition",
-          "store_link": "https://stadia.google.com/store/details/d45d390acba5479db7c47170b09d517drcp1/sku/954752319d264a25912a0753e7382c4dp"
-        }
-      ],
+      "expansions": [],
       "countries": [
         "belgium",
         "canada",
@@ -11081,6 +11076,117 @@
       "released": "2021-07-14T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/819f567cf2c64e5fb252c415a1184e53rcp1/sku/6b01a9e424f948fd93a68c3cf47621a0p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Cris Tales is a gorgeous, indie love letter to classic JRPGs with a new perspective. Peer into the past, act in the present, and watch as your choices dynamically change the future -- all on one screen as you play! Beautifully hand-drawn 2D animations bring to life a world where your choices will change both the present and the future across more than 20 hours of gameplay.",
+      "genres": [
+        "action",
+        "arcade"
+      ],
+      "image_slug": "cris-tales",
+      "slug": "cris-tales",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "Cris Tales",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-07-19T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/e5355e531fdb453f9876400180a1c254rcp1/sku/057d51fc3d024736b475161d491fb5e8p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Leave your compass behind and join Luffy as he embarks on a brand new action-packed adventure where you can experience the powers of the legendary Gum-Gum fruit to uncover hidden secrets on an original, never-before-seen island!",
+      "genres": [
+        "action",
+        "role-playing"
+      ],
+      "image_slug": "one_piece_world_seeker",
+      "slug": "one-piece-world-seeker",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "polish",
+        "portuguese",
+        "russian",
+        "chinese (china)",
+        "chinese (taiwan)"
+      ],
+      "name": "ONE PIECE World Seeker Premium Edition",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-07-19T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/d7fce541196f4ec8b1bf36eef8b6f543rcp1/sku/ab88df5f4d054ab58d2948a2f7a2a385p",
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
