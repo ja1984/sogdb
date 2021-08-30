@@ -11373,6 +11373,60 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Big city, bigger adventure! When the PAW Patrol learn Mayor Humdinger has taken over a buzzing metropolis, they must save Adventure City from his selfish scheming. And the pups need YOU on Team PAWsome! So, Adventure City here we come. Be the pups – including Chase, Skye, and streetwise Liberty – and use their unique abilities in high-steaks rescue missions. Use next-level gadgets and vehicles to explore the city. And have fun with Pup Pup Boogie and more minigames. You can play solo or in couch co-pup mode, in this fun-for-all 3D platformer. The PAW Patrol pups are born heroes – are you ready to join them on their bravest mission yet?!",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "paw_patrol_the_movie",
+      "slug": "paw-patrol-the-movie-adventure-city-calls",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "PAW Patrol The Movie: Adventure City Calls",
+      "game_modes": [
+        "single player",
+        "1-2 players local multiplayer",
+        "1-2 players local co-op"
+      ],
+      "rating": -1,
+      "released": "2021-08-12T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/2e00fb54c35e47b08e3d56e0d59cb2ffrcp1/sku/236e0d52c2d9464592c60c08ae91e8e8p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
