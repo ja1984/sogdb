@@ -1012,14 +1012,13 @@
       "image_slug": "dragonball_xenoverse",
       "slug": "dragonball-xenoverse-2",
       "languages": [
-        "english (united states)",
-        "spanish (spain)",
-        "spanish (latin america)",
-        "french (france)",
-        "italian (italy)",
-        "german (germany)",
-        "portuguese (brazil)",
-        "japanese (japan)"
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "german",
+        "portuguese",
+        "japanese"
       ],
       "name": "Dragon Ball Xenoverse 2",
       "game_modes": [
@@ -11686,13 +11685,17 @@
       "image_slug": "young_souls",
       "slug": "young-souls",
       "languages": [
-        "single player",
-        "1-2 players local multiplayer",
-        "1-2 players local co-op"
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
       ],
       "name": "Young Souls",
       "game_modes": [
-        "single player"
+        "single player",
+        "1-2 players local multiplayer",
+        "1-2 players local co-op"
       ],
       "rating": -1,
       "released": "2021-08-16T23:00:00.000Z",
@@ -11701,6 +11704,60 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Pre-Order Bundle",
+          "stor_link": "https://stadia.google.com/store/details/3bb062e7f1274d4ca83af6b5f67d9abarcp1/sku/c0a15ad6d2d942e88e54c7f7bd4e7304p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Take on the role of a modern farmer and creatively build your farm in three diverse American and European environments. Farming Simulator 22 offers a huge variety of farming operations focusing on agriculture, animal husbandry and forestry - now with the exciting addition of seasonal cycles!",
+      "genres": [
+        "simulation"
+      ],
+      "image_slug": "farming_simulator_22",
+      "slug": "farming-simulator-22",
+      "languages": [
+        "english"
+      ],
+      "name": "Farming Simulator 22",
+      "game_modes": [
+        "single player",
+        "> 1 player online multiplayer",
+        "> 1 player cross-platform multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-11-21T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/3bb062e7f1274d4ca83af6b5f67d9abarcp1/sku/491c7e440b764d14b86d2e5d3a742b02p",
+      "early_access": false,
+      "pre_order": true,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
