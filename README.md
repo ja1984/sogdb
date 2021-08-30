@@ -20,6 +20,11 @@ yarn fillgamesmetadata
 ```
 
 
+## Get PRO games
+```
+Array.from(document.querySelectorAll(".alEDLe.URhE4b > div")).map((x) => x.dataset.skuId)
+```
+
 
 
 ## Thanks
