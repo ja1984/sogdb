@@ -11588,6 +11588,60 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Ice Age’s favorite sabre-tooth squirrel, Scrat, is at it again in an all-new adventure! A mysterious mechanism in an ancient Scratazon Temple, has locked away his prized possession – and the only way to get it back is an epic quest to find four legendary Crystal Nuts, scattered across the land.\n\nIt’s up to you to guide Scrat through a hilarious 3D action-adventure, where you’ll face fierce prehistoric creatures, survive crazy calamities, and return missing relics to their rightful home.\n\nGet ready to visit a host of classic Ice Age locations, where you’ll jump from icicle to icicle, ride raging geysers, leap across burning lava, and reach for impossible heights, all with Scrat’s hilarious slapstick acrobatics!",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "ice_age_scrats_nutty_adventure",
+      "slug": "ice-age-scrats-nutty-adventure",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "portuguese",
+        "spanish"
+      ],
+      "name": "Ice Age: Scrat's Nutty Adventure",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-08-12T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/28c8c1c35b8c450083c980f1dd44b64drcp1/sku/f8475baad89c4715b4375df3374167e2p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
