@@ -11427,6 +11427,59 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "A fallen meteor has given the pups mighty powers – and left Adventure Bay in a mighty mess. Now it’s up to you and the Pups to use their powers, rescue skills and gadgets to make the town PAWsome again!\n\nEmbark on super-heroic missions with the Mighty Pups and Chase’s Super Speed, Marshall’s Mighty Heat, Skye’s Whirlwind Power and the whole mighty PAW Patrol team. Explore the town and journey to Jake’s snowboarding resort, Tracker’s jungle and beyond, as you work together to rescue friends!\n\nSo, head to the Lookout and get ready for Mighty action! After you’re done saving the day, get playful with Pup-Pup Boogie, jump rope and more fun activities side-quests. And bring a friend along in 2-player co-op mode. Mighty Pups, GO!",
+      "genres": [
+        "adventure"
+      ],
+      "image_slug": "paw_patrol_mighty_pups",
+      "slug": "paw-patrol-mighty-pups-save-adventure-nay",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "PAW Patrol Mighty Pups Save Adventure Bay",
+      "game_modes": [
+        "single player",
+        "1-2 players local multiplayer",
+        "1-2 players local co-op"
+      ],
+      "rating": -1,
+      "released": "2021-08-12T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/ccf9e5615864445ba6a85cbd3557665frcp1/sku/7fca0a0255f04ab5aea66889e4695997p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
