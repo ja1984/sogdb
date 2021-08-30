@@ -5354,6 +5354,10 @@
         {
           "name": "Ultimate Edition",
           "store_link": "https://stadia.google.com/store/details/377f50584071472096bcda89b0839bc3rcp1/sku/284cebe64c144357b338dd721c8bb9c7"
+        },
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/377f50584071472096bcda89b0839bc3rcp1/sku/f50161db55ca45aebad24d770653ff24p"
         }
       ],
       "countries": [
@@ -5615,6 +5619,10 @@
         {
           "name": "Gold Edition",
           "store_link": "https://stadia.google.com/store/details/deb490c166544813bf2ab73f4c6e2aa0rcp1/sku/c0786720840b4aa5b425b8f750d36cbfp"
+        },
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/deb490c166544813bf2ab73f4c6e2aa0rcp1/sku/e34c4c72adac499ea93c6a54f00d0cb4p"
         }
       ],
       "countries": [
@@ -11308,6 +11316,63 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "FORECLOSED is a narrative-driven action-adventure set in a Cyberpunk world filled with action, suspense, & experimental augmentations. Follow the story of Evan Kapnos in this sleek comic book styled game as he unravels the conspiracy behind his identity foreclosure. Who is responsible & why?",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "foreclosed",
+      "slug": "foreclosed",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "russian",
+        "japanese",
+        "portuguese",
+        "chinese",
+        "korean"
+      ],
+      "name": "Foreclosed",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-08-11T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/80869457fb214724a5058437e86007b6rcp1/sku/492248b1c5764e5580abaf4b57c25d14p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
