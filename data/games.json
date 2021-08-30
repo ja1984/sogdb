@@ -21,6 +21,18 @@
         {
           "name": "Beyond Light Deluxe Edition",
           "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/3e5dab36f21e466499f3449f13c98329"
+        },
+        {
+          "name": "The Witch Queen Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/116924b9071043c49d5c6348fa65f3b2p"
+        },
+        {
+          "name": "The Witch Queen",
+          "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/b886830c66fb4f68b96f34fb6c73e52fp"
+        },
+        {
+          "name": "The Witch Queen Deluxe + 30th Anniv. Bundle",
+          "store_link": "https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/c33dcb52cf4e4a6fa50da7fc0fe43e67p"
         }
       ],
       "countries": [
@@ -8513,7 +8525,7 @@
       "game_modes": [
         "single player"
       ],
-      "rating": 55,
+      "rating": 49,
       "released": "2021-02-28T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p",
