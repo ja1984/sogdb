@@ -3970,6 +3970,10 @@
         {
           "name": "Deluxe Edition",
           "store_link": "https://stadia.google.com/store/details/232ff8abc7f74421a477e9e09dbf487drcp1/sku/d26a526c2e0e4aefb54fbf0f87783de0p"
+        },
+        {
+          "name": "Endgame Edition",
+          "store_link": "https://stadia.google.com/store/details/232ff8abc7f74421a477e9e09dbf487drcp1/sku/0b16352a3ceb42cc8e4a23c0ab5d860ap"
         }
       ],
       "countries": [
@@ -7371,7 +7375,12 @@
       "age_rating": "pegi_18"
     },
     {
-      "expansions": [],
+      "expansions": [
+        {
+          "name": "Digital Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/3f40802097224fa1aaa0dcc4555828b7rcp1/sku/c9552455d0a94cde8988d3be2cfdb06fp"
+        }
+      ],
       "countries": [
         "belgium",
         "canada",
@@ -11642,6 +11651,56 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Young Souls combines the beat‘em up and RPG genres in a world created with stunning art direction. Explore the world of humans and that of the goblins, both teeming with enemies but also full of unexpected and friendly encounters waiting to be discovered.\n\nGrab your weapons and set forth in search of your adoptive father through epic dungeons in the goblin realm. Arm yourself with the toughest armour and an arsenal capable of taking on the hordes of enemies and bosses that await on the other side of the portal.\n\nYour equipment is your most valuable ally in combat. Adapt your gameplay style to each dungeon by changing the items you take with you on to the battlefield.",
+      "genres": [
+        "role-playing",
+        "indie"
+      ],
+      "image_slug": "young_souls",
+      "slug": "young-souls",
+      "languages": [
+        "single player",
+        "1-2 players local multiplayer",
+        "1-2 players local co-op"
+      ],
+      "name": "Young Souls",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-08-16T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/39b2419557a4479792c267dffa77fbbfrcp1/sku/33ebd1c3d64a4f2cada04eef16dfcb1fp",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
