@@ -11535,6 +11535,59 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "A new heroic dragon and rider are taking to the skies and only you can help them defeat the evil villains who destroyed a dragon sanctuary created by Hiccup, Toothless, and his dragon riders.\n\nWhen the island of Havenholme is found in ruins, mysterious survivors emerge as unlikely future heroes. Scribbler is a scholar who cannot remember his past while Patch is a unique breed of dragon, a “chimeragon,” with new, unexpected powers they discover along the way. Together they must explore new islands, battle fierce enemies and recover the memories that reveal Patch’s true origin in this fun and fiery new action adventure.",
+      "genres": [
+        "adventure"
+      ],
+      "image_slug": "dreamworks_dragons_dawn_of_new_riders",
+      "slug": "dreamworks-dragons-dawn-of-new-riders",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "portuguese",
+        "spanish"
+      ],
+      "name": "DreamWorks Dragons: Dawn of New Riders",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-08-12T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/e15d4480e6e44c64b8fe79b3bfc57c9ercp1/sku/da957550fe2c4ff5a71039739f68a450p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
