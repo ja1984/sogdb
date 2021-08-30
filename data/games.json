@@ -11480,6 +11480,61 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Explore and race across the prehistoric world of Gigantosaurus. This Disney dino tale is part saving the world, part super race, and all giant fun!\n\nRocky, Tiny, Mazu and Bill have scary problems – like the meteor that’s blocked up Giganto’s volcano! Only you and your dino friends can dare to solve puzzles and save the day – but you might need Giganto’s powers too! And the end of each story is the start of a super rally to the next zone. Will you be the most roarsome adventurer or the fastest racer?",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "gigantosaurus_the_game",
+      "slug": "gigantosaurus-the-game",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "Gigantosaurus The Game",
+      "game_modes": [
+        "single player",
+        "> 1 player local multiplayer",
+        "> 1 player local co-op",
+        "> 1 player split-screen"
+      ],
+      "rating": -1,
+      "released": "2021-08-12T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/106e912318b24f0394850cdeabf73b0arcp1/sku/a4295b70ef3b4b8fa6c35e370983e11ep",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
