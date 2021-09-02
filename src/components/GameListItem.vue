@@ -6,12 +6,14 @@
         <div v-if="game.age_rating" class="pegi-rating">
           <div class="pegi-rating__icon" :class="game.age_rating"></div>
         </div>
-        <div v-if="game.rating && !isNaN(game.rating)" class="rating" alt="Rating" title="Rating">
-          <img src="@/assets/smile.svg" class="rating__icon" />
+
+        <a v-if="game.rating && !isNaN(game.rating)" :href="metacriticLink" target="_blank" class="rating" alt="Rating" title="Rating" @click.stop>
+          <img src="@/assets/metacritic-icon.svg" class="rating__icon" />
           <span class="rating__text">{{
             game.rating === -1 ? "n/a" : game.rating
           }}</span>
-        </div>
+        </a>
+
         <div v-if="isProDeal" class="deal" alt="This months pro deal" title="This months pro deal">
           <img src="@/assets/award.svg" class="deal__icon" />
         </div>
@@ -137,6 +139,9 @@ export default {
     };
   },
   computed: {
+    metacriticLink() {
+      return `https://www.metacritic.com/search/game/${this.game.name}/results`;
+    },
     resolution() {
       if (this.game.resolution === 'unknown') return 'Resolution and fps unknown';
       let split = this.game.resolution.split('p');
