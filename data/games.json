@@ -11827,6 +11827,66 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Become the terrifying force which everything fears but nothing can escape. Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen embarks on a quest to redeem his brother's name. Along the way, the Horseman discovers that an ancient grudge may threaten all of Creation. Death lives!",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "darksiders_2",
+      "slug": "darksiders-ii-deathinitive-edition",
+      "languages": [
+        "english",
+        "spanish",
+        "italian",
+        "japanese",
+        "chinese",
+        "korean",
+        "french",
+        "german",
+        "czech",
+        "polish",
+        "russian",
+        "dutch",
+        "portuguese"
+      ],
+      "name": "Darksiders II Deathinitive Edition",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-08-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/694bb88862a84a4d86ef09c447094763rcp1/sku/a47447ea040c4e1d9f27741674d3d4d8p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
