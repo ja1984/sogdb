@@ -11770,6 +11770,63 @@
       "early_access": false,
       "pre_order": true,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to thrive, dominate... and maybe even escape!\nHunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the harsh elements. Use your cunning and resources to kill or tame feral beasts in a dynamic, living ecosystem. Form tribes with or prey on hundreds of other players in a persistent, shared environment.\nExplore the formidable and imposing landscape to discover exotic random creatures and unlock the secret wonders of the ARK!",
+      "genres": [
+        "adventure",
+        "action",
+        "shooter"
+      ],
+      "image_slug": "ark",
+      "slug": "ark-survival-evolved",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "ARK: Survival Evolved",
+      "game_modes": [
+        "single player",
+        "> 1 player online multiplayer",
+        "> 1 player online co-op",
+        "> 1 player competitive",
+        "> 1 player cross-platform multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-08-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/805de0d15b8b4beea63e282aa6f7e8fercp1/sku/83ebd12c0b184c7a8b870c73bc14a7d4p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
