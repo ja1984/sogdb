@@ -284,6 +284,7 @@ export default {
   padding: 3px 6px;
   color: #fff;
   display: flex;
+  text-decoration: none;
 }
 
 .rating__icon {
