@@ -4542,6 +4542,10 @@
         {
           "name": "Ultimate Edition",
           "store_link": "https://stadia.google.com/store/details/b67e43f2b05f4ba7acc56a4b222568aarcp1/sku/da3461df027c4563a7464e9c02222014p"
+        },
+        {
+          "name": "Silent Hill Edition",
+          "store_link": "https://stadia.google.com/store/details/b67e43f2b05f4ba7acc56a4b222568aarcp1/sku/2b07bd23fc3c4c349abaaabb1815e10cp"
         }
       ],
       "countries": [
@@ -11887,6 +11891,65 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "The stop-at-nothing pushing prince is back and ready to reroll! When the King of All Cosmos accidentally destroys all the stars in the sky, he orders you, his pint-sized princely son, to put the twinkle back in the heavens above. Join the King and Prince of Cosmos on their wacky adventure to restore the stars – now in 4K!",
+      "genres": [
+        "casual",
+        "action"
+      ],
+      "image_slug": "darksiders_2",
+      "slug": "darksiders-ii-deathinitive-edition",
+      "languages": [
+        "english",
+        "spanish",
+        "italian",
+        "japanese",
+        "chinese",
+        "korean",
+        "french",
+        "german",
+        "czech",
+        "polish",
+        "russian",
+        "dutch",
+        "portuguese"
+      ],
+      "name": "Darksiders II Deathinitive Edition",
+      "game_modes": ['single player', '2 players local multiplayer', '2 players competitive', '2 players split-screen'
+      ],
+      "rating": -1,
+      "released": "2021-09-06T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/26f5878eb1ac46458bd275469f7a83fdrcp1/sku/333cafe3f7e64f4a878452742b96d45ep",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
