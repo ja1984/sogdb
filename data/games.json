@@ -11923,25 +11923,23 @@
         "casual",
         "action"
       ],
-      "image_slug": "darksiders_2",
-      "slug": "darksiders-ii-deathinitive-edition",
+      "image_slug": "katamari_damacy_reroll",
+      "slug": "katamari-damacy-reroll",
       "languages": [
         "english",
         "spanish",
         "italian",
-        "japanese",
-        "chinese",
-        "korean",
         "french",
         "german",
-        "czech",
-        "polish",
-        "russian",
-        "dutch",
-        "portuguese"
+        "japanese",
+        "korean"
       ],
-      "name": "Darksiders II Deathinitive Edition",
-      "game_modes": ['single player', '2 players local multiplayer', '2 players competitive', '2 players split-screen'
+      "name": "Katamari Damacy REROLL",
+      "game_modes": [
+        "single player",
+        "2 players local multiplayer",
+        "2 players competitive",
+        "2 players split-screen"
       ],
       "rating": -1,
       "released": "2021-09-06T23:00:00.000Z",
@@ -11950,6 +11948,65 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    ,
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Darkwood - a new perspective on survival horror. Scavenge and explore a rich, ever-changing free-roam world by day, then hunker down in your hideout and pray for the morning light.",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "darkwood",
+      "slug": "darkwood",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "russian",
+        "turkish",
+        "chinese",
+        "portuguese",
+        "hungarian",
+        "polish"
+      ],
+      "name": "Darkwood",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-09-06T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/848cb37ae8f64d4cbeddc5f2e290806ercp1/sku/4814de45415b434686ce123c77a4ae39p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
