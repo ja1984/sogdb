@@ -11713,7 +11713,7 @@
         "1-2 players local multiplayer",
         "1-2 players local co-op"
       ],
-      "rating": -1,
+      "rating": 83,
       "released": "2021-08-16T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/39b2419557a4479792c267dffa77fbbfrcp1/sku/33ebd1c3d64a4f2cada04eef16dfcb1fp",
@@ -11949,7 +11949,6 @@
       "pre_order": false,
       "age_rating": "pegi_3"
     },
-    ,
     {
       "expansions": [],
       "countries": [
@@ -12007,6 +12006,178 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Return to an apocalyptic Earth in Darksiders III, a hack-n-slash Action Adventure where players assume the role of FURY in her quest to hunt down and dispose of the Seven Deadly Sins. The most unpredictable and enigmatic of the Four Horsemen, FURY must succeed where many have failed – to bring balance to the forces that now ravage Earth.",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "darksiders_3",
+      "slug": "darksiders-iii",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "portuguese",
+        "polish",
+        "russian",
+        "japanese",
+        "arabic",
+        "chinese",
+        "korean",
+        "persian"
+      ],
+      "name": "Darksiders III",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-09-13T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/d05ef34140f34f5e91f7c2ea9e58b135rcp1/sku/06fd5affa44b4a1fad02cac1937c5492p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Gold Edition",
+          "store_link": "https://stadia.google.com/store/details/ba56dcf3117a4a3a8323f49341f454a4rcp1/sku/4e448349d01b43f881f9b0143d66fad0p"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "The year is 1715. Pirates rule the Caribbean and have established their own lawless Republic where corruption, greediness and cruelty are commonplace.\n\nAmong these outlaws is a brash young captain named Edward Kenway. His fight for glory has earned him the respect of legends like Blackbeard, but also drawn him into the ancient war between Assassins and Templars, a war that may destroy everything the pirates have built.",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "image_slug": "assassins_creed_black_flag",
+      "slug": "assassins-creed-black-flag",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "Assassin's Creed Black Flag",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-09-13T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/d05ef34140f34f5e91f7c2ea9e58b135rcp1/sku/06fd5affa44b4a1fad02cac1937c5492p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "A chaotic crafting game about running a medieval shop. Take ownership of a small shop as you haggle, barter and craft your way through a comical single player campaign or team up with friends to supply the whole town.",
+      "genres": [
+        "arcade",
+        "indie",
+        "kids & family"
+      ],
+      "image_slug": "mereks_market",
+      "slug": "mereks-market",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "name": "Merek's Market",
+      "game_modes": [
+        "single player",
+        "2-4 players local multiplayer",
+        "2-4 players local co-op"
+      ],
+      "rating": -1,
+      "released": "2021-09-13T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/1509dbd662b7403f9497661157b9ca6brcp1/sku/86ce32e71e954f9b8d9c17aad82d50ccp",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
