@@ -12413,7 +12413,12 @@
       "age_rating": "pegi_18"
     },
     {
-      "expansions": [],
+      "expansions": [
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/0301058e2733436484091e5ca27c2298rcp1/sku/86aa05efb4074a549a07fcd685065711p"
+        }
+      ],
       "countries": [
         "belgium",
         "canada",
@@ -12447,7 +12452,7 @@
       "slug": "child-of-light",
       "languages": ["english", "french", "spanish", "german", "chinese (traditional)", "chinese (simplified)", "italian", "japanese", "russian", "portuguese"],
       "name": "Child of Light",
-      "game_modes": ["single player"],
+      "game_modes": ["single player", "1-2 players local co-op"],
       "rating": -1,
       "released": "2021-10-18T23:00:00.000Z",
       "resolution": "unknown",
@@ -12455,6 +12460,51 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Lights, Camera, HEIST! Grab your perfect team and hack, unlock, disguise and explode your way to stealing England's finest tat and treasures. Once you're a master thief, take our tools into your own hands and create your perfect heist!",
+      "genres": [
+        "indie", 
+        "puzzle",
+        "simulation"
+      ],
+      "image_slug": "heist_simulator",
+      "slug": "heist-simulator",
+      "languages": ["english"],
+      "name": "Heist Simulator",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2021-10-18T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/513df9a0ecfd40199e077fc3bb9647f5rcp1/sku/4e716e8f77664c23b83dff3d6f1383e5p",
+      "early_access": true,
+      "pre_order": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
