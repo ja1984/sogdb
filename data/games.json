@@ -12925,7 +12925,80 @@
       "released": "2021-11-02T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/c3ca0eaae154485aa56f0520cd895e4ercp1/sku/0f9fef760eca457c83a784feed6ccf9ap",
+      "early_access": false,
+      "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "Surf the waters of a submerged city! Fight gigantic sea monsters, save your neighbors and uncover the secrets hidden under the surface.\nExplore the open sea and the decaying archipelago of Strandville in Wavetale, a story-driven action-adventure game introducing you to fed-up fishermen, secretive hermits—and maybe a pirate or two. Traverse calm waters and surging waves as Sigrid, a young girl who befriends a mysterious shadow that provides her with the power to walk on water.\nSpeed through the waves, swing yourself from housetops with your net, and defeat monstrous enemies to save the citizens of the islands. All with a little help from the shadows down below—and your cranky grandmother.",
+      "genres": [
+        "adventure"
+      ],
+      "image_slug": "wavetale",
+      "slug": "wavetale",
+      "languages": ["german", "english", "spanish", "french", "italian", "finnish", "swedish", "norwegian", "danish", "russian", "portuguese", "korean", "japanese"],
+      "name": "Wavetale",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2021-11-09T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/68297438f4ca40828f91b31db3ce746ercp1/sku/32da1095f7c642aeb90ed11e4e7fbae9p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "The eighth installment of the beloved Jackbox Party Pack franchise is here! Five hilarious new games will energize your next game night, holiday party, happy hour, or video call. No extra controllers needed – players use their phones or tablets to play along! Got a bigger group? Play with up to 10 players and up to 10,000 audience members. The Jackbox Party Pack 8 is currently in English only. This game does not support online matchmaking but can still be enjoyed remotely using livestreaming services or video conferencing tools.",
+      "genres": [
+        "party"
+      ],
+      "image_slug": "the_jackbox_party_pack_8",
+      "slug": "the-jackbox-party-pack-8",
+      "languages": ["english"],
+      "name": "The Jackbox Party Pack 8",
+      "game_modes": ["single player", "> 1 player local multiplayer"],
+      "rating": -1,
+      "released": "2021-11-15T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/5553fb6e89514ca48891044b8e0ef47frcp1/sku/a7e437c89a304460a6ff78437ce0e222p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": true,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
