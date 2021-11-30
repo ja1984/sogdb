@@ -12505,6 +12505,50 @@
       "early_access": true,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Ben and his family are relaxing on a European vacation – until evil magician Hex uses ancient magic to summon monsters from the Void! Now it’s up to you to break Hex’s curse, in a thrilling 3D Ben 10 adventure. So put on the Omnitrix and transform into powerful aliens, as you take on deadly enemies in thrilling combat. Solve puzzles and power-up your aliens. And freely explore the towns and landscapes of Europe on your way to the final showdown with Hex. With Kevin Levin ready to join in co-op at any time, this is one Power Trip you won’t forget!",
+      "genres": [
+        "action", 
+        "adventure"
+      ],
+      "image_slug": "ben_10_power_trip",
+      "slug": "ben-10-power-trip",
+      "languages": ["german", "english", "spanish", "french", "italian", "russian", "breton", "chinese", "portuguese", "polish", "japanese"],
+      "name": "Ben 10: Power Trip",
+      "game_modes": ["single player", "2 players local multiplayer", "2 players local co-op", "2 players split-screen"],
+      "rating": -1,
+      "released": "2021-10-20T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/35cbf2108a6c4f1a982076cd41252112rcp1/sku/44dba86793ec43fbba5da667c631b2cdp",
+      "early_access": true,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
