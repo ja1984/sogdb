@@ -13083,6 +13083,46 @@
       "free_trial": false,
       "ubisoft_plus": true,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "It's open season! In stunning natural environments, choose your gear from the best official weapons and accessories and set off with your dog in search of a variety of animal species in this open-world hunting simulation.",
+      "genres": [
+        "shooter",
+        "simulation"
+      ],
+      "image_slug": "hunting_simulator_2_elite_edition",
+      "slug": "hunting-simulator-2-elite-edition",
+      "languages": ["english", "french", "german", "spanish", "italian", "portuguese", "chinese (simplified)", "chinese (traditional)", "japanese", "korean", "polish", "russian"],
+      "name": "Hunting Simulator 2 Elite Edition",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-11-29T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/51fb212122da4f78ab3afc79dff66dd3rcp1/sku/5352cfaa2bf84bf498d23c34b412c1bap",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
