@@ -12216,7 +12216,17 @@
       ],
       "image_slug": "dreamworks_spirit",
       "slug": "dreamworks-spirit-luckys-big-adventure",
-      "languages": ["german", "english", "spanish", "french","italian","dutch","chinese", "arabic", "korean"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "dutch",
+        "chinese",
+        "arabic",
+        "korean"
+      ],
       "name": "DreamWorks Spirit Lucky's Big Adventure",
       "game_modes": [
         "single player"
@@ -12262,7 +12272,21 @@
       ],
       "image_slug": "mafia_3",
       "slug": "mafia-iii-definitive-edition",
-      "languages": ["german", "english", "french", "italian", "spanish", "czech", "japanese", "korean", "polish", "portuguese", "russian", "chinese (simplified)", "chinese (traditional)"],
+      "languages": [
+        "german",
+        "english",
+        "french",
+        "italian",
+        "spanish",
+        "czech",
+        "japanese",
+        "korean",
+        "polish",
+        "portuguese",
+        "russian",
+        "chinese (simplified)",
+        "chinese (traditional)"
+      ],
       "name": "Mafia III: Definitive Edition",
       "game_modes": [
         "single player"
@@ -12307,9 +12331,20 @@
       ],
       "image_slug": "addams_family",
       "slug": "the-addams-family-mansion-mayhem",
-      "languages": ["german", "english", "french", "italian", "spanish"],
+      "languages": [
+        "german",
+        "english",
+        "french",
+        "italian",
+        "spanish"
+      ],
       "name": "The Addams Family: Mansion Mayhem",
-      "game_modes": ["single player", "> 1 player local multiplayer", "> 1 player local co-op", "> 1 player competitive"],
+      "game_modes": [
+        "single player",
+        "> 1 player local multiplayer",
+        "> 1 player local co-op",
+        "> 1 player competitive"
+      ],
       "rating": -1,
       "released": "2021-09-30T23:00:00.000Z",
       "resolution": "unknown",
@@ -12322,7 +12357,7 @@
       "expansions": [
         {
           "name": "Warrior Edition",
-          "store_link": "https://stadia.google.com/store/details/b7be5151de924478ab54ef9afeee4826rcp1/sku/51cd13c0dbbf463baf31d1caa65ab92cp" 
+          "store_link": "https://stadia.google.com/store/details/b7be5151de924478ab54ef9afeee4826rcp1/sku/51cd13c0dbbf463baf31d1caa65ab92cp"
         }
       ],
       "countries": [
@@ -12357,9 +12392,19 @@
       ],
       "image_slug": "the_falconeer",
       "slug": "the-falconeer",
-      "languages": ["english", "spanish", "french", "german", "italian", "polish", "portuguese"],
+      "languages": [
+        "english",
+        "spanish",
+        "french",
+        "german",
+        "italian",
+        "polish",
+        "portuguese"
+      ],
       "name": "The Falconeer",
-      "game_modes": ["single player"],
+      "game_modes": [
+        "single player"
+      ],
       "rating": -1,
       "released": "2021-10-04T23:00:00.000Z",
       "resolution": "unknown",
@@ -12401,9 +12446,25 @@
       ],
       "image_slug": "assassins_creed_rogue",
       "slug": "assassins-creed-rogue-remastered",
-      "languages": ["english", "french", "italian", "german", "spanish", "chinese (simplified)", "chinese (traditional)", "dutch", "japanese", "korean", "polish", "portuguese", "russian"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "chinese (simplified)",
+        "chinese (traditional)",
+        "dutch",
+        "japanese",
+        "korean",
+        "polish",
+        "portuguese",
+        "russian"
+      ],
       "name": "Assassin's Creed Rogue Remastered",
-      "game_modes": ["single player"],
+      "game_modes": [
+        "single player"
+      ],
       "rating": -1,
       "released": "2021-10-04T23:00:00.000Z",
       "resolution": "unknown",
@@ -12445,14 +12506,28 @@
       ],
       "description": "Aurora, a young girl from 1895 Austria, awakens on the lost fairytale continent of Lemuria. To return home she must fight against the dark creatures of the Queen of the Night, who have stolen the sun, the moon and the stars. AN ADVENTURE AWAITS!\nCreated by a talented team at Ubisoft Montreal using the UbiArt Framework, Child of Light is an RPG inspired by fairy tales complemented with a story carefully crafted in verse and rhyme. Step into a living painting, the breathtaking scenery of Lemuria is an invitation to explore a long lost world.",
       "genres": [
-        "role-playing", 
+        "role-playing",
         "puzzle"
       ],
       "image_slug": "child_of_light",
       "slug": "child-of-light",
-      "languages": ["english", "french", "spanish", "german", "chinese (traditional)", "chinese (simplified)", "italian", "japanese", "russian", "portuguese"],
+      "languages": [
+        "english",
+        "french",
+        "spanish",
+        "german",
+        "chinese (traditional)",
+        "chinese (simplified)",
+        "italian",
+        "japanese",
+        "russian",
+        "portuguese"
+      ],
       "name": "Child of Light",
-      "game_modes": ["single player", "1-2 players local co-op"],
+      "game_modes": [
+        "single player",
+        "1-2 players local co-op"
+      ],
       "rating": -1,
       "released": "2021-10-18T23:00:00.000Z",
       "resolution": "unknown",
@@ -12489,15 +12564,19 @@
       ],
       "description": "Lights, Camera, HEIST! Grab your perfect team and hack, unlock, disguise and explode your way to stealing England's finest tat and treasures. Once you're a master thief, take our tools into your own hands and create your perfect heist!",
       "genres": [
-        "indie", 
+        "indie",
         "puzzle",
         "simulation"
       ],
       "image_slug": "heist_simulator",
       "slug": "heist-simulator",
-      "languages": ["english"],
+      "languages": [
+        "english"
+      ],
       "name": "Heist Simulator",
-      "game_modes": ["single player"],
+      "game_modes": [
+        "single player"
+      ],
       "rating": -1,
       "released": "2021-10-18T23:00:00.000Z",
       "resolution": "unknown",
@@ -12534,14 +12613,31 @@
       ],
       "description": "Ben and his family are relaxing on a European vacation – until evil magician Hex uses ancient magic to summon monsters from the Void! Now it’s up to you to break Hex’s curse, in a thrilling 3D Ben 10 adventure. So put on the Omnitrix and transform into powerful aliens, as you take on deadly enemies in thrilling combat. Solve puzzles and power-up your aliens. And freely explore the towns and landscapes of Europe on your way to the final showdown with Hex. With Kevin Levin ready to join in co-op at any time, this is one Power Trip you won’t forget!",
       "genres": [
-        "action", 
+        "action",
         "adventure"
       ],
       "image_slug": "ben_10_power_trip",
       "slug": "ben-10-power-trip",
-      "languages": ["german", "english", "spanish", "french", "italian", "russian", "breton", "chinese", "portuguese", "polish", "japanese"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "russian",
+        "breton",
+        "chinese",
+        "portuguese",
+        "polish",
+        "japanese"
+      ],
       "name": "Ben 10: Power Trip",
-      "game_modes": ["single player", "2 players local multiplayer", "2 players local co-op", "2 players split-screen"],
+      "game_modes": [
+        "single player",
+        "2 players local multiplayer",
+        "2 players local co-op",
+        "2 players split-screen"
+      ],
       "rating": -1,
       "released": "2021-10-20T23:00:00.000Z",
       "resolution": "unknown",
@@ -12578,14 +12674,22 @@
       ],
       "description": "Have a fun-filled adventure by becoming Peppa Pig’s new friend! Create and dress your character, ring Peppa’s doorbell, and begin a story that’s all up to you. Peppa suggests activities everywhere you go – help Daddy Pig find his glasses, follow the animal tracks in the Forest, splash in muddy puddles, and much more! It’s just like being in an episode of the TV show, where all your favorite characters are excited to meet you. From the Beach to the Museum and even Potato City, every playtime is a new experience with your friend Peppa Pig.",
       "genres": [
-        "adventure", 
+        "adventure",
         "kids & family"
       ],
       "image_slug": "my_friend_peppa_pig",
       "slug": "my-friend-peppa-pig",
-      "languages": ["german", "english", "spanish", "french", "italian"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
       "name": "My Friend Peppa Pig",
-      "game_modes": ["single player"],
+      "game_modes": [
+        "single player"
+      ],
       "rating": -1,
       "released": "2021-10-21T23:00:00.000Z",
       "resolution": "unknown",
@@ -12631,14 +12735,31 @@
       ],
       "description": "Relive the story of Goku and other Z Fighters in DRAGON BALL Z: KAKAROT! Beyond the epic battles, experience life in the DRAGON BALL Z world as you fight, fish, eat, and train with Goku, Gohan, Vegeta and others. Explore the new areas and adventures as you advance through the story and form powerful bonds with other heroes from the DRAGON BALL Z universe.",
       "genres": [
-        "action", 
+        "action",
         "role-playing"
       ],
       "image_slug": "dragon_ball_z_kakarot",
       "slug": "dragon-ball-z-kakarot",
-      "languages": ["arabic", "german", "english", "spanish", "french", "italian", "japanese", "korean", "polish", "portuguese", "russian", "thai", "chinese (china)", "chinese (taiwan)"],
+      "languages": [
+        "arabic",
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "japanese",
+        "korean",
+        "polish",
+        "portuguese",
+        "russian",
+        "thai",
+        "chinese (china)",
+        "chinese (taiwan)"
+      ],
       "name": "DRAGON BALL Z: KAKAROT",
-      "game_modes": ["single player"],
+      "game_modes": [
+        "single player"
+      ],
       "rating": -1,
       "released": "2021-10-25T23:00:00.000Z",
       "resolution": "unknown",
@@ -12680,9 +12801,17 @@
       ],
       "image_slug": "pj_masks_heroes_of_the_night",
       "slug": "pj-masks-heroes-of-the-night",
-      "languages": ["german", "english", "spanish", "french", "italian"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
       "name": "PJ Masks: Heroes of the Night",
-      "game_modes": ["single player"],
+      "game_modes": [
+        "single player"
+      ],
       "rating": -1,
       "released": "2021-10-28T23:00:00.000Z",
       "resolution": "unknown",
@@ -12724,9 +12853,21 @@
       ],
       "image_slug": "saints_row_iv",
       "slug": "saints-row-iv-re-elected",
-      "languages": ["german", "english", "spanish", "french", "italian", "polish", "russian", "japanese"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "polish",
+        "russian",
+        "japanese"
+      ],
       "name": "Saints Row IV: Re-Elected",
-      "game_modes": ["1-2 players online multiplayer", "1-2 players online co-op"],
+      "game_modes": [
+        "1-2 players online multiplayer",
+        "1-2 players online co-op"
+      ],
       "rating": -1,
       "released": "2021-10-31T23:00:00.000Z",
       "resolution": "unknown",
@@ -12734,6 +12875,57 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "Just Dance® 2022, the ultimate dance game, is back with new universes and 40 hot new tracks from chart-topping hits like 'Believer' by Imagine Dragons, 'Level Up' by Ciara, and more!\nLooking for the perfect game to dance to the latest hits and share some fun with friends and family? Just Dance 2022 is for you!",
+      "genres": [
+        "action",
+        "music or rhythm"
+      ],
+      "image_slug": "just_dance_2022",
+      "slug": "just-dance-2022",
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "dutch",
+        "danish",
+        "finnish",
+        "norwegian",
+        "swedish",
+        "russian",
+        "portuguese",
+        "chinese (simplified)",
+        "chinese (traditional)",
+        "japanese",
+        "korean"
+      ],
+      "name": "Just Dance 2022",
+      "game_modes": ["single player", "2-6 players local multiplayer", "> 1 player online multiplayer", "2-6 players local co-op", "> 2 players competitive", "> 1 player cross-platform multiplayer"],
+      "rating": -1,
+      "released": "2021-11-02T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/c3ca0eaae154485aa56f0520cd895e4ercp1/sku/0f9fef760eca457c83a784feed6ccf9ap",
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
