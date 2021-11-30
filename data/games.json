@@ -10838,6 +10838,8 @@
       "store_link": "https://stadia.google.com/store/details/a173ab7957e243d5a2a5668c6edd94b6rcp1/sku/eaef5f5d5fbe4901bf834a0653d55a1cp",
       "early_access": false,
       "pre_order": true,
+      "free_trial": 120,
+      "ubisoft_plus": true,
       "age_rating": "pegi_12"
     },
     {
@@ -13029,7 +13031,7 @@
       "store_link": "https://stadia.google.com/store/details/5553fb6e89514ca48891044b8e0ef47frcp1/sku/a7e437c89a304460a6ff78437ce0e222p",
       "early_access": false,
       "pre_order": false,
-      "free_trial": true,
+      "free_trial": 30,
       "age_rating": "pegi_12"
     },
     {

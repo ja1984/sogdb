@@ -23,8 +23,8 @@
           <div v-if="game.ubisoft_plus" class="ubisoft-plus" aria-label="Free with Ubisoft+" data-balloon-pos="left">
             <img src="@/assets/ubisoft_plus.png" class="ubisoft-plus__icon">
           </div>
-          <div v-if="hasFreeTrial" class="pre-order" aria-label="Play full game for 30 minutes" data-balloon-pos="left">
-            FREE TRIAL
+          <div v-if="hasFreeTrial" class="pre-order" :aria-label="`Play full game for ${game.free_trial} minutes`" data-balloon-pos="left">
+            FREE TRIAL {{ game.free_trial }} MINUTES
           </div>
         </div>
         <div class="game__details">
