@@ -12690,6 +12690,50 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "You are the President of the United States of America, and you must save all of us on Earth.\nThe Boss of the Saints has been elected to the Presidency of the United States but the Saints are just getting started.\nAfter a catastrophic alien invasion of Earth, led by the evil Overlord Zinyak, the Saints have been transported to a bizarro-Steelport simulation. With homies new and old at their side, and an arsenal of superpowers and strange weapons, they must fight to free humanity from alien granddaddy Zinyak’s mental grasp.",
+      "genres": [
+        "action",
+        "shooter"
+      ],
+      "image_slug": "saints_row_iv",
+      "slug": "saints-row-iv-re-elected",
+      "languages": ["german", "english", "spanish", "french", "italian", "polish", "russian", "japanese"],
+      "name": "Saints Row IV: Re-Elected",
+      "game_modes": ["1-2 players online multiplayer", "1-2 players online co-op"],
+      "rating": -1,
+      "released": "2021-10-31T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/5325f670b13d4c959123c437948d1834rcp1/sku/fafc0429262e4930b682a7e02365e8cep",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
