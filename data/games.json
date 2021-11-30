@@ -12399,8 +12399,8 @@
         "action",
         "adventure"
       ],
-      "image_slug": "the_falconeer",
-      "slug": "the-falconeer",
+      "image_slug": "assassins_creed_rogue",
+      "slug": "assassins-creed-rogue-remastered",
       "languages": ["english", "french", "italian", "german", "spanish", "chinese (simplified)", "chinese (traditional)", "dutch", "japanese", "korean", "polish", "portuguese", "russian"],
       "name": "Assassin's Creed Rogue Remastered",
       "game_modes": ["single player"],
@@ -12411,6 +12411,50 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Aurora, a young girl from 1895 Austria, awakens on the lost fairytale continent of Lemuria. To return home she must fight against the dark creatures of the Queen of the Night, who have stolen the sun, the moon and the stars. AN ADVENTURE AWAITS!\nCreated by a talented team at Ubisoft Montreal using the UbiArt Framework, Child of Light is an RPG inspired by fairy tales complemented with a story carefully crafted in verse and rhyme. Step into a living painting, the breathtaking scenery of Lemuria is an invitation to explore a long lost world.",
+      "genres": [
+        "role-playing", 
+        "puzzle"
+      ],
+      "image_slug": "child_of_light",
+      "slug": "child-of-light",
+      "languages": ["english", "french", "spanish", "german", "chinese (traditional)", "chinese (simplified)", "italian", "japanese", "russian", "portuguese"],
+      "name": "Child of Light",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2021-10-18T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/0301058e2733436484091e5ca27c2298rcp1/sku/35ea62f0089f4b91a5830a0149052a10p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
