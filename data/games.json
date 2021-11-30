@@ -12228,6 +12228,52 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Part three of the Mafia crime saga - 1968, New Bordeaux, LA.\n\nAfter years of combat in Vietnam, Lincoln Clay knows this truth: family isn’t who you’re born with, it’s who you die for. When his surrogate family, the black mob, is betrayed and killed by the Italian Mafia, Lincoln builds a new family on the ashes of the old and blazes a path of military-grade revenge through the Mafioso responsible.",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "mafia_3",
+      "slug": "mafia-iii-definitive-edition",
+      "languages": ["german", "english", "french", "italian", "spanish", "czech", "japanese", "korean", "polish", "portuguese", "russian", "chinese (simplified)", "chinese (traditional)"],
+      "name": "Mafia III: Definitive Edition",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-09-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/9092c5ed87224f3e8a277dac0479874frcp1/sku/5be0350274a142b1acbfa2a958d494f9",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
