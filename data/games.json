@@ -12274,6 +12274,49 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Family game night is about to get terrifyingly exciting! Only you and your friends can help Wednesday, Pugsley, Gomez, and Morticia save the Addams Family Mansion in this horrifyingly hilarious 3D adventure for up to four players. The mansion is full of spooky scares – but can you discover its hair-raising secrets and save it from an unexpected threat? Use each iconic character’s abilities to explore the house, solve puzzles, and find lost relics. Play competitive minigames that will have you bumping and jumping over each other to win.",
+      "genres": [
+        "adventure"
+      ],
+      "image_slug": "addams_family",
+      "slug": "the-addams-family-mansion-mayhem",
+      "languages": ["german", "english", "french", "italian", "spanish"],
+      "name": "The Addams Family: Mansion Mayhem",
+      "game_modes": ["single player", "> 1 player local multiplayer", "> 1 player local co-op", "> 1 player competitive"],
+      "rating": -1,
+      "released": "2021-09-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/06a1ece9dfdd42f3871af2735d688a34rcp1/sku/d42710e86fa142b2bb2f4ebb8a3d6dd1p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
