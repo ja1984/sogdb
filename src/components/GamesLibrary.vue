@@ -121,6 +121,20 @@
                     <span class="checkbox__label">Show only PRO games</span>
                   </label>
                 </div>
+                <div class="column">
+                  <label class="checkbox">
+                    <input v-model="filterFreeTrial" type="checkbox" class="form-input" />
+                    <div class="checkbox-box" />
+                    <span class="checkbox__label">Show only games with free trial</span>
+                  </label>
+                </div>
+                <div class="column">
+                  <label class="checkbox">
+                    <input v-model="filterUbisoftPlus" type="checkbox" class="form-input" />
+                    <div class="checkbox-box" />
+                    <span class="checkbox__label">Show only Ubisoft+ games</span>
+                  </label>
+                </div>
               </div>
             </div>
             <div class="rating genres">
@@ -329,6 +343,8 @@ export default {
       gameModesFilterOptions: ['single player', 'split screen', 'online multiplayer', 'local co-op', 'online co-op', 'local multiplayer', 'competitive', 'cross platform multiplayer'],
       lastUpdate: null,
       filterProGames: false,
+      filterFreeTrial: false,
+      filterUbisoftPlus: false,
       myGames: [],
       filterMyGames: false,
       showSmallCards: false,
@@ -376,6 +392,14 @@ export default {
       if (this.filterProGames) {
         games = games.filter((x) => x.is_pro);
       }
+      if(this.filterFreeTrial) {
+        games = games.filter((x) => x.free_trial);
+      }
+      
+      if(this.filterUbisoftPlus) {
+        games = games.filter((x) => x.ubisoft_plus);
+      }
+      
       if (this.rating > 0) {
         games = games
           .filter((x) => (x.rating || 0) >= this.rating);
