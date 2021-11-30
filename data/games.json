@@ -12319,7 +12319,12 @@
       "age_rating": "pegi_7"
     },
     {
-      "expansions": [],
+      "expansions": [
+        {
+          "name": "Warrior Edition",
+          "store_link": "https://stadia.google.com/store/details/b7be5151de924478ab54ef9afeee4826rcp1/sku/51cd13c0dbbf463baf31d1caa65ab92cp" 
+        }
+      ],
       "countries": [
         "belgium",
         "canada",
@@ -12362,6 +12367,50 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Created by Ubisoft Sofia, the studio that developed the original Assassin’s Creed® Rogue, Assassin’s Creed® Rogue Remastered will offer an even more beautiful and immersive gaming experience that invites fans of the series and new players alike to discover or rediscover Shay’s adventures in 18th-century North America. Experience the darkest chapter in Assassin's Creed® lore yet. Assume the role of Shay, an Assassin during the French and Indian War, and witness the cataclysmic events that force him to betray the Brotherhood.",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "the_falconeer",
+      "slug": "the-falconeer",
+      "languages": ["english", "french", "italian", "german", "spanish", "chinese (simplified)", "chinese (traditional)", "dutch", "japanese", "korean", "polish", "portuguese", "russian"],
+      "name": "Assassin's Creed Rogue Remastered",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2021-10-04T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/1aca0f17682540698822de0419062511rcp1/sku/5ecda5b0bb8e49d28596eaa3fedc14eap",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
