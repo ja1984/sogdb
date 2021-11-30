@@ -12317,6 +12317,51 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala.\nYou take on the role of Falconeer, a powerful airborne warrior traversing a vast oceanic world torn apart by generations of poisonous decisions and dissent. Throughout multiple campaigns, you will experience life from many different perspectives and loyalties as you embark on a journey of discovery, and solve the mystery of the Ursee, its people and history.",
+      "genres": [
+        "indie",
+        "action",
+        "shooter"
+      ],
+      "image_slug": "the_falconeer",
+      "slug": "the-falconeer",
+      "languages": ["english", "spanish", "french", "german", "italian", "polish", "portuguese"],
+      "name": "The Falconeer",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2021-10-04T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/b7be5151de924478ab54ef9afeee4826rcp1/sku/51cd13c0dbbf463baf31d1caa65ab92cp",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
