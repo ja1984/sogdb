@@ -20,27 +20,26 @@
     "vue-slide-toggle": "^1.1.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.2.0",
-    "@vue/cli-plugin-eslint": "^4.2.0",
     "@vue/cli-service": "^4.2.0",
-    "@vue/eslint-config-airbnb": "^5.0.2",
+    "@vue/eslint-config-airbnb": "6.0.0",
     "eslint-plugin-import": "^2.20.1",
-    "eslint-plugin-vue": "^6.1.2",
+    "eslint-plugin-vue": "8.1.1",
     "metacritic": "0.0.11",
     "vue-template-compiler": "^2.6.11",
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.10",
-    "@nuxtjs/eslint-config": "3.0.0",
-    "@nuxtjs/eslint-module": "2.0.0",
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "10.1.0",
-    "eslint": "7.1.0",
-    "eslint-config-airbnb-base": "14.1.0",
     "eslint-import-resolver-nuxt": "1.0.1",
     "eslint-import-resolver-webpack": "^0.12.1",
-    "eslint-plugin-nuxt": "1.0.0",
+    "@babel/eslint-parser": "7.16.3",
+    "@nuxtjs/eslint-config": "7.0.0",
+    "@nuxtjs/eslint-module": "3.0.2",
+    "eslint": "8.3.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-plugin-nuxt": "3.0.0",
     "less": "^3.11.2",
     "less-loader": "^6.1.0",
-    "vue-eslint-parser": "7.1.0"
+    "vue-eslint-parser": "8.0.1"
   }
 }

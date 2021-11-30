@@ -12920,7 +12920,14 @@
         "korean"
       ],
       "name": "Just Dance 2022",
-      "game_modes": ["single player", "2-6 players local multiplayer", "> 1 player online multiplayer", "2-6 players local co-op", "> 2 players competitive", "> 1 player cross-platform multiplayer"],
+      "game_modes": [
+        "single player",
+        "2-6 players local multiplayer",
+        "> 1 player online multiplayer",
+        "2-6 players local co-op",
+        "> 2 players competitive",
+        "> 1 player cross-platform multiplayer"
+      ],
       "rating": -1,
       "released": "2021-11-02T23:00:00.000Z",
       "resolution": "unknown",
@@ -12953,9 +12960,25 @@
       ],
       "image_slug": "wavetale",
       "slug": "wavetale",
-      "languages": ["german", "english", "spanish", "french", "italian", "finnish", "swedish", "norwegian", "danish", "russian", "portuguese", "korean", "japanese"],
+      "languages": [
+        "german",
+        "english",
+        "spanish",
+        "french",
+        "italian",
+        "finnish",
+        "swedish",
+        "norwegian",
+        "danish",
+        "russian",
+        "portuguese",
+        "korean",
+        "japanese"
+      ],
       "name": "Wavetale",
-      "game_modes": ["single player"],
+      "game_modes": [
+        "single player"
+      ],
       "rating": -1,
       "released": "2021-11-09T23:00:00.000Z",
       "resolution": "unknown",
@@ -12988,9 +13011,14 @@
       ],
       "image_slug": "the_jackbox_party_pack_8",
       "slug": "the-jackbox-party-pack-8",
-      "languages": ["english"],
+      "languages": [
+        "english"
+      ],
       "name": "The Jackbox Party Pack 8",
-      "game_modes": ["single player", "> 1 player local multiplayer"],
+      "game_modes": [
+        "single player",
+        "> 1 player local multiplayer"
+      ],
       "rating": -1,
       "released": "2021-11-15T23:00:00.000Z",
       "resolution": "unknown",
@@ -12999,6 +13027,62 @@
       "pre_order": false,
       "free_trial": true,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "The Glade of Dreams is in trouble once again! During a 100-year nap, the nightmares multiplied and spread, creating new monsters even more terrifying than before! These creatures are the stuff of legend… Dragons, giant toads, sea monsters, and even evil luchadores. With the help of Murfy, Rayman and Globox awake and must now help fight these nightmares and save the Teensies!",
+      "genres": [
+        "adventure"
+      ],
+      "image_slug": "rayman_legends",
+      "slug": "rayman-legends",
+      "languages": [
+        "danish",
+        "german",
+        "english",
+        "finnish",
+        "french",
+        "spanish",
+        "italian",
+        "japanese",
+        "portuguese",
+        "polish",
+        "russian",
+        "norwegian",
+        "dutch",
+        "swedish",
+        "chinese (simplified)"
+      ],
+      "name": "Rayman Legends",
+      "game_modes": [
+        "single player",
+        "1-4 players local co-op"
+      ],
+      "rating": -1,
+      "released": "2021-11-22T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/14b4e92868c9412ca7fd4ea88d733b2arcp1/sku/883dc42e337c4d1c95c08d3585491ee3p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": true,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
