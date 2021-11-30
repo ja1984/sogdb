@@ -12646,6 +12646,50 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Who goes into the night to save the day? You do! Get your PJs on and become Catboy, Owlette, and Gekko in the most exciting PJ Masks game yet. Set off from Mission Control HQ on a platforming adventure for little heroes. Use your superpowers – like Catboy’s speed, Owlette’s flying, and Gekko’s muscles – to stop the night-time baddies. And explore eight PJ Masks locations, from Mystery Mountain all the way to Moon! With PJ Robot’s help, you’ll discover a world of friendship, teamwork, and secret collectibles. Can you save the world from Romeo, Luna Girl, and Night Ninja?",
+      "genres": [
+        "adventure",
+        "kids & family"
+      ],
+      "image_slug": "pj_masks_heroes_of_the_night",
+      "slug": "pj-masks-heroes-of-the-night",
+      "languages": ["german", "english", "spanish", "french", "italian"],
+      "name": "PJ Masks: Heroes of the Night",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2021-10-28T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/7eb71ccf6f374859909aacc5afb8264arcp1/sku/f3b6a2044492484ba3d6a068cc7dec61p",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
