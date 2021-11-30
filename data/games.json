@@ -10631,7 +10631,7 @@
       "released": "2021-06-21T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/e85d550899de407e996a8a2d9dfbc7efrcp1/sku/4db0c5af19c74032beb90d083dfb9431p",
-      "early_access": true,
+      "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_7"
     },
@@ -12593,6 +12593,59 @@
       "early_access": false,
       "pre_order": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [
+        {
+          "name": "Ultimate Edition",
+          "store_link": "https://stadia.google.com/store/details/8275f275454340d78fb746ba97b6b8earcp1/sku/01c28aa540ab406b9b99c19916480161p"
+        },
+        {
+          "name": "Deluxe Edition",
+          "store_link": "https://stadia.google.com/store/details/8275f275454340d78fb746ba97b6b8earcp1/sku/8d43324e057c4a4d9a47dd768742e9dcp"
+        }
+      ],
+      "countries": [
+        "belgium",
+        "canada",
+        "denmark",
+        "finland",
+        "france",
+        "germany",
+        "ireland",
+        "italy",
+        "netherlands",
+        "norway",
+        "spain",
+        "sweden",
+        "united kingdom",
+        "united states",
+        "austria",
+        "czechia",
+        "poland",
+        "portugal",
+        "romania",
+        "slovakia",
+        "switzerland",
+        "hungary"
+      ],
+      "description": "Relive the story of Goku and other Z Fighters in DRAGON BALL Z: KAKAROT! Beyond the epic battles, experience life in the DRAGON BALL Z world as you fight, fish, eat, and train with Goku, Gohan, Vegeta and others. Explore the new areas and adventures as you advance through the story and form powerful bonds with other heroes from the DRAGON BALL Z universe.",
+      "genres": [
+        "action", 
+        "role-playing"
+      ],
+      "image_slug": "dragon_ball_z_kakarot",
+      "slug": "dragon-ball-z-kakarot",
+      "languages": ["arabic", "german", "english", "spanish", "french", "italian", "japanese", "korean", "polish", "portuguese", "russian", "thai", "chinese (china)", "chinese (taiwan)"],
+      "name": "DRAGON BALL Z: KAKAROT",
+      "game_modes": ["single player"],
+      "rating": -1,
+      "released": "2021-10-25T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/8275f275454340d78fb746ba97b6b8earcp1/sku/8f006ae6f46648649e58b865b89b165ap",
+      "early_access": false,
+      "pre_order": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
