@@ -20,9 +20,6 @@
         <div class="badge">
           <div v-if="isEarlyAccess" class="early-access">EARLY ACCESS</div>
           <div v-if="isPreOrder" class="pre-order">PRE-ORDER</div>
-          <div v-if="game.ubisoft_plus" class="ubisoft-plus" aria-label="Free with Ubisoft+" data-balloon-pos="left">
-            <img src="@/assets/ubisoft_plus.png" class="ubisoft-plus__icon">
-          </div>
           <div v-if="hasFreeTrial" class="pre-order" :aria-label="`Play full game for ${game.free_trial} minutes`" data-balloon-pos="left">
             FREE TRIAL {{ game.free_trial }} MINUTES
           </div>
@@ -30,6 +27,9 @@
         <div class="game__details">
           <div v-if="game.is_pro" class="game-badge">
             <img src="@/assets/pro.png">
+          </div>
+          <div v-if="game.ubisoft_plus">
+            <img src="@/assets/ubisoft_plus.png" class="ubisoft-plus__icon">
           </div>
           <span class="game__name">{{ game.name }}</span>
           <span class="game__details__information">{{ resolution }}</span>
@@ -400,9 +400,10 @@ export default {
 }
 
 .ubisoft-plus__icon {
-  height: 10px;
+  height: 11px;
   width: auto;
   display: block;
+  margin-bottom: 3px;
 }
 
 .players {
