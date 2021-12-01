@@ -339,6 +339,7 @@
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/8b7e7f7036e5483eaa8745d46248536crcp1/sku/6760aad6e75b4edc9686c48e8dd38936",
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -506,6 +507,7 @@
       "released": "2019-12-17T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/11c9ece5b3a045908d77cf2b66adb010rcp1/sku/06e101d56a03472bb6c204aee96187d7",
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -751,6 +753,7 @@
       "released": "2019-11-18T23:00:00.000Z",
       "resolution": "4k60",
       "store_link": "https://stadia.google.com/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/01e95e73256c465fb5620fc574446413",
+      "ubisoft_plus": true,
       "age_rating": "pegi_12"
     },
     {
@@ -1679,6 +1682,7 @@
       "released": "2020-03-16T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/bed63eac149542078fa5b9d6f20f5f2f",
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -1793,6 +1797,7 @@
       "released": "2020-03-24T23:00:00.000Z",
       "resolution": "4k30",
       "store_link": "https://stadia.google.com/store/details/cc97434908874852a6705d255a605dc8rcp1/sku/94db678cbb6342c3bc0e58f71130b3fb",
+      "ubisoft_plus": true,
       "age_rating": "pegi_12"
     },
     {
@@ -2122,6 +2127,7 @@
       "released": "2020-04-27T22:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/10b8a9cc8ec746f29afc1fc3c3ded28brcp1/sku/256f320f886b4ee68b7980d6fc1bd1b1",
+      "ubisoft_plus": true,
       "age_rating": "pegi_3"
     },
     {
@@ -4247,6 +4253,7 @@
       "store_link": "https://stadia.google.com/store/details/1694aaa3968344228424092f180a3e0ercp1/sku/c147fbe82f394c11bbe41ee134d4f350",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_3"
     },
     {
@@ -5187,6 +5194,7 @@
       "store_link": "https://stadia.google.com/store/details/7d9beb13648d44839b9aeea7555c37c0rcp1/sku/b446084511c54da8a9b3381be38255c7p",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -5254,6 +5262,7 @@
       "store_link": "https://stadia.google.com/store/details/a2a4ff75e249404a975db7ae5f77e536rcp1/sku/f500f7d58be94fa389e1cdef3bf1118ep",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -5632,6 +5641,7 @@
       "store_link": "https://stadia.google.com/store/details/a1ce1274a83244f1a099bebef7ae1233rcp1/sku/e609b00ee98d4e0e9a5eb80789db566cp",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -6733,6 +6743,7 @@
       "store_link": "https://stadia.google.com/store/details/b7503867ccbc4ac7be7093fe3ba1523crcp1/sku/426d9b3d67b84b359c71606ef2672cbdp",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -6800,6 +6811,7 @@
       "store_link": "https://stadia.google.com/store/details/e6005e58d6d3458abd01bcf68e264ccercp1/sku/b64033837ef440bfaba7b1c54a1ac866p",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -6988,6 +7000,7 @@
       "store_link": "https://stadia.google.com/store/details/92f77c19718444499ffb3054dd97ca36rcp1/sku/41225d1572f64d53948ce77fb498a4e4p",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -7055,6 +7068,7 @@
       "store_link": "https://stadia.google.com/store/details/88a2945345f744519c5148ddd54f26d1rcp1/sku/8aa42ef528804d0ba75608240a6c0289p",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -7125,6 +7139,7 @@
       "store_link": "https://stadia.google.com/store/details/11dfda5b2d78475d8624972b9b78c995rcp1/sku/562bc9b24c514a019dddd4d848bec0b9p",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -7509,6 +7524,7 @@
       "store_link": "https://stadia.google.com/store/details/a3725b4a70aa4447b4c193125f3a2529rcp1/sku/bf065d3d3dca4d0e8d68418f66d3afa1p",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_12"
     },
     {
@@ -10307,6 +10323,7 @@
       "store_link": "https://stadia.google.com/store/details/5eb3896383464e2897b3d4b56a5b3a1drcp1/sku/2f7e5c3d53594dff9252bb025b23770bp",
       "early_access": false,
       "pre_order": true,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -10716,6 +10733,7 @@
       "store_link": "https://stadia.google.com/store/details/ab3353cfcd1f4a938e40b0ba32c72b64rcp1/sku/7d138394b4e84e95aaee37d8e9ce27acp",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_18"
     },
     {
@@ -12540,6 +12558,7 @@
       "store_link": "https://stadia.google.com/store/details/0301058e2733436484091e5ca27c2298rcp1/sku/35ea62f0089f4b91a5830a0149052a10p",
       "early_access": false,
       "pre_order": false,
+      "ubisoft_plus": true,
       "age_rating": "pegi_7"
     },
     {
