@@ -10653,6 +10653,7 @@
       "store_link": "https://stadia.google.com/store/details/e85d550899de407e996a8a2d9dfbc7efrcp1/sku/4db0c5af19c74032beb90d083dfb9431p",
       "early_access": false,
       "pre_order": false,
+      "free_trial": 30,
       "age_rating": "pegi_7"
     },
     {
@@ -11309,6 +11310,7 @@
       "store_link": "https://stadia.google.com/store/details/2cdcb63bc3604360a157c4a4021eca35rcp1/sku/24eb3c7b5a9d44259c8d997bab233411p",
       "early_access": false,
       "pre_order": false,
+      "free_trial": 30,
       "age_rating": "pegi_16"
     },
     {
