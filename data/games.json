@@ -13136,7 +13136,20 @@
       ],
       "image_slug": "hunting_simulator_2_elite_edition",
       "slug": "hunting-simulator-2-elite-edition",
-      "languages": ["english", "french", "german", "spanish", "italian", "portuguese", "chinese (simplified)", "chinese (traditional)", "japanese", "korean", "polish", "russian"],
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "spanish",
+        "italian",
+        "portuguese",
+        "chinese (simplified)",
+        "chinese (traditional)",
+        "japanese",
+        "korean",
+        "polish",
+        "russian"
+      ],
       "name": "Hunting Simulator 2 Elite Edition",
       "game_modes": [
         "single player"
@@ -13173,9 +13186,16 @@
       "genres": [
         "strategy"
       ],
-      "image_slug": "hunting_simulator_2_elite_edition",
-      "slug": "hunting-simulator-2-elite-edition",
-      "languages": ["english", "french", "german", "spanish", "italian", "portuguese"],
+      "image_slug": "transformers_battlegorunds",
+      "slug": "transformers-battlegrounds",
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "spanish",
+        "italian",
+        "portuguese"
+      ],
       "name": "Transformers: Battlegrounds",
       "game_modes": [
         "single player",
@@ -13191,6 +13211,100 @@
       "free_trial": false,
       "ubisoft_plus": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "On your marks, get ready to race with Blaze and the Monster Machines! From Axle City to the Monster Dome, the world of Blaze is yours to explore! So buckle your seatbelts and take control of Starla, Pickle, Crusher, and more friends. It’s time to race at blazing speed for the championship or play with up to 4-players in split-screen mode! The fun keeps on rolling. Boost and drift around classic Blaze tracks. Power-up with special abilities or customize Blaze in the garage. And with STEM education features, plus accessible options like Auto-Drive, kids will love learning as they race for glory!",
+      "genres": [
+        "racing"
+      ],
+      "image_slug": "blaze_and_the_monster_machines",
+      "slug": "blaze-and-the-monster-machines-axle-city-racers",
+      "languages": [
+        "danish",
+        "german",
+        "english",
+        "spanish",
+        "finnish",
+        "italian",
+        "norwegian",
+        "dutch",
+        "polish",
+        "portuguese",
+        "swedish"
+      ],
+      "name": "Blaze and the Monster Machines: Axle City Racers",
+      "game_modes": [
+        "single player",
+        "> 1 player local multiplayer",
+        "> 1 player split-screen"
+      ],
+      "rating": -1,
+      "released": "2021-11-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/1af0dac45ab84f4aafe61fb42c0a8badrcp1/sku/77a555640dba433d9d97e877c38c8556p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": false,
+      "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "Break the rules and take full-contact racing to the limit with Wreckfest!\n\nExpect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend – These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you FlatOut 1 & 2!\n\nBurn rubber and shred metal in the ultimate driving playground!",
+      "genres": [
+        "racing"
+      ],
+      "image_slug": "wreckfest",
+      "slug": "wreckfest",
+      "languages": ["chinese", "german", "english", "spanish", "finnish", "french", "hungarian", "italian", "japanese", "korean", "polish", "portuguese", "russian"],
+      "name": "Wreckfest",
+      "game_modes": [
+        "single player",
+        "2-24 players online multiplayer",
+        "2-24 players competitive"
+      ],
+      "rating": -1,
+      "released": "2021-11-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/586beac11cb345289d46125b859396farcp1/sku/ce650e8fa4d84cdbbb6433953fde398cp",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
