@@ -13150,6 +13150,47 @@
       "free_trial": false,
       "ubisoft_plus": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "As evil MEGATRON closes in on The Allspark, BUMBLEBEE and the Autobots need a new commander to help save Earth – you! Assemble your squad and roll out for a battle that will rage from Central City to Cybertron... and team up in the local multiplayer arcade!",
+      "genres": [
+        "strategy"
+      ],
+      "image_slug": "hunting_simulator_2_elite_edition",
+      "slug": "hunting-simulator-2-elite-edition",
+      "languages": ["english", "french", "german", "spanish", "italian", "portuguese"],
+      "name": "Transformers: Battlegrounds",
+      "game_modes": [
+        "single player",
+        "1-2 players local multiplayer",
+        "1-2 players split-screen"
+      ],
+      "rating": -1,
+      "released": "2021-11-30T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/6ae8f01d51f04274aaec6b7e1180d62arcp1/sku/14f3bf4f94254323be95864b934c8256p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
