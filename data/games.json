@@ -11577,9 +11577,9 @@
       "name": "Gigantosaurus The Game",
       "game_modes": [
         "single player",
-        "> 1 player local multiplayer",
-        "> 1 player local co-op",
-        "> 1 player split-screen"
+        ">1 player local multiplayer",
+        ">1 player local co-op",
+        ">1 player split-screen"
       ],
       "rating": -1,
       "released": "2021-08-12T23:00:00.000Z",
@@ -11793,8 +11793,8 @@
       "name": "Farming Simulator 22",
       "game_modes": [
         "single player",
-        "> 1 player online multiplayer",
-        "> 1 player cross-platform multiplayer"
+        ">1 player online multiplayer",
+        ">1 player cross-platform multiplayer"
       ],
       "rating": -1,
       "released": "2021-11-21T23:00:00.000Z",
@@ -11848,10 +11848,10 @@
       "name": "ARK: Survival Evolved",
       "game_modes": [
         "single player",
-        "> 1 player online multiplayer",
-        "> 1 player online co-op",
-        "> 1 player competitive",
-        "> 1 player cross-platform multiplayer"
+        ">1 player online multiplayer",
+        ">1 player online co-op",
+        ">1 player competitive",
+        ">1 player cross-platform multiplayer"
       ],
       "rating": -1,
       "released": "2021-08-31T23:00:00.000Z",
@@ -12367,9 +12367,9 @@
       "name": "The Addams Family: Mansion Mayhem",
       "game_modes": [
         "single player",
-        "> 1 player local multiplayer",
-        "> 1 player local co-op",
-        "> 1 player competitive"
+        ">1 player local multiplayer",
+        ">1 player local co-op",
+        ">1 player competitive"
       ],
       "rating": -1,
       "released": "2021-09-30T23:00:00.000Z",
@@ -12950,10 +12950,10 @@
       "game_modes": [
         "single player",
         "2-6 players local multiplayer",
-        "> 1 player online multiplayer",
+        ">1 player online multiplayer",
         "2-6 players local co-op",
-        "> 2 players competitive",
-        "> 1 player cross-platform multiplayer"
+        ">2 players competitive",
+        ">1 player cross-platform multiplayer"
       ],
       "rating": -1,
       "released": "2021-11-02T23:00:00.000Z",
@@ -13044,7 +13044,7 @@
       "name": "The Jackbox Party Pack 8",
       "game_modes": [
         "single player",
-        "> 1 player local multiplayer"
+        ">1 player local multiplayer"
       ],
       "rating": -1,
       "released": "2021-11-15T23:00:00.000Z",
@@ -13252,8 +13252,8 @@
       "name": "Blaze and the Monster Machines: Axle City Racers",
       "game_modes": [
         "single player",
-        "> 1 player local multiplayer",
-        "> 1 player split-screen"
+        ">1 player local multiplayer",
+        ">1 player split-screen"
       ],
       "rating": -1,
       "released": "2021-11-30T23:00:00.000Z",
