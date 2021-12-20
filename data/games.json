@@ -13370,7 +13370,7 @@
         "indie"
       ],
       "image_slug": "chicken_police",
-      "slug": "chicke-police-paint-it-red",
+      "slug": "chicken-police-paint-it-red",
       "languages": ["english", "french", "german", "spanish", "russian", "japanese", "chinese (simplified)", "hungarian"],
       "name": "Chicken Police - Paint it RED!",
       "game_modes": [
@@ -13385,6 +13385,46 @@
       "free_trial": false,
       "ubisoft_plus": false,
       "age_rating": "pegi_16"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "Five new games: the hit threequel Quiplash 3, the collaborative chaos of Devils and the Details, the fierce drawing game Champ’d Up, the speech game Talking Points and the guessing game Blather Round. Use phones or tablets as controllers and play with up to 8 players, and an audience of 10,000!",
+      "genres": [
+        "party"
+      ],
+      "image_slug": "the_jackbox_party_pack_7",
+      "slug": "the-jackbox-party-pack-7",
+      "languages": ["english"],
+      "name": "The Jackbox Party Pack 7",
+      "game_modes": [
+        "single player",
+        ">1 player local multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-12-05T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/155df2871ce84e26839216542747b1fbrcp1/sku/5eb9774843b542d6970884be533cace3p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
