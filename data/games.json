@@ -13725,6 +13725,53 @@
       "free_trial": false,
       "ubisoft_plus": false,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "It’s fight for furvival! Super Animal Royale is a 64-player, frenetic, top-down 2D battle royale where murderous animals fight tooth, claw, and machine gun across an abandoned safari park. Collect and customize your favorite critters and weapons, then put them to work in solo matches or team up as a squad of up to four players!",
+      "genres": [
+        "shooter",
+        "indie",
+        "action"
+      ],
+      "image_slug": "super_animal_royale",
+      "slug": "super-animal-royale",
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
+      "name": "Super Animal Royale",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-12-13T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/1170cdbc5a234580aeb5a8cc52a37fccrcp1/sku/144c95252a1940888bc3daf17d87b96fp",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": false,
+      "age_rating": "pegi_7"
     }
   ],
   "pro_games": [
