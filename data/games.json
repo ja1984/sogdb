@@ -13590,7 +13590,7 @@
         "adventure"
       ],
       "image_slug": "assasings_creed_3",
-      "slug": "assassins-Creed-iii-emastered",
+      "slug": "assassins-creed-iii-emastered",
       "languages": [
         "english",
         "french",
@@ -13606,6 +13606,52 @@
       "released": "2021-12-13T23:00:00.000Z",
       "resolution": "unknown",
       "store_link": "https://stadia.google.com/store/details/be5c488f89db474bb5b42e54dab1fe5drcp1/sku/4f9cbc6e32324a24ba61b8b86d31b3c7p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": true,
+      "age_rating": "pegi_18"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "Assassin’s Creed Liberation HD, is the remastered striking chapter of the pre-American Revolution Assassin’s Creed saga . The year is 1765. As the events leading up to the American Revolution heat up in the north, Spanish forces plan to take control of Louisiana in the south – but they have yet to reckon with Aveline, an Assassin with a French and African mixed heritage, who finds herself on an unforgettable journey that will take her from the crowded streets of New Orleans to voodoo-haunted swamps and ancient Mayan ruins.",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "assassins_creed_liberation",
+      "slug": "assassins-creed-liberation-hd",
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
+      "name": "Assassin’s Creed Liberation HD",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-12-13T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/f0cac2d2f8a244f893c4567bb9e5af81rcp1/sku/fabb9de013d1468aac7e2980444008dcp",
       "early_access": false,
       "pre_order": false,
       "free_trial": false,
