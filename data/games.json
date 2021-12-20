@@ -13305,6 +13305,46 @@
       "free_trial": false,
       "ubisoft_plus": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "She was once the Circle’s deadliest warrior – now she’s their most wanted fugitive. Take control of Nara and her sentient starfighter, Forsaken, on a quest to destroy the dark cult that created her.",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "chorus",
+      "slug": "chorus",
+      "languages": ["english", "french", "italian", "german", "spanish", "portuguese", "russian", "chinese", "korean", "japanese"],
+      "name": "Chorus",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-12-02T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/fd6fc2b44158435497f23450fa656dcdrcp1/sku/a367b9b5e5624b4697299a400e762778p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
