@@ -13463,6 +13463,44 @@
       "free_trial": false,
       "ubisoft_plus": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "Rediscover the property trading game you love in a way you’ve never seen before. Mr. MONOPOLY is looking for a temporary stand-in while he takes vacation! Get ready to engage in a real-time competitive race to see who has what it takes to take Mr.",
+      "genres": [
+        "shooter",
+        "action"
+      ],
+      "image_slug": "monopoly_madness",
+      "slug": "monopoly-madness",
+      "languages": ["english", "french", "italian", "german", "spanish", "dutch", "russian", "japanese", "korean", "chinese (simplified)", "chinese (traditional)", "spanish", "polish", "portuguese"],
+      "name": "Monopoly Madness",
+      "game_modes": ["single player", "2-5 players local multiplayer", "2-5 players online multiplayer", "2-5 players local co-op", "2-5 players online co-op", "2-5 players competitive"],
+      "rating": -1,
+      "released": "2021-12-09T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/21ff68b166e1400c876b57c1276e921drcp1/sku/614c8d9d7e3c42e8a601f7378928d725p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": true,
+      "age_rating": "pegi_3"
     }
   ],
   "pro_games": [
