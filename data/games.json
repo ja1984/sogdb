@@ -13289,7 +13289,21 @@
       ],
       "image_slug": "wreckfest",
       "slug": "wreckfest",
-      "languages": ["chinese", "german", "english", "spanish", "finnish", "french", "hungarian", "italian", "japanese", "korean", "polish", "portuguese", "russian"],
+      "languages": [
+        "chinese",
+        "german",
+        "english",
+        "spanish",
+        "finnish",
+        "french",
+        "hungarian",
+        "italian",
+        "japanese",
+        "korean",
+        "polish",
+        "portuguese",
+        "russian"
+      ],
       "name": "Wreckfest",
       "game_modes": [
         "single player",
@@ -13331,7 +13345,18 @@
       ],
       "image_slug": "chorus",
       "slug": "chorus",
-      "languages": ["english", "french", "italian", "german", "spanish", "portuguese", "russian", "chinese", "korean", "japanese"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "portuguese",
+        "russian",
+        "chinese",
+        "korean",
+        "japanese"
+      ],
       "name": "Chorus",
       "game_modes": [
         "single player"
@@ -13371,7 +13396,16 @@
       ],
       "image_slug": "chicken_police",
       "slug": "chicken-police-paint-it-red",
-      "languages": ["english", "french", "german", "spanish", "russian", "japanese", "chinese (simplified)", "hungarian"],
+      "languages": [
+        "english",
+        "french",
+        "german",
+        "spanish",
+        "russian",
+        "japanese",
+        "chinese (simplified)",
+        "hungarian"
+      ],
       "name": "Chicken Police - Paint it RED!",
       "game_modes": [
         "single player"
@@ -13410,7 +13444,9 @@
       ],
       "image_slug": "the_jackbox_party_pack_7",
       "slug": "the-jackbox-party-pack-7",
-      "languages": ["english"],
+      "languages": [
+        "english"
+      ],
       "name": "The Jackbox Party Pack 7",
       "game_modes": [
         "single player",
@@ -13451,9 +13487,15 @@
       ],
       "image_slug": "nine_to_five",
       "slug": "nine-to-five",
-      "languages": ["english"],
+      "languages": [
+        "english"
+      ],
       "name": "Nine to Five",
-      "game_modes": ["1-9 players online multiplayer", "1-9 players competitive", "1-9 players cross-platform multiplayer"],
+      "game_modes": [
+        "1-9 players online multiplayer",
+        "1-9 players competitive",
+        "1-9 players cross-platform multiplayer"
+      ],
       "rating": -1,
       "released": "2021-12-07T23:00:00.000Z",
       "resolution": "unknown",
@@ -13489,9 +13531,31 @@
       ],
       "image_slug": "monopoly_madness",
       "slug": "monopoly-madness",
-      "languages": ["english", "french", "italian", "german", "spanish", "dutch", "russian", "japanese", "korean", "chinese (simplified)", "chinese (traditional)", "spanish", "polish", "portuguese"],
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish",
+        "dutch",
+        "russian",
+        "japanese",
+        "korean",
+        "chinese (simplified)",
+        "chinese (traditional)",
+        "spanish",
+        "polish",
+        "portuguese"
+      ],
       "name": "Monopoly Madness",
-      "game_modes": ["single player", "2-5 players local multiplayer", "2-5 players online multiplayer", "2-5 players local co-op", "2-5 players online co-op", "2-5 players competitive"],
+      "game_modes": [
+        "single player",
+        "2-5 players local multiplayer",
+        "2-5 players online multiplayer",
+        "2-5 players local co-op",
+        "2-5 players online co-op",
+        "2-5 players competitive"
+      ],
       "rating": -1,
       "released": "2021-12-09T23:00:00.000Z",
       "resolution": "unknown",
@@ -13501,6 +13565,52 @@
       "free_trial": false,
       "ubisoft_plus": true,
       "age_rating": "pegi_3"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "1775. The American Colonies are about to revolt. As Connor, a Native American Assassin, secure liberty for your people and your nation. From bustling city streets to the chaotic battlefields, assassinate your foes in a variety of deadly ways with a vast array of weaponry.",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "image_slug": "assasings_creed_3",
+      "slug": "assassins-Creed-iii-emastered",
+      "languages": [
+        "english",
+        "french",
+        "italian",
+        "german",
+        "spanish"
+      ],
+      "name": "Assassin's Creed III Remastered",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-12-13T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/be5c488f89db474bb5b42e54dab1fe5drcp1/sku/4f9cbc6e32324a24ba61b8b86d31b3c7p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": true,
+      "age_rating": "pegi_18"
     }
   ],
   "pro_games": [
