@@ -13345,6 +13345,46 @@
       "free_trial": false,
       "ubisoft_plus": false,
       "age_rating": "pegi_12"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "Sonny Featherland and Marty MacChicken were once a legendary detective-duo, called the Chicken Police. But that was almost a decade ago, and time had ruthlessly passed them by. Now Sonny and Marty are forced to work together on a case that is weirder than anything they've ever encountered before!",
+      "genres": [
+        "adventure",
+        "indie"
+      ],
+      "image_slug": "chicken_police",
+      "slug": "chicke-police-paint-it-red",
+      "languages": ["english", "french", "german", "spanish", "russian", "japanese", "chinese (simplified)", "hungarian"],
+      "name": "Chicken Police - Paint it RED!",
+      "game_modes": [
+        "single player"
+      ],
+      "rating": -1,
+      "released": "2021-12-05T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/7482e6a205f840d2a31ee967dfdc8f73rcp1/sku/5672f10bacd64938aa51568fe5d0b6a4p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": false,
+      "age_rating": "pegi_16"
     }
   ],
   "pro_games": [
