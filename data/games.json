@@ -13770,6 +13770,48 @@
       "free_trial": false,
       "ubisoft_plus": false,
       "age_rating": "pegi_7"
+    },
+    {
+      "expansions": [],
+      "countries": [
+        "united states",
+        "canada",
+        "united kingdom",
+        "france",
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "denmark",
+        "finland",
+        "ireland",
+        "netherlands",
+        "norway",
+        "sweden"
+      ],
+      "description": "It’s the wildest Party Pack yet, with the absurd deathmatch Trivia Murder Party 2, the weird word circus Dictionarium, the hidden identity game Push The Button, the comedy contest Joke Boat and the offbeat personality test Role Models. Use your phones or tablets as controllers and play with up to 10 players, plus an audience of up to 10,000!",
+      "genres": [
+        "party"
+      ],
+      "image_slug": "the_jackbox_party_pack_6",
+      "slug": "the-jackbox-party-pack-6",
+      "languages": [
+        "english"
+      ],
+      "name": "The Jackbox Party Pack 6",
+      "game_modes": [
+        "single player",
+        ">1 player local multiplayer"
+      ],
+      "rating": -1,
+      "released": "2021-12-20T23:00:00.000Z",
+      "resolution": "unknown",
+      "store_link": "https://stadia.google.com/store/details/a107146e18db4da4b3781d8b75781f88rcp1/sku/23e9ee2e38cc4b7790c40c1f06134b54p",
+      "early_access": false,
+      "pre_order": false,
+      "free_trial": false,
+      "ubisoft_plus": false,
+      "age_rating": "pegi_12"
     }
   ],
   "pro_games": [
@@ -13816,5 +13858,5 @@
     "599a08652fad4a41baad8591e18e83e2",
     "b51c2723938547a99ebfb2e3b2ae320dp"
   ],
-  "updated": "2021-11-30T21:23:23.617Z"
+  "updated": "2022-01-04T09:35:29.385Z"
 }
